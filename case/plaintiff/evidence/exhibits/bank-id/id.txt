@@ -1,0 +1,843 @@
+-100 NORTH TRYON STREET_CHARLOTTE_NC_UNITED STATES 28255-Primary Activity Code(NAICS)_551111--LEI_9DJT3UXIJIZJI4WXO774-RSSD ID_1073757  - hierarchy
+
+https://www.ffiec.gov/npw/Institution/Profile/1073757?dt=20141231
+
+
+BANK OF AMERICA CORPORATION
+RSSD ID: 1073757       
+
+
+Filing Type	Foreign Business Corporation
+Foreign Name	BANK OF AMERICA CORPORATION
+Status	Active-Good Standing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	150 N COLLEGE ST NC1-028-17-06
+CHARLOTTE, NC 28255
+Mailing Address	100 N TRYON ST
+CHARLOTTE, NC 28202-4000
+Initial Filing Date	07/26/1999
+AR Due Date	07/31/2023
+Commercial Registered Agent	Commercial
+0152686
+C T CORPORATION SYSTEM
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+
+100 NORTH TRYON STREET , CHARLOTTE, NC, UNITED STATES 28255
+
+Web Site: WWW.BANKOFAMERICA.COM
+Institution Type: Financial Holding Company - Domestic
+Primary Federal Regulator: FRS 
+
+
+Primary Activity: OFFICES OF BANK HOLDING COMPANIES
+Primary Activity Code: 551111 
+
+
+
+Status: Active
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: 9DJT3UXIJIZJI
+
+137	480228	1379552 [130]	BANK OF AMERICA, NATIONAL ASSOCIATION	National Bank	CHARLOTTE	
+
+
+---------------------------------------------------------------------------------------------------
+
+https://www.ffiec.gov/npw/Institution/Profile/480228?dt=20160418
+BANK OF AMERICA, NATIONAL ASSOCIATION
+480228
+BANK OF AMERICA, NATIONAL ASSOCIATION
+RSSD ID: 480228       
+
+100 NORTH TRYON STREET, SUITE 170 , CHARLOTTE, NC, UNITED STATES 28202
+
+Web Site: N/A
+Institution Type: National Bank
+Primary Federal Regulator: OCC 
+
+Primary Activity: COMMERCIAL BANKING
+Primary Activity Code: 52211 
+
+Status: Active
+Insurance: FDIC/DIF
+FDIC Certificate #: 3510
+RTN/ABA: 53000196
+LEI: B4TYDEB6GKMZO031MB27
+
+
+
+1	1073757		BANK OF AMERICA CORPORATION	Financial Holding Company - Domestic	CHAR
+
+---------------------------------------------------------------------------------------------------
+
+
+
+RECONTRUST COMPANY
+3703870
+RECONTRUST COMPANY
+RSSD ID: 3703870       
+
+THOUSAND OAKS, CA, UNITED STATES 91360
+
+Web Site: N/A
+Institution Type: Domestic Entity Other
+Primary Federal Regulator: N/A 
+Primary Activity: OTHER NONDEPOSITORY CREDIT INTERMEDIATION
+Primary Activity Code: 52229 
+Status: Inactive (as of 2009)
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: N/A
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+6/1/2009 Acquisition	RECONTRUST COMPANY
+RECONTRUST COMPANY NA
+https://www.ffiec.gov/npw/Institution/Profile/3313943?dt=20200331
+TAPO CANYON BRANCH
+RSSD ID: 3313943       
+
+1800 TAPO CANYON ROAD , SIMI VALLEY, CA, UNITED STATES 93063
+
+Web Site: N/A
+Institution Type: Domestic Branch of a Domestic Bank
+Primary Federal Regulator: N/A 
+Primary Activity: NA/INACTIVE
+Primary Activity Code: N/A 
+
+Status: Inactive (as of 2020)
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: N/A
+Head office: BANK OF AMERICA, NATIONAL ASSOCIATION
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+CARRINGTON MORTGAGE SERVICES
+RSSD ID: 4438179       
+
+SANTA ANA, CA, UNITED STATES 92705
+
+Web Site: N/A
+Institution Type: Domestic Entity Other
+Primary Federal Regulator: N/A 
+Primary Activity: MORTGAGE AND NONMORTGAGE LOAN BROKERS
+Primary Activity Code: 52231 
+
+
+
+Status: Active
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: N/A
+
+
+
+
+
+
+Foreign Limited Liability Company
+Foreign Name	CARRINGTON MORTGAGE SERVICES, LLC
+Status	Active-Existing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	1600 S DOUGLASS RD SUITE 200A AND STE 110
+ANAHEIM, CA 92806
+Mailing Address	AGNES MENDOZA
+STE 110 STE 200-A
+1600 S DOUGLASS RD
+ANAHEIM, CA 92806-5951
+Initial Filing Date	04/26/2007
+AR Due Date	04/30/2023
+Commercial Registered Agent	Commercial
+0152686
+C T CORPORATION SYSTEM
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+ 
+https://www.nmlsconsumeraccess.org/EntityDetails.aspx/Branches/2600
+
+License/Registration #: MBL-6465	Original Issue Date: 12/21/2007
+Regulator: Idaho	License/Registration Name: Mortgage Broker/Lender License
+Resident/Registered Agent
+Company:	CT CORPORATION SYSTEM
+Name:	Not provided
+Title:	REGISTERED AGENT
+Address:	1555 W. Shoreline Drive, Suite 100
+BOISE, ID 83702
+Phone:	866-925-9916
+Fax:	(208) 344-8542
+
+Carrington Mortgage Services, LLC
+
+NMLS ID:	2600
+Street Address:	1600 South Douglass Road, Suites 110 & 200-A
+Anaheim, CA 92806
+Mailing Address:	P.O. Box 3399
+Anaheim, CA 92803
+Phone:	800-561-4567; 888-267-0584
+Toll-Free Number:	800-561-4567
+Fax:	949-534-9843
+Website:	carringtoncorrespondent.com (LOAN ORIGINATION WEBSITE FOR CORRESPONDENT LENDING), carringtonhomeloans.com (URL ONLY - LANDING PAGE IS CARRINGTONMORTGAGE.COM), carringtonmortgage.com (LOAN ORIGINATION AND LOAN SERVICING WEBSITE), carringtonwholesale.com (LOAN ORIGINATION WEBSITE FOR WHOLESALE BROKERS), homeamp.carringtonmortgage.com (WEBSITE FOR BORROWERS WITH LOANS BEING SERVICED BY LICENSEE)
+Email:	compliance@carringtonms.com
+Other Trade Names More Info :	Carrington Mortgage Services
+Prior Other Trade Names More Info :	Vylla Loan
+Prior Legal Names More Info :	None
+Sponsored MLOs More Info :	309
+Fiscal Year End:	12/31	Formed in:	Delaware, United States	Date Formed:	03/30/2007	Stock Symbol:	None	Business Structure:	Limited Liability Company
+Regulatory Actions  More Info :	Yes
+
+
+Branch Locations
+Filter by Licensed State...
+
+Filter by Location...
+Include Inactive Locations
+Street Address	City	State	Zip Code	Other Trade Names More Info	NMLS ID	States More Info
+Licensed In	 
+585 N. Juniper Drive, Suite 100	Chandler	AZ	85226	Carrington Mortgage Services	372996	40...	
+Go to Branch372996
+25 Enterprise Drive, Suite 500	Aliso Viejo	CA	92656	None	2161683	40...	
+Go to Branch2161683
+1600 South Douglass Road, Suite 200-A	Anaheim	CA	92806	None	1404475	1...	
+Go to Branch1404475
+10 Griffin Road North, Suite 200	Windsor	CT	06095	None	1024020	40...	
+Go to Branch
+11701-32 San Jose Boulevard, Suite 201	Jacksonville	FL	32223	None	1133936	41...	
+Go to Branch
+1003 Bishop Street, Suite 2700, Office 02	Honolulu	HI	96813	None	1565123	6...	
+Go to Branch
+2100 E. 196th Street, Suite 100	Westfield	IN	46074	None	13319	47...	
+Go to Branch
+10200 Grand Central Avenue, Suite 220	Owings Mills	MD	21117	None	1174369	40...	
+Go to Branch
+251 SW Noel	Lees Summit	MO	64063	None	1275361	28...	
+Go to Branch
+4000 Midlantic Drive, Suite No. 101	Mt. Laurel	NJ	08054	None	1974136	3...	
+Go to Branch
+2275 CORPORATE CIRCLE, SUITE # 110	HENDERSON	NV	89074	None	1152494	20...	
+Go to Branch
+8101 N. High Street, Suite # 40	Columbus	OH	43235	None	1245615	42...	
+Go to Branch
+931 Jefferson Boulevard, Suite 3002	Warwick	RI	02886	None	1079862	10...	
+Go to Branch
+800 Crescent Centre Drive, Suite 300	Franklin	TN	37067	Carrington Mortgage Services	1439501	45...	
+Go to Branch
+6200 Tennyson Parkway, Suite 110-B	Plano	TX	75024	None	1433720	45...	
+Go to Branch
+
+Licenses Disclaimer
+Nothing on this web site shall be considered to be a solicitation to do business or any activity requiring a real estate license in any state in which Vylla Home (including its subsidiaries and affiliates, “Vylla”) is not licensed as a real estate broker. Notwithstanding the foregoing, Vylla is licensed to conduct real estate brokerage activity under the following state licenses:
+
+State
+License #
+Licensed Entity
+Alabama
+
+00011917-0
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Arizona
+
+LC631352000
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+California
+
+02075076
+
+Vylla Home, Inc.
+
+Colorado
+
+EL100043528
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Connecticut
+
+788920
+
+Carrington Real Estate Services (CT), LLC d/b/a Vylla Home
+
+District of Columbia
+
+REO98370553
+
+Carrington Real Estate Services (CT), LLC d/b/a Vylla Home
+
+Florida
+
+CQ1035160
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Georgia
+
+62658
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Hawaii
+
+RB-20901
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Indiana
+
+RC5100063
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Illinois
+
+481011671
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Kansas
+
+CO0002930
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Maryland
+
+645736
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Massachusetts
+
+8690
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Michigan
+
+6505376899
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Missouri
+
+2015036584
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Nevada
+
+RE.1450559-MO
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+New Hampshire
+
+67094
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+New Jersey
+
+1004874
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+New York
+
+10991204967
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+North Carolina
+
+C22760
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Ohio
+
+REC.2017005971
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Pennsylvania
+
+RB067440
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Rhode Island
+
+B16980
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+South Carolina
+
+19039
+
+Vylla Home, Inc.
+
+Tennessee
+
+262463
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Texas
+
+601083
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Virginia
+
+0226022725
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+Wisconsin
+
+938233-91
+
+Carrington Real Estate Services (US), LLC d/b/a Vylla Home
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+ZIONS BANCORPORATION, NATIONAL ASSOCIATION
+RSSD ID: 276579       
+
+ONE SOUTH MAIN STREET, SUITE 200 , SALT LAKE CITY, UT, UNITED STATES 84133
+
+Web Site: N/A
+Institution Type: National Bank
+Primary Federal Regulator: OCC 
+Primary Activity: COMMERCIAL BANKING
+Primary Activity Code: 52211 
+
+Status: Active
+Insurance: FDIC/DIF
+FDIC Certificate #: 2270
+RTN/ABA: 124000054
+LEI: 8WH0EE09O9V05QJZ3V89
+
+
+
+Filing Type	Foreign Business Corporation
+Foreign Name	Zions Bancorporation, National Association
+Status	Active-Good Standing
+Formed In	DISTRICT OF COLUMBIA
+Term of Duration	Perpetual
+Principal Address	FL 2
+1 S MAIN ST
+SALT LAKE CITY, UT 84133-1109
+Mailing Address	FL 2
+1 S MAIN ST
+SALT LAKE CITY, UT 84133-1109
+Initial Filing Date	11/12/2015
+AR Due Date	11/30/2023
+Commercial Registered Agent	Commercial
+0152694
+CORPORATION SERVICE COMPANY
+1305 12TH AVE RD
+NAMPA, ID  83686
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Filing Type	Foreign Business Corporation
+Foreign Name	COUNTRYWIDE HOME LOANS, INC.
+Status	Active-Good Standing
+Formed In	NEW YORK
+Term of Duration	Perpetual
+Principal Address	150 N COLLEGE ST NC1-028-17-06
+CHARLOTTE, NC 28255
+Mailing Address	31303 AGOURA RD
+WESTLAKE VILLAGE, CA 91361-4635
+Initial Filing Date	07/09/1985
+AR Due Date	07/31/2023
+Commercial Registered Agent	Commercial
+0152686
+C T CORPORATION SYSTEM
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+
+https://www.ffiec.gov/npw/Institution/Profile/1644643?dt=20181107
+COUNTRYWIDE HOME LOANS, INC.
+RSSD ID: 1644643       
+
+CALABASAS, CA, UNITED STATES 91302
+
+Web Site: N/A
+Institution Type: Domestic Entity Other
+Primary Federal Regulator: N/A 
+
+Primary Activity: REAL ESTATE CREDIT
+Primary Activity Code: 522292 
+
+Status: Active
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: 5493008WNOU8I3M5WW38
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+IDEA Law Group, LLC
+
+Filing Type	Foreign Limited Liability Company
+Foreign Name	IDEA Law Group, LLC
+Status	Active-Existing
+Formed In	WYOMING
+Term of Duration	Perpetual
+Principal Address	JENNIFER ROGERS
+STE 2444
+1309 COFFEEN AVENUE
+SHERIDAN, WY 82801
+Mailing Address	JENNIFER ROGERS
+STE 2444
+1309 COFFEEN AVE
+SHERIDAN, WY 82801-5777
+Initial Filing Date	04/15/2021
+AR Due Date	04/30/2023
+Commercial Registered Agent	Commercial
+0152697
+ALL DAY $49 IDAHO REGISTERED AGENT LLC
+784 S CLEARWATER LOOP STE F
+POST FALLS, ID  83854
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Filing Type	Foreign Business Corporation
+Foreign Name	C T CORPORATION SYSTEM
+Status	Active-Good Standing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	2700 LAKE COOK RD
+RIVERWOODS, IL 60015
+Mailing Address	WK GLCD
+2700 LAKE COOK RD
+RIVERWOODS, IL 60015-3867
+Initial Filing Date	09/08/1936
+AR Due Date	09/30/2023
+Commercial Registered Agent	Commercial
+0152701
+NATIONAL REGISTERED AGENTS, INC.
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Filing Type	Foreign Business Corporation
+Foreign Name	NATIONAL REGISTERED AGENTS, INC.
+Status	Active-Good Standing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	2700 LAKE COOK ROAD
+RIVERWOODS, IL 60015
+Mailing Address	28 LIBERTY ST
+NEW YORK, NY 10005-1400
+Initial Filing Date	07/12/1995
+AR Due Date	07/31/2023
+Commercial Registered Agent	Commercial
+0152686
+C T CORPORATION SYSTEM
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+Mortgage Electronic Registration Systems
+
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC. (14479)
+Foreign Name Registration
+
+
+Filing Type	Foreign Name Registration
+Foreign Name	MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC.
+Status	Inactive-Expired
+Formed In	DELAWARE
+Owner Name	
+Owner Address	N/A
+Term of Duration	Expires
+Expiration Date	12/31/2009
+Principal Address	921 S ORCHARD ST STE G
+BOISE, ID 83705
+Mailing Address	921 S ORCHARD ST STE G
+BOISE, ID 83705
+Initial Filing Date	08/03/2009
+Inactive Filing Date	12/31/2009
+
+MORTGAGE ELECTRONIC REGISTRATION SYSTEM, INC.
+RSSD ID: 2812542       
+
+MCLEAN, VA, UNITED STATES 22102
+
+Web Site: N/A
+Institution Type: Data Processing Servicer
+Primary Federal Regulator: N/A 
+
+
+Primary Activity: COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES
+Primary Activity Code: 51821 
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS (448669)
+Assumed Business Name
+
+
+Filing Type	Assumed Business Name
+Status	Inactive-Cancelled
+Formed In	IDAHO
+Term of Duration	Perpetual
+Principal Address	N/A
+Mailing Address	PO BOX 2342
+POCATELLO, ID 83206
+Initial Filing Date	05/05/2011
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Alliance Title & Escrow, LLC
+
+Alliance Title & Escrow, LLC (460461)
+Foreign Limited Liability Company
+
+
+
+Request Certificate
+Filing Type	Foreign Limited Liability Company
+Foreign Name	Alliance Title & Escrow, LLC
+Status	Active-Existing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	STE 105
+380 E PARKCENTER BLVD
+BOISE, ID 83706-3963
+Mailing Address	STE 105
+380 E PARKCENTER BLVD
+BOISE, ID 83706-3963
+Initial Filing Date	10/22/2003
+AR Due Date	10/31/2023
+Commercial Registered Agent	Commercial
+0152686
+C T CORPORATION SYSTEM
+1555 W SHORELINE DR
+STE 100
+BOISE, ID  83702
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+CORELOGIC SOLUTIONS, LLC
+
+CORELOGIC SOLUTIONS, LLC (329157)
+Foreign Limited Liability Company
+
+
+
+Request Certificate
+Filing Type	Foreign Limited Liability Company
+Foreign Name	CORELOGIC SOLUTIONS, LLC
+Status	Active-Existing
+Formed In	CALIFORNIA
+Term of Duration	Perpetual
+Principal Address	40 PACIFICA AVENUE, SUITE 900
+IRVINE, CA 92618
+Mailing Address	STE 900
+40 PACIFICA
+IRVINE, CA 92618-7487
+Initial Filing Date	09/14/2011
+AR Due Date	09/30/2023
+Commercial Registered Agent	Commercial
+0152694
+CORPORATION SERVICE COMPANY
+1305 12TH AVE RD
+NAMPA, ID  83686
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+CORPORATION SERVICE COMPANY (279177)
+Foreign Business Corporation
+
+
+
+Request Certificate
+Filing Type	Foreign Business Corporation
+Foreign Name	CORPORATION SERVICE COMPANY
+Status	Active-Good Standing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	251 LITTLE FALLS DRIVE
+WILMINGTON, DE 19808
+Mailing Address	251 LITTLE FALLS DR
+WILMINGTON, DE 19808-1674
+Initial Filing Date	07/13/1989
+AR Due Date	07/31/2023
+Commercial Registered Agent	Commercial
+0152692
+UNITED STATES CORPORATION COMPANY
+1305 12TH AVE RD
+NAMPA, ID  83686
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+UNITED STATES CORPORATION COMPANY (196614)
+General Business Corporation (D)
+
+
+
+Request Certificate
+Filing Type	General Business Corporation (D)
+Status	Active-Good Standing
+Formed In	IDAHO
+Term of Duration	Perpetual
+Principal Address	N/A
+Mailing Address	251 LITTLE FALLS DR
+WILMINGTON, DE 19808-1674
+Initial Filing Date	08/10/1979
+AR Due Date	08/31/2023
+Commercial Registered Agent	Commercial
+0152693
+PRENTICE-HALL CORPORATION SYSTEM, INC. (THE)
+1305 12TH AVE RD
+NAMPA, ID  83686
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+PRENTICE-HALL CORPORATION SYSTEM, INC. (THE) (193389)
+Professional Service Corporation (D)
+
+
+
+Request Certificate
+Filing Type	Professional Service Corporation (D)
+Status	Active-Good Standing
+Formed In	DELAWARE
+Term of Duration	Perpetual
+Principal Address	N/A
+Mailing Address	251 LITTLE FALLS DR
+WILMINGTON, DE 19808-1674
+Initial Filing Date	03/23/1979
+AR Due Date	03/31/2024
+Commercial Registered Agent	Commercial
+0152692
+UNITED STATES CORPORATION COMPANY
+1305 12TH AVE RD
+NAMPA, ID  83686
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+MORGAN STANLEY
+RSSD ID: 2162966       
+
+1585 BROADWAY , NEW YORK, NY, UNITED STATES 10036
+
+Web Site: WWW.MORGANSTANLEY.COM
+Institution Type: Financial Holding Company - Domestic
+Primary Federal Regulator: FRS 
+Primary Activity: INVESTMENT BANKING AND SECURITIES INTERMEDIATION
+Primary Activity Code: 52315 
+
+
+
+Status: Active
+Insurance: NOT INSURED OR NOT AVAIL.
+FDIC Certificate #: N/A
+RTN/ABA: N/A
+LEI: IGJSJL3JD5P30I6NJZ34
+
