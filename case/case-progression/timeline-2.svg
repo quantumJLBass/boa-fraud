@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="800" viewBox="0 0 500 800">
+  <style>
+    .year { font: bold 24px sans-serif; }
+    .event { font: 18px sans-serif; }
+    .title { font: bold 20px sans-serif; }
+    .summary { font: 16px sans-serif; visibility: hidden; }
+    .flyout:hover .summary { visibility: visible; }
+    .flyout { cursor: pointer; }
+  </style>
+
+  <!-- Timeline -->
+  <line x1="250" y1="50" x2="250" y2="750" stroke="black" />
+
+  <!-- Years -->
+  <text x="250" y="50" class="year" text-anchor="middle">2008</text>
+  <text x="250" y="750" class="year" text-anchor="middle">2023</text>
+
+  <!-- Event -->
+  <circle cx="250" cy="150" r="5" fill="black" />
+  <g class="flyout">
+    <rect x="260" y="135" width="200" height="30" fill="white" stroke="black" />
+    <text x="270" y="160" class="event">Nov. 10th</text>
+    <text x="270" y="185" class="title">A title of the event, a little long though</text>
+    <rect x="260" y="165" width="200" height="60" fill="white" stroke="black" />
+    <text x="270" y="200" class="summary">A bit of the event summary is here and this would fall down or other CSS trick.</text>
+    <a href="https://example.com" target="_blank">
+      <text x="270" y="220" class="summary">Read more...</text>
+    </a>
+  </g>
+</svg>

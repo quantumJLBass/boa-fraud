@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="800" viewBox="0 0 500 800">
+  <defs>
+    <g id="event-template">
+      <rect width="200" height="30" fill="white" stroke="black" />
+      <text y="20" class="event">Event Date</text>
+      <text y="45" class="title">Event Title</text>
+      <rect y="30" width="200" height="60" fill="white" stroke="black" />
+      <text y="55" class="summary">Event Summary</text>
+      <a href="https://example.com" target="_blank">
+        <text y="75" class="summary">Read more...</text>
+      </a>
+    </g>
+  </defs>
+
+  <!-- Timeline -->
+  <line x1="250" y1="50" x2="250" y2="750" stroke="black" />
+
+  <!-- Years -->
+  <text x="250" y="50" class="year" text-anchor="middle">2008</text>
+  <text x="250" y="750" class="year" text-anchor="middle">2023</text>
+
+  <!-- Events -->
+  <use href="#event-template" x="260" y="100" />
+  <use href="#event-template" x="260" y="200" />
+</svg>
