@@ -7,7 +7,7 @@
     width="100%"
     height="100%"
     preserveAspectRatio="xMinYMin"
-    style="background-color:white; border: solid 1px black;"
+    style="border: solid 1px black;"
     viewBox="0 0 500 800">
   <style>
     svg { background-color: white; }
