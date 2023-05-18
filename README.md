@@ -26,7 +26,7 @@ This is a unique opportunity to be part of a groundbreaking approach to legal ac
 
 ## Notice and Terms of Participation
 
-Before you participate, please read the [Notice and Terms of Participation](NOTICE.md) carefully. By participating in this project, you agree to these terms and conditions.
+Before you participate, please read the [Notice and Terms of Participation](https://github.com/quantumJLBass/boa-fraud/blob/main/NOTICE.md) carefully. By participating in this project, you agree to these terms and conditions.
 
 ## Let's Make a Difference Together
 
@@ -82,7 +82,7 @@ For a better understanding of the scope of fraudulent activities conducted by Bo
 |            |                                                                                                                                                                                                                                                                                                                                                                         | $43.07 Billion in fines and or judgements and or as so noted above                                                                                                                                          |                 |
 
 
-For the full table, please refer to [this link](case\walk-through\JUDGEMENTS.md).
+For the full table, please refer to [this link](https://github.com/quantumJLBass/boa-fraud/blob/main/case/walk-through/JUDGEMENTS.md).
 
 ---
 
