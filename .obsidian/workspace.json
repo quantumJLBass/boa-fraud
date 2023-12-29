@@ -11,8 +11,13 @@
             "id": "cb4cdebc01fd882e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "case/research/research.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -68,14 +73,6 @@
               "type": "msg-handler-search-view",
               "state": {}
             }
-          },
-          {
-            "id": "3ae99881e444fc7d",
-            "type": "leaf",
-            "state": {
-              "type": "socrates-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -105,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "case/research/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "case/research/research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "case/research/research.md"
+              }
             }
           },
           {
@@ -182,14 +183,6 @@
             }
           },
           {
-            "id": "a81963b621e5529f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "17cf91f15080888b",
             "type": "leaf",
             "state": {
@@ -198,7 +191,15 @@
             }
           },
           {
-            "id": "c34308513ca1ac79",
+            "id": "876672f45d05357f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5fd4ca788fd85eb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -224,23 +225,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 715.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "3d-graph:3D Graph": false,
       "adjacency-matrix-maker:Adjacency Matrix": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "ai-research-assistant:AI Research Assistant": false,
       "obsidian-audio-notes:Quick Audio Note with Transcription": false,
       "bmo-chatbot:BMO Chatbot": false,
       "cannoli:Start/stop cannoli": false,
       "custom-sort:Toggle custom sorting": false,
-      "notion-like-tables:Create loom": false,
       "dbfolder:Create a new database table": false,
       "edit-history:Open edit history": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false,
       "juggl:Juggl global graph": false,
       "link-tree:Link Tree": false,
@@ -249,10 +247,8 @@
       "obisidian-note-linker:Note Linker": false,
       "obsidian-to-notion:Share to notion": false,
       "personal-assistant:Obsidian Assistant": false,
-      "reference-map:Reference Map": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "obsidian-rich-links:Rich Links": false,
-      "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "whisper:Open recording controls": false,
@@ -269,10 +265,23 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false,
+      "reference-map:Reference Map": false,
       "gpt-liteinquirer:GPT-LiteInquirer": false,
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c34308513ca1ac79",
-  "lastOpenFiles": []
+  "active": "cb4cdebc01fd882e",
+  "lastOpenFiles": [
+    "case/research/QuickDelivery_CaseRecommendations16.PDF",
+    "case/research/research.md",
+    "case/research/BriefCheckReport_SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-any-staturary-concerns-2023-04-25.docx.PDF",
+    "case/research/BriefCheckReport_SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-any-staturary-concerns-2023-04-25.PDF",
+    "case/research/Bank-of-Americas-Illegal-Activities-Related-to-Home-Loans.pdf",
+    "case/research/notes/TRO-injunction.pdf",
+    "file-index.json"
+  ]
 }

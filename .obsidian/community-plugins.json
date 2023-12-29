@@ -8,7 +8,6 @@
   "alx-folder-note",
   "obsidian-annotator",
   "aprils-automatic-timelines",
-  "arcana",
   "attachment-management",
   "obsidian-audio-notes",
   "auto-card-link",
@@ -116,5 +115,6 @@
   "remove-empty-folders",
   "abbreviations",
   "timeline-view",
-  "folder-note-core"
+  "folder-note-core",
+  "neighbouring-files"
 ]
