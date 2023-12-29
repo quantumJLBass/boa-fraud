@@ -1,9 +1,0 @@
-{
-  "githubToken": "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",
-  "embedIssues": true,
-  "embedFiles": true,
-  "labelDisplay": "preview",
-  "autoOpenThreshold": 10,
-  "dateFormat": "YYYY-DD-MM",
-  "showTotalComments": true
-}
