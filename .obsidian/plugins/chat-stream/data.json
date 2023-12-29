@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "apiUrl": "https://api.openai.com/v1/chat/completions",
+  "apiModel": "gpt-3.5-turbo-16k",
+  "temperature": 1,
+  "systemPrompt": "You are a critical-thinking assistant bot. \nConsider the intent of my questions before responding.\nDo not restate my information unless I ask for it. \nDo not include caveats or disclaimers.\nUse step-by-step reasoning. Be brief.",
+  "debug": false,
+  "maxInputTokens": 0,
+  "maxResponseTokens": 0,
+  "maxDepth": 0,
+  "maxInputCharacters": 5000
+}

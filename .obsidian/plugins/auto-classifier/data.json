@@ -1,0 +1,22 @@
+{
+  "apiKey": "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",
+  "apiKeyCreatedAt": "2023-10-18T07:15:06.373Z",
+  "commandOption": {
+    "useRef": true,
+    "refs": [
+      "MOCs"
+    ],
+    "manualRefs": [],
+    "refType": 0,
+    "filterRegex": "",
+    "outLocation": 0,
+    "outType": 2,
+    "outPrefix": "",
+    "outSuffix": "",
+    "key": "tags",
+    "overwrite": false,
+    "useCustomCommand": true,
+    "chat_role": "You are a JSON answer bot. Don't answer other words.",
+    "prmpt_template": "Classify this content:\n\"\"\"\n{{input}}\n\"\"\"\nAnswer format is JSON {reliability:0~1, output:selected_category}. \nEven if you are not sure, qualify the reliability and select one. \nOutput must be one of these:\n\n{{reference}}\n"
+  }
+}

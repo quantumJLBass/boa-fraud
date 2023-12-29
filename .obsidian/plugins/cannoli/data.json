@@ -1,0 +1,15 @@
+{
+  "openaiAPIKey": "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",
+  "costThreshold": 0.5,
+  "defaultModel": "gpt-3.5-turbo",
+  "defaultTemperature": 1,
+  "httpTemplates": [],
+  "includeFilenameAsHeader": false,
+  "includePropertiesInExtractedNotes": false,
+  "chatFormatString": "---\n# <u>{{role}}</u>\n\n{{content}}",
+  "enableAudioTriggeredCannolis": false,
+  "deleteAudioFilesAfterAudioTriggeredCannolis": false,
+  "autoScrollWithTokenStream": false,
+  "pLimit": 50,
+  "contentIsColorless": false
+}

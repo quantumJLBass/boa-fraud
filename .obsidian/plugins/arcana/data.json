@@ -1,0 +1,8 @@
+{
+  "OPEN_AI_API_KEY": "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",
+  "MODEL_TYPE": "gpt-4-1106-preview",
+  "TEMPERATURE": 0.7,
+  "TOP_P": 1,
+  "EDEN_AI_API_KEY": "",
+  "PluginSettings": {}
+}

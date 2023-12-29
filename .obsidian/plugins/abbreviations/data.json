@@ -1,0 +1,679 @@
+{
+  "abbreviations": {
+    "BOA": {
+      "value": "Bank of America",
+      "isEnabled": true,
+      "position": 1
+    },
+    "MERS": {
+      "value": "Mortgage Electronic Registration Systems",
+      "isEnabled": true,
+      "position": 2
+    },
+    "AIG": {
+      "value": "American International Group",
+      "isEnabled": true,
+      "position": 3
+    },
+    "BIS": {
+      "value": "Bank for International Settlements",
+      "isEnabled": true,
+      "position": 4
+    },
+    "CFTC": {
+      "value": "Commodity Futures Trading Commission",
+      "isEnabled": true,
+      "position": 5
+    },
+    "FINRA": {
+      "value": "Financial Industry Regulatory Authority",
+      "isEnabled": true,
+      "position": 6
+    },
+    "FDIC": {
+      "value": "Federal Deposit Insurance Corporation",
+      "isEnabled": true,
+      "position": 7
+    },
+    "FRB": {
+      "value": "Federal Reserve Board",
+      "isEnabled": true,
+      "position": 8
+    },
+    "GAO": {
+      "value": "Government Accountability Office",
+      "isEnabled": true,
+      "position": 9
+    },
+    "IMF": {
+      "value": "International Monetary Fund",
+      "isEnabled": true,
+      "position": 10
+    },
+    "JPM": {
+      "value": "JPMorgan Chase & Co.",
+      "isEnabled": true,
+      "position": 11
+    },
+    "LIBOR": {
+      "value": "London Interbank Offered Rate",
+      "isEnabled": true,
+      "position": 12
+    },
+    "NAFTA": {
+      "value": "North American Free Trade Agreement",
+      "isEnabled": true,
+      "position": 13
+    },
+    "NASDAQ": {
+      "value": "National Association of Securities Dealers Automated Quotations",
+      "isEnabled": true,
+      "position": 14
+    },
+    "NYSE": {
+      "value": "New York Stock Exchange",
+      "isEnabled": true,
+      "position": 15
+    },
+    "OPEC": {
+      "value": "Organization of the Petroleum Exporting Countries",
+      "isEnabled": true,
+      "position": 16
+    },
+    "PNC": {
+      "value": "PNC Financial Services",
+      "isEnabled": true,
+      "position": 17
+    },
+    "S&P": {
+      "value": "Standard & Poor's",
+      "isEnabled": true,
+      "position": 18
+    },
+    "UBS": {
+      "value": "UBS Group AG",
+      "isEnabled": true,
+      "position": 19
+    },
+    "WFC": {
+      "value": "Wells Fargo & Company",
+      "isEnabled": true,
+      "position": 20
+    },
+    "WTO": {
+      "value": "World Trade Organization",
+      "isEnabled": true,
+      "position": 21
+    },
+    "GS": {
+      "value": "Goldman Sachs",
+      "isEnabled": true,
+      "position": 22
+    },
+    "HSBC": {
+      "value": "HSBC Holdings plc",
+      "isEnabled": true,
+      "position": 23
+    },
+    "IBM": {
+      "value": "International Business Machines Corporation",
+      "isEnabled": true,
+      "position": 24
+    },
+    "GM": {
+      "value": "General Motors",
+      "isEnabled": true,
+      "position": 25
+    },
+    "TARP": {
+      "value": "Troubled Asset Relief Program",
+      "isEnabled": true,
+      "position": 26
+    },
+    "GE": {
+      "value": "General Electric",
+      "isEnabled": true,
+      "position": 27
+    },
+    "MS": {
+      "value": "Morgan Stanley",
+      "isEnabled": true,
+      "position": 28
+    },
+    "CME": {
+      "value": "Chicago Mercantile Exchange",
+      "isEnabled": true,
+      "position": 29
+    },
+    "CBOT": {
+      "value": "Chicago Board of Trade",
+      "isEnabled": true,
+      "position": 30
+    },
+    "LSE": {
+      "value": "London Stock Exchange",
+      "isEnabled": true,
+      "position": 31
+    },
+    "EPA": {
+      "value": "Environmental Protection Agency",
+      "isEnabled": true,
+      "position": 32
+    },
+    "FED": {
+      "value": "Federal Reserve System",
+      "isEnabled": true,
+      "position": 33
+    },
+    "FEMA": {
+      "value": "Federal Emergency Management Agency",
+      "isEnabled": true,
+      "position": 34
+    },
+    "FTC": {
+      "value": "Federal Trade Commission",
+      "isEnabled": true,
+      "position": 35
+    },
+    "IRS": {
+      "value": "Internal Revenue Service",
+      "isEnabled": true,
+      "position": 36
+    },
+    "NLRB": {
+      "value": "National Labor Relations Board",
+      "isEnabled": true,
+      "position": 37
+    },
+    "NSA": {
+      "value": "National Security Agency",
+      "isEnabled": true,
+      "position": 38
+    },
+    "SEC": {
+      "value": "U.S. Securities and Exchange Commission",
+      "isEnabled": true,
+      "position": 39
+    },
+    "SBA": {
+      "value": "Small Business Administration",
+      "isEnabled": true,
+      "position": 40
+    },
+    "USPS": {
+      "value": "United States Postal Service",
+      "isEnabled": true,
+      "position": 41
+    },
+    "VA": {
+      "value": "Department of Veterans Affairs",
+      "isEnabled": true,
+      "position": 42
+    },
+    "ATF": {
+      "value": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "isEnabled": true,
+      "position": 43
+    },
+    "DEA": {
+      "value": "Drug Enforcement Administration",
+      "isEnabled": true,
+      "position": 44
+    },
+    "DHS": {
+      "value": "Department of Homeland Security",
+      "isEnabled": true,
+      "position": 45
+    },
+    "DOD": {
+      "value": "Department of Defense",
+      "isEnabled": true,
+      "position": 46
+    },
+    "DOE": {
+      "value": "Department of Energy",
+      "isEnabled": true,
+      "position": 47
+    },
+    "DOT": {
+      "value": "Department of Transportation",
+      "isEnabled": true,
+      "position": 48
+    },
+    "FCC": {
+      "value": "Federal Communications Commission",
+      "isEnabled": true,
+      "position": 49
+    },
+    "FDA": {
+      "value": "Food and Drug Administration",
+      "isEnabled": true,
+      "position": 50
+    },
+    "GSA": {
+      "value": "General Services Administration",
+      "isEnabled": true,
+      "position": 51
+    },
+    "OSHA": {
+      "value": "Occupational Safety and Health Administration",
+      "isEnabled": true,
+      "position": 52
+    },
+    "USTR": {
+      "value": "Office of the United States Trade Representative",
+      "isEnabled": true,
+      "position": 53
+    },
+    "CERN": {
+      "value": "European Organization for Nuclear Research",
+      "isEnabled": true,
+      "position": 54
+    },
+    "ECB": {
+      "value": "European Central Bank",
+      "isEnabled": true,
+      "position": 55
+    },
+    "EIB": {
+      "value": "European Investment Bank",
+      "isEnabled": true,
+      "position": 56
+    },
+    "ICJ": {
+      "value": "International Court of Justice",
+      "isEnabled": true,
+      "position": 57
+    },
+    "ITC": {
+      "value": "International Trade Commission",
+      "isEnabled": true,
+      "position": 58
+    },
+    "ILO": {
+      "value": "International Labour Organization",
+      "isEnabled": true,
+      "position": 59
+    },
+    "NATO": {
+      "value": "North Atlantic Treaty Organization",
+      "isEnabled": true,
+      "position": 60
+    },
+    "OECD": {
+      "value": "Organisation for Economic Co-operation and Development",
+      "isEnabled": true,
+      "position": 61
+    },
+    "UNESCO": {
+      "value": "United Nations Educational, Scientific and Cultural Organization",
+      "isEnabled": true,
+      "position": 62
+    },
+    "WHO": {
+      "value": "World Health Organization",
+      "isEnabled": true,
+      "position": 63
+    },
+    "WBG": {
+      "value": "World Bank Group",
+      "isEnabled": true,
+      "position": 64
+    },
+    "G7": {
+      "value": "Group of Seven",
+      "isEnabled": true,
+      "position": 65
+    },
+    "G20": {
+      "value": "Group of Twenty",
+      "isEnabled": true,
+      "position": 66
+    },
+    "AMZN": {
+      "value": "Amazon.com, Inc.",
+      "isEnabled": true,
+      "position": 67
+    },
+    "AAPL": {
+      "value": "Apple Inc.",
+      "isEnabled": true,
+      "position": 68
+    },
+    "GOOGL": {
+      "value": "Alphabet Inc. (Google)",
+      "isEnabled": true,
+      "position": 69
+    },
+    "FB": {
+      "value": "Facebook, Inc. (now Meta Platforms)",
+      "isEnabled": true,
+      "position": 70
+    },
+    "VWAGY": {
+      "value": "Volkswagen AG",
+      "isEnabled": true,
+      "position": 71
+    },
+    "TSLA": {
+      "value": "Tesla, Inc.",
+      "isEnabled": true,
+      "position": 72
+    },
+    "BRK-A": {
+      "value": "Berkshire Hathaway Inc.",
+      "isEnabled": true,
+      "position": 73
+    },
+    "VISA": {
+      "value": "Visa Inc.",
+      "isEnabled": true,
+      "position": 74
+    },
+    "MA": {
+      "value": "Mastercard Incorporated",
+      "isEnabled": true,
+      "position": 75
+    },
+    "NFLX": {
+      "value": "Netflix, Inc.",
+      "isEnabled": true,
+      "position": 76
+    },
+    "INTC": {
+      "value": "Intel Corporation",
+      "isEnabled": true,
+      "position": 77
+    },
+    "CSCO": {
+      "value": "Cisco Systems, Inc.",
+      "isEnabled": true,
+      "position": 78
+    },
+    "ORCL": {
+      "value": "Oracle Corporation",
+      "isEnabled": true,
+      "position": 79
+    },
+    "SAP": {
+      "value": "SAP SE",
+      "isEnabled": true,
+      "position": 80
+    },
+    "TMO": {
+      "value": "Thermo Fisher Scientific Inc.",
+      "isEnabled": true,
+      "position": 81
+    },
+    "PFE": {
+      "value": "Pfizer Inc.",
+      "isEnabled": true,
+      "position": 82
+    },
+    "JNJ": {
+      "value": "Johnson & Johnson",
+      "isEnabled": true,
+      "position": 83
+    },
+    "BABA": {
+      "value": "Alibaba Group Holding Limited",
+      "isEnabled": true,
+      "position": 84
+    },
+    "VZ": {
+      "value": "Verizon Communications Inc.",
+      "isEnabled": true,
+      "position": 85
+    },
+    "ADBE": {
+      "value": "Adobe Inc.",
+      "isEnabled": true,
+      "position": 86
+    },
+    "DIS": {
+      "value": "The Walt Disney Company",
+      "isEnabled": true,
+      "position": 87
+    },
+    "US": {
+      "value": "United States",
+      "isEnabled": true,
+      "position": 88
+    },
+    "DOJ": {
+      "value": "United States Department of Justice",
+      "isEnabled": true,
+      "position": 89
+    },
+    "CFPB": {
+      "value": "Consumer Financial Protection Bureau",
+      "isEnabled": true,
+      "position": 90
+    },
+    "CIA": {
+      "value": "Central Intelligence Agency",
+      "isEnabled": true,
+      "position": 91
+    },
+    "CENTCOM": {
+      "value": "Central Command",
+      "isEnabled": true,
+      "position": 92
+    },
+    "DOC": {
+      "value": "Department of Commerce",
+      "isEnabled": true,
+      "position": 93
+    },
+    "OCC": {
+      "value": "Office of the Comptroller of the Currency",
+      "isEnabled": true,
+      "position": 94
+    },
+    "CISA": {
+      "value": "Cybersecurity and Infrastructure Security Agency",
+      "isEnabled": true,
+      "position": 95
+    },
+    "HUD": {
+      "value": "Department of Housing and Urban Development",
+      "isEnabled": true,
+      "position": 96
+    },
+    "HHS": {
+      "value": "Department of Health and Human Services",
+      "isEnabled": true,
+      "position": 97
+    },
+    "USDA": {
+      "value": "Department of Agriculture",
+      "isEnabled": true,
+      "position": 98
+    },
+    "Treasury": {
+      "value": "Department of the Treasury",
+      "isEnabled": true,
+      "position": 99
+    },
+    "DOI": {
+      "value": "Department of the Interior",
+      "isEnabled": true,
+      "position": 100
+    },
+    "EDA": {
+      "value": "Economic Development Administration",
+      "isEnabled": true,
+      "position": 101
+    },
+    "FHEO": {
+      "value": "Office of Fair Housing and Equal Opportunity",
+      "isEnabled": true,
+      "position": 102
+    },
+    "Fannie Mae": {
+      "value": "Federal National Mortgage Association",
+      "isEnabled": true,
+      "position": 103
+    },
+    "FHFA": {
+      "value": "Federal Housing Finance Agency",
+      "isEnabled": true,
+      "position": 104
+    },
+    "FBI": {
+      "value": "Federal Bureau of Investigation",
+      "isEnabled": true,
+      "position": 105
+    },
+    "Freddie Mac": {
+      "value": "Federal Home Loan Mortgage Corporation",
+      "isEnabled": true,
+      "position": 106
+    },
+    "FHA": {
+      "value": "Federal Housing Administration",
+      "isEnabled": true,
+      "position": 107
+    },
+    "FHF": {
+      "value": "Federal Housing Finance Agency",
+      "isEnabled": true,
+      "position": 108
+    },
+    "osc": {
+      "value": "Office of Special Counsel",
+      "isEnabled": true,
+      "position": 109
+    },
+    "BLK": {
+      "value": "BlackRock, Inc.",
+      "isEnabled": true,
+      "position": 110
+    },
+    "BX": {
+      "value": "The Blackstone Group Inc.",
+      "isEnabled": true,
+      "position": 111
+    },
+    "CG": {
+      "value": "The Carlyle Group",
+      "isEnabled": true,
+      "position": 112
+    },
+    "KKR": {
+      "value": "Kohlberg Kravis Roberts & Co.",
+      "isEnabled": true,
+      "position": 113
+    },
+    "TROW": {
+      "value": "T. Rowe Price Group, Inc.",
+      "isEnabled": true,
+      "position": 114
+    },
+    "VGRD": {
+      "value": "Vanguard Group",
+      "isEnabled": true,
+      "position": 115
+    },
+    "FID": {
+      "value": "Fidelity Investments",
+      "isEnabled": true,
+      "position": 116
+    },
+    "MSCI": {
+      "value": "Morgan Stanley Capital International",
+      "isEnabled": true,
+      "position": 117
+    },
+    "SPGI": {
+      "value": "S&P Global Inc.",
+      "isEnabled": true,
+      "position": 118
+    },
+    "MOEX": {
+      "value": "Moscow Exchange",
+      "isEnabled": true,
+      "position": 119
+    },
+    "LSEG": {
+      "value": "London Stock Exchange Group",
+      "isEnabled": true,
+      "position": 120
+    },
+    "ESMA": {
+      "value": "European Securities and Markets Authority",
+      "isEnabled": true,
+      "position": 121
+    },
+    "FINMA": {
+      "value": "Swiss Financial Market Supervisory Authority",
+      "isEnabled": true,
+      "position": 122
+    },
+    "ASIC": {
+      "value": "Australian Securities and Investments Commission",
+      "isEnabled": true,
+      "position": 123
+    },
+    "PRA": {
+      "value": "Prudential Regulation Authority (UK)",
+      "isEnabled": true,
+      "position": 124
+    },
+    "FSB": {
+      "value": "Financial Stability Board",
+      "isEnabled": true,
+      "position": 125
+    },
+    "NFA": {
+      "value": "National Futures Association",
+      "isEnabled": true,
+      "position": 126
+    },
+    "IOSCO": {
+      "value": "International Organization of Securities Commissions",
+      "isEnabled": true,
+      "position": 127
+    },
+    "IFRS": {
+      "value": "International Financial Reporting Standards",
+      "isEnabled": true,
+      "position": 128
+    },
+    "IAIS": {
+      "value": "International Association of Insurance Supervisors",
+      "isEnabled": true,
+      "position": 129
+    },
+    "BCBS": {
+      "value": "Basel Committee on Banking Supervision",
+      "isEnabled": true,
+      "position": 130
+    },
+    "C": {
+      "value": "Citigroup Inc.",
+      "isEnabled": true,
+      "position": 131
+    },
+    "BAC": {
+      "value": "Bank of America Corp",
+      "isEnabled": true,
+      "position": 132
+    },
+    "DB": {
+      "value": "Deutsche Bank",
+      "isEnabled": true,
+      "position": 133
+    },
+    "CS": {
+      "value": "Credit Suisse",
+      "isEnabled": true,
+      "position": 134
+    },
+    "BNP": {
+      "value": "BNP Paribas",
+      "isEnabled": true,
+      "position": 135
+    }
+  }
+}

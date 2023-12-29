@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "chatGPTModel": "gpt-3.5-turbo",
+  "apiUrl": "https://api.openai.com",
+  "apiUrlPath": "/v1/chat/completions",
+  "temperature": 1,
+  "maxTokens": 16,
+  "defaultPrompt": "",
+  "insertionMode": "end",
+  "displayTokensUsage": true,
+  "showSidebarIcon": true
+}

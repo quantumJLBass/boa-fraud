@@ -1,0 +1,5696 @@
+https://www.boe.ca.gov/meetings/transcripts/2017-11-14B1.txt
+
+
+                                                                      
+
+
+            1      BEFORE THE CALIFORNIA STATE BOARD OF EQUALIZATION
+
+            2                  5901 GREEN VALLEY CIRCLE 
+
+            3                   CULVER CITY, CALIFORNIA
+
+            4    
+
+            5    
+
+            6    
+
+            7    
+
+            8                    REPORTER'S TRANSCRIPT
+
+            9               (PREPARED FROM VIDEO RECORDING)
+
+           10    
+
+           11                      NOVEMBER 14, 2017
+
+           12     CORPORATE FRANCHISE AND PERSONAL INCOME TAX HEARING
+
+           13                         APPEAL OF 
+
+           14       BANK OF AMERICA CORPORATION AND ITS AFFILIATES 
+
+           15                         NO. 983272
+
+           16               AGAINST PROPOSED ASSESSMENT OF
+
+           17                    ADDITIONAL INCOME TAX
+
+           18    
+
+           19    
+
+           20    
+
+           21    
+
+           22    
+
+           23    
+
+           24    
+
+           25    
+
+           26    
+
+           27                      Prepared by:  Kathleen Skidgel  
+
+           28                                    CSR No. 9039
+
+
+
+
+                                                                     1
+
+
+
+
+                                                                      
+
+
+            1                        P R E S E N T
+
+            2    For the Board               
+                 of Equalization:           Diane L. Harkey
+            3                               Chairwoman
+                 
+            4                               Sen. George Runner (Ret.)
+                                            Vice Chair
+            5    
+                                            Fiona Ma, CPA
+            6                               Member   
+                                            
+            7                               Jerome E. Horton
+                                            Member
+            8    
+                                            Yvette Stowers 
+            9                               Appearing for Betty T. 
+                                            Yee, State Controller 
+           10                               (per Government Code 
+                                            Section 7.9)
+           11    
+                                            Joann Richmond 
+           12                               Chief 
+                                            Board Proceedings      
+           13                               Division
+                 For Board of                    
+           14    Equalization Staff         Grant Thompson
+                                            Tax Counsel IV
+           15                               Legal Department
+                 
+           16    For Franchise Tax          
+                 Board:                     Thomas Lo Grossman
+           17                               Tax Counsel 
+                      
+           18                               Craig Swieso
+                                            Tax Counsel
+           19    
+                 For Appellant:             Derick Brannan
+           20                               Representative
+                 
+           21                               Jon Sperring
+                                            Representative
+           22    
+                                            David Belk
+           23                               Witness
+                 
+           24                               Larry Smilie
+                                            Witness
+           25    
+                                            Lauren Hood
+           26                               Witness
+                 
+           27                               Karen Mirandi
+                                            Representative
+           28                          ---oOo---
+
+
+
+
+                                                                     2
+
+
+
+
+                                                                      
+
+
+            1                           5901 GREEN VALLEY CIRCLE
+
+            2                           CULVER CITY, CALIFORNIA
+
+            3                           NOVEMBER 14, 2017
+
+            4                          ---oOo---
+
+            5             MS. RICHMOND:  Our next case for today is 
+
+            6    item B1 Bank of America Corporation and its 
+
+            7    Affiliates.  
+
+            8             And this case has been granted an extra 
+
+            9    five minutes for the opening presentation.  
+
+           10             MS. HARKEY:  Thank you very much.  
+
+           11             Mr. Epolite, will you please introduce the 
+
+           12    issues of this case.  
+
+           13             MR. THOMPSON:  Good afternoon.  It's 
+
+           14    actually Grant Thompson for the Appeals Bureau.  
+
+           15             MS. HARKEY:  Grant, I'm sorry.  
+
+           16             MR. THOMPSON:  That's okay.  
+
+           17             MS. HARKEY:  I'm on auto pilot, so excuse 
+
+           18    me, Grant.  
+
+           19             MR. THOMPSON:  Unless I say something 
+
+           20    stupid, then in which case it's Anthony.  
+
+           21             MS. HARKEY:  You can blame him.  You can 
+
+           22    blame him.  It's his fault, right?  
+
+           23             MR. THOMPSON:  Just one issue today, which 
+
+           24    is whether dividend income received by appellant 
+
+           25    from China Construction Bank constitutes business 
+
+           26    income.  
+
+           27             MS. HARKEY:  Thank you.  All right.  
+
+           28             MR. BRANNAN:  Good afternoon, Madam 
+
+
+
+
+                                                                     3
+
+
+
+
+                                                                      
+
+
+            1    Chairwoman and Members of the Board.  
+
+            2             MS. HARKEY:  I guess you know the routine.  
+
+            3             MR. BRANNAN:  I -- I do.  I'm sorry.  I'm 
+
+            4    just anxious about the time.
+
+            5             MS. HARKEY:  Thank you so much.  
+
+            6             MR. BRANNAN:  I don't want to miss those 
+
+            7    few seconds at the beginning.  
+
+            8             MS. HARKEY:  Go ahead.  You will not -- you 
+
+            9    can go.
+
+           10             MR. BRANNAN:  We're good.  Thank you.  
+
+           11             Good afternoon, Madam Chairwoman and 
+
+           12    Members of the Board.  Thanks for your time this 
+
+           13    afternoon.  
+
+           14             I'm Derick Brannan from 
+
+           15    PricewaterhouseCoopers.  Immediately to my right is 
+
+           16    Jon Sperring, also from PwC.  And to my left is Ms. 
+
+           17    Karen Mirandi, the State Tax Director from Bank of 
+
+           18    America.  
+
+           19             I'm going to ask Ms. Mirandi to 
+
+           20    introduce -- we have three witnesses today, and 
+
+           21    she'll introduce those speakers, the remaining 
+
+           22    members of our team.  
+
+           23             MS. MIRANDI:  David Belk is a Senior VP at 
+
+           24    Bank of America with 22 years of experience.  He's 
+
+           25    an executive on our global corporate strategy team, 
+
+           26    which manages our company investments and 
+
+           27    divestitures.  And he participated in the due 
+
+           28    diligence prior to our investment in China 
+
+
+
+
+                                                                     4
+
+
+
+
+                                                                      
+
+
+            1    Construction Bank or CCB.  
+
+            2             Behind me is Lauren Hood.  Lauren is also a 
+
+            3    Senior VP with 23 years of experience at the 
+
+            4    company.  Most importantly, she was the bank 
+
+            5    executive that was charged with the execution of the 
+
+            6    CCB's Strategic Assistance Agreement in 2008 to 
+
+            7    2013.  
+
+            8             And then also behind me is Larry Smilie.  
+
+            9    Mr. Smilie is a Managing Director with over 30 years 
+
+           10    of experience in our global leasing division.  He is 
+
+           11    responsible for corporate, commercial and business 
+
+           12    leasing originations, as well as leasing 
+
+           13    syndications in the United States, and he also 
+
+           14    participated in the due diligence related to the 
+
+           15    leasing JV with CCB.  
+
+           16             MS. HARKEY:  Thank you.  
+
+           17             MR. BRANNAN:  The issue before the Board 
+
+           18    today is whether income from a minority investment 
+
+           19    and a bank owned and controlled by the Chinese 
+
+           20    government can give rise to a portionable business 
+
+           21    income.  The answer is a resounding no.  
+
+           22             The facts are straightforward.  Bank of 
+
+           23    America or BAC exchanged expertise in capital for an 
+
+           24    opportunity to invest in the fastest growing economy 
+
+           25    in the world at that time.  As part of the 
+
+           26    transaction, the Chinese government and CCB imposed 
+
+           27    multiple restrictions on BAC's investment.  Those 
+
+           28    limitations prevented the investment from ever 
+
+
+
+
+                                                                     5
+
+
+
+
+                                                                      
+
+
+            1    becoming a integral part of BAC's trade or business, 
+
+            2    and therefore income from the investment is 
+
+            3    nonbusiness income.  
+
+            4             The law is clear.  And I'll ask the Board 
+
+            5    Members to look at the first page of the exhibits 
+
+            6    that we handed out.  Specifically, California 
+
+            7    Revenue and Taxation Code section 25120 provides 
+
+            8    that income from property is business income.  The 
+
+            9    acquisition, management and disposition of the 
+
+           10    property constitute integral parts of the taxpayer's 
+
+           11    trade or business.  
+
+           12             MR. RUNNER:  Hang on just a minute.  
+
+           13             MR. BRANNAN:  Yes, sir.  
+
+           14             MS. HARKEY:  You don't have yours?  
+
+           15             MR. RUNNER:  I'm missing a -- it's right 
+
+           16    where?  
+
+           17             Oh, here it is.  I got it.  I'm good.  
+
+           18             MS. HARKEY:  There you go.  He's in 
+
+           19    business now.  
+
+           20             MR. RUNNER:  I got it now.  
+
+           21             MR. BRANNAN:  Thank you.  So that's just 
+
+           22    page 1.  
+
+           23             Page 2, in Hoechst Celanese, the California 
+
+           24    Supreme Court set forth the standard for determining 
+
+           25    whether property is integral to a trade or business 
+
+           26    and whether income from that property should be 
+
+           27    treated as apportionable business income under 
+
+           28    California law.  
+
+
+
+
+                                                                     6
+
+
+
+
+                                                                      
+
+
+            1             And the provisions of that case are so 
+
+            2    important I'm simply going to read from the slide 
+
+            3    for emphasis, and you'll see some underlined 
+
+            4    portions of the language from the case.  
+
+            5                 "Income from the property is business 
+
+            6             income when the property is so interwoven 
+
+            7             into the fabric of the taxpayer's business 
+
+            8             operations that it becomes indivisible or 
+
+            9             inseparable from the taxpayer's business 
+
+           10             activities with both giving value to each 
+
+           11             other."  
+
+           12             We call that the two-way flow of value.  
+
+           13                 "Such a relationship exists when the 
+
+           14             taxpayer controls and uses the property to 
+
+           15             contribute materially to the taxpayer's 
+
+           16             production of business income."  
+
+           17             Consistent with that articulation of the 
+
+           18    task, BAC's investment in CCB must be so interwoven 
+
+           19    into the fabric of BAC's business operations that it 
+
+           20    was indivisible or inseparable from BAC's trade or 
+
+           21    business, with both BAC and CCB giving value to each 
+
+           22    other.  And further, BAC must have controlled and 
+
+           23    used the CCB investment to contribute materially to 
+
+           24    BAC's production and business income.  
+
+           25             Now the facts are pretty straightforward as 
+
+           26    well.  In the early 2000s the Chinese government 
+
+           27    recognized that its four state-owned national banks, 
+
+           28    including CCB, had historically made loans based on 
+
+
+
+
+                                                                     7
+
+
+
+
+                                                                      
+
+
+            1    a customer's ties to the Chinese government and not 
+
+            2    based on the more modern risk and loan assessment 
+
+            3    practices.  
+
+            4             Those loans were going bad at an alarming 
+
+            5    rate, as high as 30 percent in one of the banks, and 
+
+            6    threatened the integrity of the Chinese financial 
+
+            7    system.  The government needed both expertise and 
+
+            8    capital to modernize and stabilize its banks.  In 
+
+            9    order to accomplish those goals, the government 
+
+           10    allowed CCB to go public, a dramatic gesture in 
+
+           11    China, and sell an equity interest to a 
+
+           12    knowledgeable investor.  
+
+           13             Enter Bank of America in 2005.  Bank of 
+
+           14    America, BAC, acquired -- agreed to acquire a 10 
+
+           15    percent equity interest in CCB.  As part of the 
+
+           16    agreement, BAC agreed to provide strategic 
+
+           17    assistance to CCB to help modernize its banking 
+
+           18    systems.  Through its equity ownership, Bank of 
+
+           19    America sought to profit from the Chinese economy.  
+
+           20    And aside from the failed effort to enter into a 
+
+           21    credit card joint venture, BAC evidenced no desire 
+
+           22    to gain operational value from the investment when 
+
+           23    it joined or when it made the initial equity 
+
+           24    investment.  
+
+           25             The investment carried any number of 
+
+           26    practical and contractual limitations with regard to 
+
+           27    BAC.  For example, following the initial investment, 
+
+           28    BAC had one seat on the CCB Board of Directors and 
+
+
+
+
+                                                                     8
+
+
+
+
+                                                                      
+
+
+            1    no employees at CCB.  In contrast, the Chinese 
+
+            2    government owned roughly 70 percent of CCB, held the 
+
+            3    remaining 14 to 18 Board of Director seats and 
+
+            4    controlled CCB's Board of Supervisors and all senior 
+
+            5    management at CCB.  
+
+            6             The contracts executed as part of the 
+
+            7    investment further limited BAC's ability to exert 
+
+            8    control over any aspect of CCB or otherwise generate 
+
+            9    operational value from the investment.  
+
+           10             By contract, CCB maintained absolute 
+
+           11    responsibility for making its own management 
+
+           12    decisions concerning operations.  
+
+           13             By contract, BAC had deceased all retail 
+
+           14    banking operations in China as long as it held its 
+
+           15    investment.  
+
+           16             By contract, BAC could only maintain 
+
+           17    corporate offices in China that were necessary to 
+
+           18    support its existing corporate clients, thus 
+
+           19    limiting BAC's ability to expand its corporate 
+
+           20    client base in China.  
+
+           21             By contract, any information learned about 
+
+           22    CCB while providing services as part of the 
+
+           23    Strategic Assistance Agreement could only be used to 
+
+           24    benefit CCB, not BAC.  
+
+           25             By contract, BAC was required to gain CCB's 
+
+           26    approval for the content of its press releases.  
+
+           27             By content -- excuse me -- by contract, BAC 
+
+           28    could not compete with CCB for business in China so 
+
+
+
+
+                                                                     9
+
+
+
+
+                                                                      
+
+
+            1    long as it held the investment.  
+
+            2             By contract -- there's a theme here -- the 
+
+            3    contracts govern the interaction of the two parties 
+
+            4    in this investment relationship.  
+
+            5             By contract, neither BAC nor CCB could act 
+
+            6    on the behalf of the other or otherwise bind the 
+
+            7    party contractually.  
+
+            8             By contract, BAC and CCB did not have any 
+
+            9    common employees.  
+
+           10             By contract, BAC needed permission from CCB 
+
+           11    to sell its investment at any time during a 
+
+           12    three-year lockup period immediately following the 
+
+           13    acquisition of the equity interest.  
+
+           14             Based on all of these limitations, the CCB 
+
+           15    investment could not and did not become an integral 
+
+           16    part of BAC's trade or business.  
+
+           17             So what I'd like to do now is turn to 
+
+           18    Mr. David Belk, our first witness here.  And, 
+
+           19    Mr. Belk, you were involved in the due diligence in 
+
+           20    the initial Bank of America effort to look at the 
+
+           21    investment in CCB; is that correct?  
+
+           22             MR. BELK:  That's correct.  
+
+           23             MR. BRANNAN:  And why did BAC make the 
+
+           24    investment?  
+
+           25             MR. BELK:  We saw growth opportunity in the 
+
+           26    Chinese economy, and we saw an investment in CCB as 
+
+           27    a mechanism to take advantage of that economic 
+
+           28    growth in China in exchange for strategic assistance 
+
+
+
+
+                                                                    10
+
+
+
+
+                                                                      
+
+
+            1    on our part.  
+
+            2             MR. BRANNAN:  Could BAC gain much from CCB 
+
+            3    from an operational standpoint?  
+
+            4             MR. BELK:  Not really.  CCB at the time had 
+
+            5    a fairly rudimentary banking operation; they were 
+
+            6    years behind, you know, an equivalent international 
+
+            7    bank.  And that's part of what they were after in 
+
+            8    this investment is to learn and better their banking 
+
+            9    operations.  
+
+           10             MR. BRANNAN:  Did BAC expect to conduct any 
+
+           11    joint business operations with CCB when it made the 
+
+           12    initial investment?  
+
+           13             MR. BELK:  At the time of the initial 
+
+           14    investment, there was hope to do a credit card 
+
+           15    venture with CCB, but the fact of the matter is that 
+
+           16    Chinese law prevented that from happening.  
+
+           17             There was an MOU that was entered around 
+
+           18    the credit card joint venture, but the Chinese 
+
+           19    government never changed the law.  Ultimately, the 
+
+           20    MOU was unwound and nothing ever came of it.  
+
+           21             MR. BRANNAN:  Now at some point during the 
+
+           22    investment relationship BAC and CCB agreed to kind 
+
+           23    of reciprocal free usage of their ATMs.  Can you 
+
+           24    talk about that, please?  
+
+           25             MR. BELK:  That's correct.  There was a 
+
+           26    reciprocal ATM agreement in place.  It was not 
+
+           27    unlike many other agreements that we have or had 
+
+           28    with other international banks all around the world.  
+
+
+
+
+                                                                    11
+
+
+
+
+                                                                      
+
+
+            1    The terms were identical.  It was something that was 
+
+            2    quite easy for us to do and quite standard with 
+
+            3    other financial institutions where we didn't have an 
+
+            4    investment interest.  
+
+            5             MR. BRANNAN:  How would, uh -- how would 
+
+            6    you expect, I mean, the BAC/CCB ATM arrangement to 
+
+            7    impact BAC?  
+
+            8             MR. BELK:  Well, from BAC's perspective to 
+
+            9    the extent we were waiving service charges either 
+
+           10    from our customers or China Construction Bank's 
+
+           11    customers, then that was an opportunity missed from 
+
+           12    a revenue perspective.  But then on the flipside our 
+
+           13    customers certainly, to the extent they were using 
+
+           14    the ATMs and were avoiding those charges, would 
+
+           15    benefit from that.  
+
+           16             MR. BRANNAN:  Now according to some of the 
+
+           17    press releases that have been discussed in this 
+
+           18    proceeding, BAC also had an arrangement with CCB 
+
+           19    that allowed for free wire transfer transactions.  
+
+           20    Can you talk about that, please.  
+
+           21             MR. BELK:  Right.  I understand that to be 
+
+           22    similar to the ATM arrangement.  It was something 
+
+           23    that would have been relatively easy for us to put 
+
+           24    in place.  
+
+           25             My understanding is that CCB wanted us to 
+
+           26    put the wire transfer in place.  We did that as a 
+
+           27    pilot program in certain markets.  It was never a 
+
+           28    broad program; it was only run in a pilot stage, and 
+
+
+
+
+                                                                    12
+
+
+
+
+                                                                      
+
+
+            1    it was ultimately sunset.  
+
+            2             We looked at some of the data.  We were 
+
+            3    able to look at some data between 2010 and 2013 just 
+
+            4    to compare how the BAC customer used that wire 
+
+            5    transferability relative to the China Construction 
+
+            6    Bank customer, and during that time period there 
+
+            7    were around 1600 Bank of America customers that 
+
+            8    utilized that service.  
+
+            9             And on the flipside there were some 350,000 
+
+           10    China Construction Bank customers that utilized it.  
+
+           11    So, to me, that's sort of an indication, you know, 
+
+           12    they were interested in us providing this for them 
+
+           13    and we did so through the pilot for a period of 
+
+           14    time.  
+
+           15             MR. BRANNAN:  Now, in August and November 
+
+           16    of 2011 BAC sold off the majority of its investment 
+
+           17    interest; why did BAC make that decision?  
+
+           18             MR. BELK:  Well, we were in the height of 
+
+           19    the financial crisis in the United States at that 
+
+           20    time and we were divesting all of our noncore 
+
+           21    investments, and it made sense for us to divest our 
+
+           22    investment in CCB where we had a large gain and 
+
+           23    therefore could generate capital and liquidity.  At 
+
+           24    the same time it was something that we could sell 
+
+           25    that wouldn't really impact our operations.  
+
+           26             MR. BRANNAN:  Okay.  I'd like to move on at 
+
+           27    this point and obviously encourage any questions 
+
+           28    from the Board Members during the open board time.  
+
+
+
+
+                                                                    13
+
+
+
+
+                                                                      
+
+
+            1    Obviously the witnesses will be available.  
+
+            2             Ms. Lauren Hood.  You know, Ms. Hood, if 
+
+            3    you would, start -- I mean, you were the Strategic 
+
+            4    Assistance Executive from 2011 through '13.  Could 
+
+            5    you describe what your responsibilities were there, 
+
+            6    please?  
+
+            7             MS. HOOD:  Sure.  I was responsible to be 
+
+            8    the liaison between CCB and BAC to execute the 
+
+            9    Strategic Assistance Agreement.  So what that meant 
+
+           10    was, when CCB had requests for us to deliver 
+
+           11    training or assist them in some work that they were 
+
+           12    doing, I found the appropriate expertise on the Bank 
+
+           13    of America side and matched them up and helped 
+
+           14    negotiate what that would look like.  
+
+           15             MR. BRANNAN:  So what was the purpose of 
+
+           16    the Strategic Assistance Agreement?  
+
+           17             MS. HOOD:  It really was to help provide 
+
+           18    CCB with best practices.  As Mr. Belk mentioned, the 
+
+           19    Chinese economy had been closed for about 20 years, 
+
+           20    so the Chinese banking industry was about 20 years 
+
+           21    behind international banking and they were looking 
+
+           22    for advice on how they could accelerate their 
+
+           23    progress.  
+
+           24             MR. BRANNAN:  So how did the Strategic 
+
+           25    Assistance Agreement actually work from your 
+
+           26    perspective?  
+
+           27             MS. HOOD:  So at the end of each calendar 
+
+           28    year CCB would come to me with a list of requests of 
+
+
+
+
+                                                                    14
+
+
+
+
+                                                                      
+
+
+            1    areas that they would like training in and I would 
+
+            2    identify whether or not we could support that based 
+
+            3    on the personnel that would be required.  It was 
+
+            4    required that we only share public nonproprietary 
+
+            5    information.  So as long as it fit within those two 
+
+            6    requirements, then I would again identify the 
+
+            7    appropriate expertise on the Bank of America side 
+
+            8    and we'd agree on what that would look like 
+
+            9    throughout the following year.  
+
+           10             MR. BRANNAN:  The Strategic Assistance 
+
+           11    Agreement, the original one indicated that BAC was 
+
+           12    to provide 50 employees on an annual basis.  How did 
+
+           13    you work through the math on that?  
+
+           14             MS. HOOD:  We defined an employee as a 
+
+           15    full-time equivalent, so based on hours agreed upon 
+
+           16    on each side of what that looked like.  And part of 
+
+           17    my job was to track the number of hours supported on 
+
+           18    the Bank of America side and add that up to about 50 
+
+           19    each year.  It was really kind of front-loaded 
+
+           20    because at the start when we were creating our 
+
+           21    processes it really took more personnel to support 
+
+           22    it.  
+
+           23             MR. BRANNAN:  And were there any joint 
+
+           24    business efforts that came out of the SAA that 
+
+           25    you're aware of?  
+
+           26             MS. HOOD:  Not that I'm aware of.  
+
+           27             MR. BRANNAN:  What did BAC and its 
+
+           28    employees get from the effort, those that 
+
+
+
+
+                                                                    15
+
+
+
+
+                                                                      
+
+
+            1    participated in the training exercises?  
+
+            2             MS. HOOD:  Really nothing.  It was a 
+
+            3    one-way exchange of information.  So it was really 
+
+            4    their taking their time to provide that expertise to 
+
+            5    CCB.  
+
+            6             MR. BRANNAN:  Now, in September of 2011, 
+
+            7    shortly after BAC sold, you know, basically a 
+
+            8    meaningful portion of its investment in CCB and BAC 
+
+            9    extended the Strategic Assistance Agreement, why did 
+
+           10    that happen to your knowledge?  
+
+           11             MS. HOOD:  As I understood it, because we 
+
+           12    were making such a substantial sale of our 
+
+           13    investment, it was a show of goodwill.  Both parties 
+
+           14    were interested in having the investment continue to 
+
+           15    be viewed in a positive light.  And in the grand 
+
+           16    scheme of things the investment was rather small, 
+
+           17    less than $5 million a year for us to continue the 
+
+           18    Strategic Assistance Agreement, and so we did.  
+
+           19             MR. BRANNAN:  Okay.  Thank you very much.  
+
+           20             And, again, Ms. Hood is certainly available 
+
+           21    for any further questions that the Board Members 
+
+           22    have.  
+
+           23             Next, I'd like to bring up Mr. Larry 
+
+           24    Smilie.  And he's going to discuss the leasing joint 
+
+           25    venture.  And it's a little with some reluctance 
+
+           26    here that we bring him up and kind of dignify this 
+
+           27    issue, quite frankly.  It's gotten a lot more 
+
+           28    traction, if you will, in some of the briefings and 
+
+
+
+
+                                                                    16
+
+
+
+
+                                                                      
+
+
+            1    in the hearing summary than what we would have 
+
+            2    expected for something wherein the bank contributed 
+
+            3    a number that was only, you know, five percent to 
+
+            4    the joint venture relative to its entire investment 
+
+            5    in CCB.  But nonetheless, because of the number of 
+
+            6    questions, Mr. Smilie here is going to speak to the, 
+
+            7    uh -- to the leasing joint venture.  
+
+            8             Now you were involved in the due diligence 
+
+            9    that BAC engaged in in connection with this leasing 
+
+           10    JV; is that correct, Mr. Smilie?  
+
+           11             MR. SMILIE:  Yes.  I was involved, like six 
+
+           12    other executives, that went over to Beijing to kind 
+
+           13    of teach them about the U.S. market and we were over 
+
+           14    there to learn about the Chinese market and see how 
+
+           15    it would work with regard to setting up a leasing 
+
+           16    joint venture.  
+
+           17             MR. BRANNAN:  So why did BAC participate in 
+
+           18    the joint venture?  
+
+           19             MR. SMILIE:  Well, my understanding was 
+
+           20    that we had a Bank of America executive on the CCB 
+
+           21    board and CCB strongly asked us to set up a leasing 
+
+           22    joint venture.  So we were basically asked to kind 
+
+           23    of figure out a way to do this and move forward with 
+
+           24    it.  And our primary goals were trying to do this in 
+
+           25    such a way to kind of protect our investment and 
+
+           26    mitigate our risks.  
+
+           27             MR. BRANNAN:  Did you feel like BAC had 
+
+           28    much of a choice to pursue the joint venture at that 
+
+
+
+
+                                                                    17
+
+
+
+
+                                                                      
+
+
+            1    time?  
+
+            2             MR. SMILIE:  Well, not with regard to what 
+
+            3    we were doing.  We were just instructed to kind of 
+
+            4    go figure it out, you know, and find a way to make 
+
+            5    this work if we could.  
+
+            6             MR. BRANNAN:  Why did CCB decide to pursue 
+
+            7    a leasing joint venture?  
+
+            8             MR. SMILIE:  Well, I think they wanted to 
+
+            9    learn about the leasing business.  The Chinese laws 
+
+           10    had recently changed, allowing the Chinese banks to 
+
+           11    enter into the leasing business, and so they needed 
+
+           12    some expertise to learn about it.  And we're a 
+
+           13    market leader, so we had a staff of people as far 
+
+           14    as, you know, go over there and try to explain and 
+
+           15    figure out, you know, what was available and what 
+
+           16    they could do.  
+
+           17              MR. BRANNAN:  Why would BAC be 
+
+           18    reluctant -- or maybe a better way to phrase the 
+
+           19    question is how would you compare the leasing 
+
+           20    environments between U.S. and even other countries 
+
+           21    globally to what was going on in China at that time?  
+
+           22             MR. SMILIE:  Well, it was a big difference.  
+
+           23    In the U.S. market, you know, the tax and the county 
+
+           24    regimes were well developed.  You have commercial 
+
+           25    law to help protect your -- your collateral.  And 
+
+           26    there's also a very active used equipment market, 
+
+           27    and none of those things existed in China, which 
+
+           28    made it very hard just to move forward.  
+
+
+
+
+                                                                    18
+
+
+
+
+                                                                      
+
+
+            1             MR. BRANNAN:  What did, uh -- what was 
+
+            2    BAC's primary goal in participating in this leasing 
+
+            3    joint venture?  
+
+            4             MR. SMILIE:  Yeah, as I mentioned, when we 
+
+            5    were trying to set it up, you know, because of the 
+
+            6    environment we were going into, we were very focused 
+
+            7    on protecting our investment and trying to do 
+
+            8    everything we could to mitigate our risk so we could 
+
+            9    get our capital back down the road.  
+
+           10             MR. BRANNAN:  And with respect to BAC's 
+
+           11    actual involvement, how many total employees did CCB 
+
+           12    have relative to the number of employees for BAC?  
+
+           13             MR. SMILIE:  Yeah.  CCB had 60-plus 
+
+           14    employees, and Bank of America had three executives 
+
+           15    over there and one of them was in a senior risk 
+
+           16    role, related to risk.  
+
+           17             MR. BRANNAN:  Do you recall what customers 
+
+           18    the joint venture focused on?  
+
+           19             MR. SMILIE:  Well, it was exclusively 
+
+           20    focused on the CCB clients and a lot of them with 
+
+           21    state-owned entities; and then they had other 
+
+           22    clients that were not state-owned, but they were all 
+
+           23    CCB clients.  
+
+           24             MR. BRANNAN:  So no BAC customers that 
+
+           25    you're aware of?  
+
+           26             MR. SMILIE:  No, no.  
+
+           27             MR. BRANNAN:  Was there any ongoing 
+
+           28    connections with BAC's global leasing operations and 
+
+
+
+
+                                                                    19
+
+
+
+
+                                                                      
+
+
+            1    the CCB leasing JV?  
+
+            2             MR. SMILIE:  No.  The joint venture was set 
+
+            3    up very much to be a stand-alone entity and focus on 
+
+            4    the Chinese market.  So there was, you know, little 
+
+            5    to no connectivity with regard to other businesses 
+
+            6    around the world.  
+
+            7             MR. BRANNAN:  Now, BAC earned some return 
+
+            8    on the investment from the JV.  How did that compare 
+
+            9    with BAC's leasing business in general?  
+
+           10             MR. SMILIE:  Well, the returns were about 
+
+           11    five percent on our investment and that would've 
+
+           12    compared around a 30 percent investment return in 
+
+           13    the U.S. market.  So, you know, very modest.  And 
+
+           14    also the earnings we actually earned from the joint 
+
+           15    venture would've been less than one percent of our 
+
+           16    global earnings from the leasing business, very 
+
+           17    small.  
+
+           18             MR. BRANNAN:  Why did BAC ultimately exit 
+
+           19    the JV?  I think you exited one year early; is that 
+
+           20    correct?  
+
+           21             MR. SMILIE:  Well, we asked to exit early 
+
+           22    because there was a divergence in the goals of the 
+
+           23    joint venture.  The CCB wanted to grow the business 
+
+           24    dramatically and they were very focused on growing 
+
+           25    fast.  And as I mentioned earlier, we were focused 
+
+           26    on mitigating the risks, so we had diverging 
+
+           27    interests because the faster they were growing we 
+
+           28    felt they were taking risks that were beyond our 
+
+
+
+
+                                                                    20
+
+
+
+
+                                                                      
+
+
+            1    appetite for risk and so we basically asked to exit 
+
+            2    early as a result.  
+
+            3             MS. RICHMOND:  Time's expired.  
+
+            4             MR. BRANNAN:  If I may, one last question.  
+
+            5             What did BAC learn from the leasing joint 
+
+            6    venture, Mr. Smilie?  
+
+            7             MR. SMILIE:  Actually, little to nothing 
+
+            8    because they were -- you know, there was no leasing 
+
+            9    business over there and we had all the expertise 
+
+           10    when we went over.  
+
+           11             MR. BRANNAN:  Thank you very much.  
+
+           12             MS. HARKEY:  Thank you.  
+
+           13             Okay.  Department, announce yourself for 
+
+           14    the record and you're on.  
+
+           15             MR. LO GROSSMAN:  Good morning, Chairwoman 
+
+           16    Harkey and Members of the Board.  My name is Thomas 
+
+           17    Lo Grossman.  Accompanying me is Craig Swieso.  
+
+           18    Together we are representing the Franchise Tax Board 
+
+           19    in this appeal.  
+
+           20             I'm going to provide a brief overview of 
+
+           21    the legal issue on appeal, which is the application 
+
+           22    of the functional test for business income.  Then 
+
+           23    I'll briefly go over the law which requires 
+
+           24    appellant show that it did not have operational ties 
+
+           25    with China Construction Bank.  Then I will discuss 
+
+           26    the evidence that shows appellant actually did have 
+
+           27    operational ties with China Construction Bank.  
+
+           28             The question before your Board is an issue 
+
+
+
+
+                                                                    21
+
+
+
+
+                                                                      
+
+
+            1    of business/nonbusiness income, specifically whether 
+
+            2    the income from the strategic investment by a bank 
+
+            3    in another bank is apportioned between the several 
+
+            4    states because the income is derived from its 
+
+            5    banking business, which is what FTB has concluded 
+
+            6    after analyzing the evidence provided by appellant, 
+
+            7    or whether the income is allocated to the single 
+
+            8    state of its corporate headquarters because it is a 
+
+            9    mere investment as claimed by appellant.  
+
+           10             In California all income is business income 
+
+           11    unless clearly classifiable as nonbusiness income.  
+
+           12    Income which arises from the conduct of a trade or 
+
+           13    business is business income.  This includes the sale 
+
+           14    of business assets.  Where the asset is an interest 
+
+           15    in stock, the main criteria for determining whether 
+
+           16    there is business income is whether the taxpayer and 
+
+           17    the entity represented by the stock at issue had an 
+
+           18    operational business relationship of some 
+
+           19    significance.  
+
+           20             Appellant's operational business 
+
+           21    relationship of significance with China Construction 
+
+           22    Bank included:  First, employee exchanges; second, a 
+
+           23    Joint Venture Agreement for leasing activities; 
+
+           24    third, reciprocal client referrals for banking 
+
+           25    activities; fourth, reciprocal wire transfers that 
+
+           26    benefited appellant's retail banking customers; and 
+
+           27    fifth, reciprocal ATM fee waivers that benefited 
+
+           28    appellants retail banking customers.  
+
+
+
+
+                                                                    22
+
+
+
+
+                                                                      
+
+
+            1             I'm now going to go over the five points 
+
+            2    identified indicating an operational business 
+
+            3    relationship of significance between appellant and 
+
+            4    China Construction Bank.  Any one of these ties in 
+
+            5    and of itself would be enough for a finding of 
+
+            6    business income.  
+
+            7             First, the employee exchanges.  As 
+
+            8    appellant's own documents make clear, 3100 of 
+
+            9    appellant's employees went to China during the time 
+
+           10    appellant held China Construction Bank stock and 
+
+           11    engaged in dozens of technical projects in China in 
+
+           12    order to strengthen the business activities of China 
+
+           13    Construction Bank.  
+
+           14             Second, the leasing venture.  Appellant 
+
+           15    participated in a money lending business with China 
+
+           16    Construction Bank.  Appellant's CEO attributed this 
+
+           17    venture to its investment in China Construction 
+
+           18    Bank.  Therefore, appellant's stake in China 
+
+           19    Construction Bank generated business income through 
+
+           20    operational ties and appellant's stake in China 
+
+           21    Construction Bank served an operational business 
+
+           22    function.  
+
+           23             Third, reciprocal client referrals.  
+
+           24    Appellant's reciprocal client referrals with China 
+
+           25    Construction Bank were an operational tie of 
+
+           26    significance.  Having clients is fundamental to a 
+
+           27    business, and appellant's CEO said that appellant 
+
+           28    was getting more clients because of its stake in 
+
+
+
+
+                                                                    23
+
+
+
+
+                                                                      
+
+
+            1    China Construction Bank.  Therefore, appellant's 
+
+            2    stake in China Construction Bank served an 
+
+            3    operational business function.  
+
+            4             Fourth, the reciprocal wire transfers.  
+
+            5    Appellant had an agreement with China Construction 
+
+            6    Bank that provided for reciprocal wire transfers and 
+
+            7    allowed appellant's existing American retail banking 
+
+            8    clients to send money to local ones in China.  This 
+
+            9    project was actually piloted in California. 
+
+           10    Reciprocal wire transfers provided better customer 
+
+           11    service to appellant's clients and allowed appellant 
+
+           12    to use its existing business assets better.  
+
+           13             Appellant's CEO attributed the reciprocal 
+
+           14    wire transfers to appellant's stake in China 
+
+           15    Construction Bank.  Therefore, appellant's stake 
+
+           16    allowed appellant to make better use of its existing 
+
+           17    business assets.  This shows appellant's stake in 
+
+           18    China Construction Bank had an operational business 
+
+           19    function.  
+
+           20             Fifth, reciprocal ATM fees -- ATM fee 
+
+           21    waivers.  Appellant's ATM fee waiver program allowed 
+
+           22    appellant's existing American retail banking clients 
+
+           23    to withdraw money in China.  The ATM fee waiver 
+
+           24    program was attributed to appellant's stake in China 
+
+           25    Construction Bank by appellant's CEO, and therefore 
+
+           26    appellant's stake allowed appellant to make better 
+
+           27    use of its existing business assets.  This shows 
+
+           28    appellant's stake in China Construction Bank had an 
+
+
+
+
+                                                                    24
+
+
+
+
+                                                                      
+
+
+            1    operational business function.  
+
+            2             Each of the ties between China Construction 
+
+            3    Bank and appellant indicates an operational business 
+
+            4    relationship of significance.  A benefit appellant 
+
+            5    got out of this operational business relationship 
+
+            6    was more banking business in China.  
+
+            7             Appellant's cross-border loans into China 
+
+            8    grew exponentially while appellant held a stake in 
+
+            9    China Construction Bank.  In fact, appellant's local 
+
+           10    Chinese banking business also dramatically grew 
+
+           11    during the time it held a stake in China 
+
+           12    Construction Bank.  Making loans is part of 
+
+           13    appellant's trade or business, therefore those loans 
+
+           14    generated business income in China.  
+
+           15             The three connections between increased 
+
+           16    loans in China and appellant's stake in China 
+
+           17    Construction Bank are:  One, appellant's annual 
+
+           18    report statements that its stake in China 
+
+           19    Construction Bank would lead to better customer 
+
+           20    service for its existing corporate clients; two, 
+
+           21    appellant's CEO statement that it and China 
+
+           22    Construction Bank had reciprocal client referrals; 
+
+           23    and three, appellant's press release that had 
+
+           24    increasing brand awareness in China through its 
+
+           25    relationship with China Construction Bank.  
+
+           26             Finally, your Board's decision in this 
+
+           27    appeal impacts both future and existing taxpayers.  
+
+           28    A decision in favor of appellant that deems the 
+
+
+
+
+                                                                    25
+
+
+
+
+                                                                      
+
+
+            1    transaction before your Board nonbusiness income 
+
+            2    would reduce the liabilities of taxpayers who have 
+
+            3    corporate domicile outside of California since none 
+
+            4    of the income or gains from transactions like the 
+
+            5    one before your Board would be allocated to 
+
+            6    California.  Thus, if appellant wins and such 
+
+            7    transactions are deemed nonbusiness income, 
+
+            8    similarly situated taxpayers with California 
+
+            9    corporate domicile would have 100 percent of the 
+
+           10    income from transactions like this one allocated to 
+
+           11    California.  
+
+           12             The Department asks that its claim denial 
+
+           13    be sustained.  Mr. Swieso and I are here to answer 
+
+           14    any of your questions.  Thank you.  
+
+           15             MS. HARKEY:  You have rebuttal time.  
+
+           16    Probably five minutes, I'd imagine.  
+
+           17             MR. BRANNAN:  Thank you, Madam Chairwoman.  
+
+           18             It's always interesting to do rebuttal.  I 
+
+           19    mean, unfortunately, when there's not a lot to talk 
+
+           20    about, we tend to place too much emphasis on the 
+
+           21    things that we can talk about.  And I think there's 
+
+           22    a lot of that going on in this case unfortunately.  
+
+           23             You heard the witnesses present earlier.  
+
+           24    And, again, I'm going to bring them up.  Of course 
+
+           25    we may not have the full time to have them address 
+
+           26    some of the statements.  But, you know, the bottom 
+
+           27    line is a couple of the examples provided, you know, 
+
+           28    we talked about the wire transfer and the leasing 
+
+
+
+
+                                                                    26
+
+
+
+
+                                                                      
+
+
+            1    joint venture.  The information already provided 
+
+            2    indicates that that was requested by CCB.  In 
+
+            3    response to the question, yeah, it was related to 
+
+            4    the investment.  That's fine.  But it was something 
+
+            5    that we were asked to do and directed to do and in 
+
+            6    both cases probably not something that we were all 
+
+            7    that interested in doing.  
+
+            8             We're also talking about, going back to the 
+
+            9    test, this one-way flow of value.  I -- I -- I 
+
+           10    disagree strongly with the characterization or 
+
+           11    Strategic Assistance Agreement as an employee 
+
+           12    exchange.  It's a training deal.  It's a training 
+
+           13    operation.  And I am happy to bring Ms. Hood back up 
+
+           14    here and explain in any amount of detail that 
+
+           15    anybody's interested to say this is training only.  
+
+           16             Further considerations, the ATMs, there's 
+
+           17    suggestion after suggestion about expanding our 
+
+           18    retail business, that just didn't happen.  The ATM 
+
+           19    example is such that it is the same sort of 
+
+           20    arrangement we had with people whether we had an 
+
+           21    engagement with them or not, whether we had an 
+
+           22    investment with them or not.  And so there's nothing 
+
+           23    unusual about that.  
+
+           24             With respect to the CEO comments, again, I 
+
+           25    think Mr. Belk can speak to, you know, this 
+
+           26    assertion of reciprocal client referrals.  Yes, 
+
+           27    there is a statement to that effect; it was by one 
+
+           28    of the CEOs.  However, when we tried to look into it 
+
+
+
+
+                                                                    27
+
+
+
+
+                                                                      
+
+
+            1    and locate it, there's no formal arrangement, 
+
+            2    there's no formal program, there's no process built 
+
+            3    about that.  At best, it was probably a one-off 
+
+            4    situation.  
+
+            5             Continuing on, you know, really when we 
+
+            6    talk about the statements that are attributable to 
+
+            7    the CEO, when he talks about, you know, working 
+
+            8    together with CCB and there is -- there are 
+
+            9    statements in the records about a strategic 
+
+           10    partnership -- really what we're talking about at 
+
+           11    that point is they are, CCB and BAC did work 
+
+           12    together.  Well, the way they worked together is we 
+
+           13    provided them with advice so that we could invest in 
+
+           14    the economy.  We helped them modernize their bank.  
+
+           15    Everything that happened here is focused on doing 
+
+           16    what we can to help CCB grow, to help CCB develop 
+
+           17    into a modern bank in China.  The return for BAC was 
+
+           18    on the economy.  The return was from its investment 
+
+           19    and the ownership interest that it was able to trade 
+
+           20    following the IPO.  
+
+           21             I think Mr. Belk responded basically to the 
+
+           22    comments about the wire transfers and also the ATM 
+
+           23    usage.  
+
+           24             I think the last point that I'd like to 
+
+           25    make in rebuttal -- and, time permitting, may bring 
+
+           26    up Mr. Belk and Ms. Hood to talk about some of the 
+
+           27    comments -- but the expansion of the business as a 
+
+           28    result of the investment, what -- what counsel has 
+
+
+
+
+                                                                    28
+
+
+
+
+                                                                      
+
+
+            1    suggested is that because of one comment in the 
+
+            2    press about employee referrals or -- excuse me -- 
+
+            3    about corporate client referrals that we're unable 
+
+            4    to really pin down or establish any program, that 
+
+            5    the loan portfolio attributable to China grew in a 
+
+            6    dramatic fashion.  
+
+            7             The bottom line is that during this same 
+
+            8    window of time the loan portfolio in India grew from 
+
+            9    $560 million to 4.7 billion.  That growth was 
+
+           10    attributable to the economy.  That growth was not 
+
+           11    attributable to our investment in CCB.  Which, by 
+
+           12    the way, the contract said we were unable to compete 
+
+           13    with them; we could not grow our corporate client 
+
+           14    base.  
+
+           15             Also, if you look at China, the gross 
+
+           16    domestic product for China during that same window, 
+
+           17    it doubled.  We're talking about the economy.  When 
+
+           18    the economy does that, numbers increase.  China at 
+
+           19    this time was preparing to enter, just about to 
+
+           20    enter with the World Trade Organization.  Now what 
+
+           21    does that do to an economy?  If you're trying and 
+
+           22    you've been closed for 20 years and all of a sudden 
+
+           23    the World Trade Organization requires that you have 
+
+           24    an open market, that's one of the requirements.  
+
+           25    What happens to the investment in your country when 
+
+           26    you're about to join the World Trade Organization?  
+
+           27    Well, what happens is investment -- investment in 
+
+           28    the economy increases.  It's kind of the rising tide 
+
+
+
+
+                                                                    29
+
+
+
+
+                                                                      
+
+
+            1    floats all boats.  I mean that's really what's going 
+
+            2    on with respect to those numbers.  
+
+            3             Again, refer back to the contractual 
+
+            4    provisions that limited the things that we could do 
+
+            5    in the country.  Very deliberately it was set up so 
+
+            6    that we wouldn't compete with CCB.  And that was the 
+
+            7    goal.  We were supposed to help them grow, help them 
+
+            8    modernize, and that's what we did.  That's what 
+
+            9    everything was about.  
+
+           10             If they wanted us to help them establish a 
+
+           11    leasing joint venture, that's what we did.  If they 
+
+           12    wanted us to help establish this wire transfer, 
+
+           13    that's what we did.  We didn't have much choice in 
+
+           14    that; that's what Mr. Smilie said.  Because of the 
+
+           15    larger investment, if CCB said do this, that's what 
+
+           16    we did.  
+
+           17             And really, taking a half step back, this 
+
+           18    is where we need to focus on the actual evidence, 
+
+           19    not supposition, not trying to link together this 
+
+           20    statement to this number, that there's no obvious 
+
+           21    connection to.  What we need to do is to look at the 
+
+           22    contracts.  
+
+           23             We could not compete.  We could not make 
+
+           24    any portion of the CCB business integral to our 
+
+           25    business operations.  They were not interwoven, 
+
+           26    inseparable to our operations.  We couldn't do it as 
+
+           27    a matter of contract.  We couldn't do it because 
+
+           28    their business and banking operations were 20 years 
+
+
+
+
+                                                                    30
+
+
+
+
+                                                                      
+
+
+            1    old.  And we couldn't do it because the 70 percent 
+
+            2    owner was the Chinese government.  
+
+            3             That's the fundamental problem here.  The 
+
+            4    Chinese government was not going to allow one of its 
+
+            5    four state-owned national banks with a critical role 
+
+            6    in the economy, they were not going to allow any 
+
+            7    portion of that bank to become an integral portion 
+
+            8    of Bank of America's business operations.  It simply 
+
+            9    wasn't going to happen.  
+
+           10             So that's the conclusion of my rebuttal.  I 
+
+           11    would really encourage any questions from the Board 
+
+           12    Members with respect to the three witnesses that we 
+
+           13    have.  
+
+           14             MS. HARKEY:  Thank you.  
+
+           15             Okay, Members, do we have any questions?  
+
+           16             Member Runner.  
+
+           17             MR. RUNNER:  I guess the core issue that 
+
+           18    I'm trying wade through here is that did -- maybe 
+
+           19    you can tell me if this is what the core issue is, 
+
+           20    at least from my perspective, and that is did B of A 
+
+           21    increase its banking footprint in its activities in 
+
+           22    China?  
+
+           23             MR. BRANNAN:  I think that's a great 
+
+           24    question, Mr. Runner.  The annual report suggests 
+
+           25    there was an increase in the loan portfolio in 
+
+           26    China.  We can't run from those numbers.  
+
+           27             MR. RUNNER:  Mm-hmm.  
+
+           28             MR. BRANNAN:  One of the questions is 
+
+
+
+
+                                                                    31
+
+
+
+
+                                                                      
+
+
+            1    whether that was in any way related to our 
+
+            2    investment in CCB.  
+
+            3             With respect to the leasing joint venture, 
+
+            4    you heard Mr. Smilie say no connection.  
+
+            5             With respect to the data, we know gross 
+
+            6    domestic product increased two-fold.  But I also 
+
+            7    direct us back to the contractual provisions.  We 
+
+            8    had to sell off -- 
+
+            9             MR. RUNNER:  So what caused the increase 
+
+           10    then?  
+
+           11             MR. BRANNAN:  It's -- honestly, from our -- 
+
+           12    I'll tell you what -- 
+
+           13             Mr. Belk, would you mind?  
+
+           14             MR. BELK:  Sure.  Thank you.  
+
+           15             With respect to the increase in loans, as 
+
+           16    reflected in our annual report, you know it really 
+
+           17    was driven by the economic growth.  Mr. Brannan 
+
+           18    referenced India, another country and Asia that had 
+
+           19    similar growth at the same time.  So there was 
+
+           20    double digit GDP growth within China during the 
+
+           21    timeframe under question and, therefore, you would 
+
+           22    expect the growth to, uh -- to happen during that 
+
+           23    time.  
+
+           24             We also were able to connect with one of 
+
+           25    our corporate banking leaders who was in the 
+
+           26    country, or in Asia during 2010 time frame and, you 
+
+           27    know, he was adamant that the growth in the 
+
+           28    portfolio was not linked to the CCB investment.  It 
+
+
+
+
+                                                                    32
+
+
+
+
+                                                                      
+
+
+            1    was just linked to the growth in the economy and the 
+
+            2    general growth in the region at the time.  
+
+            3             MR. RUNNER:  So in your opinion those 
+
+            4    things would have happened with or without the 
+
+            5    contract with -- 
+
+            6             MR. BELK:  Yes, sir.  I would say that the 
+
+            7    increase or the growth there was driven by economic 
+
+            8    activity, not funneled through our involvement with 
+
+            9    CCB.  
+
+           10             MR. RUNNER:  Okay.  Let me ask, back to -- 
+
+           11    to FTB.  What -- what is it that you would believe 
+
+           12    took place in this agreement that they -- I think 
+
+           13    you used a good word -- funneled this growth to B of 
+
+           14    A as a result of this relationship.  
+
+           15             MR. LO GROSSMAN:  Oh, um -- first, I got 
+
+           16    the microphone, right?  
+
+           17             MR. RUNNER:  Uh-huh.  
+
+           18             MR. LO GROSSMAN:  Okay.  
+
+           19             The three connections that we have between 
+
+           20    the increased banking business and appellant's 
+
+           21    investment in China Construction Bank is appellant's 
+
+           22    statements in its annual report and then appellant's 
+
+           23    subsequent statements while they had that investment 
+
+           24    from the CEO and the press release after all this 
+
+           25    had gone on, talking about increased brand 
+
+           26    awareness.  That's the evidence -- those are all 
+
+           27    appellant's own documents and that's what we have to 
+
+           28    go on.  That's why we -- that's the connections that 
+
+
+
+
+                                                                    33
+
+
+
+
+                                                                      
+
+
+            1    we can show.  
+
+            2             MR. BRANNAN:  Mr. Runner, perhaps -- 
+
+            3             MR. RUNNER:  Let me just say my observation 
+
+            4    is, you know -- sometimes -- I'm trying to struggle 
+
+            5    with sometimes what is stated in a -- in a -- in a 
+
+            6    document where a bank, or anybody else for that 
+
+            7    matter, is talking about their business to their -- 
+
+            8    to -- to their investors and -- and oftentimes 
+
+            9    it's -- not that this would take place -- that 
+
+           10    sometimes there's a bit of hyperbole in terms of why 
+
+           11    it is and how good things go and what you attribute 
+
+           12    it to as for it actually mechanically being 
+
+           13    involved.  
+
+           14             MR. LO GROSSMAN:  It sounds like you're 
+
+           15    discussing puffery?  
+
+           16             MR. RUNNER:  Yeah.  Yeah, yeah, yeah.  
+
+           17             MR. LO GROSSMAN:  The thing about puffery 
+
+           18    is, puffery is, "This is the best car you're ever 
+
+           19    going to drive and, you know, it growls like a 
+
+           20    jaguar."  
+
+           21             MR. RUNNER:  Uh-huh.  
+
+           22             MR. LO GROSSMAN:  "It goes zero to 60 in 
+
+           23    two seconds" is a statement of fact.  So these are 
+
+           24    more towards the statement of fact.  
+
+           25             "We have reciprocal client referrals" is a 
+
+           26    statement of fact.  We are using this to increase 
+
+           27    brand awareness.  "We are using this to increase 
+
+           28    brand awareness" is more of a statement of fact.  
+
+
+
+
+                                                                    34
+
+
+
+
+                                                                      
+
+
+            1             You can always say it's hyperbole.  But 
+
+            2    when you start giving, like, we are doing specific 
+
+            3    activities, it's no longer puffery.  
+
+            4             MR. RUNNER:  Mm-hmm.  
+
+            5             MR. LO GROSSMAN:  And these are statements 
+
+            6    that are actionable if they are false.  
+
+            7             MR. RUNNER:  Mm-hmm.  
+
+            8             MR. LO GROSSMAN:  That's why these press 
+
+            9    releases have disclaimers on the bottom of them.  So 
+
+           10    if they make a representation of fact, you can rely 
+
+           11    on them because it is actionable if they are false.  
+
+           12             MR. RUNNER:  Okay.  Let me go back to the 
+
+           13    taxpayers.  
+
+           14             Why -- I mean what makes the difference 
+
+           15    between the statements when the statements are so -- 
+
+           16    seem to be so specific to the involvement that B of 
+
+           17    A had with -- with CCB?  
+
+           18             MR. BRANNAN:  The one question Mr. Belk 
+
+           19    might focus on -- 
+
+           20             Yes, sir.  
+
+           21             MR. RUNNER:  Go ahead.  
+
+           22             MR. BRANNAN:  No, I -- I'm going to -- one 
+
+           23    of the comments that's been made is about corporate 
+
+           24    referrals.  
+
+           25             MR. RUNNER:  Uh-huh.  
+
+           26             MR. BRANNAN:  And I was going to ask 
+
+           27    Mr. Belk to specifically address that.  
+
+           28             MR. RUNNER:  Well, I'd like a 
+
+
+
+
+                                                                    35
+
+
+
+
+                                                                      
+
+
+            1    broader answer.  I'd like a broader answer as to why 
+
+            2    it is that these would be -- would be seen as in 
+
+            3    terms of documents -- in terms of institutional 
+
+            4    documents that B of A had as to being so specific in 
+
+            5    terms of describing the relationship.  
+
+            6             MR. BELK:  Well, again, I think they -- you 
+
+            7    know, we did have an investment in CCB and those 
+
+            8    statements talked about that in broad terms.  So I 
+
+            9    think we had mentioned earlier in terms of the 
+
+           10    corporate referrals that were in fact mentioned in 
+
+           11    the documents that were referenced.  
+
+           12             MR. RUNNER:  So would you -- 
+
+           13             MR. BELK:  Some of that would have likely 
+
+           14    happened, but we haven't been able to determine, by 
+
+           15    any means, any sort of material connection there.  
+
+           16    There could have been a one-off referral here or 
+
+           17    there between us to CCB or vice versa, but there was 
+
+           18    no pervasive program that we've been able to 
+
+           19    identify.  
+
+           20             MR. RUNNER:  Should we be able to try to 
+
+           21    identify or I guess try to separate out what would 
+
+           22    be relationships because of the investment versus 
+
+           23    integral -- a more integral part of the operational 
+
+           24    side?  Is that -- is that a -- I mean just -- I mean 
+
+           25    the issue, for instance, branding, did -- did -- 
+
+           26    because B of A had an investment, did that increase 
+
+           27    branding for B of A in China?  
+
+           28             MR. BELK:  I would say not directly.  I 
+
+
+
+
+                                                                    36
+
+
+
+
+                                                                      
+
+
+            1    mean there could have been some indirect influence 
+
+            2    here and there.  But, again, it was not a pervasive 
+
+            3    direct focused effort.  
+
+            4             MR. RUNNER:  There was not an operational 
+
+            5    relationship.  
+
+            6             MR. BELK:  Right.  
+
+            7             MR. BRANNAN:  Mr. Runner, you would think 
+
+            8    with having the Bank of America, one of the, you 
+
+            9    know, worldwide industry standards for banking as 
+
+           10    the investor for CCB would help CCB.  So what I 
+
+           11    think we're saying -- and again it's supposition is 
+
+           12    that CCB wants -- 
+
+           13             MR. RUNNER:  Again, my assumption is that 
+
+           14    your argument is it would help -- it would help CCB 
+
+           15    therefore -- therefore enhance your investment.  
+
+           16             MR. BRANNAN:  Yes, sir.  
+
+           17             MR. RUNNER:  But not because of your 
+
+           18    operational involvement.  
+
+           19             MR. BRANNAN:  Correct.  The banking 
+
+           20    business that BAC had before and after the 
+
+           21    investment was essentially the same.  There's no 
+
+           22    change, there's no expansion, there's no meaningful 
+
+           23    or material operational value that's equating or 
+
+           24    accruing to BAC during the course of its 
+
+           25    investment.  
+
+           26             MR. RUNNER:  Let me speak specifically or 
+
+           27    ask specifically about the -- again, I'm just, 
+
+           28    because it was called out, the ATM reciprocal 
+
+
+
+
+                                                                    37
+
+
+
+
+                                                                      
+
+
+            1    agreements or relationship.  You would say that that 
+
+            2    was not tied to or because of the investment.  
+
+            3             MR. BRANNAN:  I mean, David, I don't know 
+
+            4    if you want to again --
+
+            5             MR. BELK:  Well, look, it happened at the 
+
+            6    same time, right?  
+
+            7             MR. RUNNER:  Right.  
+
+            8             MR. BELK:  So it's unclear whether you can 
+
+            9    tie it directly or not.  
+
+           10             I think our point is it was the identical 
+
+           11    terms that we had with other ATM relationships, with 
+
+           12    other multi-national banks across the world that we 
+
+           13    did not have an investment with.  So it was the 
+
+           14    exact same thing that we did with plenty of other 
+
+           15    people, you know, at the same time.  Whether it was 
+
+           16    directly linked, it's hard to say.  I mean it did 
+
+           17    happen at the same time, so -- and obviously we're 
+
+           18    talking with CCB.  
+
+           19             MR. RUNNER:  But it may or may not have 
+
+           20    happened because of the investment.  
+
+           21             MR. BELK:  Correct.  
+
+           22             MR. RUNNER:  Or wasn't required or wasn't 
+
+           23    there because of the investment.  
+
+           24             MR. BELK:  There was no -- to my knowledge 
+
+           25    there was no requirement as part of the investment 
+
+           26    to do the reciprocal ATM program.  
+
+           27             MR. BRANNAN:  It's not in any of the 
+
+           28    documents that we were able to review at any point 
+
+
+
+
+                                                                    38
+
+
+
+
+                                                                      
+
+
+            1    in time.  It's -- the only one that's in the 
+
+            2    contract, ironically, is the credit card memorandum.  
+
+            3             MR. RUNNER:  As you've divested yourself of 
+
+            4    the investment, what was the -- 
+
+            5             See, I guess this is where I'm thinking 
+
+            6    that if there was a big operational advantage that B 
+
+            7    of A incurred or brought into their organization was 
+
+            8    all of that, the divestment then would have a 
+
+            9    negative effect then on the operational side.  
+
+           10             Did you -- what was the experience at that 
+
+           11    point?  
+
+           12             MR. BELK:  Well, again, I -- 
+
+           13             MR. RUNNER:  Did you lose customers?  Did 
+
+           14    you lose -- I mean did -- 
+
+           15             MR. BELK:  No, sir.  I mean it was 
+
+           16    literally -- I mean, as I mentioned, we were selling 
+
+           17    our noncore investments -- 
+
+           18             MR. RUNNER:  Mm-hmm.  
+
+           19             MR. BELK:  -- during the financial crisis.  
+
+           20    We obviously picked almost all of our noncore 
+
+           21    investments.  We picked those that, you know, we 
+
+           22    didn't have a significant operational link with 
+
+           23    because we could sell them.  In this case we could 
+
+           24    have a nice profit to help our capital liquidity, 
+
+           25    which was needed at the time and really not have any 
+
+           26    operational impacts from that exit.  
+
+           27             MR. RUNNER:  Okay, thank you.  
+
+           28             I may come back.  
+
+
+
+
+                                                                    39
+
+
+
+
+                                                                      
+
+
+            1             MS. HARKEY:  Thank you.  
+
+            2             Any other Members?  
+
+            3             Member Horton, I see you grabbing your mic.  
+
+            4    Would you like to -- 
+
+            5             MR. HORTON:  Uh, yes.  Thank you, Madam 
+
+            6    Chair.  
+
+            7             Question of the Department.  Is there any 
+
+            8    contractual relationship that you've been able to 
+
+            9    find that links the two together?  Links the various 
+
+           10    reciprocal agreement, the ATM agreement, or is this 
+
+           11    some inference because of a relationship that gave 
+
+           12    them some advantage?  
+
+           13             MR. LO GROSSMAN:  Contractually, with the 
+
+           14    agreements that we actually have contractually, only 
+
+           15    the credit card joint venture was actually 
+
+           16    contractually part of the agreement.  The inference 
+
+           17    is based on appellant's own statements, subsequent 
+
+           18    statements that the two were connected.  
+
+           19             I mean the exhibit we circulated this 
+
+           20    morning, there's some discussion by -- on Ms. Hood's 
+
+           21    LinkedIn account about letters of intent regarding 
+
+           22    business cooperation that she negotiated and her job 
+
+           23    to facilitate business collaboration, interface 
+
+           24    between the two companies.  But most of the 
+
+           25    connections are there because appellant's CEOs said 
+
+           26    that they were there.  And we felt we could rely on 
+
+           27    that.  
+
+           28             MR. HORTON:  Okay.  So is there anything, 
+
+
+
+
+                                                                    40
+
+
+
+
+                                                                      
+
+
+            1    any governmental, legislative requirement on the 
+
+            2    part of China, such as in the case of Mexico, that 
+
+            3    would have linked these two together?  
+
+            4             MR. LO GROSSMAN:  Could -- not sure I 
+
+            5    understand the question.  
+
+            6             MR. HORTON:  In Mexico you actually 
+
+            7    require -- the Mexican government actually requires 
+
+            8    that there is -- in order to do business in Mexico, 
+
+            9    you have to have these sort of relationships.  
+
+           10             I'm trying to link this relationship to a 
+
+           11    growth in their footprint.  
+
+           12             MR. LO GROSSMAN:  We're not -- 
+
+           13             MR. HORTON:  Aside from the conversations 
+
+           14    and the LinkedIn.  
+
+           15             MR. LO GROSSMAN:  Yeah.  Well, I mean 
+
+           16    there's China Construction Bank, and China 
+
+           17    Construction Bank also has annual reports and they 
+
+           18    consistently talk about more -- building more ties 
+
+           19    with appellant.  
+
+           20             So you have appellant -- appellant saying 
+
+           21    they're going to seek all these additional strategic 
+
+           22    ties.  The use of the phrase strategic investment is 
+
+           23    used throughout, notwithstanding what's in the 
+
+           24    contractual language; it's in the annual reports, 
+
+           25    it's in Ms. Hood's LinkedIn profile.  I believe it's 
+
+           26    in a few of the press releases as well.  
+
+           27             So no, there doesn't -- as far as I know, 
+
+           28    there's nothing statutory requiring these sorts of 
+
+
+
+
+                                                                    41
+
+
+
+
+                                                                      
+
+
+            1    ties.  These sorts of ties were apparently agreed to 
+
+            2    between the parties.  And based on appellant's 
+
+            3    statements, it was linked directly to their state -- 
+
+            4    appellant's investment in China Construction Bank.  
+
+            5             MR. HORTON:  On the employee exchange, 
+
+            6    share with me your thoughts on the mutual benefit, 
+
+            7    and particularly the benefit to B of A.  
+
+            8             MR. LO GROSSMAN:  Well, let's see, 
+
+            9    appellant -- appellant's press release said that 
+
+           10    they got increasing experiences for the employees, 
+
+           11    increasing brand awareness.  That's what -- that's 
+
+           12    from appellant's own documents.  
+
+           13             MR. HORTON:  From training their 
+
+           14    employees.  
+
+           15             MR. LO GROSSMAN:  Mm-hmm.  Well, it was a 
+
+           16    mutu -- I think -- yeah, it was a -- appellant was 
+
+           17    training CCB's employees and appellant's own people 
+
+           18    were going abroad to do that.  And they were getting 
+
+           19    increasing connection -- they were getting 
+
+           20    increasing exposure.  And appellant's own documents 
+
+           21    indicate that appellant thought that that was good 
+
+           22    for its own employees.  
+
+           23             MR. HORTON:  Could this -- could this 
+
+           24    training have taken place without the --
+
+           25             MR. LO GROSSMAN:  That was explicitly 
+
+           26    linked.  
+
+           27             MR. HORTON:  Pardon?  
+
+           28             MR. LO GROSSMAN:  The training -- the 
+
+
+
+
+                                                                    42
+
+
+
+
+                                                                      
+
+
+            1    Strategic Assistant Agreement was explicitly linked 
+
+            2    to the purchase.  So the employee exchanges in that 
+
+            3    manner were explicitly linked to the purchase of 
+
+            4    stock because all three of the contracts reference 
+
+            5    each other.  
+
+            6             MR. HORTON:  And so the link is the 
+
+            7    training occurred, and as a result of that training 
+
+            8    more people knew that the training was occurring so 
+
+            9    therefore they did business with Bank of America.  
+
+           10             MR. LO GROSSMAN:  That's what appellant's 
+
+           11    press release would tend to indicate, yes.  
+
+           12             MR. HORTON:  Wow.  
+
+           13             The leasing venture -- well, how about the 
+
+           14    growth in the -- GDP growth in the economy.  The 
+
+           15    overall growth in the economy?  
+
+           16             MR. LO GROSSMAN:  Yes, that's undisputed 
+
+           17    that China grew quite well during the period.  
+
+           18             MR. HORTON:  You don't dispute that?  
+
+           19             MR. LO GROSSMAN:  No.  
+
+           20             MR. HORTON:  And why wouldn't that have 
+
+           21    something to do with the growth of any business, 
+
+           22    Bank of America, Chase, any other business in China?  
+
+           23             MR. LO GROSSMAN:  Well, in order to 
+
+           24    actually start a leasing business -- leasing venture 
+
+           25    in China, it was necessary for it to enter into that 
+
+           26    joint venture agreement with China Construction 
+
+           27    Bank.  China Construction Bank invited appellant 
+
+           28    into a leasing joint venture.  And according to the 
+
+
+
+
+                                                                    43
+
+
+
+
+                                                                      
+
+
+            1    statements we heard in appellant's case in chief, 
+
+            2    they were China Construction Bank existing clients.  
+
+            3             So appellant was getting a piece of the -- 
+
+            4    a piece of these leases with China Construction 
+
+            5    Bank's own clients that they were invited into by 
+
+            6    China Construction Bank.  And China Construction 
+
+            7    Bank most certainly did view appellant as a 
+
+            8    strategic partner.  It's all over appellant's -- 
+
+            9    it's all over China Construction Bank's annual 
+
+           10    reports.  
+
+           11             MR. HORTON:  What is the appellant's view 
+
+           12    of that?  
+
+           13             MR. BRANNAN:  Well, there's a number of 
+
+           14    things with regard to growth in the loan and lease 
+
+           15    portfolio.  
+
+           16             The joint venture, the leasing joint 
+
+           17    venture was not included in the numbers that we've 
+
+           18    been talking about.  It's reflected as an equity 
+
+           19    investment, so it's kept in a separate place on the 
+
+           20    books.  There's no growth in the loan and lease 
+
+           21    portfolio that's attributed to the leasing joint 
+
+           22    venture.  So that would be point one.  
+
+           23             The second point, strategic partnership.  
+
+           24    And the words, they mean what they say and there's a 
+
+           25    couple of points.  One is, it was a strategic 
+
+           26    partnership.  We invest, we give you expertise, you 
+
+           27    bring your bank into the modern age.  That's 
+
+           28    strategic for both parties at that point.  
+
+
+
+
+                                                                    44
+
+
+
+
+                                                                      
+
+
+            1             The second point, there's actual language 
+
+            2    in most of the contracts that talk about this -- 
+
+            3    these agreements do not form a partnership or joint 
+
+            4    venture in a legal sense.  The contracts again 
+
+            5    impose a bar or a fence between BAC and CCB which 
+
+            6    prohibits any sort of kind of legal assertions of 
+
+            7    this -- the relationship between the two.  And it's 
+
+            8    to protect both of the parties, and it also signals 
+
+            9    very strongly to anybody that wants to know, What 
+
+           10    are you doing together?  
+
+           11             So there's really two responses to that 
+
+           12    question.  
+
+           13             MR. HORTON:  To the -- to the, uh -- to the 
+
+           14    position relative to the statements in the press and 
+
+           15    so forth, we have witnesses here under oath 
+
+           16    testifying that that's not the case.  How do you -- 
+
+           17             MR. LO GROSSMAN:  Did you swear them in?  
+
+           18             MR. BRANNAN:  We're happy to do that if 
+
+           19    that's required, Members of the Board.  
+
+           20             MR. HORTON:  I'm presuming if they're here 
+
+           21    they understand their obligation to tell the truth.  
+
+           22             MR. LO GROSSMAN:  I would say that -- 
+
+           23             MR. HORTON:  You want them to be sworn in, 
+
+           24    is that a request, in order for their testimony to 
+
+           25    have -- could be valid?  Is that the request of the 
+
+           26    Department?  
+
+           27             MR. LO GROSSMAN:  Sure.  Yeah.  Please.  
+
+           28             MR. HORTON:  Madam Chair.  
+
+
+
+
+                                                                    45
+
+
+
+
+                                                                      
+
+
+            1             MS. HARKEY:  Okay, I'm going to need some 
+
+            2    wording here.  What do we use to swear people in?  
+
+            3    What is the appropriate manner?  
+
+            4             MS. RICHMOND:  Who are we swearing in?  
+
+            5             MS. HARKEY:  The three -- the three 
+
+            6    witnesses.  
+
+            7             If you would come up here and stand, 
+
+            8    please.  
+
+            9             MR. HORTON:  I don't believe it's 
+
+           10    necessary, but I mean the Department has made -- 
+
+           11             MS. HARKEY:  No, the Department wants it, 
+
+           12    so let's just, let's just -- 
+
+           13             MR. LO GROSSMAN:  Okay, forgot about it.  
+
+           14    Forget about it.  It's fine.  
+
+           15             MS. HARKEY:  Are you okay?  You're okay 
+
+           16    with it?  
+
+           17             MR. LO GROSSMAN:  Yeah.  I'm getting a lot 
+
+           18    of shaking heads.  Let's not waste time.  
+
+           19             MS. HARKEY:  Okay, thank you.  
+
+           20             MR. HORTON:  Shaking heads from where?  
+
+           21    We're not -- 
+
+           22             MS. HARKEY:  Never mind.  We're good.  
+
+           23    We're good.  
+
+           24             MR. HORTON:  So let me make sure.  You're 
+
+           25    waiving your right to have the witnesses sworn in.  
+
+           26    You believe that's not necessary; is that -- is that 
+
+           27    what you're saying?  
+
+           28             MR. SWIESO:  We'll take them for their 
+
+
+
+
+                                                                    46
+
+
+
+
+                                                                      
+
+
+            1    word.  
+
+            2             MR. HORTON:  Yes or no?  
+
+            3             MR. SWIESO:  Yes, we take them for their 
+
+            4    word.  
+
+            5             MR. LO GROSSMAN:  So what I would just go 
+
+            6    and say is that we had written contemporaneous 
+
+            7    documentation.  And although I'm taking them at 
+
+            8    their word now, memories -- you know, memories fade 
+
+            9    over time.  And it's after-the-fact, whereas what 
+
+           10    we've been relying on was contemporaneous written 
+
+           11    documentation.  
+
+           12             MR. HORTON:  Okay.  Madam Chair, thank you 
+
+           13    for that.  
+
+           14             MS. HARKEY:  Thank you.  Anyone else want 
+
+           15    to?  No?
+
+           16             Okay.  
+
+           17             MS. STOWERS:  Just some follow-up.  
+
+           18             MS. HARKEY:  Ms. Stowers.  
+
+           19             MS. STOWERS:  To the Department, so you're 
+
+           20    saying you have written contemporaneous 
+
+           21    documentation; and it looks like it's mainly from 
+
+           22    their CEO, and the annual reports and the press 
+
+           23    statements.  
+
+           24             MR. LO GROSSMAN:  We have their press 
+
+           25    statements, their annual reports, and their CEO 
+
+           26    statements.  
+
+           27             With regard to the leasing venture, those 
+
+           28    are corroborated by China Construction Bank report, 
+
+
+
+
+                                                                    47
+
+
+
+
+                                                                      
+
+
+            1    annual reports.  That's -- that's the evidence that 
+
+            2    we've put forward.  
+
+            3             MS. STOWERS:  So is it your opinion that 
+
+            4    these written documents should give more weight -- 
+
+            5             MR. LO GROSSMAN:  Absolutely.  
+
+            6             MS. STOWERS:  -- than the oral arguments?  
+
+            7             MR. LO GROSSMAN:  Because not only are they 
+
+            8    written, they are contemporaneous.  And again, as 
+
+            9    appellant mentioned in its case in chief, those 
+
+           10    press releases had to be counter-signed by China 
+
+           11    Construction Bank.  
+
+           12             MR. HORTON:  Yeah, but the challenge is is 
+
+           13    that, if I'm not mistaken, are those statements 
+
+           14    subsequent to the actual agreement?  
+
+           15             MR. LO GROSSMAN:  The press release 
+
+           16    statements are subsequent to the actual agreement, 
+
+           17    yes.  
+
+           18             MR. HORTON:  So it's not part of the 
+
+           19    agreement.  No one really said -- 
+
+           20             MR. LO GROSSMAN:  No, they are not part of 
+
+           21    the contract.  
+
+           22             MR. HORTON:  -- said before that we're 
+
+           23    going to enter into this agreement for this 
+
+           24    purpose.  
+
+           25             MS. STOWERS:  Except for -- 
+
+           26             MR. HORTON:  I don't know.  I'm asking.  
+
+           27    Did that exist somewhere?  Is there evidence that it 
+
+           28    was a condition of the agreement or that it was 
+
+
+
+
+                                                                    48
+
+
+
+
+                                                                      
+
+
+            1    prior to the agreement, these statements?  
+
+            2             MR. LO GROSSMAN:  No.  
+
+            3             MR. HORTON:  Then the statement becomes an 
+
+            4    opinion as to what may have happened as a result of 
+
+            5    not only that activity but any other activity that 
+
+            6    may have taken place subsequent to the contract.  
+
+            7             MR. LO GROSSMAN:  Well, if you're relying 
+
+            8    on the annual reports, that would be absolutely the 
+
+            9    case.  It would be purely aspirational.  
+
+           10             MR. HORTON:  Right.  
+
+           11             MR. LO GROSSMAN:  But what you have are the 
+
+           12    annual reports which are aspirational, followed by 
+
+           13    the actual statements about what was actually going 
+
+           14    on subsequent.  
+
+           15             MR. HORTON:  And so -- 
+
+           16             MR. LO GROSSMAN:  And so then you have an 
+
+           17    operational tie between the two businesses of 
+
+           18    significance, which is what is required under the 
+
+           19    law.  
+
+           20             MR. HORTON:  The ATM agreement -- question 
+
+           21    of the appellant -- the ATM agreement, is it unique, 
+
+           22    different from any other ATM agreement?  
+
+           23             MR. BRANNAN:  No.  It's not -- let me -- 
+
+           24    let me be very precise in the answer, Mr. Horton.  
+
+           25    Not all ATM arrangements are the same.  
+
+           26             MR. HORTON:  Right.  
+
+           27             MR. BRANNAN:  The reciprocal use with CCB 
+
+           28    for free was identical in every way to the 
+
+
+
+
+                                                                    49
+
+
+
+
+                                                                      
+
+
+            1    arrangement that BAC had with what we're labeling 
+
+            2    the global ATM alliance, which was a group of 10 or 
+
+            3    12 European banks.  And that, from what we've been 
+
+            4    able to understand, was the model for the 
+
+            5    arrangement with CCB.  
+
+            6             MR. HORTON:  Was that -- was that 
+
+            7    anticipated in any way that you had entered into 
+
+            8    these agreements?  
+
+            9             MR. BRANNAN:  No.  We -- we poked around, 
+
+           10    and I can ask Mr. Belk to come back up.  But we 
+
+           11    tried to figure out where that came from and we 
+
+           12    don't know.  
+
+           13             MR. HORTON:  To what extent subsequently 
+
+           14    was it beneficial to B of A to enter into that 
+
+           15    agreement?  
+
+           16             MR. BRANNAN:  I think that, you know, as 
+
+           17    Mr. Belk indicated, there's an economic cost to the 
+
+           18    bank because they're missing their transaction fee.  
+
+           19    There is some value to the individual customers that 
+
+           20    don't have to pay that fee.  It does -- I mean I can 
+
+           21    make the FTB's argument, I could expand their 
+
+           22    network of ATMs around the country and that could be 
+
+           23    conceived as value.  
+
+           24             MR. HORTON:  Did it increase access for 
+
+           25    your customers?  
+
+           26             MR. BRANNAN:  It would because it -- well, 
+
+           27    not necessarily.  It increased free access.  
+
+           28             MR. HORTON:  Free access.  They still had 
+
+
+
+
+                                                                    50
+
+
+
+
+                                                                      
+
+
+            1    the access.  
+
+            2             MR. BRANNAN:  Yes, sir.  
+
+            3             MS. HARKEY:  I have some questions while 
+
+            4    we're thinking here.  
+
+            5             What was -- just real simply.  Why did B of 
+
+            6    A do this?  
+
+            7             MR. BRANNAN:  To invest in the economy.  So 
+
+            8    when they acquired their equity interest -- going 
+
+            9    back in 2005, before they went public, a 
+
+           10    knowledgeable investor had the opportunity to take 
+
+           11    out an equity interest.  And when they go public we 
+
+           12    know what happens to the value.  But because of 
+
+           13    their knowledge, they were able to invest.  
+
+           14             And so the reason they invested is as soon 
+
+           15    as it went public, they had a pretty good idea that 
+
+           16    the value was going to go up.  Further, their 
+
+           17    training was in an effort to modernize the bank.  
+
+           18    The more modern they became, the more people in the 
+
+           19    economy that would use CCB, the greater CCB's 
+
+           20    business -- 
+
+           21             MS. HARKEY:  I understand what CCB got out 
+
+           22    of it.  But what did BAC get out of it?  
+
+           23             MR. BRANNAN:  Ultimately we were able to 
+
+           24    get dividends, that's what's really at issue in 
+
+           25    2008, from our equity investment.  And over time we 
+
+           26    were able to acquire more.  Our investment went from 
+
+           27    10 to 19 percent, 19.9 for one period of time and 
+
+           28    back down to 10.  But when we were able to sell 
+
+
+
+
+                                                                    51
+
+
+
+
+                                                                      
+
+
+            1    those shares there was significant gains from those 
+
+            2    sales on the open market.  And then ultimately when 
+
+            3    we sold out, it helped -- you know, it helped 
+
+            4    increase kind of our capital requirements.  And you 
+
+            5    remember that window what was going on with the 
+
+            6    banks.  
+
+            7             MS. HARKEY:  Oh, I remember.  Everybody was 
+
+            8    cratering.  
+
+            9             MR. BRANNAN:  Right.  
+
+           10             MS. HARKEY:  What, um -- what percentage of 
+
+           11    your total bank was the investment in CCB?  It says 
+
+           12    it was 3 billion to purchase 9 percent.  
+
+           13             MR. BRANNAN:  Three billion was the 
+
+           14    purchase.  I'm not sure from a property standpoint.  
+
+           15             Is that the kind of thing you might know?  
+
+           16             MS. HARKEY:  It's a trick question.  Think 
+
+           17    about -- no, I'm just wondering because it -- I'm 
+
+           18    sure it's not, you know, 50 percent of the bank or 
+
+           19    40 percent or 30 percent.  
+
+           20             MR. BELK:  From our balance sheet 
+
+           21    (inaudible).  
+
+           22             MS. HARKEY:  That's what I thought.  So 
+
+           23    that's my point.  It was a small investment.  And it 
+
+           24    seems like it was -- it seems like it was more of an 
+
+           25    investment to me in the fact that -- in the fact 
+
+           26    that you've got, you know, returns on it.  You've 
+
+           27    got, you know, your dividends, etcetera.  
+
+           28             MR. BRANNAN:  Your dividends and the gain 
+
+
+
+
+                                                                    52
+
+
+
+
+                                                                      
+
+
+            1    and the sale.  
+
+            2             MS. HARKEY:  So to the FTB, how does this 
+
+            3    differ from making an investment anywhere else?  
+
+            4             MR. LO GROSSMAN:  Because of the 
+
+            5    operational ties between appellant and China 
+
+            6    Construction Bank, that's what makes the 
+
+            7    difference.  
+
+            8             MS. HARKEY:  Okay.  And you're saying that 
+
+            9    the operational ties.  Okay.  They had -- they only 
+
+           10    had one person nominated from BAC of CCB's 19-person 
+
+           11    board, correct?  
+
+           12             MR. LO GROSSMAN:  That's true.  
+
+           13             MS. HARKEY:  Okay.  And so I'm trying to -- 
+
+           14    trying to figure out the big investment here and I'm 
+
+           15    not -- what about -- I think the numerous statements 
+
+           16    and whatnot may have shown B of A's intent.  But do 
+
+           17    they actually prove integration?  
+
+           18             MR. SPERRING:  And, Madam Chair -- 
+
+           19             MS. HARKEY:  Yes, go ahead, Mr. Sperring.  
+
+           20             MR. SPERRING:  May I talk about that 
+
+           21    because that's something that's been giving me great 
+
+           22    consternation here, right?  We're hearing -- 
+
+           23             MS. RICHMOND:  Please state your name for 
+
+           24    the record.  
+
+           25             MR. SPERRING:  Sure.  This is Jon Sperring, 
+
+           26    PricewaterhouseCoopers.  
+
+           27             And you hear FTB talk about operational 
+
+           28    tie, right, and they say if there's operational tie 
+
+
+
+
+                                                                    53
+
+
+
+
+                                                                      
+
+
+            1    that's enough.  And the exact quote is, I'm going to 
+
+            2    list five operational ties of some significance.  
+
+            3             And by the way, one of those five is the 
+
+            4    wire transfer where you heard that we had 1600 
+
+            5    customers, okay, make wire transfers, right, so 
+
+            6    that's one of their five significant operational 
+
+            7    ties, okay.  
+
+            8             But if you look at what the law says, 
+
+            9    right, if you look at Hoechst Celanese, the 
+
+           10    California Supreme Court, which basically follows 
+
+           11    Board of Equalization opinions on it, okay, it -- 
+
+           12    here's what the court said, it said, related to the 
+
+           13    functional test: 
+
+           14              Not surprisingly, the parties disagree 
+
+           15    over the meaning of "integral."  Hoechst contends 
+
+           16    "integral" means necessary or essential.  FTB 
+
+           17    counters "integral" only means contributing to or in 
+
+           18    other words an operational tie.  
+
+           19             We, however, find both interpretations 
+
+           20    inaccurate.  And what do they say?  They quote Holly 
+
+           21    Sugar, Board of Equalization opinion, okay, for what 
+
+           22    is an operational tie or what is integral, excuse 
+
+           23    me.  And what they say is the activities of the two 
+
+           24    companies constitute one indivisible composite 
+
+           25    whole, each portion giving value to the other 
+
+           26    portion, okay.  
+
+           27             So it's one company, Bank of America and 
+
+           28    the China Construction Bank are an indivisible 
+
+
+
+
+                                                                    54
+
+
+
+
+                                                                      
+
+
+            1    whole, okay.  And if you look at they're citing two 
+
+            2    cases, okay -- they cite many Board of Equalization 
+
+            3    cases, but two that I think are very helpful, okay, 
+
+            4    because they're both California companies.  They're 
+
+            5    both cases -- it's Standard Oil and Occidental 
+
+            6    Petroleum, okay, LA and San Francisco, right.  
+
+            7             And in both those cases FTB wanted it to be 
+
+            8    nonbusiness income.  And in the case of Standard 
+
+            9    Oil, okay, the investment, the joint venture that 
+
+           10    Standard had, okay, that FTB characterized as 
+
+           11    nonbusiness income was Saudi Aramco, okay.  At this 
+
+           12    time Chevron owned Saudi Aramco, right.  And that 
+
+           13    entity produced 52 percent of Chevron's worldwide 
+
+           14    oil supply.  
+
+           15             And in fact, okay, although Chevron owned 
+
+           16    30 percent -- excuse me, Standard owned 30 percent 
+
+           17    of Saudi Aramco, okay, if they didn't buy 30 percent 
+
+           18    of the oil produced, they only got seven-and-a-half 
+
+           19    percent of the profit.  So the only way they could 
+
+           20    get their full 30 percent share was they had to 
+
+           21    purchase their full oil allotment.  And in fact, 
+
+           22    Saudi Aramco was precluded from selling to anyone 
+
+           23    else, okay.  Hence, you're seeing the integrated.  
+
+           24    That's the integration that the court talked 
+
+           25    about -- that your Board, excuse me, okay, that your 
+
+           26    Board adopted and that the California Supreme Court 
+
+           27    favorably cited.  
+
+           28             Now let's go to Occidental Petroleum, 
+
+
+
+
+                                                                    55
+
+
+
+
+                                                                      
+
+
+            1    right, and the great Dr. Armand Hammer who bought 
+
+            2    that company that was started in 1920.  Occidental 
+
+            3    Petroleum, before Dr. Hammer bought it in 1957 was a 
+
+            4    hundred percent California Oil Company, right.  So 
+
+            5    it explored oil in the LA area, right, and refined 
+
+            6    it.  It was a hundred percent California.  And 
+
+            7    Dr. Hammer turned it into this international 
+
+            8    goliath, okay, with holdings in Libya, okay, and it 
+
+            9    was in all different types of investments.  It was 
+
+           10    becoming an energy company.  They had coal, okay.  
+
+           11    They had different investments, okay.  
+
+           12             And one of the five investments that FTB, 
+
+           13    okay, tried to assert as business income was an oil 
+
+           14    patch in Kern County.  So of course everyone would 
+
+           15    think Occidental Petroleum, right, is buying an oil 
+
+           16    patch in Kern County, okay, that's going to be 
+
+           17    business income.  
+
+           18             But your Board, okay, rightly said, 
+
+           19    according to California Supreme Court, that is not 
+
+           20    business income because it was -- they weren't able 
+
+           21    to integrate it in.  And why?  Because although they 
+
+           22    bought a minority interest in this Kern County land 
+
+           23    company, Tenneco came in, they basically sold out to 
+
+           24    Tenneco and Tenneco became the majority owner and 
+
+           25    blocked Oxy from getting control of it, okay.  And 
+
+           26    therefore Oxy sold it as a gain.  
+
+           27             So their whole purpose of buying Kern 
+
+           28    County land was to get the oil to integrate into 
+
+
+
+
+                                                                    56
+
+
+
+
+                                                                      
+
+
+            1    their worldwide oil operation and -- and -- but they 
+
+            2    were blocked because the management of Kern County 
+
+            3    land sold out to Tenneco.  
+
+            4             Okay.  And so that's the type of 
+
+            5    integration we're talking about, not some 
+
+            6    operational tie.  
+
+            7             And I go lastly to ASARCO, U.S. Supreme 
+
+            8    Court case on the very same UDIPTA statute that 
+
+            9    California's adopted in 25128.  And in ASARCO, okay, 
+
+           10    in southern Peru, okay, what you had was the U.S. 
+
+           11    Supreme Court saying the closest question posed by 
+
+           12    ASARCO's receipts of dividend are from southern 
+
+           13    Peru.  ASARCO is one of southern Peru's four 
+
+           14    shareholders, owning 51 percent of the stock.  
+
+           15             Southern Peru produces smelted, unrefined 
+
+           16    blistered copper and 35 percent of their output is 
+
+           17    sold to ASARCO, okay.  But the court says it's 
+
+           18    nonbusiness, okay, and that's because ASARCO's 
+
+           19    majority interest, if asserted, could enable it to 
+
+           20    control management over southern Peru but the 
+
+           21    remaining shareholders would bail if they did that.  
+
+           22    And as a result ASARCO didn't assert total control 
+
+           23    over southern Peru, okay.  
+
+           24             So now that's the standard.  And we 
+
+           25    basically have the Franchise Tax Board saying that 
+
+           26    this arm of the People's Republic of China is 
+
+           27    integral to the Bank of America.  That's where we 
+
+           28    are today.  
+
+
+
+
+                                                                    57
+
+
+
+
+                                                                      
+
+
+            1             MS. HARKEY:  Thank you.  You really 
+
+            2    expend -- I mean there -- there might be intent, but 
+
+            3    that doesn't necessarily prove integration.  
+
+            4             MR. LO GROSSMAN:  May I respond?  
+
+            5             MS. HARKEY:  You may.  Yes, please.  
+
+            6             MR. LO GROSSMAN:  There were subsequent 
+
+            7    cases to the ones he just mentioned.  There was 
+
+            8    Allied Signal, which came after ASARCO, which said 
+
+            9    that the test is whether there is an operational 
+
+           10    rather than an investment function.  That was a 
+
+           11    subsequent U.S. Supreme Court case.  
+
+           12             Following that U.S. Supreme Court case, 
+
+           13    your Board in its last word on minority business -- 
+
+           14    on minority stock business income/nonbusiness income 
+
+           15    cases -- this is not the first time this kind of 
+
+           16    case has happened -- but the last published word 
+
+           17    your Board has on this was CTS Keene, which came 
+
+           18    after Occidental and Standard Oil, and it repeated 
+
+           19    the Allied Signal test and it said that the test is 
+
+           20    operational versus investment function.  It also 
+
+           21    explicitly rejected the contention that you need 
+
+           22    control over the invest -- the company that the 
+
+           23    taxpayer invests in.  
+
+           24             MR. SPERRING:  I'm happy to respond to that 
+
+           25    if you'd like.  
+
+           26             MS. HARKEY:  All right.  Our two attorneys, 
+
+           27    go ahead.  
+
+           28             MR. SPERRING:  Thank you.  I mean, the 
+
+
+
+
+                                                                    58
+
+
+
+
+                                                                      
+
+
+            1    quote that I think of Allied Signal that's most 
+
+            2    helpful here is the mere fact that an intangible 
+
+            3    asset was required pursuant to a long-term corporate 
+
+            4    strategy of acquisitions and dispositions does not 
+
+            5    convert an otherwise passive investment into an 
+
+            6    integral one or an operational one.  And that's what 
+
+            7    this was.  It was a passive investment.  
+
+            8             The only reason why the People's Republic 
+
+            9    of China allowed Bank of America to buy in -- 
+
+           10    because they could have allowed anyone.  They 
+
+           11    could've allowed a Saudi oil sheik to buy in, but 
+
+           12    they allowed Bank of America because they wanted 
+
+           13    Bank of America, a sophisticated investor.  They 
+
+           14    wanted the knowledge from Bank of America.  That was 
+
+           15    part of the cash, essentially, the bank offered.  
+
+           16             It would have brought to the table, besides 
+
+           17    this 3 billion bucks was this strategic system 
+
+           18    agreement, this unique knowledge of western banking.  
+
+           19    That's what they got.  That was part of the 
+
+           20    investment, okay.  
+
+           21             But other than that, this is a passive 
+
+           22    investment for the bank that they were able to get 
+
+           23    given the fact that they have, they're a world 
+
+           24    leader, as we heard Mr. Belk say they're a world 
+
+           25    leader in banking, in the banking business in the 
+
+           26    west and China wanted them in there to teach their 
+
+           27    bank.  And so this is what they had to bring to the 
+
+           28    table, along with the cash.  
+
+
+
+
+                                                                    59
+
+
+
+
+                                                                      
+
+
+            1             So we're perfectly -- you're perfectly 
+
+            2    consistent with Allied Signal when you find that 
+
+            3    this is nonbusiness income because this is a passive 
+
+            4    investment.  
+
+            5             MS. HARKEY:  I do believe it's more of an 
+
+            6    investment because of the dollars.  It was not huge.  
+
+            7    The dollars were not huge, the control was not 
+
+            8    there.  
+
+            9             If B of A would have pulled out, oh, a year 
+
+           10    earlier, would that have mattered to CCB?  I mean 
+
+           11    would -- would -- would B of A have suffered for 
+
+           12    that?  
+
+           13             MR. BRANNAN:  I -- I -- I always want to 
+
+           14    answer the question.  We had lock-up provisions that 
+
+           15    governed when we could sell our investment interest.  
+
+           16             MS. HARKEY:  Right.  
+
+           17             MR. BRANNAN:  As a general rule we sold 
+
+           18    very shortly after the expiration of those.  It's a 
+
+           19    three-year lock-up.  We sold very shortly after that 
+
+           20    three-year provision.  
+
+           21             The window where we got rid of where we 
+
+           22    sold, you know, very large portion of it we were in 
+
+           23    financial straits.  And as indicated by Mr. Belk and 
+
+           24    also in the press releases, which I'm kind of loathe 
+
+           25    to refer to because I want to look at the contracts, 
+
+           26    but the press releases were pretty clear, we're 
+
+           27    selling noncore assets because we need capital.  
+
+           28             MS. HARKEY:  Yeah.  I think just there's so 
+
+
+
+
+                                                                    60
+
+
+
+
+                                                                      
+
+
+            1    many things that indicate it was an investment, and 
+
+            2    actually not a really large one.  It was an 
+
+            3    investment for which you got a return.  And then 
+
+            4    when things cratered here, you sold it out, which -- 
+
+            5             MR. SPERRING:  And, Madam Chair -- 
+
+            6             MS. HARKEY:  Yes.  
+
+            7             MR. SPERRING:  Can I address CTS Keene if 
+
+            8    you wouldn't mind?  
+
+            9             MS. HARKEY:  If you wouldn't mind, yes.  
+
+           10             MR. SPERRING:  Thank you.  Thank you.  
+
+           11             MS. HARKEY:  Just be quick.  
+
+           12             MR. SPERRING:  So CTS Keene, right, CTS 
+
+           13    Keene, an American company, okay, gave AB, okay 
+
+           14    which was a British company, their entire license 
+
+           15    agreement to market in Europe, okay.  So, and they 
+
+           16    originally had a German subsidiary that was selling 
+
+           17    their products, okay, and they ended up closing it 
+
+           18    down, okay, and in return AB allowed them to buy 
+
+           19    minority interests, okay, and they issued a 
+
+           20    licensing agreement, two separate licensing 
+
+           21    agreements, to let them market all of their products 
+
+           22    in Europe.  Hence, it was vital; AB was vital for 
+
+           23    their European operations.  
+
+           24             They shut down their previous wholly owned 
+
+           25    subsidiary, turned it over to AB.  And once they got 
+
+           26    the licensing agreement in place, then they sold.  
+
+           27    And in fact what your Board said, CTS' real goal was 
+
+           28    not to achieve a return on the stock, but rather was 
+
+
+
+
+                                                                    61
+
+
+
+
+                                                                      
+
+
+            1    to support AB's efforts under the licensing 
+
+            2    agreements to help create a broader worldwide market 
+
+            3    for various products developed by CTS Unitary Group.  
+
+            4             There is no evidence of that here in the 
+
+            5    record.  There's no evidence that we were using an 
+
+            6    arm of the People's Republic of China, okay to 
+
+            7    service our global clients.  That's not what was 
+
+            8    going on here.  
+
+            9             MS. HARKEY:  No, that's not what appears to 
+
+           10    be going on here, especially the fact that you 
+
+           11    bailed and that was the end of it.  
+
+           12             But I do see that you probably got some 
+
+           13    benefit in the loan portfolio just by familiarizing 
+
+           14    yourself with China, by having a name out there, 
+
+           15    that was beneficial.  But that doesn't mean that you 
+
+           16    were integrated.  And it doesn't mean that B of A, 
+
+           17    that that was part of your normal course of 
+
+           18    business.  
+
+           19             Thank you.  
+
+           20             Anyone else?  
+
+           21             MS. STOWERS:  Madam Chair?  
+
+           22             MS. HARKEY:  Yes.  Member Stowers.  
+
+           23             MS. STOWERS:  To the appellants -- I don't 
+
+           24    want to put words in your mouth -- but did you say 
+
+           25    it was a passive investment, or just an investment 
+
+           26    in general?  
+
+           27             MR. SPERRING:  I was quoting the Board, 
+
+           28    which found that those investments were passive.  
+
+
+
+
+                                                                    62
+
+
+
+
+                                                                      
+
+
+            1             MS. STOWERS:  Okay.  So what would you say 
+
+            2    about Bank of America's investment into China 
+
+            3    Commercial Bank or CCB?  
+
+            4             MR. SPERRING:  I would say that we -- we 
+
+            5    were a knowledgeable investor, okay, that we didn't 
+
+            6    have -- if we hadn't had that ability to do the 
+
+            7    Strategic Consulting Agreement, right, Assistance 
+
+            8    Agreement, they probably would not have taken us.  
+
+            9    They wanted us to share knowledge with them.  But it 
+
+           10    was never to help get them up to the ways of the 
+
+           11    western banking system.  But it was never to be 
+
+           12    integrated.  
+
+           13             MR. BRANNAN:  I -- I -- if I may.  
+
+           14             MS. STOWERS:  Yes, please.  
+
+           15             MR. BRANNAN:  I think the distinction -- I 
+
+           16    mean any sort of investment certainly falls on a 
+
+           17    continuum.  And I think the language quoted of the 
+
+           18    idea of a passive investment is on one end where the 
+
+           19    money goes in and we do nothing.  But I think in the 
+
+           20    case, the comparison between a passive investment 
+
+           21    and the other type is when the investor, in this 
+
+           22    case say BAC, is actively involved in the management 
+
+           23    by inserting some of its people in the C-Suite, for 
+
+           24    example, or they have a majority or a vocal piece of 
+
+           25    the board of directors.  That would be, again, my -- 
+
+           26    my understanding of the case authorities, that's an 
+
+           27    active investor.  
+
+           28             And then you have a situation like this 
+
+
+
+
+                                                                    63
+
+
+
+
+                                                                      
+
+
+            1    where we really need to resort to the language of 
+
+            2    Hoechst Celanese, the two-way flow of value, where 
+
+            3    if we're in there and we're just training and 
+
+            4    there's no true opportunity for us to learn or to 
+
+            5    enhance our operations, then it clearly falls more 
+
+            6    on the passive investment type situation, or at 
+
+            7    least on that side of the fence when you're talking 
+
+            8    about the biz/nonbusiness determination.  
+
+            9             MS. STOWERS:  I follow what you're saying.  
+
+           10    The issue that I am having is that you do -- you did 
+
+           11    have those agreements, the SSA; which, to me, is 
+
+           12    different than any other investment and it was a 
+
+           13    condition of B of A.  In order to acquire the stock, 
+
+           14    they had to enter into those agreements.  So they 
+
+           15    definitely went hand-in-hand.  
+
+           16             So, to me, it's different than your typical 
+
+           17    investment.  And I realize that what BOA invested 
+
+           18    was small compared to their overall assets.  
+
+           19             MR. BRANNAN:  Yes.  
+
+           20             MS. STOWERS:  But I don't think that's 
+
+           21    really important to determine whether or not we have 
+
+           22    business or nonbusiness income.  
+
+           23             MR. BRANNAN:  There is -- there is a 
+
+           24    materiality requirement in the Hoechst Celanese 
+
+           25    case, but I don't want to ignore the point that 
+
+           26    you're trying to make.  
+
+           27             MS. STOWERS:  -- I'm trying to make.  No, 
+
+           28    no.  I'm following it.  
+
+
+
+
+                                                                    64
+
+
+
+
+                                                                      
+
+
+            1             MR. BRANNAN:  Okay.  
+
+            2             MS. STOWERS:  Definitely there has to be 
+
+            3    integration and there has to be value both ways.  
+
+            4             MR. BRANNAN:  Mm-hmm.  
+
+            5             MS. STOWERS:  I'm going to ask the 
+
+            6    Department, you guys are relying a great deal on 
+
+            7    annual reports and press statements where they 
+
+            8    basically said we entered into -- I don't have it up 
+
+            9    right now -- we did the ATM arrangement or we did 
+
+           10    the lease arrangement or we did -- they defaulted on 
+
+           11    the credit card.  But several, at least four 
+
+           12    arrangements they did, and when they made those 
+
+           13    press announcements they referenced their investment 
+
+           14    with the Chinese bank.  
+
+           15             MR. LO GROSSMAN:  Yes.  
+
+           16             MS. STOWERS:  And I'm kind of paraphrasing.  
+
+           17    So can you help me out?  So is it your argument that 
+
+           18    this -- 
+
+           19             MR. LO GROSSMAN:  Because these -- 
+
+           20             MS. STOWERS:  -- does show the operational 
+
+           21    integration and the value back and forth and that 
+
+           22    BOA, Bank of America, would not have had the 
+
+           23    opportunity to make these arrangements had they 
+
+           24    not -- 
+
+           25             MR. LO GROSSMAN:  What we -- what we have 
+
+           26    are these operational ties and we're relying on 
+
+           27    appellant's own statements to -- to attribute those 
+
+           28    to appellant's investment in China Construction 
+
+
+
+
+                                                                    65
+
+
+
+
+                                                                      
+
+
+            1    Bank.  We can establish that those operational ties 
+
+            2    exist and we can establish that the appellants had 
+
+            3    an investment in China Construction Bank, and 
+
+            4    fitting the two together ultimately comes down to us 
+
+            5    believing appellant's contemporaneous statements.  
+
+            6             Is that the -- I'm sorry if I -- 
+
+            7             MS. STOWERS:  I'm just trying to work this 
+
+            8    out through my -- through my head.  
+
+            9             To Mr. Sperring, I think you wanted to add 
+
+           10    onto something.  
+
+           11             MR. SPERRING:  Thank you, yeah, Madam 
+
+           12    Stowers.  You bring up a great point.  And I guess I 
+
+           13    would steer you to the Appeal of Mark Controls, 
+
+           14    right.  So in Mark Controls the, uh -- the American 
+
+           15    company had directors, right, in Weir and they were 
+
+           16    not happy with the way Weir was managing their 
+
+           17    operations, right.  So you have two valve companies 
+
+           18    and they want to use Weir, which is based in 
+
+           19    Scotland, to sell their products in Europe.  
+
+           20             And so they have their directors, right, 
+
+           21    become executives in the company to help steer the 
+
+           22    management of the company.  
+
+           23             Okay, so that occurs.  Those directors were 
+
+           24    unsuccessful in turning the company around to the 
+
+           25    way that Weir thought it would be managed.  
+
+           26    Therefore -- or, excuse me, the way CTS wanted Weir 
+
+           27    managed.  Therefore, CTS sold out, they gave up, got 
+
+           28    a -- and had a gain.  Your Board held nonbusiness 
+
+
+
+
+                                                                    66
+
+
+
+
+                                                                      
+
+
+            1    income even though those corporate officers were 
+
+            2    there and were active in the company.  
+
+            3             MS. STOWERS:  I understand.  And I 
+
+            4    understand Mark Control and that would kind of track 
+
+            5    for me, especially when you look at the desired 
+
+            6    credit card arrangement that did not take place.  
+
+            7             But we still have the leasing arrangement.  
+
+            8    We still have the ATMs, we still have the wire free.  
+
+            9    So there are some other programs that they entered 
+
+           10    into with them that did come to life.  
+
+           11             MR. SPERRING:  Right.  
+
+           12             MS. STOWERS:  So I'm not really convinced 
+
+           13    that Mark Control is controlling.  
+
+           14             MR. SPERRING:  I -- I hear you.  I hear 
+
+           15    you.  On those three points, I think, are valid.  
+
+           16    And then I would go to Hoechst where they said some 
+
+           17    connection is not enough.  
+
+           18             MS. STOWERS:  Okay.  To the Department, did 
+
+           19    you want to respond to that?  
+
+           20             MR. LO GROSSMAN:  Well, with Mark Controls 
+
+           21    that's exactly our position.  Yes, that would be 
+
+           22    very pertinent to the credit card venture and not to 
+
+           23    anything else.  
+
+           24             With respect to Celanese, we would just 
+
+           25    point out that what they did -- what they say is 
+
+           26    there has to be material production of business 
+
+           27    income and has to materially contribute to the 
+
+           28    production of business income.  
+
+
+
+
+                                                                    67
+
+
+
+
+                                                                      
+
+
+            1             We know that there was business income from 
+
+            2    the leasing venture.  We know that exploiting the 
+
+            3    Chinese market was certainly material to their 
+
+            4    business.  This -- this was a plan to get money from 
+
+            5    more banking in China, and it succeeded.  The 
+
+            6    leasing venture was a part of that.  
+
+            7             We have shown that there is an oper -- that 
+
+            8    there are operational ties.  We have appellant's 
+
+            9    officers saying -- connecting that to the 
+
+           10    investment, and that's all that's required.  
+
+           11             MS. STOWERS:  Do you think there's some 
+
+           12    type of disconnect that they treated the leasing 
+
+           13    income as business income, but yet the overall 
+
+           14    investment is, they're saying is nonbusiness?  
+
+           15             MR. LO GROSSMAN:  Well, on the original 
+
+           16    return everything was business income.  And so, you 
+
+           17    know, on the claim we don't -- I mean we think 
+
+           18    it's -- we think it was always -- we think they were 
+
+           19    right on the original return, so we don't really see 
+
+           20    a disconnect.  
+
+           21             I think what they're trying -- if what 
+
+           22    you're getting at is, you know, how can you have the 
+
+           23    leasing venture be nonbusiness or business and have 
+
+           24    the gains from the stock be something different, 
+
+           25    yes, we think that because the leasing venture is 
+
+           26    clearly business income; they are talking about how 
+
+           27    it wasn't a very good business for them and they 
+
+           28    wanted to get out.  And leasing is clearly part of 
+
+
+
+
+                                                                    68
+
+
+
+
+                                                                      
+
+
+            1    the bank's core business, that makes that business 
+
+            2    income.  Since the stock is part -- since the stock 
+
+            3    was responsible for the leasing venture, we think 
+
+            4    that that brings in the stock as well.  
+
+            5             I don't think they've ever actually claimed 
+
+            6    that the stock -- that the leasing venture was ever 
+
+            7    nonbusiness income.  They've cert -- or I don't -- I 
+
+            8    don't believe they've presented that argument.  
+
+            9             MS. STOWERS:  Go ahead.  
+
+           10             MR. BRANNAN:  No, I think there's a few 
+
+           11    points to make.  And I appreciate your question 
+
+           12    because certainly that was something raised in the 
+
+           13    hearing summary.  
+
+           14             One, the statute requires us to evaluate 
+
+           15    income based on its -- I'm going to be very 
+
+           16    nontechnical -- source.  Where did the money come 
+
+           17    from?  It came from the property.  So we have to 
+
+           18    evaluate the income from the leasing joint venture 
+
+           19    differently or separately -- who knows what the 
+
+           20    answer's going to be when you start down that 
+
+           21    path -- from the income that came to us either as 
+
+           22    dividend or gains on sale from the CCB investment.  
+
+           23             So we look at those separately.  That's 
+
+           24    what the law requires.  And so there's really two 
+
+           25    things then that are set up.  Did we properly 
+
+           26    evaluate the nature of the income from the leasing 
+
+           27    joint venture?  And I'll tell you, Ms. Mirandi here 
+
+           28    is going to walk through why we got to that 
+
+
+
+
+                                                                    69
+
+
+
+
+                                                                      
+
+
+            1    conclusion.  But we're doing the best we can and if 
+
+            2    we follow the law and we evaluate them separately, 
+
+            3    which is what we're required, I mean that's -- 
+
+            4    that's what happens here.  
+
+            5             And then the second question, which I'll 
+
+            6    get to after Karen speaks, is really, Does it have 
+
+            7    any bearing at all on how we treat CCB?  So there's 
+
+            8    two layers of questions here.  
+
+            9             So why did we file the way we did with 
+
+           10    regard to the leasing joint venture?  
+
+           11             MS. MIRANDI:  Sure, Derick, I'm happy to 
+
+           12    address that.  
+
+           13             So under the terms of the leasing JV 
+
+           14    agreement there were several provisions that were 
+
+           15    different than what was under the investment 
+
+           16    agreement for the CCB stock.  So first of all, and I 
+
+           17    think Mr. Smilie may have mentioned this before, we 
+
+           18    had three employees that were seconded from BAC to 
+
+           19    the leasing joint venture; there was a Chief 
+
+           20    Operating Officer, a Chief Risk Officer and then a 
+
+           21    more junior level marketing executive that was 
+
+           22    involved.  
+
+           23             Second, through the terms of the Chief 
+
+           24    Operating Officer's responsibilities we, BAC, had 
+
+           25    the right to request that CCB actually guarantee 
+
+           26    some of the specific lease transactions.  So we had 
+
+           27    some level of control there.  
+
+           28             Third -- and this one is, to me, of 
+
+
+
+
+                                                                    70
+
+
+
+
+                                                                      
+
+
+            1    particular importance -- BAC held a super majority 
+
+            2    vote over some of the more substantial provisions 
+
+            3    within the leasing JV, which included deciding the 
+
+            4    business plan, deciding the investment plan, and 
+
+            5    also being part of the preparation of the annual 
+
+            6    financial budget for the leasing JV.  
+
+            7             And then, again, BAC was entitled to a pro 
+
+            8    rata share of the income from that joint venture 
+
+            9    based on their ownership percentage.  
+
+           10             So these provisions taken together appear 
+
+           11    to -- to -- to suggest a level of control and 
+
+           12    decision making in the leasing JV that was not 
+
+           13    inherent in the investment in the CCB stock.  And so 
+
+           14    when we looked at that and we were looking at filing 
+
+           15    our refund claim, we took that into consideration.  
+
+           16    And, quite honestly, the amount of income that was 
+
+           17    coming out of the leasing JV, I think, was over the 
+
+           18    course of several years -- of the time, four or five 
+
+           19    years, was like $25 million.  So given the 
+
+           20    immateriality of the amount in conjunction with the 
+
+           21    additional provisions that were in the leasing JV 
+
+           22    agreement, we just decided to take a more 
+
+           23    conservative approach on that and we did not include 
+
+           24    that as part of our nonbusiness refund claim that we 
+
+           25    filed.  
+
+           26             MR. BRANNAN:  Here's what's interesting 
+
+           27    about that discussion -- 
+
+           28             MS. HARKEY:  If you could speak in the 
+
+
+
+
+                                                                    71
+
+
+
+
+                                                                      
+
+
+            1    microphone.  
+
+            2             MR. BRANNAN:  I'm sorry.  
+
+            3             Here's what's interesting about that 
+
+            4    discussion.  All of the things that Ms. Mirandi just 
+
+            5    described, or should I say none of the things that 
+
+            6    Ms. Mirandi just described were present in the 
+
+            7    investment relationship with CCB.  And those are the 
+
+            8    things that are important.  They're important under 
+
+            9    the law; what sort of control, what sort of input.  
+
+           10             And -- and -- and so it's a -- you know, 
+
+           11    it's a facts and circumstances test at the end of 
+
+           12    the day.  And we have a taxpayer who's trying to do 
+
+           13    the best we can.  And to suggest that somehow a 
+
+           14    decision made, an honest evaluation here should 
+
+           15    somehow hang us up over here on the other side, I 
+
+           16    think it's -- it's not really the way the analysis 
+
+           17    is supposed to work.  
+
+           18             So we did what we did.  Honestly we look at 
+
+           19    it today, we still think it's the right call.  But 
+
+           20    with regard to the impact of the leasing JV in 
+
+           21    connection or its impact on the rest of the 
+
+           22    investment, we had the person we're investing in 
+
+           23    telling us, "We want you to join us."  Mr. Smilie.  
+
+           24    We didn't think we had much choice.  Who's helping 
+
+           25    who in that situation?  I mean we're just stuck at 
+
+           26    that point.  It's not what we wanted.  It's not why 
+
+           27    we started the investment.  It's really just 
+
+           28    something that was kind of foisted upon us during 
+
+
+
+
+                                                                    72
+
+
+
+
+                                                                      
+
+
+            1    the course of business.  
+
+            2             MR. SPERRING:  It was just emphasized, 
+
+            3    right, it was 5 percent.  So kick in another 5 
+
+            4    percent, if you will.  
+
+            5             MR. BRANNAN:  Right.  I mean the amount of 
+
+            6    the investment was roughly 5 percent of that, you 
+
+            7    know the larger initial investment.  So it's -- you 
+
+            8    know, it's part of -- it's part of the deal with 
+
+            9    them.  They took expertise, and in exchange we got a 
+
+           10    chance to invest in the market.  It always comes 
+
+           11    back to the same thing, it really does.  
+
+           12             MS. STOWERS:  Thank you.  
+
+           13             MS. HARKEY:  Member Ma?  
+
+           14             MS. MA:  Okay.  So I think, you know, the 
+
+           15    Franchise Tax Board, as I hear, you're basing the 
+
+           16    case on operational ties.  
+
+           17             MR. LO GROSSMAN:  Yes.  
+
+           18             MS. MA:  Right.  And the taxpayer is really 
+
+           19    basing it on whether it's integral, inseparable, 
+
+           20    right?  
+
+           21             MR. BRANNAN:  Interwoven.  
+
+           22             MS. MA:  Integral parts, interwoven with 
+
+           23    the company's trade or business.  
+
+           24             MR. SPERRING:  Yeah, the Hoechst Celanese 
+
+           25    language.  
+
+           26             MS. MA:  Right.  
+
+           27             So, how is this different from, like, a 
+
+           28    equity investor where the equity investor invests, 
+
+
+
+
+                                                                    73
+
+
+
+
+                                                                      
+
+
+            1    takes a certain percentage, puts someone on a board 
+
+            2    of directors, you know, is actively engaged in the 
+
+            3    operations and the management of the company because 
+
+            4    they have a stake in the company?  
+
+            5             I think -- I mean, in my opinion it's 
+
+            6    almost like it's like a equity investor, except 
+
+            7    there's a little twist in it in that the equity 
+
+            8    investor really just goes in just for the investment 
+
+            9    and doesn't have any sort of relationship with the 
+
+           10    company that they're investing in.  
+
+           11             And in this case, because you both are 
+
+           12    banks, you know, I think it's a little different 
+
+           13    because there is operational ties, I think, in why 
+
+           14    you did what you did in terms of investing, 
+
+           15    expanding, you know, your footprint.  
+
+           16             But, you know, I'm trying to -- you know, 
+
+           17    I'm not convinced that this is like an integral, 
+
+           18    interwoven, indivisible, inseparable from Bank of 
+
+           19    America's business, because it wasn't initially part 
+
+           20    of, you know, the market.  It was like an 
+
+           21    investment.  It didn't turn out necessarily to do 
+
+           22    much because China controls all of their business 
+
+           23    operations in China.  
+
+           24             And so in terms of, you know, having it be 
+
+           25    interwoven into the fabric, I'm trying to get there 
+
+           26    and I'm trying to figure it out.  But it doesn't -- 
+
+           27    it's not rising to that level in my opinion.  
+
+           28             So, Franchise Tax Board.  
+
+
+
+
+                                                                    74
+
+
+
+
+                                                                      
+
+
+            1             MR. LO GROSSMAN:  Well, I would say that 
+
+            2    the operational tie language that we used was all 
+
+            3    the Board opinions from the '80s and '90s were 
+
+            4    affirmed with approval in Celanese.  So the Celanese 
+
+            5    court was endorsing the position of your Board in 
+
+            6    CTS Keene, which requires operational ties.  
+
+            7             I should also point out that with the whole 
+
+            8    "interwoven, integral, complete" language, that's 
+
+            9    like at the top of page 532 of Celanese.  And if you 
+
+           10    go, like, two paragraphs down, they say that, we 
+
+           11    conclude that forming these interpretations of the 
+
+           12    statutory language into a cohesive whole, we 
+
+           13    conclude that income is business income under the 
+
+           14    functional test if the taxpayer's acquisition, 
+
+           15    control, and use of the property contribute 
+
+           16    materially to the taxpayer's production of the 
+
+           17    business income.  
+
+           18             So that's where Celanese ac -- that's where 
+
+           19    Celanese ends up after they talk about that language 
+
+           20    about interweaving and interwoven.  They end up 
+
+           21    going back to language very similar to CTS Keene 
+
+           22    which is contributing materially to the production 
+
+           23    of business income, operational function, that sort 
+
+           24    of language.  
+
+           25             MS. MA:  Okay.  Okay.  So let's go back to 
+
+           26    material.  How is the investment material to the 
+
+           27    overall Bank of America -- 
+
+           28             MR. LO GROSSMAN:  In Celanese -- 
+
+
+
+
+                                                                    75
+
+
+
+
+                                                                      
+
+
+            1             MS. MA:  -- portfolio?  
+
+            2             MR. LO GROSSMAN:  Sorry.  
+
+            3             In Celanese they use materiality in a 
+
+            4    qualitative sense.  They're talking about the 
+
+            5    pension reversion being part -- a material part of 
+
+            6    Celanese business because employees are material to 
+
+            7    the business of Celanese.  
+
+            8             Here we're talking about market 
+
+            9    exploitation, and markets are clearly -- you know, 
+
+           10    markets are clearly material to any business.  So 
+
+           11    there was never a quantitative materiality test.  
+
+           12             And if you end up -- and as in the 
+
+           13    hearing -- as the hearing summary discussed, if you 
+
+           14    use a quantitative test for materiality, you can end 
+
+           15    up in a situation where nothing that ever happens 
+
+           16    for Wyoming is ever material because it's such a 
+
+           17    small part of any company's business.  
+
+           18             MS. MA:  It's a judgment.  
+
+           19             MR. LO GROSSMAN:  So material -- 
+
+           20             MS. MA:  A judgment. 
+
+           21             MR. LO GROSSMAN:  Materiality has to be 
+
+           22    qualitative.  
+
+           23             MS. MA:  Okay.  
+
+           24             MR. LO GROSSMAN:  Yeah, it's qualitative.  
+
+           25             MS. MA:  Qualitative, okay.  
+
+           26             MR. BRANNAN:  If I may.  
+
+           27             MS. MA:  Yeah.  
+
+           28             MR. BRANNAN:  The problem with what the FTB 
+
+
+
+
+                                                                    76
+
+
+
+
+                                                                      
+
+
+            1    counsel just said is he's focusing on language from 
+
+            2    one aspect of the decision, specifically the 
+
+            3    materiality language.  
+
+            4             Well, the case also defines materiality.  
+
+            5    To say that we have that sort of material 
+
+            6    contribution, when the business is inseparable and 
+
+            7    interwoven -- and I apologize, I'm sure I'm getting 
+
+            8    one of those words wrong.  But going to the 
+
+            9    qualitative discussion, I think it's, you know, 
+
+           10    first point qualitative is good, but it's got to be 
+
+           11    informed at some level by the metrics.  
+
+           12             And second part, when we talk about what 
+
+           13    the court says, it's defining the word integral and 
+
+           14    it sets out basically three parts.  For the 
+
+           15    functional test you have to have control in use over 
+
+           16    the property, that it has to contribute materially 
+
+           17    to the production of business income, and then it 
+
+           18    has to be integral.  Which it then goes on to 
+
+           19    decide -- you know, define -- 
+
+           20             Again, there's too many words, that's why I 
+
+           21    had to write it down at the beginning, I'm sorry.  
+
+           22    But the property is integral when it's so interwoven 
+
+           23    into the fabric of the taxpayer's business.  Again, 
+
+           24    we keep going back to the same thing and it becomes 
+
+           25    indivisible and inseparable.  
+
+           26             What the court's trying to say is we want 
+
+           27    it to be part of the business because that's the 
+
+           28    test at the end of the day.  If it's part of the 
+
+
+
+
+                                                                    77
+
+
+
+
+                                                                      
+
+
+            1    business California has the unitary method.  If it's 
+
+            2    part of the business, we apportion it amongst the 
+
+            3    states or amongst the countries, you know worldwide, 
+
+            4    all that good stuff.  But that's what's not here.  
+
+            5             You know, Mr. Smilie testified on the 
+
+            6    leasing joint venture and I appreciate that that's 
+
+            7    problematic.  I mean we're not hiding from anything.  
+
+            8    I got the right people here.  They can talk about it 
+
+            9    as long as we want, but at the end of the day it was 
+
+           10    set up as a stand-alone business.  It wasn't part of 
+
+           11    our global leasing operations.  We treated it as 
+
+           12    equity investment.  We held it separately.  We 
+
+           13    didn't want to be there.  I mean it was never going 
+
+           14    to be part of our business.  
+
+           15             If it had really taken off, I mean put in a 
+
+           16    hypothetical, if it had really taken off, I'm gonna 
+
+           17    just go out on a limb and say the Chinese government 
+
+           18    and CCB would have wanted us out.  And in fact 
+
+           19    that's kind of what happened.  They wanted to 
+
+           20    improve the revenues to grow the numbers so that 
+
+           21    when they showed their leasing operations against 
+
+           22    those of the other banks, "Look how we're doing, 
+
+           23    we're doing great, look at our numbers," ignoring 
+
+           24    the risk.  
+
+           25             Well, let's go back to the initial 
+
+           26    introduction of the case.  That's what got them in 
+
+           27    trouble in the first place, twenty years of making 
+
+           28    friendly loans and artificially inflating kind of 
+
+
+
+
+                                                                    78
+
+
+
+
+                                                                      
+
+
+            1    those numbers.  And all of a sudden they needed that 
+
+            2    outsider to come in and provide the training and 
+
+            3    help modernize and stabilize their banking system.  
+
+            4             It's -- it is a little different from the 
+
+            5    traditional invest money in the market so to speak, 
+
+            6    no question.  But we didn't get that opportunity.  
+
+            7    It goes to John's earlier example.  We were the 
+
+            8    bank.  We had the knowledge.  And so there's a short 
+
+            9    population of investors that really would meet those 
+
+           10    qualifications.  We gave them money, we gave them 
+
+           11    expertise, and in exchange we got the opportunity to 
+
+           12    invest in the market.  
+
+           13             So I'm trying to respond to many of the 
+
+           14    points that you just kind of walked through, and 
+
+           15    hopefully I just did that.  
+
+           16             MS. MA:  I get it.  No, I understand China 
+
+           17    very well.  And I understand their business model 
+
+           18    and how they operate.  
+
+           19             MR. BRANNAN:  I understand.  Understood.  
+
+           20             MS. MA:  I get it.  
+
+           21             MR. BRANNAN:  Understood.  
+
+           22             MS. HARKEY:  Ms. Ma -- 
+
+           23             MS. MA:  I'm glad you -- 
+
+           24             MS. HARKEY:  -- you understand China?  
+
+           25             MS. MA:  I do, unfortunately, yes.  
+
+           26             MR. BRANNAN:  My apologies.  
+
+           27             MS. MA:  I've taken delegations back since 
+
+           28    1999.  
+
+
+
+
+                                                                    79
+
+
+
+
+                                                                      
+
+
+            1             MR. BRANNAN:  Perfect.  
+
+            2             MS. MA:  So yes.  And I understand that's 
+
+            3    their business model.  And that's where I'm having a 
+
+            4    little difficulty because when you invest in China, 
+
+            5    it'll never be integral to your business.  It is 
+
+            6    China's business.  That's how it is.  It is their 
+
+            7    business and they need you for their intellectual 
+
+            8    expertise until they get to that level where they 
+
+            9    don't need you anymore.  That's how it works.  
+
+           10             MS. HARKEY:  Anymore questions?  
+
+           11             MR. HORTON:  Question of the Department, 
+
+           12    Madam Chair.  
+
+           13             MS. HARKEY:  Yes.  Member Horton.  
+
+           14             MR. HORTON:  You seem to distinguish the 
+
+           15    measurement of materiality from the definition in 
+
+           16    Hoechst Celanese.  Relative to the definition, the 
+
+           17    use of the term interwoven, indivisible, 
+
+           18    inseparable, why do you believe that's there?  
+
+           19             MR. LO GROSSMAN:  That's -- what happened 
+
+           20    in Celanese is the court was affirming a bunch of 
+
+           21    precedent that had been created by your Board over 
+
+           22    the course of decades.  And the language of 
+
+           23    interwoven and inseparable actually came from Holly 
+
+           24    Sugar, which was the very first case.  And they -- 
+
+           25    they were affirming everything that had happened, 
+
+           26    and they just used that nice language from the very 
+
+           27    beginning.  And at the same time they then said but 
+
+           28    we're also in accord with everything that the Board 
+
+
+
+
+                                                                    80
+
+
+
+
+                                                                      
+
+
+            1    has done from the '80s and '90s.  
+
+            2             And if you look back at Holly Sugar, it was 
+
+            3    actually a unitary case.  The cases that we would 
+
+            4    see as business income/nonbusiness income really 
+
+            5    came much later.  So they were affirming -- they 
+
+            6    were actually taking language from old, old unity 
+
+            7    cases and applying it, applying it to a 
+
+            8    business/nonbusiness income case and then saying 
+
+            9    "and by the way, everything your Board has decided 
+
+           10    on business/nonbusiness income cases over the last 
+
+           11    20 years is very good."  
+
+           12             So that's how that language got in there.  
+
+           13    But as they affirmed the Board decisions of the '80s 
+
+           14    and '90s, not all those cases actually requires, you 
+
+           15    know, profound interweaving.  If you look at CTS 
+
+           16    Keene, which was the last decision your Board had on 
+
+           17    minority stock cases, it's about material 
+
+           18    contribution and operational value and operational 
+
+           19    ties.  
+
+           20             MR. HORTON:  So let's -- let's -- let's 
+
+           21    take a look at material contribution and operational 
+
+           22    ties.  The dividend transaction.  
+
+           23             MR. LO GROSSMAN:  The taxable transaction?  
+
+           24             MR. HORTON:  Right.  How did that give B of 
+
+           25    A any control over or any contractual influence over 
+
+           26    the operations in China?  
+
+           27             I understand the relationship.  I mean I 
+
+           28    understand the relationship that was developed as a 
+
+
+
+
+                                                                    81
+
+
+
+
+                                                                      
+
+
+            1    result of the partnership.  Is that sufficient in 
+
+            2    your mind because they now have a relationship, that 
+
+            3    that relationship stems to other relationships?  
+
+            4             MR. LO GROSSMAN:  That would be consistent 
+
+            5    with your Board's precedent that where an -- I mean 
+
+            6    because ultimately in the functional business test, 
+
+            7    and I'm sure this is undisputed -- 
+
+            8             MR. HORTON:  I'm speaking of a relationship 
+
+            9    if I loaned you $5 -- 
+
+           10             MR. LO GROSSMAN:  Okay.  
+
+           11             MR. HORTON:  -- you know, we would have 
+
+           12    some sort of a relationship.  But I couldn't tell 
+
+           13    you what to do, and you certainly couldn't tell me 
+
+           14    what to do.  
+
+           15             MR. LO GROSSMAN:  No, sir.  
+
+           16             The question -- we're talking about the 
+
+           17    functional test, and ultimately the question is 
+
+           18    about the asset at issue, so that would be the 
+
+           19    stock.  
+
+           20             MR. HORTON:  Controlling the asset in order 
+
+           21    to influence the business activity.  
+
+           22             MR. LO GROSSMAN:  Yeah.  The question is -- 
+
+           23    the test is, does that asset serve an operational 
+
+           24    function to the taxpayer before you?  And 
+
+           25    appellant -- Bank of America -- so the question is 
+
+           26    whether -- what is Bank of America getting out of 
+
+           27    its stock interest in China Construction Bank, and 
+
+           28    does it have an operational value to China 
+
+
+
+
+                                                                    82
+
+
+
+
+                                                                      
+
+
+            1    Construction Bank?  And appellant's officers say 
+
+            2    that it did.  And their press releases say that it 
+
+            3    did.  And we believe appellant's contemporaneous 
+
+            4    documentation.  And we've put our case forward on 
+
+            5    that basis.  
+
+            6             Did you have a different question?  
+
+            7             MR. HORTON:  No.  
+
+            8             MS. HARKEY:  Okay, Members, do I hear a 
+
+            9    motion?  
+
+           10             Member Runner?  
+
+           11             MR. RUNNER:  Yeah, I am, at least from my 
+
+           12    observation that I would see that B of A's 
+
+           13    involvement, I guess I see as incidental to their 
+
+           14    investment, does not come up to the controlling 
+
+           15    aspects and what I would understand as certainly the 
+
+           16    operational ties.  
+
+           17             So, you know, I think obviously there's 
+
+           18    some -- there's some involvement.  The question is, 
+
+           19    to what degree is that involvement?  And to me, 
+
+           20    especially the issue that how easily it was to just 
+
+           21    divest of the involvement indicates to me that it 
+
+           22    was not a very integral part of their portfolio -- 
+
+           23    not their -- shouldn't say their portfolio, but 
+
+           24    their -- but their operation.  So I would make a 
+
+           25    motion for a claim -- or approve their claim for 
+
+           26    refund.  
+
+           27             MS. HARKEY:  Is there a second?  
+
+           28             I will second.  
+
+
+
+
+                                                                    83
+
+
+
+
+                                                                      
+
+
+            1             Is there objection?  
+
+            2             MS. STOWERS:  Objection.  
+
+            3             MS. HARKEY:  An objection.  
+
+            4             Please call the roll, Ms. Richmond.  
+
+            5             MS. RICHMOND:  Chairwoman Harkey.  
+
+            6             MS. HARKEY:  Aye.  
+
+            7             MS. RICHMOND:  Mr. Runner.  
+
+            8             MR. RUNNER:  Aye.  
+
+            9             MS. RICHMOND:  Mr. Horton.  
+
+           10             MR. HORTON:  Aye.  
+
+           11             MS. RICHMOND:  Ms. Ma.  
+
+           12             MS. MA:  Aye.  
+
+           13             MS. RICHMOND:  Ms. Stowers.  
+
+           14             MS. STOWERS:  No.  
+
+           15             MS. RICHMOND:  Motion carries.  
+
+           16             MS. HARKEY:  4-1.  Thank you.  
+
+           17             MR. BRANNAN:  Thank you, Board Members.  
+
+           18                          ---oOo---
+
+           19    
+
+           20    
+
+           21    
+
+           22    
+
+           23    
+
+           24    
+
+           25    
+
+           26    
+
+           27    
+
+           28    
+
+
+
+
+
+                                                                    84
+
+
+
+
+                                                                      
+
+
+            1                   REPORTER'S CERTIFICATE
+
+            2    
+
+            3    State of California    )
+
+            4                           )  ss
+
+            5    County of Sacramento   )
+
+            6    
+
+            7             I, Kathleen Skidgel, Hearing Reporter for 
+
+            8    the California State Board of Equalization, state 
+
+            9    that I transcribed from recorded video/audio, to the 
+
+           10    best of my ability, the proceedings in the 
+
+           11    above-entitled hearing; and that the preceding pages 
+
+           12    1 through 84 constitute my transcription of the 
+
+           13    proceedings.  
+
+           14    
+
+           15    Dated:  January 30, 2018 
+
+           16    
+
+           17    
+
+           18                           ____________________________
+
+           19                           Kathleen Skidgel, CSR #9039
+
+           20                           Hearing Reporter
+
+           21                              
+
+           22                              
+
+           23                                
+
+           24             
+
+           25             
+
+           26             
+
+           27             
+
+           28             
+
+
+
+
+                                                                    85
+

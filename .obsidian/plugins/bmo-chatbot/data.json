@@ -1,0 +1,28 @@
+{
+  "apiKey": "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",
+  "max_tokens": "",
+  "model": "gpt-4-1106-preview",
+  "allModels": [
+    "gpt-3.5-turbo",
+    "gpt-3.5-turbo-1106",
+    "gpt-4",
+    "gpt-4-1106-preview"
+  ],
+  "system_role": "you fill in details for anything asked by doing an exhaustive search for as long and as many times as possible to add more info on the subject at hand",
+  "temperature": 1,
+  "userName": "USER",
+  "chatbotName": "BOT",
+  "chatbotContainerBackgroundColor": "--background-secondary",
+  "userMessageBackgroundColor": "#5d7fe5",
+  "botMessageBackgroundColor": "#732121",
+  "chatHistoryPath": "BMO/",
+  "templateFilePath": "",
+  "openAIBaseUrl": "https://api.openai.com/v1",
+  "ollamaRestAPIUrl": "",
+  "ollamaModels": [],
+  "localAIRestAPIUrl": "",
+  "localAIModels": [],
+  "referenceCurrentNote": true,
+  "allowRenameNoteTitle": false,
+  "restAPIUrl": ""
+}

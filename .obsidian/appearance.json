@@ -1,0 +1,9 @@
+{
+  "accentColor": "#9e2510",
+  "cssTheme": "Spectrum",
+  "interfaceFontFamily": "CaskaydiaCove NF,Cascadia Code,Fira Code",
+  "textFontFamily": "CaskaydiaCove NF,Cascadia Code,Fira Code",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono,Cascadia Mono,Fira Code",
+  "nativeMenus": true,
+  "translucency": true
+}

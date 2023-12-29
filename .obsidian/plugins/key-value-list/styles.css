@@ -1,0 +1,31 @@
+.kvl-row,
+.kvl-row-inner,
+.kvl-key,
+.kvl-key-inner,
+.kvl-value {
+    display: inline-block;
+}
+
+.kvl-row-inner {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.kvl-row.kvl-row-even.striped {
+    background-color: var(--background-secondary);
+}
+
+.kvl-key-inner > *,
+.kvl-value > * {
+    display: inline;
+    margin: 0;
+}
+
+.kvl-table,
+.kvl-table td {
+    border: 0 !important;
+}
+
+.kvl-table tr.kvl-row-even {
+    background-color: var(--background-secondary);   
+}
