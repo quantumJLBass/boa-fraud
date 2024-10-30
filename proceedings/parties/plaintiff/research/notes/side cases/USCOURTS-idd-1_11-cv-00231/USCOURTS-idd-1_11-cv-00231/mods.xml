@@ -1,0 +1,279 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee182a551b5">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>United States District Court District of Idaho</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>USCOURTS</collectionCode>
+ <category>Judicial Publications</category>
+ <branch>judicial</branch>
+ <dateIngested>2012-07-03</dateIngested>
+</extension>
+<originInfo>
+ <publisher>Administrative Office of the United States Courts</publisher>
+ <dateIssued encoding="w3cdtf">2012-07-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+</physicalDescription>
+<classification authority="sudocs">JU 4.15</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231</identifier>
+<identifier type="local">P0b002ee182a551b5</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2012-07-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2012-07-03</recordChangeDate>
+ <recordIdentifier source="DGPO">USCOURTS-idd-1_11-cv-00231</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>USCOURTS</docClass>
+ <accessId>USCOURTS-idd-1_11-cv-00231</accessId>
+ <courtType>District</courtType>
+ <courtCode>idd</courtCode>
+ <courtCircuit>9th</courtCircuit>
+ <courtState>Idaho</courtState>
+ <courtSortOrder>2150</courtSortOrder>
+ <caseNumber>1:11-cv-00231</caseNumber>
+ <caseOffice>Boise - Southern</caseOffice>
+ <caseType>civil</caseType>
+ <natureSuitCode>220</natureSuitCode>
+ <natureSuit>Foreclosure</natureSuit>
+ <party firstName="Eric" fullName="Eric L Anderson" lastName="Anderson" middleName="L" role="Plaintiff"></party>
+ <party firstName="Christine" fullName="Christine T Anderson" lastName="Anderson" middleName="T" role="Plaintiff"></party>
+ <party fullName="BAC Home Loans Servicing, LP" lastName="BAC Home Loans Servicing, LP" role="Defendant"></party>
+ <party fullName="Bank of America, N.A." lastName="Bank of America, N.A." role="Defendant"></party>
+ <party fullName="Deutsche Bank Trust Company Americas" lastName="Deutsche Bank Trust Company Americas" role="Defendant"></party>
+ <party fullName="Does 1-10" lastName="Does 1-10" role="Defendant"></party>
+ <party fullName="Reconstruct Company, N.A." lastName="Reconstruct Company, N.A." role="Defendant"></party>
+</extension>
+<titleInfo>
+ <title>Anderson et al v. Bank of America, N.A. et al</title>
+ <partNumber>1:11-cv-00231</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231</url>
+</location>
+<classification authority="sudocs">JU 4.15</classification>
+<identifier type="preferred citation">1:11-cv-00231;11-231</identifier>
+<name type="corporate">
+ <namePart>United States District Court District of Idaho</namePart>
+ <namePart>9th Circuit</namePart>
+ <namePart>Boise - Southern</namePart>
+ <affiliation>U.S. Courts</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+</name>
+<name type="personal">
+ <displayForm>Eric L Anderson</displayForm>
+ <namePart type="family">Anderson</namePart>
+ <namePart type="given">Eric</namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Plaintiff</description>
+</name>
+<name type="personal">
+ <displayForm>Christine T Anderson</displayForm>
+ <namePart type="family">Anderson</namePart>
+ <namePart type="given">Christine</namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Plaintiff</description>
+</name>
+<name type="personal">
+ <displayForm>BAC Home Loans Servicing, LP</displayForm>
+ <namePart type="family">BAC Home Loans Servicing, LP</namePart>
+ <namePart type="given"></namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Defendant</description>
+</name>
+<name type="personal">
+ <displayForm>Bank of America, N.A.</displayForm>
+ <namePart type="family">Bank of America, N.A.</namePart>
+ <namePart type="given"></namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Defendant</description>
+</name>
+<name type="personal">
+ <displayForm>Deutsche Bank Trust Company Americas</displayForm>
+ <namePart type="family">Deutsche Bank Trust Company Americas</namePart>
+ <namePart type="given"></namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Defendant</description>
+</name>
+<name type="personal">
+ <displayForm>Does 1-10</displayForm>
+ <namePart type="family">Does 1-10</namePart>
+ <namePart type="given"></namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Defendant</description>
+</name>
+<name type="personal">
+ <displayForm>Reconstruct Company, N.A.</displayForm>
+ <namePart type="family">Reconstruct Company, N.A.</namePart>
+ <namePart type="given"></namePart>
+ <namePart type="termsOfAddress"></namePart>
+ <description>Defendant</description>
+</name>
+<extension>
+ <docClass>USCOURTS</docClass>
+ <accessId>USCOURTS-idd-1_11-cv-00231</accessId>
+ <courtType>District</courtType>
+ <courtCode>idd</courtCode>
+ <courtCircuit>9th</courtCircuit>
+ <courtState>Idaho</courtState>
+ <courtSortOrder>2150</courtSortOrder>
+ <caseNumber>1:11-cv-00231</caseNumber>
+ <caseOffice>Boise - Southern</caseOffice>
+ <caseType>civil</caseType>
+ <natureSuitCode>220</natureSuitCode>
+ <natureSuit>Foreclosure</natureSuit>
+ <party firstName="Eric" fullName="Eric L Anderson" lastName="Anderson" middleName="L" role="Plaintiff"></party>
+ <party firstName="Christine" fullName="Christine T Anderson" lastName="Anderson" middleName="T" role="Plaintiff"></party>
+ <party fullName="BAC Home Loans Servicing, LP" lastName="BAC Home Loans Servicing, LP" role="Defendant"></party>
+ <party fullName="Bank of America, N.A." lastName="Bank of America, N.A." role="Defendant"></party>
+ <party fullName="Deutsche Bank Trust Company Americas" lastName="Deutsche Bank Trust Company Americas" role="Defendant"></party>
+ <party fullName="Does 1-10" lastName="Does 1-10" role="Defendant"></party>
+ <party fullName="Reconstruct Company, N.A." lastName="Reconstruct Company, N.A." role="Defendant"></party>
+ <state>Idaho</state>
+</extension>
+<relatedItem type="constituent" ID="id-USCOURTS-idd-1_11-cv-00231-0" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-0/mods.xml">
+ <titleInfo>
+  <title>Anderson et al v. Bank of America, N.A. et al</title>
+  <subTitle>MEMORANDUM DECISION AND ORDER granting in part and denying in part 6 Defendant&apos;s Motion to Dismiss; granting 7 Defendant&apos;s Motion to Take Judicial Notice. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (cjm)</subTitle>
+  <partNumber>0</partNumber>
+</titleInfo>
+ <originInfo>
+  <dateIssued>2012-05-14</dateIssued>
+</originInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-0.pdf">
+  <identifier type="FDsys Unique ID">D09002ee182a596a8</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-0</identifier>
+ <identifier type="former granule identifier">idd-1_11-cv-00231_0.pdf</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-0</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-0.pdf</url>
+</location>
+ <extension>
+  <searchTitle>USCOURTS 1:11-cv-00231; Anderson et al v. Bank of America, N.A. et al; </searchTitle>
+  <courtName>United States District Court District of Idaho</courtName>
+  <state>Idaho</state>
+  <accessId>USCOURTS-idd-1_11-cv-00231-0</accessId>
+  <sequenceNumber>0</sequenceNumber>
+  <dateIssued>2012-05-14</dateIssued>
+  <docketText>MEMORANDUM DECISION AND ORDER granting in part and denying in part 6 Defendant&apos;s Motion to Dismiss; granting 7 Defendant&apos;s Motion to Take Judicial Notice. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (cjm)</docketText>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-USCOURTS-idd-1_11-cv-00231-1" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-1/mods.xml">
+ <titleInfo>
+  <title>Anderson et al v. Bank of America, N.A. et al</title>
+  <subTitle>AMENDED MEMORADNUM DECISION AND ORDER AND REPORT AND REPORT AND RECOMMENDATION re 6 MOTION to Dismiss filed by BAC Home Loans Servicing, LP, Bank of America, N.A., Reconstruct Company, N.A., Deutsche Bank Trust Company Americas Objections to R&amp;R due by 6/22/2012. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (krb)</subTitle>
+  <partNumber>1</partNumber>
+</titleInfo>
+ <originInfo>
+  <dateIssued>2012-06-05</dateIssued>
+</originInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-1.pdf">
+  <identifier type="FDsys Unique ID">D09002ee182a596a7</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-1</identifier>
+ <identifier type="former granule identifier">idd-1_11-cv-00231_1.pdf</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-1</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-1.pdf</url>
+</location>
+ <extension>
+  <searchTitle>USCOURTS 1:11-cv-00231; Anderson et al v. Bank of America, N.A. et al; </searchTitle>
+  <courtName>United States District Court District of Idaho</courtName>
+  <state>Idaho</state>
+  <accessId>USCOURTS-idd-1_11-cv-00231-1</accessId>
+  <sequenceNumber>1</sequenceNumber>
+  <dateIssued>2012-06-05</dateIssued>
+  <docketText>AMENDED MEMORADNUM DECISION AND ORDER AND REPORT AND REPORT AND RECOMMENDATION re 6 MOTION to Dismiss filed by BAC Home Loans Servicing, LP, Bank of America, N.A., Reconstruct Company, N.A., Deutsche Bank Trust Company Americas Objections to R&amp;R due by 6/22/2012. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (krb)</docketText>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-USCOURTS-idd-1_11-cv-00231-2" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-2/mods.xml">
+ <titleInfo>
+  <title>Anderson et al v. Bank of America, N.A. et al</title>
+  <subTitle>AMENDED MEMORADNUM DECISION AND ORDER AND REPORT AND REPORT AND RECOMMENDATION granting 7 Motion to Take Judicial Notice. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (krb)</subTitle>
+  <partNumber>2</partNumber>
+</titleInfo>
+ <originInfo>
+  <dateIssued>2012-06-05</dateIssued>
+</originInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee182a5969f</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-2</identifier>
+ <identifier type="former granule identifier">idd-1_11-cv-00231_2.pdf</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-2.pdf</url>
+</location>
+ <extension>
+  <searchTitle>USCOURTS 1:11-cv-00231; Anderson et al v. Bank of America, N.A. et al; </searchTitle>
+  <courtName>United States District Court District of Idaho</courtName>
+  <state>Idaho</state>
+  <accessId>USCOURTS-idd-1_11-cv-00231-2</accessId>
+  <sequenceNumber>2</sequenceNumber>
+  <dateIssued>2012-06-05</dateIssued>
+  <docketText>AMENDED MEMORADNUM DECISION AND ORDER AND REPORT AND REPORT AND RECOMMENDATION granting 7 Motion to Take Judicial Notice. Signed by Judge Ronald E Bush. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (krb)</docketText>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-USCOURTS-idd-1_11-cv-00231-3" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-3/mods.xml">
+ <titleInfo>
+  <title>Anderson et al v. Bank of America, N.A. et al</title>
+  <subTitle>ORDER ADOPTING REPORT AND RECOMMENDATIONS ; adopting 21 Report and Recommendations.; granting in part and denying in part 6 Motion to Dismiss. Signed by Judge Edward J. Lodge. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (dks)</subTitle>
+  <partNumber>3</partNumber>
+</titleInfo>
+ <originInfo>
+  <dateIssued>2012-07-02</dateIssued>
+</originInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee182a596a6</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-3</identifier>
+ <identifier type="former granule identifier">idd-1_11-cv-00231_3.pdf</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-idd-1_11-cv-00231/USCOURTS-idd-1_11-cv-00231-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-3.pdf</url>
+</location>
+ <extension>
+  <searchTitle>USCOURTS 1:11-cv-00231; Anderson et al v. Bank of America, N.A. et al; </searchTitle>
+  <courtName>United States District Court District of Idaho</courtName>
+  <state>Idaho</state>
+  <accessId>USCOURTS-idd-1_11-cv-00231-3</accessId>
+  <sequenceNumber>3</sequenceNumber>
+  <dateIssued>2012-07-02</dateIssued>
+  <docketText>ORDER ADOPTING REPORT AND RECOMMENDATIONS ; adopting 21 Report and Recommendations.; granting in part and denying in part 6 Motion to Dismiss. Signed by Judge Edward J. Lodge. (caused to be mailed to non Registered Participants at the addresses listed on the Notice of Electronic Filing (NEF) by (dks)</docketText>
+</extension>
+</relatedItem>
+</mods>

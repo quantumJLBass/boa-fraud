@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><mets xmlns="http://www.loc.gov/METS/" xmlns:utils="xalan://gov.gpo.fdsys.utils" xmlns:datetime="http://exslt.org/dates-and-times" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" ID="P0b002ee182a551b5" LABEL="Anderson et al v. Bank of America, N.A. et al" OBJID="USCOURTS-idd-1_11-cv-00231">
+<metsHdr CREATEDATE="2022-12-23T23:06:47Z" LASTMODDATE="2022-12-23T23:06:47Z">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>United States Government Publishing Office</name>
+</agent>
+</metsHdr>
+<dmdSec ID="descriptive-metadata-mods-id-USCOURTS-idd-1_11-cv-00231-0">
+<mdRef ID="id-USCOURTS-idd-1_11-cv-00231-0" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-USCOURTS-idd-1_11-cv-00231-0']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-USCOURTS-idd-1_11-cv-00231-1">
+<mdRef ID="id-USCOURTS-idd-1_11-cv-00231-1" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-USCOURTS-idd-1_11-cv-00231-1']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-USCOURTS-idd-1_11-cv-00231-2">
+<mdRef ID="id-USCOURTS-idd-1_11-cv-00231-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-USCOURTS-idd-1_11-cv-00231-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-USCOURTS-idd-1_11-cv-00231-3">
+<mdRef ID="id-USCOURTS-idd-1_11-cv-00231-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-USCOURTS-idd-1_11-cv-00231-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<amdSec>
+<digiprovMD ID="provenance-metadata-premis">
+<mdRef MIMETYPE="text/xml" LOCTYPE="URL" xlink:href="file://premis.xml" MDTYPE="PREMIS"/>
+</digiprovMD>
+</amdSec>
+<fileSec><fileGrp USE="application/pdf"><file ID="FID1" MIMETYPE="application/pdf" SIZE="61215" DMDID="id-USCOURTS-idd-1_11-cv-00231-0">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/USCOURTS-idd-1_11-cv-00231-0.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-0.pdf"/>
+</file>
+<file ID="FID2" MIMETYPE="application/pdf" SIZE="63556" DMDID="id-USCOURTS-idd-1_11-cv-00231-1">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/USCOURTS-idd-1_11-cv-00231-1.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-1.pdf"/>
+</file>
+<file ID="FID3" MIMETYPE="application/pdf" SIZE="63551" DMDID="id-USCOURTS-idd-1_11-cv-00231-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/USCOURTS-idd-1_11-cv-00231-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-2.pdf"/>
+</file>
+<file ID="FID4" MIMETYPE="application/pdf" SIZE="45640" DMDID="id-USCOURTS-idd-1_11-cv-00231-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/USCOURTS-idd-1_11-cv-00231-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-idd-1_11-cv-00231/pdf/USCOURTS-idd-1_11-cv-00231-3.pdf"/>
+</file></fileGrp></fileSec>
+<structMap>
+<div>
+<div DMDID="id-USCOURTS-idd-1_11-cv-00231-0" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID1"/>
+</div>
+<div DMDID="id-USCOURTS-idd-1_11-cv-00231-1" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID2"/>
+</div>
+<div DMDID="id-USCOURTS-idd-1_11-cv-00231-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID3"/>
+</div>
+<div DMDID="id-USCOURTS-idd-1_11-cv-00231-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID4"/>
+</div>
+</div>
+</structMap>
+</mets>

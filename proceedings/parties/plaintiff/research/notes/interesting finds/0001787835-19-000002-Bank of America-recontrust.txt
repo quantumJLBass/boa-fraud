@@ -1,0 +1,1236 @@
+https://www.sec.gov/Archives/edgar/data/1787835/000178783519000002/0001787835-19-000002.txt
+<SEC-DOCUMENT>0001787835-19-000002.txt : 20200115
+<SEC-HEADER>0001787835-19-000002.hdr.sgml : 20200115
+<ACCEPTANCE-DATETIME>20200115125121
+ACCESSION NUMBER:		0001787835-19-000002
+CONFORMED SUBMISSION TYPE:	TA-1/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20191206
+DATE AS OF CHANGE:		20200115
+EFFECTIVENESS DATE:		20191216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Financial Data Services, LLC
+		CENTRAL INDEX KEY:			0001787835
+		IRS NUMBER:				133749871
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		TA-1/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	084-06650
+		FILM NUMBER:		20527863
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 DEER LAKE DRIVE EAST
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32246
+		BUSINESS PHONE:		609-274-6537
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 DEER LAKE DRIVE EAST
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32246
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>TA-1/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/ta/taonefiler">
+  <schemaVersion>X0405</schemaVersion>
+  <headerData>
+    <submissionType>TA-1/A</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001787835</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+        <fileNumber>084-06650</fileNumber>
+      </filer>
+      <flags>
+        <returnCopyFlag>false</returnCopyFlag>
+      </flags>
+      <liveTestFlag>LIVE</liveTestFlag>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <registrant>
+      <regulatoryAgency>SEC</regulatoryAgency>
+      <entityName>Financial Data Services, LLC</entityName>
+      <finsNumber>436998</finsNumber>
+      <principalOfficeAddress>
+        <street1>4800 Deer Lake Drive East</street1>
+        <city>Jacksonville</city>
+        <stateOrCountry>FL</stateOrCountry>
+        <zipCode>32246</zipCode>
+      </principalOfficeAddress>
+      <differentMailingAddress>N</differentMailingAddress>
+      <telephoneNumber>609-274-6537</telephoneNumber>
+      <conductBusinessInOtherLocations>N</conductBusinessInOtherLocations>
+      <selfTransferAgent>N</selfTransferAgent>
+      <engagedServiceCompany>N</engagedServiceCompany>
+      <engagedAsServiceCompany>N</engagedAsServiceCompany>
+    </registrant>
+    <independentRegistrant>
+      <registrantType>Other</registrantType>
+      <soleProprietorshipOtherData>
+        <entityName>Merrilee Joan Matchett (CRD# 6718123)</entityName>
+        <relationshipStartDate>11/30/2018</relationshipStartDate>
+        <titleOrStatus>Member of Registrant's Board &amp; President</titleOrStatus>
+        <authorityDescription>Control Person; no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Michael Adornetto (CRD# 1794652)</entityName>
+        <relationshipStartDate>01/01/2017</relationshipStartDate>
+        <titleOrStatus>Member of Registrant's Board of Managers</titleOrStatus>
+        <authorityDescription>Control Person; no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Edward Francis Dolan (Associated Person - fingerprints on file)</entityName>
+        <relationshipStartDate>01/01/2017</relationshipStartDate>
+        <titleOrStatus>Member of Registrant's Board of Managers</titleOrStatus>
+        <authorityDescription>Control Person; no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Keith David Glenfield (CRD#4403678)</entityName>
+        <relationshipStartDate>01/01/2017</relationshipStartDate>
+        <titleOrStatus>Member of Registrant's Board of Managers</titleOrStatus>
+        <authorityDescription>Control Person; no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>John Joseph Quinn, Jr. (CRD# 2853532)</entityName>
+        <relationshipStartDate>05/22/2019</relationshipStartDate>
+        <titleOrStatus>Member of Registrant's Board of Managers</titleOrStatus>
+        <authorityDescription>Control Person; no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Karen Mayer Woods (Associated Person - fingerprints on file)</entityName>
+        <relationshipStartDate>04/12/2019</relationshipStartDate>
+        <titleOrStatus>Chief Financial Officer</titleOrStatus>
+        <authorityDescription>Not control person-no ownership interest</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>BAC North America Holding Company (BACNAH)</entityName>
+        <relationshipStartDate>04/30/2001</relationshipStartDate>
+        <titleOrStatus>100% owner of MLPF&amp;S</titleOrStatus>
+        <authorityDescription>100% Indirect Parent; Control Person</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>NB Holdings Corporation (NBH)</entityName>
+        <relationshipStartDate>10/17/2008</relationshipStartDate>
+        <titleOrStatus>100% Owner of BACNAH</titleOrStatus>
+        <authorityDescription>100% Indirect Parent; Control Person</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Bank of America Corporation</entityName>
+        <relationshipStartDate>10/01/1998</relationshipStartDate>
+        <titleOrStatus>100% Owner of NBH</titleOrStatus>
+        <authorityDescription>Ultimate Control Person; 100% Indirect</authorityDescription>
+      </soleProprietorshipOtherData>
+      <soleProprietorshipOtherData>
+        <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+        <relationshipStartDate>09/02/2019</relationshipStartDate>
+        <titleOrStatus>100% Owner of Registrant</titleOrStatus>
+        <authorityDescription>Direct Parent; Control Person</authorityDescription>
+      </soleProprietorshipOtherData>
+      <registrantTypeDescription>Limited Liability Company</registrantTypeDescription>
+      <otherControlManagement>
+        <otherEntity>N</otherEntity>
+      </otherControlManagement>
+      <otherControlFinance>
+        <otherEntity>N</otherEntity>
+      </otherControlFinance>
+    </independentRegistrant>
+    <disciplinaryHistory>
+      <felonyOrMisdemeanor>
+        <involved>N</involved>
+      </felonyOrMisdemeanor>
+      <otherFelony>
+        <involved>N</involved>
+      </otherFelony>
+      <enjoinedInvestmentRelatedActivity>
+        <involved>Y</involved>
+        <enjoinedInvestmentRelatedActivityDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </enjoinedInvestmentRelatedActivityDetails>
+        <enjoinedInvestmentRelatedActivityDetails>
+          <entityName>Bank of America, N.A., Bank of America Mortgage Securities, Inc., and Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>11/25/2014</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>ON AUGUST 6, 2013, THE SECURITIES AND EXCHANGE COMMISSION (COMMISSION) FILED A CIVIL INJUNCTIVE ACTION AGAINST MERRILL LYNCH, PIERCE, FENNER &amp; SMITH, INC. F/K/A BANC OF AMERICA SECURITIES LLC (FIRM) AND OTHER ENTITIES (COLLECTIVELY THE ENTITIES). THE COMMISSION ALLEGES THAT THE ENTITIES MADE MATERIAL MISREPRESENTATIONS AND OMISSIONS IN CONNECTION WITH THE SALE OF RESIDENTIAL MORTGAGE-BACKED SECURITIES. SPECIFICALLY, THE COMPLAINT ALLEGES THAT THE ENTITIES FAILED TO DISCLOSE THE DISPROPORTIONATE CONCENTRATION OF WHOLESALE LOANS (72% BY UNPAID PRINCIPAL BALANCE) UNDERLYING THE RESIDENTIAL MORTGAGE-BACKED SECURITIES AS COMPARED TO PRIOR RESIDENTIAL MORTGAGE-BACKED SECURITIES OFFERINGS. THE COMPLAINT ALSO ALLEGES THAT THE ENTITIES FAILED TO DISCLOSE KNOWN RISKS ASSOCIATED WITH THE HIGH CONCENTRATION OF WHOLESALE LOANS IN THE RESIDENTIAL MORTGAGE- BACKED SECURITIES INCLUDING HIGHER LIKELIHOOD THAT THE LOANS WOULD BE SUBJECT TO MATERIAL UNDERWRITING ERRORS, BECOME SEVERELY DELINQUENT, FAIL EARLY IN THE LIFE OF THE LOAN, OR PREPAY. THE COMPLAINT FURTHER ALLEGES THAT THE ENTITIES VIOLATED REGULATION S-K AND SUBPART REGULATION AB OF THE SECURITIES ACT OF 1933 (THE SECURITIES ACT) BY FAILING TO DISCLOSE THE MATERIAL CHARACTERISTICS OF THE POOL OF LOANS UNDERLYING THE RESIDENTIAL MORTGAGE-BACKED SECURITIES. THE COMPLAINT ALSO ALLEGES THAT THE ENTITIES MADE MATERIAL MISREPRESENTATIONS AND OMISSIONS IN ITS PUBLIC FILINGS AND IN THE LOAN TAPES IT PROVIDED TO INVESTORS AND RATING AGENCIES THAT THE LOANS IN THE RESIDENTIAL MORTGAGE-BACKED SECURITIES COMPLIED WITH UNDERWRITING STANDARDS WHEN A MATERIAL AMOUNT DID NOT. FINALLY, THE COMPLAINT ALLEGES THAT THE FIRM VIOLATED SECTION 5(B)(1) OF THE SECURITIES ACT BY FAILING TO FILE WITH THE COMMISSION CERTAIN LOAN TAPES THAT IT PROVIDED ONLY TO SELECT INVESTORS. THE COMMISSION'S COMPLAINT, FILED IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF NORTH CAROLINA, CHARGES THE FIRM WITH VIOLATING THE ANTIFRAUD PROVISIONS OF THE FEDERAL SECURITIES LAWS. THE COMPLAINT ALLEGES THAT THAT THE FIRM VIOLATED SECTIONS 17(A)(2) AND 17(A)(3) OF THE SECURITIES ACT. THE COMPLAINT ALSO ALLEGES THAT THE FIRM VIOLATED SECTION 5(B)(1) OF THE SECURITIES ACT. THE COMPLAINT SEEKS AGAINST THE FIRM A PERMANENT INJUNCTION, DISGORGEMENT WITH PREJUDGMENT INTEREST AND CIVIL MONETARY PENALTIES PURSUANT SECTION 20(D) OF THE SECURITIES ACT.</actionDescription>
+          <dispositionOfProceeding>Injunction Disgorgement of 109,220,000 Prejudgment interest of $6,620,000 Civil Penalty of $109,220,000</dispositionOfProceeding>
+        </enjoinedInvestmentRelatedActivityDetails>
+        <enjoinedInvestmentRelatedActivityDetails>
+          <entityName>Recontrust Company, N.A.</entityName>
+          <actionTitle>State of Washington</actionTitle>
+          <actionDate>08/20/2012</actionDate>
+          <courtOrBodyNameAndLocation>State of Washington</courtOrBodyNameAndLocation>
+          <actionDescription>THE ATTORNEY GENERAL OF THE STATE OF WASHINGTON (THE AG) ENGAGED IN SETTLEMENT DISCUSSIONS WITH RECONTRUST COMPANY, N.A. (RECONTRUST) IN CONNECTION WITH AN INVESTIGATION INTO RECONTRUSTs SERVICES AS A FORECLOSURE TRUSTEE IN THE STATE OF WASHINGTON. ON AUGUST 4, 2011, THE STATE OF WASHINGTON, ACTING THROUGH THE AG, FILED A COMPLAINT (COMPLAINT) AGAINST RECONTRUST IN THE STATE OF WASHINGTON KING COUNTY SUPERIOR COURT (SUPERIOR COURT) IN A CIVIL ACTION CAPTIONED STATE OF WASHINGTON V. RECONTRUST COMPANY, N.A. AND THE MATTER WAS LATER REMOVED TO THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON AT SEATTLE (DISTRICT COURT). THE COMPLAINT ALLEGED THAT RECONTRUST, AS A FORECLOSURE TRUSTEE, FAILED TO COMPLY WITH THE PROCEDURES OF THE WASHINGTON DEED OF TRUST ACT, RCW 61.24, ET SEQ. (DEED OF TRUST ACT) IN FORECLOSURES IT CONDUCTED SINCE AT LEAST JUNE 12, 2008. SPECIFICALLY, THE COMPLAINT ALLEGED THAT RECONTRUST: (A) FAILED TO MAINTAIN AN OFFICE IN THE STATE OF WASHINGTON AS REQUIRED BY LAW, (B) FAILED TO CONDUCT FORECLOSURES AS A NEUTRAL THIRD PARTY WITH A DUTY OF GOOD FAITH TOWARDS THE BORROWER AND THE LENDER, (C) CONCEALED OR MISREPRESENTED THE IDENTIFY OF THE ACTUAL OWNER OF THE DEBT, AND (D) INCLUDED MATERIAL MISREPRESENTATIONS IN RECONTRUSTs TRUSTEEs DEEDS. BASED ON THESE ALLEGATIONS, THE COMPLAINT ALLEGED RECONTRUST VIOLATED THE DEED OF TRUST ACT AND THE CONSUMER PROTECTION ACT, CHAPTER 19.86 RCW (CPA).</actionDescription>
+          <dispositionOfProceeding>Cease and Desist Payment of $1,090,000 for costs and attorneys fees.</dispositionOfProceeding>
+        </enjoinedInvestmentRelatedActivityDetails>
+      </enjoinedInvestmentRelatedActivity>
+      <violationOfInvestmentRelatedRegulation>
+        <involved>Y</involved>
+        <violationOfInvestmentRelatedRegulationDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </violationOfInvestmentRelatedRegulationDetails>
+        <violationOfInvestmentRelatedRegulationDetails>
+          <entityName>Bank of America Corporation</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>02/24/2010</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>The Securities and Exchange Commission (SEC) alleged that Bank of America Corporation (the Corporation) violated Section 14(a) of the Securities Exchange Act of 1934 (the Exchange Act) and Rule 14a-9 thereunder by failing to disclose in the Corporations joint proxy statement filed on November 3, 2008 the incentive compensation that Merrill Lynch &amp; Co., Inc. could, in its discretion, award to its employees prior to completion of its merger with the Corporation.</actionDescription>
+          <dispositionOfProceeding>$150,000,000 Monetary/Fine Disgorgement/Restitution</dispositionOfProceeding>
+        </violationOfInvestmentRelatedRegulationDetails>
+        <violationOfInvestmentRelatedRegulationDetails>
+          <entityName>Bank of America Corporation</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>02/24/2010</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>The Securities and Exchange Commission (SEC) alleged that Bank of America Corporation (the Corporation) violated the federal proxy rules by failing to disclose information concerning Merrill Lynch &amp; Co., Inc.s known and estimated losses in the fourth quarter of 2008 prior to the shareholder vote on December 5, 2008 to approve the merger between the two companies.</actionDescription>
+          <dispositionOfProceeding>$150,000,000 Monetary/Fine Disgorgement/Restitution</dispositionOfProceeding>
+        </violationOfInvestmentRelatedRegulationDetails>
+        <violationOfInvestmentRelatedRegulationDetails>
+          <entityName>Bank of America Corporation &amp; 6 other entities</entityName>
+          <actionTitle>U.S. DOJ and the AGs of 49 states and the District of Columbia</actionTitle>
+          <actionDate>04/05/2012</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Department of Justice and the Attorneys General of 49 states and the Distri</courtOrBodyNameAndLocation>
+          <actionDescription>On March 12, 2012, the Department of Justice and the Attorneys General of 49 states and the District of Columbia filed a complaint (Complaint) and consent judgment against Bank of America Corporation, Bank of America, N.A., BAC Home Loans Servicing, LP f/k/a Countrywide Home Loans Servicing, LP, Countrywide Home Loans, Inc., Countrywide Financial Corporation, Countrywide Mortgage Ventures, LLC, and/or Countrywide Bank, FSB (together, Bank of America) and other major mortgage servicers to settle a number of related investigations into residential loan servicing and origination practices (the Settlement). The Complaint alleged the Defendants misconduct related to its origination and servicing of single family residential mortgages caused the Defendants to have violated, among other laws, the Unfair and Deceptive Acts and Practices laws of the plaintiff States, the False Claims Act, the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, the Servicemembers Civil Relief Act, and the Bankruptcy Code and Federal Rules of Bankruptcy Procedure.</actionDescription>
+          <dispositionOfProceeding>Up to $120,000,000.00 Monetary Fine Additional Servicing Standards</dispositionOfProceeding>
+        </violationOfInvestmentRelatedRegulationDetails>
+        <violationOfInvestmentRelatedRegulationDetails>
+          <entityName>Bank of America, National Association, Countrywide Bank, FSB and Countrywide Home Loans, Inc.</entityName>
+          <actionTitle>United States Attorney for the Southern District of New York</actionTitle>
+          <actionDate>07/31/2014</actionDate>
+          <courtOrBodyNameAndLocation>United States Attorney for the Southern District of New York</courtOrBodyNameAndLocation>
+          <actionDescription>After an individual commenced a qui tam lawsuit, the U.S. Attorney filed a complaint-in-intervention in 2012 in the United States District Court for the Southern District of New York (Court) against Countrywide Home Loans, Inc., Countrywide Bank, FSB, Bank of America, N.A. and certain affiliates (Defendants) alleging that the Defendants engaged in an intentional scheme to misrepresent the quality of the mortgage loans that it processed through a particular loan origination program and sold to Fannie Mae and Freddie Mac during August 2007 to May 2008. The complaint sought to recover treble damages and penalties under the False Claims Act, 31 U.S.C. Section 3729 et. seq. (FCA) and civil penalties under the Financial Institutions Reform, Recovery, and Enforcement Act, 12 U.S.C. Section 1833a (FIRREA).</actionDescription>
+          <dispositionOfProceeding>Judgment of $1,267,491,770 AMENDED 5/23/2016: 2nd Circuit reversed outcome and ordered the District Court to enter judgment in favor of defendants.</dispositionOfProceeding>
+        </violationOfInvestmentRelatedRegulationDetails>
+      </violationOfInvestmentRelatedRegulation>
+      <falseStatementOrOmission>
+        <involved>Y</involved>
+        <falseStatementOrOmissionDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </falseStatementOrOmissionDetails>
+      </falseStatementOrOmission>
+      <violationOfRegulations>
+        <involved>Y</involved>
+        <violationOfRegulationsDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Merrill Lynch Professional Clearing Corp. (MLPCC)</entityName>
+          <actionTitle>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionDescription>
+          <dispositionOfProceeding>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC (f/k/a Stein Roe &amp; Farnham Incorporated)</entityName>
+          <actionTitle>Securities and Exchange Commission</actionTitle>
+          <actionDate>09/25/1986</actionDate>
+          <courtOrBodyNameAndLocation>Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>THE SEC ALLEGED THAT STEIN ROE &amp; FARNHAM INCORPORATED (NKA BOFA ADVISORS, LLC) VIOLATED SECTION 203(E)(5) OF THE INVESTMENT ADVISERS ACT ("ACT") WITH A VIEW TO PREVENTING VIOLATIONS OF SECTION 206 OF THE ACT AND SECTION 10(B) OF THE SECURITIES EXCHANGE ACT AND RULE 10B-5 THEREUNDER.</actionDescription>
+          <dispositionOfProceeding>CENSURE &amp; UNDERTAKING</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC (f/k/a Stein Roe &amp; Farnham Incorporated)</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>01/09/1990</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>THE SEC ALLEGED THAT STEIN ROE &amp; FARNHAM INCORPORATED (NKA BOFA ADVISORS, LLC) VIOLATED SECTION 17(E)(1) OF THE INVESTMENT COMPANY ACT ALLEGING THAT COMPENSATION WAS RECEIVED FOR THE PURCHASE AND SALE OF PROPERTY TO OR FOR THE ACCOUNTS OF SEVERAL INVESTMENT COMPANIES WHICH WERE ADVISED BY STEIN ROE.</actionDescription>
+          <dispositionOfProceeding>CENSURE &amp; UNDERTAKING</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC (f/k/a Colonial Management Associates, Inc.)</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>06/15/1994</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>THE SEC ALLEGED THAT COLONIAL MANAGEMENT ASSOCIATES, INC. (N/K/A BOFA ADVISORS, LLC) VIOLATED SECTIONS 15(C)(3) AND 17(A) OF THE SECURITIES EXCHANGE ACT OF 1934 AND RULES 15C3-1, 17A-3(A)(11) AND 17A-11(A)(1) PROMULGATED</actionDescription>
+          <dispositionOfProceeding>$50,000 Monetary Fine, Cease and Desist</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC (f/k/a Banc of America Capital Management, LLC)</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>02/09/2005</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>PURSUANT TO OFFERS OF SETTLEMENT BY BACAP AND BACAP DISTRIBUTORS, THE SEC ENTERED AN ORDER ON FEBRUARY 9, 2005, FINDING THAT FROM JULY 2000 THROUGH JULY 2003, BACAP AND BACAP DISTRIBUTORS ALLOWED CERTAIN CLIENTS TO ENGAGE IN SHORT-TERM OR EXCESSIVE TRADING WITHOUT DISCLOSURE TO OTHER INVESTORS AND ENTERED INTO AN ARRANGEMENT ALLOWING TWO ENTITIES TO ENGAGE IN FREQUENT SHORT-TERM TRADING. ONE OF THESE ENTITIES WAS EXEMPTED FROM A REDEMPTION FEE ON SHORT-TERM TRADES.</actionDescription>
+          <dispositionOfProceeding>$125,000,000 Monetary Fine Censure Cease and Desist Disgorgement Undertakings</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC (f/k/a/ Columbia Management Advisors, Inc.)</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>02/09/2005</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>PURSUANT TO OFFERS OF SETTLEMENT BY COLUMBIA MANAGEMENT ADVISORS, INC. ("CMA") (N/K/A BOFA ADVISORS, LLC) AND COLUMBIA FUNDS DISTRIBUTORS, INC. ("CFDI") (N/K/A BOFA DISTRIBUTORS, INC.) IN WHICH THEY NEITHER ADMITTED NOR DENIED THE FINDINGS, THE SEC ENTERED AN ORDER ON 2/9/05 FINDING THAT, FROM AT LEAST 1998 THROUGH OCTOBER, 2003, CMA AND CFDI VIOLATED THE FEDERAL SECURITIES LAWS BY ENTERING INTO ARRANGEMENTS WITH 9 INVESTORS THAT ALLOWED THEM TO ENGAGE IN SHORTTERM OR EXCESSIVE TRADING, CONTRARY TO RESTRICTIONS AND/OR REPRESENTATIONS IN THE COLUMBIA FUNDS' PROSPECTUSES, AND ALLOWING OR FAILING TO PREVENT OTHER INVESTORS FROM ENGAGING IN A PRACTICE OF SHORT-TERM OR EXCESSIVE TRADING. THE ORDER ALSO FOUND THAT CMA FAILED TO MAINTAIN POLICIES AND PROCEDURES TO PREVENT MISUSE OF MATERIAL NON-PUBLIC INFORMATION ABOUT PORTFOLIO HOLDINGS.</actionDescription>
+          <dispositionOfProceeding>$70,000,000 Monetary/Fine Censure Cease &amp; Desist Disgorgement Undertakings</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>BofA Advisors, LLC</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>05/01/2008</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>WITHOUT ADMITTING OR DENYING THE SEC'S FINDINGS, BANC OF AMERICA INVESTMENT SERVICES, INC. ("BAISI") AND COLUMBIA MANAGEMENT ADVISORS, LLC ("CMA") (N/K/A BOFA ADVISORS, LLC) HAVE CONSENTED TO THE ENTRY OF AN ORDER THAT FINDS VIOLATIONS OF SECTIONS 17(A)(2) AND 17(A)(3) OF THE SECURITIES ACT OF 1933, SECTIONS 206(2), 206(4), AND 207 OF THE INVESTMENT ADVISERS ACT OF 1940 ("ADVISERS ACT"), AND ADVISERS ACT RULE 206(4)-1(A)(5) IN CONNECTION WITH BAISI'S SELECTION OF CERTAIN MUTUAL FUNDS IN BAISI'S WRAP FEE PROGRAM AND THE ADEQUACY OF DISCLOSURES TO CUSTOMERS REGARDING THE SAME AND CMA'S RECEIPT OF ADDITIONAL MANAGEMENT FEES AS A RESULT THEREOF.</actionDescription>
+          <dispositionOfProceeding>$3,000,000 Monetary Fine Censure Cease and Desist Disgorgement Undertakings</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Bank of America Corporation</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>08/21/2014</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>The Securities and Exchange Commission (Commission) alleged that Bank of America Corporation (BAC) failed to make required disclosures in the Managements Discussion and Analysis and Results of Operations (MD&amp;A) sections of periodic filings, related to known uncertainties as to whether certain costs related to loans BAC would ultimately be required to repurchase from certain insurers would have a material effect on BACs future income from continuing operations. The Commission alleged that BAC violated Section 13(a) of the Exchange Act and Rules 12b-20 and 13a-13 thereunder.</actionDescription>
+          <dispositionOfProceeding>$20,000,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Bank of America Corporation</entityName>
+          <actionTitle>U.S. Securities and Exchange Commission</actionTitle>
+          <actionDate>09/29/2014</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Securities and Exchange Commission</courtOrBodyNameAndLocation>
+          <actionDescription>The Securities and Exchange Commission (Commission) alleged that Bank of America Corporation (BAC), as part of its regulatory capital calculations, failed to deduct certain realized losses on certain structured notes and other financial instruments (the Notes) issued by Merrill Lynch &amp; Co., Inc. (ML&amp;Co.) that BAC assumed or acquired as part of its acquisition of ML&amp;Co. and, therefore, BAC overstated its regulatory capital in its Form 10-Q filings from 2009-2014 and in its Form 10-K filings for financial years 2009-2013. The Commission alleged that BAC violated Section 13(b)(2)(A) and (B) of the Exchange Act.</actionDescription>
+          <dispositionOfProceeding>$7,650,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Bank of America, National Association</entityName>
+          <actionTitle>U.S. Commodity Futures Trading Commission</actionTitle>
+          <actionDate>09/19/2018</actionDate>
+          <courtOrBodyNameAndLocation>U.S. Commodity Futures Trading Commission</courtOrBodyNameAndLocation>
+          <actionDescription>THE U.S. COMMODITY FUTURES TRADING COMMISSION (CFTC) ALLEGED THAT, ON OCCASION FROM JANUARY 2007 THROUGH DECEMBER 2012, THE FIRM, BY AND THROUGH CERTAIN OF ITS TRADERS, ATTEMPTED TO MANIPULATE THE U.S. DOLLAR INTERNATIONAL SWAPS AND DERIVATIVES ASSOCIATION FIX (USD ISDAFIX), A BENCHMARK RELATED TO INTEREST-RATE PRODUCTS, TO BENEFIT THE FIRMS DERIVATIVES POSITIONS IN VIOLATION OF SECTION 9(A)(2) OF THE COMMODITY EXCHANGE ACT (CEA); SECTION 6(C) AND 6(D) OF THE CEA, FOR CONDUCT OCCURRING PRIOR TO AUGUST 15, 2011; AND SECTION 6(C)(1), 6(C)(1)(A), 6(C)(3) AND 6(D) OF THE CEA, AND REGULATIONS 180.1(A) AND 180.2, FOR CONDUCT OCCURRING ON OR AFTER AUGUST 15, 2011.</actionDescription>
+          <dispositionOfProceeding>$30,000,000 Monetary/Fine Cease and Desist Undertakings</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Merrill Lynch Commodities, Inc.</entityName>
+          <actionTitle>Commodity Futures Trading Commission</actionTitle>
+          <actionDate>12/07/2011</actionDate>
+          <courtOrBodyNameAndLocation>Commodity Futures Trading Commission</courtOrBodyNameAndLocation>
+          <actionDescription>THE CFTC ALLEGED THAT MERRILL LYNCH COMMODITIES, INC. (MLCI) VIOLATED SECTION 4A(B)(2) OF THE COMMODITY EXCHANGE ACT, AS AMENDED, AND CFTC REGULATION 150.2, 17 C.F.R. Section 150.02 (2011) WHEN MLCI HELD NET SHORT FUTURES EQUIVALENT POSITIONS IN COTTON NO. 2 FUTURES CONTRACTS IN EXCESS OF SPECULATIVE POSITION LIMITS SET BY THE CFTC AS A RESULT OF ITS TRADING ON THE INTERCONTINENTALEXCHANGE U.S. OVER FOUR CONSECUTIVE DAYS FROM JANUARY 31, 2011 THROUGH FEBRUARY 3, 2011.</actionDescription>
+          <dispositionOfProceeding>$350,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+        <violationOfRegulationsDetails>
+          <entityName>Merrill Lynch Commodities, Inc.</entityName>
+          <actionTitle>Commodity Futures Trading Commission</actionTitle>
+          <actionDate>06/25/2019</actionDate>
+          <courtOrBodyNameAndLocation>Commodity Futures Trading Commission</courtOrBodyNameAndLocation>
+          <actionDescription>On numerous occasions from at least 2008 to 2014, Merrill Lynch Commodities, Inc. (MLCI), by and through certain of its traders, placed orders to buy or sell precious metals futures contracts traded on the Commodity Exchange, Inc. with the intent to cancel the orders before execution in violation of Section 9(a)(2) of the Commodity Exchange Act (the Act), 7 U.S.C. Section 13(a)(2) (2012) and, for conduct occurring on or after August 15, 2011, Sections 4c(a)(5)(C), 6(c)(1), 6(c)(3) of the Act, 7 U.S.C. Sections 6c(a)(5)(C), 9(1), 9(3) (2012), and Regulations 180.1 and 180.2, 17 C.F.R. Sections 180.1, 180.2 (2019).</actionDescription>
+          <dispositionOfProceeding>$11,500,000 Monetary/Fine; $11,100,000 Disgorgement; $2,364,585 Restitution; Cease and Desist; Undertakings</dispositionOfProceeding>
+        </violationOfRegulationsDetails>
+      </violationOfRegulations>
+      <authorizationDeniedOrSuspended>
+        <involved>N</involved>
+      </authorizationDeniedOrSuspended>
+      <registrationDeniedOrSuspended>
+        <involved>Y</involved>
+        <registrationDeniedOrSuspendedDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </registrationDeniedOrSuspendedDetails>
+        <registrationDeniedOrSuspendedDetails>
+          <entityName>Merrill Lynch Professional Clearing Corp. (MLPCC)</entityName>
+          <actionTitle>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionDescription>
+          <dispositionOfProceeding>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</dispositionOfProceeding>
+        </registrationDeniedOrSuspendedDetails>
+      </registrationDeniedOrSuspended>
+      <federalOrStateRegulatoryAgency>
+        <fsrFalseStatementOrOmission>
+          <involved>Y</involved>
+          <fsrFalseStatementOrOmissionDetails>
+            <entityName>Merril Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </fsrFalseStatementOrOmissionDetails>
+        </fsrFalseStatementOrOmission>
+        <fsrViolationOfInvestmentRelatedRegulation>
+          <involved>Y</involved>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>BofA Advisors, Inc. (f/k/a Crabbe Huson Group, Inc.)</entityName>
+            <actionTitle>Ontario (Canada) Securities Commission</actionTitle>
+            <actionDate>08/10/1999</actionDate>
+            <courtOrBodyNameAndLocation>Ontario (Canada) Securities Commission</courtOrBodyNameAndLocation>
+            <actionDescription>THE ONTARIO SECURITIES COMMISSION ALLEGED THAT THE CRABBE HUSON GROUP, INC. (NKA BOFA ADVISORS, LLC) FAILED TO TIMELY FILE CERTAIN REPORTS CONCERNING THE AGGREGATE OWNERSHIP OF ITS CLIENTS IN A CANADIAN COMPANY.</actionDescription>
+            <dispositionOfProceeding>$120,000 Monetary Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>BofA Advisors, LLC (f/k/a Banc of America Capital Management, LLC)</entityName>
+            <actionTitle>Office of the New York Attorney General</actionTitle>
+            <actionDate>02/09/2005</actionDate>
+            <courtOrBodyNameAndLocation>Office of the New York Attorney General</courtOrBodyNameAndLocation>
+            <actionDescription>ON FEBRUARY 9, 2005, NEITHER ADMITTING NOR DENYING THE FINDINGS, BACAP AND BACAP DISTRIBUTORS ENTERED INTO AN ASSURANCE OF DISCONTINUANCE WITH THE OFFICE OF THE NEW YORK ATTORNEY GENERAL TO SETTLE ALLEGATIONS THEY HAD VIOLATED THE MARTIN ACT, EXECUTIVE LAW S.63(12), AND THE GENERAL BUSINESS LAW S.349. THE ASSURANCE OF DISCONTINUANCE FINDS THAT BACAP AND BACAP DISTRIBUTORS, FROM AS EARLY AS JULY 2000 THROUGH JULY 2003, ALLOWED CERTAIN CLIENTS TO ENGAGE IN SHORT-TERM OR EXCESSIVE TRADING WITHOUT DISCLOSURE TO OTHER INVESTORS AND ENTERED INTO AN ARRANGEMENT WITH TWO ENTITIES ALLOWING THEM TO ENGAGE IN FREQUENT SHORT-TERM TRADING. ONE OF THESE ENTITIES WAS EXEMPTED FROM A REDEMPTION FEE ON SHORT-TERM TRADES.</actionDescription>
+            <dispositionOfProceeding>$125,000,000 Monetary Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>BofA Advisors, LLC (f/k/a/ Columbia Management Advisors, Inc.)</entityName>
+            <actionTitle>Office of the New York Attorney General</actionTitle>
+            <actionDate>02/09/2005</actionDate>
+            <courtOrBodyNameAndLocation>Office of the New York Attorney General</courtOrBodyNameAndLocation>
+            <actionDescription>ON 2/9/05, NEITHER ADMITTING NOR DENYING THE FINDINGS, CMA &amp; CFDI ENTERED INTO AN ASSURANCE OF DISCONTINUANCE WITH THE OFFICE OF THE NYAG TO SETTLE ALLEGATIONS THAT CMA &amp; CFDI HAD VIOLATED THE MARTIN ACT, EXECUTIVE LAW S.63(12), &amp; THE G.B.L. S.349. THE ASSURANCE OF DISCONTINUANCE FINDS THAT, FROM AT LEAST 1998 THROUGH OCTOBER 2003, CMA &amp; CFDI ENTERED INTO ARRANGEMENTS WITH 9 INVESTORS THAT ALLOWED THEM TO ENGAGE IN SHORT-TERM OR EXCESSIVE TRADING, CONTRARY TO RESTRICTIONS AND/OR REPRESENTATIONS IN THE PROSPECTUSES OF THE FUNDS THEN KNOWN AS THE COLUMBIA FUNDS, ALLOWED OR FAILED TO PREVENT OTHER INVESTORS FROM ENGAGING IN A PRACTICE OF SHORT-TERM OR EXCESSIVE TRADING, &amp; FAILED TO MAINTAIN POLICIES OR PROCEDURES TO PREVENT THE MISUSE OF MATERIAL NON-PUBLIC INFORMATION ABOUT PORTFOLIO HOLDINGS.</actionDescription>
+            <dispositionOfProceeding>$70,000,000.00 Monetary Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>New York County (New York) District Attorney</actionTitle>
+            <actionDate>09/28/2006</actionDate>
+            <courtOrBodyNameAndLocation>New York County (New York) District Attorney</courtOrBodyNameAndLocation>
+            <actionDescription>Bank of America Corporation allegedly had deficiencies in certain internal anti-money laundering controls relating to South American money service business customers.</actionDescription>
+            <dispositionOfProceeding>$6,000,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>Internal Revenue Service</actionTitle>
+            <actionDate>12/08/2010</actionDate>
+            <courtOrBodyNameAndLocation>Internal Revenue Service</courtOrBodyNameAndLocation>
+            <actionDescription>Bank of America Corporation (Bank) violated certain bidding requirements set forth in the Treasury Regulations related to certain investment contracts, and entered into certain investment and/or swap contracts (or provided bids to enter into such contracts) that did not reflect the fair market value of those contracts.</actionDescription>
+            <dispositionOfProceeding>$25,000,000 Restitution</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>BA Insurance Group, Inc.; Balboa Insurance Company; and Meritplan Insurance Company</entityName>
+            <actionTitle>New York State Department of Financial Services</actionTitle>
+            <actionDate>04/18/2013</actionDate>
+            <courtOrBodyNameAndLocation>New York State Department of Financial Services</courtOrBodyNameAndLocation>
+            <actionDescription>THE NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES (DFS) ENGAGED IN SETTLEMENT DISCUSSIONS WITH BALBOA INSURANCE COMPANY (BIC), MERITPLAN INSURANCE COMPANY (MIC), BA INSURANCE GROUP, INC., AND CERTAIN OTHER UNAFFILIATED ENTITIES (COLLECTIVELY, THE RESPONDENTS) IN CONNECTION WITH AN INVESTIGATION CONCERNING SO CALLED FORCE-PLACED INSURANCE OR LENDERPLACED INSURANCE POLICIES ISSUED IN NEW YORK STATE. ON APRIL 18, 2013, THE DFS ISSUED A CONSENT ORDER AGAINST THE RESPONDENTS FINDING THAT BIC AND MIC VIOLATED NEW YORK INSURANCE LAW SECTIONS 2303, 2324, AND 2403. SPECIFICALLY, THE CONSENT ORDER FOUND THAT SPECIFIED PRACTICES BY RESPONDENTS CONCERNING (1) THE LENDER-PLACED INSURANCE RATES AND ASSOCIATED LOSS RATIOS AND (2) THE POTENTIAL CONFLICT OF INTEREST PRESENTED BY THE PROVISION OF LENDER-PLACED INSURANCE TO AFFILIATED PARTIES VIOLATED THE REFERENCED PROVISIONS OF THE NEW YORK INSURANCE LAW.</actionDescription>
+            <dispositionOfProceeding>$6,000,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Corporation and Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated</entityName>
+            <actionTitle>Attorney General of the State of New York Investor Protection Bureau</actionTitle>
+            <actionDate>03/22/2018</actionDate>
+            <courtOrBodyNameAndLocation>Attorney General of the State of New York Investor Protection Bureau</courtOrBodyNameAndLocation>
+            <actionDescription>THE ATTORNEY GENERAL OF THE STATE OF NEW YORK INVESTOR PROTECTION BUREAU ALLEGED THAT BANK OF AMERICA CORPORATION (BAC) AND THE FIRM (1) CONCEALED FROM ITS INSTITUTIONAL CLIENTS THAT ORDERS WERE ROUTED TO AND EXECUTED BY ELECTRONIC LIQUIDITY PROVIDERS, (2) MISSTATED THE COMPOSITION OF ORDERS AND TRADES IN ITS DARK POOL, AND (3) DID NOT ACCURATELY DESCRIBE ITS USE OF A PROPRIETARY VENUE RANKING ANALYSIS, IN VIOLATION OF THE MARTIN ACT AND EXECUTIVE LAW 63(12).</actionDescription>
+            <dispositionOfProceeding>$42,000,000 Monetary/Fine Other: Agreement not to engage, or attempt to engage, in conduct in violation of any applicable laws; agreement to provide certain materials to NYAG.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin)</actionTitle>
+            <actionDate>05/14/2018</actionDate>
+            <courtOrBodyNameAndLocation>Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin)</courtOrBodyNameAndLocation>
+            <actionDescription>The BaFin alleged that necessary and reasonable supervisory and organizational measures which could have ensured the correct and complete submission of voting rights notifications within the time stipulated were not taken on time or to the adequate extent by the company concerned, which led to violations of voting rights notification requirements.</actionDescription>
+            <dispositionOfProceeding>1,340,000 Euros (USD1,635,872) Monetary/Fine 7,500 Euros (USD9,156) fees for cost of proceeding.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America NT&amp;SA (n/k/a Bank of America, N.A.)</entityName>
+            <actionTitle>Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>07/23/1987</actionDate>
+            <courtOrBodyNameAndLocation>Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>VIOLATION OF BOOKS AND RECORDKEEPING PROVISIONS AS WELL AS OTHER PROVISIONS OF THE U.S. SECURITIES LAWS.</actionDescription>
+            <dispositionOfProceeding>Censure Order lifted in 1991.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America NT&amp;SA (n/k/a Bank of America, N.A.)</entityName>
+            <actionTitle>Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>01/01/1992</actionDate>
+            <courtOrBodyNameAndLocation>Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>VIOLATION OF CERTAIN RECORDKEEPING REQUIREMENTS UNDER THE UNITED STATES GOVERNMENT SECURITIES ACT AND COMPTROLLER'S RULES.</actionDescription>
+            <dispositionOfProceeding>$100,000 Monetary Fine &amp; Cease and Desist Order was lifted 01/31/1997</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Monetary Authority of Singapore</actionTitle>
+            <actionDate>06/14/2013</actionDate>
+            <courtOrBodyNameAndLocation>Monetary Authority of Singapore</courtOrBodyNameAndLocation>
+            <actionDescription>The MAS took administrative action against Bank of America, National Association (Singapore Branch) (BANA Singapore) and eighteen other banks in the market for deficiencies in governance, risk management, internal controls, and surveillance systems from 2007 to 2011 related to the submission processes for Singapore dollar interest rate benchmarks specifically, SIBOR and SOR and Foreign Exchange spot benchmarks in four emerging market Asian currencies. In addition, the MAS determined BANA Singapore personnel engaged in electronic communications in which they initiated, received, acknowledged, or relayed requests to improperly influence submissions for certain of the above-referenced ABS Benchmarks. The MAS stated it had not made the finding that the ABS Benchmarks had been manipulated by any of the nineteen banks subject to its order, but found that the action of the BANA Singapore (and other banks) personnel reflected a lack of professional conduct and integrity.</actionDescription>
+            <dispositionOfProceeding>Censure Undertakings</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, N.A. &amp; FIA Card Services, N.A.</entityName>
+            <actionTitle>Consumer Financial Protection Bureau</actionTitle>
+            <actionDate>04/07/2014</actionDate>
+            <courtOrBodyNameAndLocation>Consumer Financial Protection Bureau</courtOrBodyNameAndLocation>
+            <actionDescription>On April 7, 2014, the Consumer Financial Protection Bureau (CFPB) issued a Consent Order against Bank of America, National Association and FIA Card Services, National Association. The Order identified deficiencies in connection with fulfillment of customer processing concerning the provision of identity theft protection products as well as vendor and risk management protocols concerning so-called add-on products. In addition, the CFPB identified what it alleged were deceptive statements in connection with the marketing and sale of credit card debt cancellation products.</actionDescription>
+            <dispositionOfProceeding>$20,000,000 Monetary/Fine Cease and Desist Restitution Undertakings Order lifted 01/27/2017</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, N.A. &amp; FIA Card Services, N.A.</entityName>
+            <actionTitle>The Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>04/07/2014</actionDate>
+            <courtOrBodyNameAndLocation>The Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>On April 7, 2014, the Comptroller of the Currency of the United States of America (OCC) issued a Consent Order against Bank of America, National Association and FIA Card Services, National Association. The Order identified deficiencies in connection with fulfillment of customer processing concerning the provision of identity theft protection products as well as vendor and risk management protocols concerning so-called add-on products.</actionDescription>
+            <dispositionOfProceeding>$25,000,000 Monetary/Fine Restitution Undertakings Order lifted April 25, 2016.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>The Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>05/29/2015</actionDate>
+            <courtOrBodyNameAndLocation>The Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>On May 29, 2015, the Comptroller of the Currency (OCC) issued an Order to Cease and Desist and Order of Assessment of a Civil Money Penalty (together, the Orders) against Bank of America, N.A. (BANA) relating to the Servicemembers Civil Relief Act (SCRA) and BANAs sworn document and collections litigation practices. In the Orders, the OCC identified (i) unsafe or unsound practices in connection with BANAs efforts to comply with the SCRA, (ii) SCRA violations, and (iii) unsafe or unsound practices in connection with BANAs sworn document and collections litigation practices. Regarding the SCRA, the Orders stated BANA failed to have effective policies and procedures to ensure compliance with SCRA; failed to devote sufficient financial, staffing, and managerial resources to ensure proper administration of its SCRA compliance processes; failed to devote to its SCRA compliance processes adequate internal controls, compliance risk management, internal audit, third party management, and training; and engaged in violations of the SCRA. Regarding the sworn document and collections litigation process, the Orders stated that BANA filed or caused to be filed in courts affidavits executed by its employees or employees of third party service providers making assertions that, in many cases, were not based on personal knowledge or review of relevant books and records; filed or caused to be filed in court affidavits when BANA did not follow proper notary procedures; failed to devote sufficient financial, staffing, and managerial resources to ensure proper administration of its sworn document and collections litigation processes; and failed to sufficiently oversee outside counsel and other third-party providers handling sworn document and collections litigation services.</actionDescription>
+            <dispositionOfProceeding>$30,000,000.00 Monetary/Fine Cease and Desist Remedial Actions Order lifted January 23, 2018.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>The Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>06/29/2015</actionDate>
+            <courtOrBodyNameAndLocation>The Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>On June 29, 2015, the Comptroller of the Currency (OCC) issued a Consent Order and a Consent Order for a Civil Money Penalty (together, the Orders) against Bank of America, N.A. (BANA) relating to the BANAs practices that resulted in violations of the National Flood Insurance Act of 1968, as amended, and the Flood Disaster Protection Act of 1973, as amended (collectively, FDPA), 42 U.S.C. Section 4001, et seq., and their implementing regulations. Specifically, the OCC found that, since at least 2011, BANA violated 42 U.S.C. Section 4012a(e) (placement of flood insurance by lender) and 12 C.F.R. Sections 22.3 (requirement to purchase flood insurance where available) and 22.9 (notice of special flood hazards and availability of Federal disaster relief assistance) in making, increasing, extending, renewing, and/or servicing designated loans (loans secured by buildings or mobile homes located in special flood hazard areas in which flood insurance is available under the National Flood Insurance Act of 1968). The OCC found that these violations resulted from deficient policies, procedures, and processes and an ineffective FDPA compliance program.</actionDescription>
+            <dispositionOfProceeding>$1,104,530.00 Monetary/Fine Cease and Desist Remedial Actions Order lifted July 12, 2017.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association (Singapore Branch)</entityName>
+            <actionTitle>Bank of Thailand</actionTitle>
+            <actionDate>03/09/2016</actionDate>
+            <courtOrBodyNameAndLocation>Bank of Thailand</courtOrBodyNameAndLocation>
+            <actionDescription>On February 15, 2016, Bank of America, N.A./Singapore Branch exceeded the prescribed Non-Resident Baht Account (NRBAs) balance limit as prescribed in Bank of Thailand (BOT) Circular No. BOT.ECD.(02) C. 371/2551 Re: Seeing Cooperation for Compliance with Measures to Prevent Thai Baht Speculation.</actionDescription>
+            <dispositionOfProceeding>Monetary/Fine of approx. US$8,918.58 Reiteration of need to have strict monitoring by BANA/Bangkok Branch.</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association and Merrill Lynch International</entityName>
+            <actionTitle>Securities and Futures Commission of Hong Kong</actionTitle>
+            <actionDate>06/29/2016</actionDate>
+            <courtOrBodyNameAndLocation>Securities and Futures Commission of Hong Kong</courtOrBodyNameAndLocation>
+            <actionDescription>The Securities and Futures Commission of Hong Kong (SFC) alleged that Bank of America, National Association and Merrill Lynch International (collectively, the Respondents) failed to disclose dealings in relevant securities in two transactions in 2015 as required by the Hong Kong Code on Takeovers and Mergers</actionDescription>
+            <dispositionOfProceeding>Censure</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Reserve Bank of India</actionTitle>
+            <actionDate>12/08/2016</actionDate>
+            <courtOrBodyNameAndLocation>Reserve Bank of India</courtOrBodyNameAndLocation>
+            <actionDescription>THE RESERVE BANK OF INDIA (RBI) CAME TO THE CONCLUSION THAT THERE WERE LAPSES ON THE PART OF BANK OF AMERICA, NATIONAL ASSOCIATION (BANA) IN REPORTING OF THE NETTING OFF TRANSACTIONS ON GROSS BASIS IN R RETURNS, WHICH VIOLATED THE INSTRUCTION ISSUED BY THE RBI. THIS RESULTED IN THE TRANSACTIONS NOT BEING DETECTED/SCRUTINIZED FOR MORE THAN THREE YEARS (I.E., FROM 2012 TO 2015).</actionDescription>
+            <dispositionOfProceeding>Monetary/Fine of INR10,000 (approx. USD150)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Bangko Sentral Ng Pilipinas</actionTitle>
+            <actionDate>10/12/2017</actionDate>
+            <courtOrBodyNameAndLocation>Bangko Sentral Ng Pilipinas</courtOrBodyNameAndLocation>
+            <actionDescription>The Bangko Sentral Ng Pilipinas (BS) approved the imposition of a monetary penalty on the Firm for the following violations of the Manual of Regulations on Foreign Exchange Transactions: deficiency in E/foreign currency deposit unit (FCDU) asset cover requirement, false/erroneous certification of compliance with E/FCDU cover and breach on the cap on allowable lending of FCDU funds to regular banking units.</actionDescription>
+            <dispositionOfProceeding>Monetary/Fine of PHP67,303,484.29 (approx.. USD1,309,930)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association (f/k/a Bank of America National Trust &amp; Savings Association)</entityName>
+            <actionTitle>Securities and Exchange Commission of the Republic of the Philippines</actionTitle>
+            <actionDate>11/28/2017</actionDate>
+            <courtOrBodyNameAndLocation>Securities and Exchange Commission of the Republic of the Philippines</courtOrBodyNameAndLocation>
+            <actionDescription>The Securities and Exchange Commission of the Philippines (Philippines SEC) alleged that the Firm did not meet certain reporting requirements in the Philippines regarding its Regional Area Headquarters (RHQ), which had not engaged in any operations in the Philippines for decades and did not plan to engage in any operations in the Philippines in the future.</actionDescription>
+            <dispositionOfProceeding>Suspension</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Reserve Bank of India</actionTitle>
+            <actionDate>02/25/2019</actionDate>
+            <courtOrBodyNameAndLocation>Reserve Bank of India</courtOrBodyNameAndLocation>
+            <actionDescription>The Reserve Bank of India (RBI) alleged that the Firms reconciliation of logs generated from SWIFT was not sufficient and violated the direction of the RBI.</actionDescription>
+            <dispositionOfProceeding>INR100,000 Monetary/Fine (approx. USD144,952.00)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Bangko Sentral Ng Pilipinas</actionTitle>
+            <actionDate>04/26/2019</actionDate>
+            <courtOrBodyNameAndLocation>Bangko Sentral Ng Pilipinas</courtOrBodyNameAndLocation>
+            <actionDescription>The Bangko Sentral Ng Pilipinas (BSP) approved the imposition of a monetary penalty on the Firm for non-compliance with the 100.0 percent Expanded/Foreign Currency Deposit Unit (E/FCDU) asset cover requirement</actionDescription>
+            <dispositionOfProceeding>PHP1,011,442.07 (approx. USD19,473.80)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Mexico, S.A. Institucion de Banca Multiple</entityName>
+            <actionTitle>Banco de Mexico</actionTitle>
+            <actionDate>10/06/2011</actionDate>
+            <courtOrBodyNameAndLocation>Banco de Mexico</courtOrBodyNameAndLocation>
+            <actionDescription>BANCO DE MEXICO ALLEGED THAT DURING THE PERIOD FROM MARCH 14-29, 2011, BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE ("BANK OF AMERICA MEXICO") VIOLATED NUMERALS 3.1.1 AND 3.2.1 OF CIRCULAR 4/2006 WHEN BANK OF AMERICA MEXICO PERFORMED CREDIT DERIVATIVE TRANSACTIONS AS INTERMEDIARY WITHOUT HAVING THE BANCO DE MEXICO AUTHORIZATION TO PERFORM SUCH TRANSACTIONS.</actionDescription>
+            <dispositionOfProceeding>$7,355.56 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Mexico, S.A. Institucion de Banca Multiple</entityName>
+            <actionTitle>Comision Nacional Bancaria y de Valores (CNBV)</actionTitle>
+            <actionDate>11/02/2013</actionDate>
+            <courtOrBodyNameAndLocation>Comision Nacional Bancaria y de Valores (CNBV)</courtOrBodyNameAndLocation>
+            <actionDescription>THE CNBV ALLEGED THAT DURING THE FOURTH QUARTER OF 2008, BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE AND MERRILL LYNCH MEXICO, S.A. DE C.V., CASA DE BOLSA, PARTICIPATED IN TRADING ACTIVITY INVOLVING MEXICAN GOVERNMENT BONDS THAT RAN CONTRARY TO PROVISIONS UNDER ARTICLE 370 OF THE MEXICAN SECURITIES LAW.</actionDescription>
+            <dispositionOfProceeding>US$540,000 Monetary Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Asia Pacific) Limited</entityName>
+            <actionTitle>Securities and Futures Commission of Hong Kong (SFC)</actionTitle>
+            <actionDate>03/31/2000</actionDate>
+            <courtOrBodyNameAndLocation>Securities and Futures Commission of Hong Kong (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>SFC CONDUCTED AN INVESTIGATION OF FORMER MLAP STAFF MEMBERS RELATING TO UNAUTHORIZED AND IMPROPER TRADING OF ML WARRANTS THROUGH NOMINEE ACCOUNTS MAINTAINED BY THEM AT THIRD PARTY UNRELATED BROKERS IN HONG KONG.</actionDescription>
+            <dispositionOfProceeding>Severe Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Asia Pacific) Limited and Merrill Lynch Futures (Hong Kong) LImited</entityName>
+            <actionTitle>Hong Kong Securities and Futures Commission (SFC)</actionTitle>
+            <actionDate>05/31/2010</actionDate>
+            <courtOrBodyNameAndLocation>Hong Kong Securities and Futures Commission (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>THE SFC FOUND THAT DURING THE PERIOD FROM DECEMBER 2007 TO OCTOBER 2008, A MANAGING DIRECTOR OF MERRILL LYNCH (ASIA PACIFIC) LIMITED (MLAPL) AND MERRILL LYNCH FUTURES (HONG KONG) LIMITED (MLFHKL) HAD MISMARKED A TRADING BOOK IN EXOTICS OPTIONS (BOOK) BY MANIPULATING THE VOLATILITY MARKS IN THE VALUATION MODEL, AND ACCESSED THE COMPUTER SYSTEM WITHOUT AUTHORITY TO ALTER PRICING PARAMETERS ON VARIOUS OCCASIONS. THE MISMARKING ACTIVITIES, WHICH DID NOT APPLY TO OTHER BOOKS, RESULTED IN THE VALUE OF THE BOOK BEING INFLATED BY APPROXIMATELY US$25 MILLION AND CAUSED THE ACTUAL LOSS IN THE BOOK TO BE WRONGLY REPORTED INTERNALLY. THE SFC FOUND THAT MLAPL AND MLFHKL DID NOT HAVE ADEQUATE INTERNAL CONTROLS PROCEDURES IN PLACE TO MANAGE THE RISKS ASSOCIATED WITH MISMARKING, IN THAT (I) THERE WAS UNCERTAINTY AS TO SUPERVISORY RESPONSIBILITIES OVER THE TRADER AND THE BOOK; (II) THE PRICE VERIFICATION MECHANISM APPLIED TO OTHER TRADING BOOKS WAS NOT APPLIED TO THE BOOK; (III) THERE WERE INADEQUATE CHECKS AND BALANCES OVER THE BOOK TO MITIGATE OPERATION RISKS INCLUDING RISKS ASSOCIATE WITH FRAUD AND DISHONEST ACTIVITIES; (IV) THERE WAS INSUFFICIENT SAFEGUARD OVER INFORMATION SECURITY AND INTEGRITY AS REGARDS THE BOOK; (V) TRADING AND VALUATION POLICIES WERE NOT SUFFICIENTLY IMPLEMENTED OVER THE BOOK; AND (IV) SENIOR MANAGEMENT FAILED TO ADEQUATELY MANAGE THE RISKS ASSOCIATED WITH THE BOOK.</actionDescription>
+            <dispositionOfProceeding>$449,000 Monetary/Fine Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Asia Pacific) Limited</entityName>
+            <actionTitle>Hong Kong Securities and Futures Commission (SFC)</actionTitle>
+            <actionDate>05/12/2011</actionDate>
+            <courtOrBodyNameAndLocation>Hong Kong Securities and Futures Commission (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>THE SFC RAISED CONCERNS THAT MERRILL LYNCH (ASIA PACIFIC) LIMITED (MLAPL) FAILED TO PROPERLY ASSESS THE FINANCIAL SITUATION AND INVESTMENT OBJECTIVES OF OVER 40 OF THE 72 CUSTOMERS WHO INVESTED IN TWO INDEX-LINKED NOTES DURING 2007. THE SFC WAS ALSO CONCERNED THAT KEY PRODUCT INFORMATION WAS ONLY PROVIDED TO CLIENTS AFTER THEY HAD AGREED TO INVEST IN THE INDEX-LINKED NOTES AND THAT MLAPL KEPT INADEQUATE DOCUMENTATION TO EXPLAIN THE RATIONALE BEHIND THE ADVISE THEY HAD GIVEN TO THEIR CUSTOMERS.</actionDescription>
+            <dispositionOfProceeding>$385,921 Monetary/Fine Reprimand Repurchase Program Undertakings</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Asia Pacific) Limited</entityName>
+            <actionTitle>Hong Kong Securities and Futures Commission (SFC)</actionTitle>
+            <actionDate>08/22/2012</actionDate>
+            <courtOrBodyNameAndLocation>Hong Kong Securities and Futures Commission (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>THE SECURITIES AND FUTURES COMMISSION (SFC) TOOK THE VIEW THAT MERRILL LYNCH (ASIA PACIFIC) LIMITED (MLAP) FAILED TO PROPERLY INVESTIGATE THE COMPLAINTS MADE BY 11 CLIENTS OF MLAP IN 2008 AGAINST A FORMER LICENSED REPRESENTATIVE ACCREDITED TO MLAP, IN BREACH OF GENERAL PRINCIPALS 2 AND PARAGRAPH 12.3 OF THE CODE OF CONDUCT FOR PERSONS LICENSED BY OR REGISTERED WITH THE SFC.</actionDescription>
+            <dispositionOfProceeding>$130,632.60 Monetary/Fine Reprimand Undertaking</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Asia Pacific) Limited and Merrill Lynch Far East Limited</entityName>
+            <actionTitle>Hong Kong Securities and Futures Commission (SFC)</actionTitle>
+            <actionDate>03/23/2017</actionDate>
+            <courtOrBodyNameAndLocation>Hong Kong Securities and Futures Commission (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>This disciplinary action was taken according to an agreement pursuant to Section 201 of the Securities and Futures Ordinance dated March 23, 2017 in relation to Merrill Lynch Far East Limiteds and Merrill Lynch (Asia Pacific) Limiteds internal control failures related to its reporting of Large Open Positions, electronic trading systems, distribution of research reports involving futures contracts, and disclosure of market making activities in research reports.</actionDescription>
+            <dispositionOfProceeding>USD$1,931,134.00 (HKD15 million) Monetary/Fine Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Australia) Futures Limited</entityName>
+            <actionTitle>Australian Securities and Investments Commission</actionTitle>
+            <actionDate>08/14/2017</actionDate>
+            <courtOrBodyNameAndLocation>Australian Securities and Investments Commission</courtOrBodyNameAndLocation>
+            <actionDescription>During the period between October 22, 2010 and June 20, 2016, Merrill Lynch (Australia) Futures Limited (MLAF) provided access to the ASX 24 Market using seven (7) pathways. In 2016, as the result of an ad hoc review of market limits that applied at the downstream level, MLAF identified four (4) pathways that had inappropriate limits for MLAF and its Clients. Therefore, during the relevant period, ASIC has reasonable grounds to believe that MLAF contravened Rule 2.2.1(1)(a) by reason of failing to set and document appropriate volume limits for each Client Account and contravened Rule 2.2.1(1)(b) by reason of failing to set and document appropriate maximum price change limits.</actionDescription>
+            <dispositionOfProceeding>AUD$60,000 Monetary Fine (USD$47,355.50)</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch (Singapore) Pte. Ltd.</entityName>
+            <actionTitle>Singapore Exchange (SGX)</actionTitle>
+            <actionDate>12/12/2014</actionDate>
+            <courtOrBodyNameAndLocation>Singapore Exchange (SGX)</courtOrBodyNameAndLocation>
+            <actionDescription>On September 8, 2014, Merrill Lynch (Singapore) Pte. Ltd. was late in reporting two married trades to the SGX which was not in compliance with SGX-ST Rule 8.7.5 which requires married trades to be reported in the first 20 minutes of the opening routine on the following market day.</actionDescription>
+            <dispositionOfProceeding>SGD$7,000 (USD$5,330.68) Monetary Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Canada Limited</entityName>
+            <actionTitle>Investment Dealers Association of Canada</actionTitle>
+            <actionDate>06/24/1981</actionDate>
+            <courtOrBodyNameAndLocation>Investment Dealers Association of Canada</courtOrBodyNameAndLocation>
+            <actionDescription>FAILED TO OBTAIN ESSENTIAL NEW ACCOUNT INFORMATION FOR VARIOUS CUSTOMERS, FAILED TO PREVENT AN ACCOUNT EXECUTIVE FROM EXECUTING UNAUTHORIZED TRADES IN THE ACCOUNTS OF CUSTOMERS, FAILED TO PREVENT IMPROPER CROSS TRADING BY THE AFORESAID ACCOUNT EXECUTIVE AND PERMITTED CERTAIN ACCOUNTS TO BECOME UNDER-MARGINED.</actionDescription>
+            <dispositionOfProceeding>$250,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Equities (Australia) Limited</entityName>
+            <actionTitle>The Australian Stock Exchange</actionTitle>
+            <actionDate>12/21/2004</actionDate>
+            <courtOrBodyNameAndLocation>The Australian Stock Exchange</courtOrBodyNameAndLocation>
+            <actionDescription>ALLEGATIONS THAT DEFICIENCIES WERE IDENTIFIED IN MLEALs RELEVANT ORDER RECORDS, SYSTEMS AND PROCESSES. THERE WERE ALLEGATIONS OF DEFICIENCIES IN THREE SEPARATE AGENCY ORDER RECORD MATTERS.</actionDescription>
+            <dispositionOfProceeding>$35,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Equities (Australia) Limited</entityName>
+            <actionTitle>Australian Securities and Investments Commission</actionTitle>
+            <actionDate>06/10/2014</actionDate>
+            <courtOrBodyNameAndLocation>Australian Securities and Investments Commission</courtOrBodyNameAndLocation>
+            <actionDescription>Merrill Lynch Equities (Australia) Limited is alleged to have contravened section 798HH(1) of the Corporations Act 2001 by reason of contravening Rule 5.9.1 of the ASIC Market Integrity Rules 2010 by failing to prevent the entry in the ASX Trading Platform of an erroneous order which resulting in a market for RIO Tinto Limited Ordinary shares not being both fair and orderly.</actionDescription>
+            <dispositionOfProceeding>AUD$65,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Equities (Australia) Limited</entityName>
+            <actionTitle>Australian Securities and Investments Commission</actionTitle>
+            <actionDate>08/07/2014</actionDate>
+            <courtOrBodyNameAndLocation>Australian Securities and Investments Commission</courtOrBodyNameAndLocation>
+            <actionDescription>Merrill Lynch Equities (Australia) Limited (MLE(A)L) contravened ASIC Market Integrity Rules 5.6.1 and 5.9.1 and thereby contravened subsection 798H(1) of the Act in that the MLE(A)L failed to have in place an appropriate automated price filter for one client account, which interfered with the efficiency and integrity of the market; and MLE(A)Ls misconduct resulted in a market not being both fair and orderly.</actionDescription>
+            <dispositionOfProceeding>AUD$96,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Equities (Australia) Limited</entityName>
+            <actionTitle>Australian Securities and Investments Commission</actionTitle>
+            <actionDate>11/03/2017</actionDate>
+            <courtOrBodyNameAndLocation>Australian Securities and Investments Commission</courtOrBodyNameAndLocation>
+            <actionDescription>On November 3, 2017, the Markets Disciplinary Panel (MDP) of the Australian Securities and Investments Commission (ASIC) gave an infringement notice to Merrill Lynch Equities (Australia) Limited (MLEA) under regulation 7.2A.04 of the Corporations Regulations 2001 on the basis that it has grounds to believe that MLEA had contravened subsection 798H(1) of the Corporations Act 2001 by reason of contravening the following provisions of the ASIC Market Integrity Rules (Competition in Exchange Markets) 2011 and the ASIC Market Integrity Rules (Chi-X Australia Market) 2011: Competition Rule 3.1.1(4) Best Execution Opt Out Rule; Competition Rule 3.1.1(5)(a) Periodic Review of Opt Out Instructions Rule; Competition Rule 4A.4.4(1) Crossing System Opt Out Rule; and Chi-X Rule 3.3.1(b) Client Instructions Rule.</actionDescription>
+            <dispositionOfProceeding>AUD$140,000 Montary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Far East Limited</entityName>
+            <actionTitle>Securities and Futures Commission of Hong Kong (SFC)</actionTitle>
+            <actionDate>03/31/2000</actionDate>
+            <courtOrBodyNameAndLocation>Securities and Futures Commission of Hong Kong (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>SFC CONDUCTED AN INVESTIGATION OF FORMER MLAP STAFF MEMBERS RELATING TO UNAUTHORIZED AND IMPROPER TRADING OF ML WARRANTS THROUGH NOMINEE ACCOUNTS MAINTAINED BY THEM AT THIRD PARTY UNRELATED BROKERS IN HONG KONG.</actionDescription>
+            <dispositionOfProceeding>Severe Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Far East Limited</entityName>
+            <actionTitle>Hong Kong Securities and Futures Commission (SFC)</actionTitle>
+            <actionDate>04/02/2015</actionDate>
+            <courtOrBodyNameAndLocation>Hong Kong Securities and Futures Commission (SFC)</courtOrBodyNameAndLocation>
+            <actionDescription>The SFC investigated Merrill Lynch Far East Limited in connection with the holding of 14,181 contract on the Hang Seng China Enterprises Index (HSCEI) on May 30, 2013 in breach of the prescribed position limit of 12, 000 contracts. The SFC found that Merrill Lynch failed to implement adequate internal controls to monitor positions in HSCEI futures and options contracts to ensure compliance with the prescribed position limit.</actionDescription>
+            <dispositionOfProceeding>HK$2,000,000 (USD$257,571.29) Monetary Fine Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Far East Limited</entityName>
+            <actionTitle>The (Hong Kong) Securities and Futures Commission</actionTitle>
+            <actionDate>03/14/2019</actionDate>
+            <courtOrBodyNameAndLocation>The (Hong Kong) Securities and Futures Commission</courtOrBodyNameAndLocation>
+            <actionDescription>The SFC alleged that the Firm failed to discharge its duties as a sponsor in relation to a companys listing application for the Stock Exchange of Hong Kong Limited and in particular failed to (a) conduct adequate and reasonable due diligence inquiries in relation to the companys listing application and use all reasonable efforts to ensure that the information and representations provided in the prospectus were true, accurate and not misleading; (b) perform adequate and reasonable due diligence inquiries in relation to the companys customers; and (c) comply with all regulatory requirements applicable to the conduct of a sponsor.</actionDescription>
+            <dispositionOfProceeding>HK$128 million (approx. US$16.4 million) Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Futures (Singapore) Pte. Ltd.</entityName>
+            <actionTitle>Singapore International Monetary Exchange Limited</actionTitle>
+            <actionDate>02/23/1999</actionDate>
+            <courtOrBodyNameAndLocation>Singapore International Monetary Exchange Limited</courtOrBodyNameAndLocation>
+            <actionDescription>MERRILL L YNCH FUTURES (SINGAPORE) PTE. LTD. VIOLATED CERTAIN RULES RELATING TO THE EXECUTION OF ALLOR NON AND CROSS TRADES ON THE FLOOR OF THE SIMEX IN CONNECTION WITH THE NIKKEI 225 FUTURES CONTRACT.</actionDescription>
+            <dispositionOfProceeding>$2,500 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International (UK) (n/k/a BofAML Investments)</entityName>
+            <actionTitle>London Stock Exchange</actionTitle>
+            <actionDate>04/30/1997</actionDate>
+            <courtOrBodyNameAndLocation>London Stock Exchange</courtOrBodyNameAndLocation>
+            <actionDescription>MERRILL LYNCH INTERNATIONAL BREACHED LONDON STOCK EXCHANGE RULE 2.11 (CONDITIONAL TRADES).</actionDescription>
+            <dispositionOfProceeding>$10,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International (UK) (n/k/a BofAML Investments)</entityName>
+            <actionTitle>London Stock Exchange PLC</actionTitle>
+            <actionDate>10/19/2000</actionDate>
+            <courtOrBodyNameAndLocation>London Stock Exchange PLC</courtOrBodyNameAndLocation>
+            <actionDescription>CONTRARY TO LSE RULE 4.64(E) MLI MISTAKENLY SUBMITTED AN ORDER TO THE ORDER BOOK WITH AN ERRONEOUS PRICE IN BREACH OF ITS OBLIGATION TO HAVE AT ALL TIMES SUFFICIENT ORDER MANAGEMENT SYSTEMS, PROCEDURES AND CONTROLS TO PREVENT THE ENTRY OF SUCH ERRONEOUS ORDERS.</actionDescription>
+            <dispositionOfProceeding>$14,240 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Financial Services Authority</actionTitle>
+            <actionDate>08/04/2006</actionDate>
+            <courtOrBodyNameAndLocation>Financial Services Authority</courtOrBodyNameAndLocation>
+            <actionDescription>FROM SEPTEMBER 1996 TO DECEMBER 2001, MERRILL LYNCH BREACHED SFA RULE 5.49 BY FAILING TO ACCURATELY REPORT THE CAPACITY IN WHICH IT EXECUTED TRANSACTIONS IN NON-UK EUROPEAN EQUITIES WHEN REPORTING TRANSACTIONS TO THE SFA. FROM DECEMBER 2001 UNTIL JANUARY 2006, MERRILL LYNCH BREACHED FSA RULE SUP 17.6.2R BY FAILING TO ACCURATELY REPROT THE CAPACITY IN WHICH IT EXECUTED TRANSACTIONS IN NON-UK EUROPEAN EQUITIES WHEN REPORTING TRANSACTIONS TO THE FSA.</actionDescription>
+            <dispositionOfProceeding>$150,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Italian Commissione Nazionale per la Societa e la Borsa (CONSOB)</actionTitle>
+            <actionDate>01/10/2008</actionDate>
+            <courtOrBodyNameAndLocation>Italian Commissione Nazionale per la Societa e la Borsa (CONSOB)</courtOrBodyNameAndLocation>
+            <actionDescription>CONSOB INVESTIGATED EVENTS OCCURRING BETWEEN APRIL 20, 2005 AND SEPTEMBER 20, 2005 REGARDING AN EQUITY SWAP AGREEMENT WHICH RESULTED IN MERRILL LYNCH INTERNATIONAL BECOMING THE LEGAL OWNER OF A MORE THAN 5 PERCENT HOLDING IN AN ITALIAN COMPANY WHICH WAS DEEMED UNDER ITALIAN LAW TO BE A SIGNIFICANT HOLDING FOR THE PURPOSES OF FULFILLING NOTIFICATION OBLIGATIONS PURSUANT TO THE FOLLOWING ITALIAN LEGISLATION: ARTICLES 120 OF LEGISLATIVE DECREE NO 58/98 AND 119 OF REGULATION NO. 11971/99 AND WAS ACCORDINGLY TO BE NOTIFIED IN ACCORDANCE WITH THE MANNER AND TERMS PROVIDED UNDER ARTICLE 121 OF SAID REGULATION.</actionDescription>
+            <dispositionOfProceeding>$369,950 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Securities and Exchange Board of India (SEBI)</actionTitle>
+            <actionDate>06/06/2014</actionDate>
+            <courtOrBodyNameAndLocation>Securities and Exchange Board of India (SEBI)</courtOrBodyNameAndLocation>
+            <actionDescription>Gemini Communications Ltd (GCL) had issued Euro 15 million at 6 percent foreign currency convertible bonds (FCCBs) to Merrill Lynch International (MLI) on July 17, 2007 with a maturity date of July 18, 2012. MLI had the right to convert the FCCBs into 19,746,885 equity shares of GCL (representing 15.59 percent of the total share capital of GCL) at a conversion price specified from time to time during the conversion period (i.e., between August 1, 2007 and June 18, 2012). Further, as per the terms of the FCCBs the conversion option of MLI revives if (a) an event of default occurs; or (b) FCCBs are not redeemed on the maturity date. On 26th October 26, 2012, MLI filed a disclosure under the terms of Regulation 29(2) of the SEBI (Substantial Acquisition of Shares and Takeover) Regulations, 2011 (Takeover Regulations) read with Regulation 28(2) of the Takeover Regulations in relation to cessation of the right to convert the FCCBs. Thereafter, on November 12, 2012, MLI made a disclosure under Regulation 29(1) of the Takeover Regulations with respect to revival of the right to convert the FCCBs into equity shares of GCL due to default payment of GCL upon maturity of the FCCBs.</actionDescription>
+            <dispositionOfProceeding>USD$68,170.94 (INR40,34,185) Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Financial Conduct Authority</actionTitle>
+            <actionDate>04/22/2015</actionDate>
+            <courtOrBodyNameAndLocation>Financial Conduct Authority</courtOrBodyNameAndLocation>
+            <actionDescription>The Financial Conduct Authority (FCA) took action because Merrill Lynch International (MLI) contravened SUP 17.1.4R and SUP 17.4.1 EU by failing to report or to accurately report certain transactions between November 2007 and November 2014.</actionDescription>
+            <dispositionOfProceeding>GBP13,285,900 (USD19,989,553.67) Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Financial Supervisory Service (South Korea)</actionTitle>
+            <actionDate>11/10/2016</actionDate>
+            <courtOrBodyNameAndLocation>Financial Supervisory Service (South Korea)</courtOrBodyNameAndLocation>
+            <actionDescription>DUE TO A BOOKING ERROR ON A BLOCK OF KOREA EXCHANGE (KRX) LISTED ORDINARY SHARES MERRILL LYNCH INTERNATIONAL (MLI) WAS ENTITLED TO RECEIVE, A POSITION WAS DOUBLE BOOKED AND MLI SOLD MORE SHARES THAN IT HAD IN INVENTORY. THIS RESULTED IN MLI SELLING SHORT IN THE MARKET WITHOUT SUFFICIENT INVENTORY TO MEET SETTLEMENT OBLIGATIONS IN VIOLVATION OF KRX LOCAL SHORT SALE REGULATIONS. AHEAD OF THE SETTLEMENT, MLI ARRANGED A BORROW TO ALLOW THE TRADE SETTLEMENT. THE KRX REPORTED THE MATTER TO THE FINANCIAL SUPERVISORY SERVICE.</actionDescription>
+            <dispositionOfProceeding>Caution</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Financial Conduct Authority</actionTitle>
+            <actionDate>10/23/2017</actionDate>
+            <courtOrBodyNameAndLocation>Financial Conduct Authority</courtOrBodyNameAndLocation>
+            <actionDescription>The Financial Conduct Authority (FCA) imposed a financial penalty on the Firm for breaches of Principle 3 (management and control) of the FCAs Principles for Businesses and Article 9 of the European Markets Infrastructure Regulation (EMIR) in connection with the reporting of exchange traded derivatives.</actionDescription>
+            <dispositionOfProceeding>GBP34,524,000 (USD45,525,500) Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch International &amp; Co. C.V.</entityName>
+            <actionTitle>Stock Exchange of Hong Kong Limited (SEHK)</actionTitle>
+            <actionDate>03/31/2000</actionDate>
+            <courtOrBodyNameAndLocation>Stock Exchange of Hong Kong Limited (SEHK)</courtOrBodyNameAndLocation>
+            <actionDescription>INACCURATE AND INCOMPLETE INFORMATION WAS PROVIDED TO THE SEHK WITH RESPECT TO THE PLACING AND TRADING ML WARRANTS.</actionDescription>
+            <dispositionOfProceeding>Severe Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Merrill Lynch International D.A.C. (f/k/a Merrill Lynch International Bank Limited)</entityName>
+            <actionTitle>The Securities and Futures Authority Limited (SFA)</actionTitle>
+            <actionDate>04/03/2002</actionDate>
+            <courtOrBodyNameAndLocation>The Securities and Futures Authority Limited (SFA)</courtOrBodyNameAndLocation>
+            <actionDescription>IT WAS ALLEGED THE MLIB FAILED TO ACT WITH DUE SKILL, CARE AND DILIGENCE AND FAILED TO ARRANGE PROPER PROTECTION FOR A CLIENTs ASSETS IN INSTRUCTING THE TRANSFERS OF NINE SECURITIES, IN BREACH OF PRINCIPLES 2 AND 7 OF SFAs STATEMENTS OF PRINCIPLE.</actionDescription>
+            <dispositionOfProceeding>$177,500 Monetary/Fine Censure Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Merrill Lynch International D.A.C. (f/k/a Merrill Lynch International Bank Limited)</entityName>
+            <actionTitle>Rialtoir Airgaedais</actionTitle>
+            <actionDate>10/22/2009</actionDate>
+            <courtOrBodyNameAndLocation>Rialtoir Airgaedais</courtOrBodyNameAndLocation>
+            <actionDescription>THERE WERE TWO SEPARATE INCIDENTS IN WHICH TRADERS FAILED TO APPROPRIATELY VALUE THEIR POSITIONS AND WHICH OCCURRED IN THE LONDON BRANCH OF MERRILL LYNCH INTERNATIONAL BANK LIMITED (MLIB). THE FIRST INCIDENT OCCURRED BETWEEN DECEMBER 2008 AND FEBRUARY 2009, RESULTING IN LOSSES TO MLIB OF $456 MILLION. THE SECOND OCCURRED BETWEEN MAY AND AUGUST 2009, RESULTING IN LOSSES OF $5.3 MILLION. FULL DETAILS OF THE SECOND INCIDENT WERE NOTIFIED TO THE FINANCIAL REGULATOR DURING THE COURSE OF THE EXAMINATION INTO THE FIRST INCIDENT. BREACHES OF REGULATORY REQUIREMENTS COMMENT TO BOTH INCIDENTS WERE A FAILURE TO HAVE IN PLACE A WELL DEFINED AND TRANSPARENT LINE OF SUPERVISORY RESPONSIBILITY; A FAILURE TO SUPERVISE THE TRADER'S ACTIVITY AND AN INADEQUATE MONTH END INDEPENDENT PRICE VERIFICATION PROCESS. IN RELATION TO THE FIRST INCIDENT, IT WAS ALSO FOUND THAT THERE WAS A FAILURE TO MANAGE EFFECTIVELY MARKET RISK LIMITS IN RESPECT OF THE TRADER'S ACTIVITIES.</actionDescription>
+            <dispositionOfProceeding>$4,131,600 Monetary/Fine Reprimand</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Bank of America Merrill Lynch International D.A.C. (f/k/a Merrill Lynch International Bank Limted)</entityName>
+            <actionTitle>Monetary Authority of Singapore (MAS)</actionTitle>
+            <actionDate>12/19/2011</actionDate>
+            <courtOrBodyNameAndLocation>Monetary Authority of Singapore (MAS)</courtOrBodyNameAndLocation>
+            <actionDescription>MERRILL LYNCH INTERNATIONAL BANK LIMITED (MLIB) BREACHED SECTION 99B(3) OF THE SECURITIES AND FUTURES ACT (SFA) BETWEEN NOVEMBER 26, 2010 AND AUGUST 31, 2011 WHEN MLIB PERMITTED 90 OF ITS REPRESENTATIVES TO CARRY OUT THE REGULATED ACTIVITY OF FUND MANAGEMENT BEFORE THE REGULATED ACTIVITY WAS DULY REFLECTED AGAINST THEIR NAMES IN THE PUBLIC REGISTER.</actionDescription>
+            <dispositionOfProceeding>$22,722.36 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency Inc.</entityName>
+            <actionTitle>New Hampshire Insurance Department</actionTitle>
+            <actionDate>01/30/1984</actionDate>
+            <courtOrBodyNameAndLocation>New Hampshire Insurance Department</courtOrBodyNameAndLocation>
+            <actionDescription>FIRM AND ITS EMPLOYEES SOLD PRODUCTS WITHOUT BEING PROPERLY LICENSED.</actionDescription>
+            <dispositionOfProceeding>$15,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>Kansas Commissioner of Insurance</actionTitle>
+            <actionDate>10/11/1984</actionDate>
+            <courtOrBodyNameAndLocation>Kansas Commissioner of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>VIOLATION OF THE KANSAS INSURANCE CODE IN CONNECTION WITH THE SALE OF CERTAIN ANNUITY CONTRACTS. CERTAIN OF FIRMs AGENTS WERE NOT PROPERLY LICENSED, FAILED TO DISCLOSE THAT ANNUITY CONTRACTS WERE GROUP CONTRACTS AND INFORMED SOME ANNUITY HOLDERS THAT CONTRACTS WERE GUARANTEED BY AN ENTITY OTHER THAN THE ISSUING CARRIER.</actionDescription>
+            <dispositionOfProceeding>$45,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>Kentucky Department of Insurance</actionTitle>
+            <actionDate>10/11/1984</actionDate>
+            <courtOrBodyNameAndLocation>Kentucky Department of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>FIRMSs SOLICITATIONS OF CERTAIN ANNUITY CONTRACTS BY ACCOUNT EXECUTIVES NOT PROPERY LICENSED AND NOT HOLDING A VALID CORPORATE LICENSE FOR PERIOD MARCH 1982 TO MAY 1983.</actionDescription>
+            <dispositionOfProceeding>$56,600 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>North Carolina Commissioner of Insurance</actionTitle>
+            <actionDate>12/07/1984</actionDate>
+            <courtOrBodyNameAndLocation>North Carolina Commissioner of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>FIRM AND CERTAIN OF ITS AGENTS WERE NOT PROPERLY LICENSED IN CONNECTION WITH THE SALE OF CERTAIN ANNUITY CONTRACTS.</actionDescription>
+            <dispositionOfProceeding>$15,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>Georgia Commissioner of Insurance</actionTitle>
+            <actionDate>02/04/1985</actionDate>
+            <courtOrBodyNameAndLocation>Georgia Commissioner of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>VIOLATED THE LICENSING PROVISIONS OF THE GEORGIA INSURANCE CODE.</actionDescription>
+            <dispositionOfProceeding>$100,000 Monetary/Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>South Carolina Department of Insurance</actionTitle>
+            <actionDate>02/13/1985</actionDate>
+            <courtOrBodyNameAndLocation>South Carolina Department of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>VIOLATION OF THE LICENSING PROVISIONS OF THE SOUTH CAROLINA INSURANCE CODE.</actionDescription>
+            <dispositionOfProceeding>$58,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Life Agency, Inc.</entityName>
+            <actionTitle>New Jersey Department of Insurance</actionTitle>
+            <actionDate>06/26/1990</actionDate>
+            <courtOrBodyNameAndLocation>New Jersey Department of Insurance</courtOrBodyNameAndLocation>
+            <actionDescription>SOLICITING, NEGOTIATING AND EFFECTING COVERAGES OF INSURANCES BY ONE OF ITS FORMER EMPLOYEES PRIOR TO HIS BEING LICENSED.</actionDescription>
+            <dispositionOfProceeding>$5,000 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Mexico, S.A. de C.V., Casa de Bolsa</entityName>
+            <actionTitle>Comicion Nacional Bancaria y de Valores</actionTitle>
+            <actionDate>08/26/1990</actionDate>
+            <courtOrBodyNameAndLocation>Comicion Nacional Bancaria y de Valores</courtOrBodyNameAndLocation>
+            <actionDescription>FOLLOWING AN EXAMINATION BY CNBV OF ML MEXICO OPERATIONS, THE CNBV IDENTIFIED CERTAIN VIOLATIONS RELATING TO ML MEXICO'S STOCK LENDING BUSINESS.</actionDescription>
+            <dispositionOfProceeding>$19,862.81 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Mexico, S.A. de C.V., Casa de Bolsa</entityName>
+            <actionTitle>Banco de Mexico</actionTitle>
+            <actionDate>10/06/2011</actionDate>
+            <courtOrBodyNameAndLocation>Banco de Mexico</courtOrBodyNameAndLocation>
+            <actionDescription>BANCO DE MEXICO ALLEGED THAT DURING THE PERIOD FROM MARCH 14-29, 2011, MERRILL LYNCH MEXICO S.A. DE C.V., CASA DE BOLSA (MERRILL LYNCH MEXICO) (1) VIOLATED NUMERAL 5, THIRD PARAGRAPH, OF CIRCULAR 4/2006 WHEN THREE OPTION TRANSACTIONS IN EFFECT AS OF AUGUST 14, 2009 WERE NOT CONFIRMED THROUGH ANY MEANS WITH WRITTEN PROOF OF THE EXECUTION OF THE CORRESPONDING TRANSACTIONS ON THE SAME DAY THEY WERE EXECUTED AND (2) VIOLATED NUMERAL 10.5 OF CIRCULAR 4/2006 WHEN MERRILL LYNCH MEXICO EXECUTED CREDIT DERIVATIVE TRANSACTIONS.</actionDescription>
+            <dispositionOfProceeding>$5,937.26 Monetary/Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Mexico, S.A. de C.V., Casa de Bolsa</entityName>
+            <actionTitle>Comision Nacional Bancaria y de Valores (CNBV)</actionTitle>
+            <actionDate>11/01/2013</actionDate>
+            <courtOrBodyNameAndLocation>Comision Nacional Bancaria y de Valores (CNBV)</courtOrBodyNameAndLocation>
+            <actionDescription>THE CNBV ALLEGED THAT DURING THE FOURTH QUARTER OF 2008, BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE AND MERRILL LYNCH MEXICO, S.A. DE C.V., CASA DE BOLSA, PARTICIPATED IN TRADING ACTIVITY INVOLVING MEXICAN GOVERNMENT BONDS THAT RAN CONTRARY TO PROVISIONS UNDER ARTICLE 370 OF THE MEXICAN SECURITIES LAW.</actionDescription>
+            <dispositionOfProceeding>US$1,772,000 Monetary Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>Merrill Lynch Yatirim Bank A.S.</entityName>
+            <actionTitle>Banking Regulation and Supervision Agency (BRSA)</actionTitle>
+            <actionDate>05/20/2014</actionDate>
+            <courtOrBodyNameAndLocation>Banking Regulation and Supervision Agency (BRSA)</courtOrBodyNameAndLocation>
+            <actionDescription>Inconsistency in the accounting of Merrill Lynch Yatirim Bank A.S.s FX swap (FX roll) transactions according to the BRSAs Banking Law No. 5411 article 39 and regulation on local chart of accounts article 9. BRSA informed Merrill Lynch Yatirim Bank A.S. (MLYB) that there was an inconsistency between the local Chart of Accounts (CoA) descriptions versus MLYBs FX swaps (FX roll) transaction bookings for the short leg of these trades which did not have same day maturity with the trade date. The concern was related with the account under which the short leg of the FX swap (FX roll) transactions which had maturities longer than trade date (T) were being booked. Though MLYB had been booking these trades under Derivatives main account, BRSA stated that only the long leg needs to be booked under Derivatives main account and the short leg needs to be booked under Other Liabilities account within the off balance sheet.</actionDescription>
+            <dispositionOfProceeding>TRY18,589 (USD$8,450) Monetary/ Fine</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>NB Holdings Corporation (f/k/a U.S. Trust Corporation) and United States Trust Company, N.A. (n/k/a Bank of America, N.A.)</entityName>
+            <actionTitle>New York State Banking Department</actionTitle>
+            <actionDate>07/12/2001</actionDate>
+            <courtOrBodyNameAndLocation>New York State Banking Department</courtOrBodyNameAndLocation>
+            <actionDescription>THE FEDERAL RESERVE BOARD AND THE NEW YORK STATE BANKING DEPARTMENT ALLEGED VIOLATIONS AND DEFICIENCIES RELATING TO THE LACK OF INTERNAL CONTROLS AND PROCEDURES AND INADEQUATE COMPLIANCE WITH THE BANK SECRECY ACT, AND THE FAILURE TO MAINTAIN ACCURATE AND COMPLETE BOOKS AND RECORDS IN CONNECTION WITH THE OPERATIONS AND ACTIVITIES OF THE STRATEGIC TRADING GROUP OF UNITED STATES TRUST COMPANY OF NEW YORK (EFFECTIVE 3/31/2006, UNITED STATES TRUST COMPANY OF NEW YORK ENGAGED IN A CHARTER CONVERSION INTO UNITED STATES TRUST COMPANY, N.A.).</actionDescription>
+            <dispositionOfProceeding>$5,000,000 Monetary Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+          <fsrViolationOfInvestmentRelatedRegulationDetails>
+            <entityName>NB Holdings Corporation (f/k/a U.S. Trust Corporation) and United States Trust Company, N.A. (n/k/a Bank of America, N.A.)</entityName>
+            <actionTitle>Federal Reserve Board</actionTitle>
+            <actionDate>07/12/2001</actionDate>
+            <courtOrBodyNameAndLocation>Federal Reserve Board</courtOrBodyNameAndLocation>
+            <actionDescription>THE FEDERAL RESERVE BOARD AND THE NEW YORK STATE BANKING DEPARTMENT ALLEGED VIOLATIONS AND DEFICIENCIES RELATING TO THE LACK OF INTERNAL CONTROLS AND PROCEDURES AND INADEQUATE COMPLIANCE WITH THE BANK SECRECY ACT, AND THE FAILURE TO MAINTAIN ACCURATE AND COMPLETE BOOKS AND RECORDS IN CONNECTION WITH THE OPERATIONS AND ACTIVITIES OF THE STRATEGIC TRADING GROUP OF UNITED STATES TRUST COMPANY OF NEW YORK (EFFECTIVE 3/31/2006, UNITED STATES TRUST COMPANY OF NEW YORK ENGAGED IN A CHARTER CONVERSION INTO UNITED STATES TRUST COMPANY, N.A.).</actionDescription>
+            <dispositionOfProceeding>$5,000,000 Monetary Fine Cease and Desist</dispositionOfProceeding>
+          </fsrViolationOfInvestmentRelatedRegulationDetails>
+        </fsrViolationOfInvestmentRelatedRegulation>
+        <fsrAuthorizationDeniedOrSuspended>
+          <involved>N</involved>
+        </fsrAuthorizationDeniedOrSuspended>
+        <fsrFoundOrderAgainstApplicant>
+          <involved>Y</involved>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>Federal Reserve Bank of Richmond</actionTitle>
+            <actionDate>12/06/2010</actionDate>
+            <courtOrBodyNameAndLocation>Federal Reserve Bank of Richmond</courtOrBodyNameAndLocation>
+            <actionDescription>The Board of Governors of the Federal Reserve System conducted a review concerning various types of anti-competitive activity by certain Bank of America Corporation (Bank) employees in conjunction with the sale of certain derivative financial products to municipalities and non-profit organizations variously between 1998 and 2003. Following the review, the Bank and the Reserve Bank entered into a Formal Written Agreement to ensure that the Bank proactively and appropriately manages its compliance risk related to certain competitively bid transactions.</actionDescription>
+            <dispositionOfProceeding>Undertaking Enforcement action terminated on June 15, 2017.</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>Board of Governors of the Federal Reserve System</actionTitle>
+            <actionDate>04/13/2011</actionDate>
+            <courtOrBodyNameAndLocation>Board of Governors of the Federal Reserve System</courtOrBodyNameAndLocation>
+            <actionDescription>On April 13, 2011, the Board of Governors of the Federal Reserve System (Federal Reserve) issued a cease and desist consent order (Consent Order) against Bank of America Corporation (BAC). The Consent Order makes no finding on any issues of fact or law or any explicit allegation concerning BAC. The Consent Order describes a consent order that the Office of the Comptroller of the Currency (OCC) and Bank of America, N.A. (Bank), which is owned and controlled by BAC, entered into addressing areas of weakness identified by the OCC in mortgage loan servicing, loss mitigation, foreclosure activities, and related functions by the Bank. The Consent Order also states that the OCCs findings raised concerns that BAC did not adequately assess the potential risks associated with such activities of the Bank. The Consent Order directs the board of directors of BAC to take appropriate steps to ensure that the Bank complies with the OCC consent order</actionDescription>
+            <dispositionOfProceeding>Cease and Desist Remediation Actions Termination of enforcement action announced on January 12, 2018</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America Corporation</entityName>
+            <actionTitle>Board of Governors of the Federal Reserve System</actionTitle>
+            <actionDate>05/20/2015</actionDate>
+            <courtOrBodyNameAndLocation>Board of Governors of the Federal Reserve System</courtOrBodyNameAndLocation>
+            <actionDescription>On May 20, 2015, the Board of Governors of the Federal Reserve System (FRB) issued an Order to Cease and Desist and Order of Assessment of a Civil Money Penalty against Bank of America Corporation (BAC) relating to its foreign exchange (FX) activities (Order) from 2008 through 2013. The Order states that (a) BAC lacked adequate firm-wide governance, risk management, compliance and audit policies and procedures to ensure that certain of the firms FX activities complied with safe and sound banking practices, applicable U.S. laws and regulations, including policies and procedures to prevent potential violations of the U.S. commodities, antitrust and criminal fraud laws, and applicable internal policies; (b) BACs deficient policies and procedures prevented BAC from detecting and addressing periodic conduct by Bank of America, N.A.s traders relating to certain communications by these traders; and (c) as a result of deficient policies and procedures described above, BAC engaged in unsafe and unsound banking practices.</actionDescription>
+            <dispositionOfProceeding>$205,000,000 Monetary/Fine Cease and Desist Remedial Sanctions</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>12/07/2010</actionDate>
+            <courtOrBodyNameAndLocation>Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>The Comptroller of the Currency (Comptroller) examined certain activities related to the participation of certain Bank of America, National Association (Bank) employees in the sale of certain derivative financial products to municipalities and non-profit organizations, and reviewed information indicating that certain Bank employees engaged in illegal bidding activity related to the sale of those derivative financial products variously between 1998 and January 2004. Following the review, the Bank and the Comptroller entered into a Formal Written Agreement to ensure that the Bank proactively and appropriately manages its compliance risk related to various competitively bid transactions, including those related to derivative financial products to municipalities and non-profit organizations.</actionDescription>
+            <dispositionOfProceeding>$9,217,218 payment of unjust enrichment Undertaking Order lifted 05/13/2016.</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>The Comptroller of the Currency of the United States of America</actionTitle>
+            <actionDate>04/13/2011</actionDate>
+            <courtOrBodyNameAndLocation>The Comptroller of the Currency of the United States of America</courtOrBodyNameAndLocation>
+            <actionDescription>On April 13, 2011, the Comptroller of the Currency of the United States of America (OCC) issued a cease and desist consent order (Order) against Bank of America, National Association (BANA). The Order identified certain deficiencies and unsafe or unsound practices in residential mortgage servicing and in BANAs initiation and handling of foreclosure proceedings. The Order finds that in connection with certain foreclosures of loans in it is residential servicing portfolio, BANA; (a) filed or caused to be filed in courts executed affidavits making various assertions that were not based on the affiants personal knowledge or review of relevant books and records; (b) filed or caused to be filed in courts numerous affidavits or other mortgage-related documents that were not properly notarized; (c) litigated foreclosure proceedings and initiated non-judicial foreclosure proceedings without always ensuring that the promissory note or the mortgage document were properly endorsed or assigned and, if necessary, in the possession of the appropriate party at the appropriate time; (d) failed to devote sufficient resources to ensure proper administration of its foreclosure processes; (e) failed to devote to its foreclosure processes adequate oversight, internal controls, policies and procedures, compliance risk management, internal audit, third party management and training; and (f) failed to sufficiently oversee third-party providers handing foreclosure-related services</actionDescription>
+            <dispositionOfProceeding>Cease and Desist Remediation Actions Order lifted 06/16/2015</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>The Office of the Comptroller of the Currency</actionTitle>
+            <actionDate>11/11/2014</actionDate>
+            <courtOrBodyNameAndLocation>The Office of the Comptroller of the Currency</courtOrBodyNameAndLocation>
+            <actionDescription>On November 11, 2014, the Office of the Comptroller of the Currency of the United States of America (OCC) issued a Consent Order and a Consent Order for the Assessment of a Civil Money Penalty against Bank of America, N.A. (Bank of America) related to its foreign exchange (FX) business (Orders) from 2008 through 2013. The OCC found, and Bank of America neither admitted nor denied, that Bank of America had deficiencies in its internal controls and had engaged in unsafe or unsound banking practices with respect to the oversight and governance of Bank of Americas FX trading business such that the bank failed to detect and prevent certain conduct. Specifically, the OCC found that: a) Bank of Americas compliance risk assessment lacked sufficient granularity and failed to identify the risks related to sales, trading and supervisory employees in that business (Employee); b) Bank of Americas transaction monitoring and communications surveillance lacked an adequate analysis of risk-behavior related to Employee market conduct in its wholesale foreign exchange business where it is acting as principal (FX Trading); c) Bank of Americas compliance testing procedures were inadequate to measure adherence to its standards of Employee conduct and firm policies applicable to Employee market conduct in FX Trading; and d) Bank of Americas risk assessment and coverage of the FX trading business needed improvement to identify and mitigate compliance risks related to Employee market conduct; e) Bank of Americas customer information controls were inadequate regarding the WM/Reuters order book to prevent the misuse of customer information; f) Bank of Americas risk and profitability reporting was inadequate to identify potential Employee market misconduct in FX Trading; and g) Bank of Americas FX business supervision routines were inadequate because they created gaps in the Employee market conduct supervisory framework.</actionDescription>
+            <dispositionOfProceeding>$250,000,000 Monetary/Fine Undertakings</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+          <fsrFoundOrderAgainstApplicantDetails>
+            <entityName>Bank of America, National Association</entityName>
+            <actionTitle>Office of Antiboycott Compliance, BIS, U.S. Department of Commerce</actionTitle>
+            <actionDate>11/13/2017</actionDate>
+            <courtOrBodyNameAndLocation>Office of Antiboycott Compliance, BIS, U.S. Department of Commerce</courtOrBodyNameAndLocation>
+            <actionDescription>The Office of Antiboycott Compliance, Bureau of Industry and Security, U.S. Department of Commerce (BIS) alleged, as set forth in a proposed Charging Letter, that Bank of America N.A. (BofA), on thirteen occasions, violated the Export Administration Regulations (currently codified at 15 C.F.R. 730-774 (2017) (Regulations), which are issued under the authority of the Export Administration Act of 1979, as amended. The allegations were resolved pursuant to a Settlement Agreement between BIS and BofA. Under the Settlement Agreement, BIS entered an order imposing a civil penalty, but did not initiate any administrative or judicial proceeding or make a referral to the Department of Justice for criminal proceedings against BofA with respect to Section 8 of the Export Administration Act or Part 760 of the Regulations. No findings of violations were made.</actionDescription>
+            <dispositionOfProceeding>$44,625 Monetary/Fine</dispositionOfProceeding>
+          </fsrFoundOrderAgainstApplicantDetails>
+        </fsrFoundOrderAgainstApplicant>
+        <fsrRegistrationDeniedOrSuspended>
+          <involved>Y</involved>
+          <fsrRegistrationDeniedOrSuspendedDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporation (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </fsrRegistrationDeniedOrSuspendedDetails>
+          <fsrRegistrationDeniedOrSuspendedDetails>
+            <entityName>BofA Advisors, LLC (f/k/a Fleet Investment Advisors, Inc.)</entityName>
+            <actionTitle>Pennsylvania Securities Commission</actionTitle>
+            <actionDate>02/05/1998</actionDate>
+            <courtOrBodyNameAndLocation>Pennsylvania Securities Commission</courtOrBodyNameAndLocation>
+            <actionDescription>ADMINISTRATIVE PROCEEDING BY PENNSYLVANIA SECURITIES COMMISSION REGARDING APPLICATION FOR REGISTRATION AS INVESTMENT ADVISOR. FIA (NKA BOFA ADVISORS, LLC) FAILED TO RESPOND TO WRITTEN REQUESTS AND A RELATED ORDER TO SUPPLY CERTAIN INFORMATION TO COMPLETE ITS APPLICATION. NO DAMAGES WERE ALLEGED.</actionDescription>
+            <dispositionOfProceeding>Application denied.</dispositionOfProceeding>
+          </fsrRegistrationDeniedOrSuspendedDetails>
+        </fsrRegistrationDeniedOrSuspended>
+        <fsrRevokedSuspendedLicense>
+          <involved>N</involved>
+        </fsrRevokedSuspendedLicense>
+      </federalOrStateRegulatoryAgency>
+      <selfRegulatoryAgency>
+        <sraFalseStatementOrOmission>
+          <involved>Y</involved>
+          <sraFalseStatementOrOmissionDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </sraFalseStatementOrOmissionDetails>
+        </sraFalseStatementOrOmission>
+        <sraViolationOfRules>
+          <involved>Y</involved>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Professional Clearing Corp. (MLPCC)</entityName>
+            <actionTitle>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</actionDescription>
+            <dispositionOfProceeding>See MLPCC Form BD on file with the SEC (CRD 16139; SEC 8-33359)</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Bank of America, N.A.</entityName>
+            <actionTitle>Chicago Board of Trade, Inc.</actionTitle>
+            <actionDate>09/27/2004</actionDate>
+            <courtOrBodyNameAndLocation>Chicago Board of Trade, Inc.</courtOrBodyNameAndLocation>
+            <actionDescription>ALLEGATIONS THAT BANK OF AMERICA, N.A., BY VIRTUE OF REGULATION 9B.07, EXECUTED TRADES INVOLVING PRE-EXECUTION COMMUNICATIONS WHICH WERE NOT ENTERED IN ACCORDANCE WITH PRESCRIBED TIME REQUIRMENTS AND PROCEDURES, IN VIOLATION OF REGULATION 9B.16.</actionDescription>
+            <dispositionOfProceeding>$20,000.00 Monetary Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities (Europe) Limited</entityName>
+            <actionTitle>NASDAQ OMX Commodities Oslo ASA</actionTitle>
+            <actionDate>07/04/2013</actionDate>
+            <courtOrBodyNameAndLocation>NASDAQ OMX Commodities Oslo ASA</courtOrBodyNameAndLocation>
+            <actionDescription>On June 15, 2013, the Exchange alleged that Merrill Lynch Commodities (Europe) Limited (MLCE) on two occasions offered sell orders on the Exchange which lowered the best asking price of an Exchange product. While offering the sell orders MLCE allegedly bought larger quantities in the over-the-counter market and paid the same price as the price of its sell orders. The Exchange found that the sell orders gave or were likely to give misleading signals as to the supply and price of the Exchange product, and that the sell orders most likely were offered with intent to improperly influence the trading of other market participants. The Exchange therefore determined that MLCE violated the prohibition against market manipulation set out in the Market Conduct Rules, section 5.1. The Exchange further deemed it to be mitigating that the potential benefit from the manipulative activity was limited.</actionDescription>
+            <dispositionOfProceeding>USD$57,329.02 (NOK350.000) Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities (Europe) Limited</entityName>
+            <actionTitle>Commodity Exchange (COMEX)</actionTitle>
+            <actionDate>02/07/2014</actionDate>
+            <courtOrBodyNameAndLocation>Commodity Exchange (COMEX)</courtOrBodyNameAndLocation>
+            <actionDescription>A Panel of the COMEX Business Conduct Committee (the Panel) found that Merrill Lynch Commodities (Europe) Limited (MLCE) is subject to the jurisdiction of the Exchange because it is an affiliate of a COMEX member and that on certain dates in April 2012, a trader employed by MLCE entered into a series of buy and sell orders in various Gold options and Copper futures contracts between accounts with the same beneficial owner. The Panel also found that MLCE failed to diligently supervise its trader in the conduct of his business with the Exchange. The Panel found that as a result of the foregoing, MLCE violated Exchange rules 432.W. and 534.</actionDescription>
+            <dispositionOfProceeding>$15,000 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities (Europe) Limited</entityName>
+            <actionTitle>New York Mercantile Exchange (NYMEX)</actionTitle>
+            <actionDate>02/07/2014</actionDate>
+            <courtOrBodyNameAndLocation>New York Mercantile Exchange (NYMEX)</courtOrBodyNameAndLocation>
+            <actionDescription>A Panel of the NYMEX Business Conduct Committee (the Panel) found that Merrill Lynch Commodities (Europe) Limited (MLCE) is subject to the jurisdiction of the Exchange because it is an affiliate of a NYMEX member and that on certain dates in April 2012, a trader employed by MLCE entered into a series of buy and sell orders in various Crude options and futures contracts between accounts with the same beneficial owner. The Panel also found that MLCE failed to diligently supervise its trader in the conduct of his business with the Exchange. The Panel found that as a result of the foregoing, MLCE violated Exchange rules 432.W. and 534.</actionDescription>
+            <dispositionOfProceeding>$15,000 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities, Inc.</entityName>
+            <actionTitle>NYMEX Business Conduct Committee</actionTitle>
+            <actionDate>09/19/2014</actionDate>
+            <courtOrBodyNameAndLocation>NYMEX Business Conduct Committee</courtOrBodyNameAndLocation>
+            <actionDescription>The NYMEX (the Exchange) alleged that Merrill Lynch Commodities, Inc. (MLCI) violated NYMEX Rule 432.W when, on trade date April 29, 2013, a trader employed by MLCI failed to monitor the operation of a Crude Oil auto-spreader utilized by MLCI, minimizing the auto-spreader application and failing to monitor the order modification activity. This resulted in the auto spreader streaming price modifications and disclosing prices to the market that were not viable, requiring the Exchange to initiate a port closure on April 29, 2013. MLCI failed to diligently supervise its trader in a manner sufficient to ensure that the auto-spreader was adequately monitored and maintained.</actionDescription>
+            <dispositionOfProceeding>$60,000 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities, Inc.</entityName>
+            <actionTitle>ICE Futures U.S., Inc. Business Conduct Committee</actionTitle>
+            <actionDate>09/26/2014</actionDate>
+            <courtOrBodyNameAndLocation>ICE Futures U.S., Inc. Business Conduct Committee</courtOrBodyNameAndLocation>
+            <actionDescription>A subcommittee of the ICE Futures U.S. Business Conduct Committee determined that Merrill Lynch Commodities, Inc. (MLCI) may have violated Exchange Rule 6.20(b) in four (4) instances by exceeding the spot month speculative position limit in the ICE Henry LD1 Fixed Price Future contract on June 24 and 26, 2013, and January 29, 2014, and by exceeding the spot month speculative position limit in the ICE Transco Zone 6 (non NY) Swing Future on March 28, 2014; and Exchange Rule 4.01 in one (1) instance by failing to supervise the activities of the Firms employees in allowing the repeat violations of Rule 6.20(b).</actionDescription>
+            <dispositionOfProceeding>$80,000 Monetary/Fine Cease &amp; Desist Disgorgement</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities, Inc.</entityName>
+            <actionTitle>NYMEX Business Conduct Committee</actionTitle>
+            <actionDate>04/17/2015</actionDate>
+            <courtOrBodyNameAndLocation>NYMEX Business Conduct Committee</courtOrBodyNameAndLocation>
+            <actionDescription>The NYMEX (the Exchange) found that on trade date December 10, 2013, Merrill Lynch Commodities, Inc. (MLCI) entered into an EFRP transaction that did not contain adequate documentation of the related swap transaction, and therefore was not a bona filed EFRP. As a result, MLCI violated Exchange Legacy Rule 538.H.</actionDescription>
+            <dispositionOfProceeding>$7,500 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities, Inc.</entityName>
+            <actionTitle>Chicago Board of Trade</actionTitle>
+            <actionDate>06/08/2017</actionDate>
+            <courtOrBodyNameAndLocation>Chicago Board of Trade</courtOrBodyNameAndLocation>
+            <actionDescription>The Chicago Board of Trade (CBOT) alleged that Merrill Lynch Commodities, Inc. (MLCI) held a futures position of 660 short March 2017 Soybean contracts which was 60 contracts (10%) over the spot month limit, in violation of CBOT Rule 562, and that MLCI realized a profit of $124.20 from the liquidation of its excess position.</actionDescription>
+            <dispositionOfProceeding>$35,000 Monetary/Fine $124.20 Disgorgement</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Commodities, Inc.</entityName>
+            <actionTitle>New York Mercantile Exchange</actionTitle>
+            <actionDate>06/16/2017</actionDate>
+            <courtOrBodyNameAndLocation>New York Mercantile Exchange</courtOrBodyNameAndLocation>
+            <actionDescription>The New York Mercantile Exchange (NYMEX) alleged that Merrill Lynch Commodities, Inc. (MLCI) reached an open January 2017 Crude Oil Futures contract futures position of 4,562 long contracts, which was 1,562 contracts (52,06%) over the standard 3,000 contract position limit, in violation of NYMEX Rule 562, and that MLCI realized a profit of $11,560.20 by reducing its excess positions.</actionDescription>
+            <dispositionOfProceeding>$25,000 Monetary/Fine $11,560.20 Disgorgement</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch Government Securities of Puerto Rico, Inc.</entityName>
+            <actionTitle>National Association of Securities Dealers</actionTitle>
+            <actionDate>06/27/1997</actionDate>
+            <courtOrBodyNameAndLocation>National Association of Securities Dealers</courtOrBodyNameAndLocation>
+            <actionDescription>MERRILL LYNCH GOVERNMENT SEURITIES OF PUERTO RICO, INC. FAILED TO PROPERLY CLASSIFY CERTAIN ASSETS FOR ITS NET CAPITAL COMPUTATIONS DURING 1996.</actionDescription>
+            <dispositionOfProceeding>$10,000 Monetary/Fine Censure</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>ICE Futures Europe</actionTitle>
+            <actionDate>09/28/2011</actionDate>
+            <courtOrBodyNameAndLocation>ICE Futures Europe</courtOrBodyNameAndLocation>
+            <actionDescription>ON THREE INSTANCES BETWEEN MAY AND AUGUST 2011, MERRILL LYNCH INTERNATIONAL (MLI) FILED TO ACCURATELY COMPLETE ITS CLOSE OUT PROCEDURE BY THE 10 A.M. CUT-OFF TIME AS REQUIRED BY THE EXCHANGE, WHICH CONTRIBUTED TO THE EXCHANGE PUBLISHING OVERSTATED OPEN INTEREST FIGURES. AN INVESTIGATION WAS LAUNCHED REQUESTING THE MLI REPORT BACK TO THE EXCHANGE ON THE REASONS BEHIND THESE FAILURES AND THE STEPS TAKEN TO PREVENT A RECURRENCE. MLI NOTED THAT PROCEDURAL FAILURES WERE THE CAUSE OF THE INCIDENTS.</actionDescription>
+            <dispositionOfProceeding>$31,295.84 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Irish Stock Exchange (ISE)</actionTitle>
+            <actionDate>08/30/2013</actionDate>
+            <courtOrBodyNameAndLocation>Irish Stock Exchange (ISE)</courtOrBodyNameAndLocation>
+            <actionDescription>DURING 2011 AND 2012, ISE IDENTIFIED 131 IRISH GOVERNMENT BOND TRADES THAT MERRILL LYNCH INTERNATIONAL (MLI) FAILED TO REPORT TO ISE CONSTITUTING A BREACH OF ISE RULES 2.52(B) AND 4.7.2.</actionDescription>
+            <dispositionOfProceeding>$13,196.25 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>Irish Stock Exchange (ISE)</actionTitle>
+            <actionDate>01/15/2014</actionDate>
+            <courtOrBodyNameAndLocation>Irish Stock Exchange (ISE)</courtOrBodyNameAndLocation>
+            <actionDescription>FAILURE BY MERRILL LYNCH INTERNATIONAL (MLI) TO REPORT 129 VALID IRISH GOVERNMENT BOND TRADES TO ISE BETWEEN AUGUST 12, 2013 AND SEPTEMBER 5, 2013 CONSTITUTING A BREACH OF ISE RULES 2.52(B) AND 4.7.2.</actionDescription>
+            <dispositionOfProceeding>$20,405.65 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>ICE Futures U.S. Inc.</actionTitle>
+            <actionDate>04/04/2017</actionDate>
+            <courtOrBodyNameAndLocation>ICE Futures U.S. Inc.</courtOrBodyNameAndLocation>
+            <actionDescription>ICE FUTURES US, INC. (IFUS) CONCLUDED THAT MERRILL LYNCH INTERNATIONAL (MLI) MAY HAVE VIOLATED RULE 4.07(C) BY FAILING TO REPORT CERTAIN BLOCK AT INDEX CLOSE (BIC) TRADES IN A TIMELY MANNER.</actionDescription>
+            <dispositionOfProceeding>$5,000 Monetary/Fine</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+          <sraViolationOfRulesDetails>
+            <entityName>Merrill Lynch International</entityName>
+            <actionTitle>ICE Futures US</actionTitle>
+            <actionDate>11/15/2019</actionDate>
+            <courtOrBodyNameAndLocation>ICE Futures US</courtOrBodyNameAndLocation>
+            <actionDescription>ICE Futures US alleged that the Firm may have violated ICE Futures US Rule 4.07(c) by misreporting the correct execution time of block trades and submitting block trades beyond the 15-minute reporting window, ICE Futures US Rule 4.07(a)(ii)(A) by failing to explicitly state that an order may be executed by means of a block trade, and Rule 4.01(a) by failing to supervise the Exchange-related activities of its employees.</actionDescription>
+            <dispositionOfProceeding>Without admitting or denying the alleged rule violations, the Firm agreed to pay a monetary penalty in the amount of $200,000.</dispositionOfProceeding>
+          </sraViolationOfRulesDetails>
+        </sraViolationOfRules>
+        <sraAuthorizationDeniedOrSuspended>
+          <involved>N</involved>
+        </sraAuthorizationDeniedOrSuspended>
+        <sraRevokedSuspendedLicense>
+          <involved>Y</involved>
+          <sraRevokedSuspendedLicenseDetails>
+            <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+            <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+            <actionDate>06/12/2019</actionDate>
+            <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+            <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+            <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+          </sraRevokedSuspendedLicenseDetails>
+        </sraRevokedSuspendedLicense>
+      </selfRegulatoryAgency>
+      <foreignAgency>
+        <involved>Y</involved>
+        <foreignAgencyDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </foreignAgencyDetails>
+      </foreignAgency>
+      <subjectOfProceedings>
+        <involved>Y</involved>
+        <subjectOfProceedingsDetails>
+          <entityName>Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (MLPF&amp;S)</entityName>
+          <actionTitle>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionTitle>
+          <actionDate>06/12/2019</actionDate>
+          <courtOrBodyNameAndLocation>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</courtOrBodyNameAndLocation>
+          <actionDescription>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</actionDescription>
+          <dispositionOfProceeding>See MLPF&amp;S Form BD on file with the SEC (CRD 7691; SEC 8-7221)</dispositionOfProceeding>
+        </subjectOfProceedingsDetails>
+        <subjectOfProceedingsDetails>
+          <entityName>Bank of America, National Association and four (4) other entities</entityName>
+          <actionTitle>Official Committee of Unsecured Creditors of Tribune Co.; et al.</actionTitle>
+          <actionDate>11/01/2010</actionDate>
+          <courtOrBodyNameAndLocation>Official Committee of Unsecured Creditors of Tribune Co.; et al.</courtOrBodyNameAndLocation>
+          <actionDescription>Plaintiff alleges that proceeds of the leveraged buy-out of Tribune received by defendants were fraudulent conveyances. Complaint names Bank of America, National Association, Merrill Lynch Financial Markets Inc.; Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated and U.S. Trust Company of Delaware (as successor by merger to Merrill Lynch Trust Company of Delaware)</actionDescription>
+          <dispositionOfProceeding>Case was dismissed by District Court. Plaintiff has indicated he will appeal, but his right to appeal has not ripened.</dispositionOfProceeding>
+        </subjectOfProceedingsDetails>
+        <subjectOfProceedingsDetails>
+          <entityName>Merrill Lynch International</entityName>
+          <actionTitle>Bari, Puglia, Italy Public Prosecutor</actionTitle>
+          <actionDate>02/03/2010</actionDate>
+          <courtOrBodyNameAndLocation>Bari, Puglia, Italy Public Prosecutor</courtOrBodyNameAndLocation>
+          <actionDescription>ON FEBRUARY 3, 2010, MERRILL LYNCH INTERNATIONAL (MLI) WAS NOTIFIED THAT IT WAS UNDER INVESTIGATION BY THE PUBLIC PROSECUTOR IN BARI, PUGLIA, ITALY ON THE GROUNDS THAT MLI MIGHT BE SUBJECT TO PENALTIES, INCLUDING BUT NOT LIMITED TO, CIVIL MONETARY FINES AND DISGORGEMENT, FOR NOT HAVING THE CORRECT ORGANIZATIONAL STRUCTURE IN PLACE IN CONNECTION WITH THE PUBLIC PROSECUTORs ALLEGATIONS OF FRAUDULENT CONDUCT BY AN EMPLOYEE AGAINST THE REGION OF PUGLIA IN CONNECTION WITH (I) A BOND ISSUE BY THE REGION OF PUGLIA IN 2003 IN WHICH MLI ACTED AS LEAD MANAGER AND BOOKRUNNER, AND A RELATED SWAP TRANSACTION IN WHICH MLIB WAS THE COUNTERPARTY AND (II) A FURTHER BOND ISSUE BY THE REGION OF PUGLIA IN 2004 IN WHICH MLI WAS JOINT LEAD MANAGER AND BOOKRUNNER, AND A RELATED RESTRUCTURING OF THE ORIGINAL SWAP TRANSACTION (TOGETHER, THE TRANSACTIONS"). THE ALLEGED FRAUDULENT CONDUCT OF THE EMPLOYEE INVOLVES, AMONG OTHER THINGS, ALLEGED FALSE REPRESENTATIONS AND ALLEGED BREACH OF AN ALLEGED DUTY TO ACT WITH DILIGENCE, FAIRNESS AND TRANSPARENCY. THE DETERMINATION WAS MADE BY THE PRELIMINARY JUDGE TO REFER THIS MATTER TO TRIAL ON 14 OCTOBER 2014.</actionDescription>
+          <dispositionOfProceeding>Pending</dispositionOfProceeding>
+        </subjectOfProceedingsDetails>
+        <subjectOfProceedingsDetails>
+          <entityName>Bank of America Merrill Lynch International D.A.C. (f/k/a Merrill Lynch International Bank Limited)</entityName>
+          <actionTitle>Securities and Futures Authority Limited (SFA)</actionTitle>
+          <actionDate>05/23/2001</actionDate>
+          <courtOrBodyNameAndLocation>Securities and Futures Authority Limited (SFA)</courtOrBodyNameAndLocation>
+          <actionDescription>THE SFA HAS DECIDED TO INSTITUTE DISCIPLINARY PROCEEDINGS AGAINST MLIB ON THE GROUNDS THAT MLIB VIOLATED CERTAIN FSA PRINCIPLES ARISING FROM A MISAPPROPRIATION BY A FORMER MLIB EMPLOYEE.</actionDescription>
+          <dispositionOfProceeding>Pending</dispositionOfProceeding>
+        </subjectOfProceedingsDetails>
+      </subjectOfProceedings>
+      <revokedBond>
+        <involved>N</involved>
+      </revokedBond>
+      <unsatisfiedJudgementsOrLiens>
+        <involved>N</involved>
+      </unsatisfiedJudgementsOrLiens>
+    </disciplinaryHistory>
+    <signature>
+      <signatureName>/s/ Merrilee Joan Matchett</signatureName>
+      <signaturePhoneNumber>609.274.6537</signaturePhoneNumber>
+      <signatureTitle>President</signatureTitle>
+      <signatureDate>12/06/2019</signatureDate>
+    </signature>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
