@@ -1,0 +1,1 @@
+- [ ] Adjust the properties of the note to include all listed parties.

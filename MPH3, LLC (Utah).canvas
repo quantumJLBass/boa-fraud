@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "profiles/corporations/MPH3, LLC (Utah).md",
+      "type": "file",
+      "file": "profiles/corporations/MPH3, LLC (Utah).md",
+      "x": 2560,
+      "y": 100,
+      "width": 500,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "profiles/corporations/MPH3, LLC BRANCH (Connecticut).md",
+      "type": "file",
+      "file": "profiles/corporations/MPH3, LLC BRANCH (Connecticut).md",
+      "x": 2060,
+      "y": -1520,
+      "width": 500,
+      "height": 500
+    },
+    {
+      "id": "profiles/corporations/MPH3 LLC BRANCH (North Carolina).md",
+      "type": "file",
+      "file": "profiles/corporations/MPH3 LLC BRANCH (North Carolina).md",
+      "x": 2680,
+      "y": 1080,
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "edges": [
+    {
+      "id": "profiles/corporations/MPH3, LLC (Utah).md-profiles/corporations/MPH3, LLC BRANCH (Connecticut).md",
+      "fromNode": "profiles/corporations/MPH3, LLC (Utah).md",
+      "fromSide": "right",
+      "toNode": "profiles/corporations/MPH3, LLC BRANCH (Connecticut).md",
+      "toSide": "left"
+    },
+    {
+      "id": "profiles/corporations/MPH3, LLC BRANCH (Connecticut).md-profiles/corporations/MPH3, LLC (Utah).md",
+      "fromNode": "profiles/corporations/MPH3, LLC BRANCH (Connecticut).md",
+      "fromSide": "right",
+      "toNode": "profiles/corporations/MPH3, LLC (Utah).md",
+      "toSide": "left"
+    },
+    {
+      "id": "profiles/corporations/MPH3, LLC (Utah).md-profiles/corporations/MPH3 LLC BRANCH (North Carolina).md",
+      "fromNode": "profiles/corporations/MPH3, LLC (Utah).md",
+      "fromSide": "right",
+      "toNode": "profiles/corporations/MPH3 LLC BRANCH (North Carolina).md",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "Excalidraw/Scripts/"
+  ],
+  "trashOption": "local",
+  "promptDelete": false,
+  "livePreview": false
+}
