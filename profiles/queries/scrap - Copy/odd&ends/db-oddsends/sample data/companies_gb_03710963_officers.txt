@@ -1,0 +1,193 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Officers for <a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a> (United Kingdom)</h1>
+<div id="results">
+<ul id="officers">
+<li><a class="officer inactive" href="/officers/212875838" title="more info on JULIAN VINCENT CAMPBELL">JULIAN VINCENT CAMPBELL</a>, secretary<span class="dates">&nbsp;
+<span class="start_date"> 1 Jan 2015</span> - <span class="end_date">30 Nov 2015</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875854" title="more info on COMBINED SECRETARIAL SERVICES LIMITED">COMBINED SECRETARIAL SERVICES LIMITED</a>, secretary<span class="dates">&nbsp;
+<span class="start_date">10 Feb 1999</span> - <span class="end_date"> 2 Mar 1999</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875897" title="more info on STEPHEN MARTIN ZINSER">STEPHEN MARTIN ZINSER</a>, secretary<span class="dates">&nbsp;
+<span class="start_date"> 2 Mar 1999</span> - <span class="end_date">31 Dec 2014</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875921" title="more info on MATTHEW RUSSELL AUCOTT">MATTHEW RUSSELL AUCOTT</a>, director<span class="dates">&nbsp;
+<span class="start_date">10 Feb 1999</span> - <span class="end_date"> 2 Mar 1999</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875940" title="more info on JOSEPH BIERNAT">JOSEPH BIERNAT</a>, director<span class="dates">&nbsp;
+<span class="start_date">16 Jun 2000</span> - <span class="end_date">31 Jan 2007</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875963" title="more info on STEVEN ANDREW BLAKEY">STEVEN ANDREW BLAKEY</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 2 Mar 1999</span> - <span class="end_date">10 Jul 2012</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875979" title="more info on REINHARD ANTON HEINRICH BLEI">REINHARD ANTON HEINRICH BLEI</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 Sep 2000</span> - <span class="end_date"> 9 Mar 2004</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212875999" title="more info on DAVID CARROLL">DAVID CARROLL</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 May 2007</span> - <span class="end_date"> 9 Oct 2008</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876012" title="more info on DENNIS HENRY FERRO">DENNIS HENRY FERRO</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 May 2007</span> - <span class="end_date"> 1 Oct 2008</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876023" title="more info on DEIRDRE ELIZABETH FLOOD">DEIRDRE ELIZABETH FLOOD</a>, director<span class="dates">&nbsp;
+<span class="start_date">16 Sep 2015</span> - <span class="end_date"> 5 Apr 2022</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876039" title="more info on RICHARD GERSHEN">RICHARD GERSHEN</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 May 2007</span> - <span class="end_date"> 6 Feb 2009</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876055" title="more info on KIRK DOUGLAS HARTMAN">KIRK DOUGLAS HARTMAN</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 5 Mar 2014</span> - <span class="end_date"> 3 Dec 2014</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876073" title="more info on THOMAS KARL HOOPS">THOMAS KARL HOOPS</a>, director<span class="dates">&nbsp;
+<span class="start_date">13 Feb 2009</span> - <span class="end_date"> 6 Jan 2014</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876093" title="more info on ANDREW JOHN HUNT">ANDREW JOHN HUNT</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 6 Feb 2015</span> - <span class="end_date">17 Mar 2020</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876113" title="more info on JAMES CRAIG JOHNSTON">JAMES CRAIG JOHNSTON</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 8 Feb 2012</span> - <span class="end_date">30 Nov 2015</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876129" title="more info on SUSAN MARGARET MCCOUBRIE AMERI">SUSAN MARGARET MCCOUBRIE AMERI</a>, director<span class="dates">&nbsp;
+<span class="start_date">14 Apr 1999</span> - <span class="end_date"> 5 Jan 2007</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876145" title="more info on JURGEN MEISCH">JURGEN MEISCH</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 Jul 2004</span> - <span class="end_date">31 Jan 2007</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876160" title="more info on MATTHEW CHARLES MOSS">MATTHEW CHARLES MOSS</a>, director<span class="dates">&nbsp;
+<span class="start_date">20 Apr 2009</span> - <span class="end_date"> 2 Jul 2010</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876171" title="more info on MICHAEL JOHN NIEDERMEYER">MICHAEL JOHN NIEDERMEYER</a>, director<span class="dates">&nbsp;
+<span class="start_date">22 Mar 2010</span> - <span class="end_date">14 Sep 2015</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876200" title="more info on ROSS ALGER PAMPHILON">ROSS ALGER PAMPHILON</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 2 Apr 2015</span> - <span class="end_date">19 Aug 2020</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876215" title="more info on KENNETH JOSEPH PETRILLA">KENNETH JOSEPH PETRILLA</a>, director<span class="dates">&nbsp;
+<span class="start_date">13 Dec 2010</span> - <span class="end_date">18 Jan 2012</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876224" title="more info on JAMES LEGH POPE">JAMES LEGH POPE</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 1 Sep 2000</span> - <span class="end_date">16 Apr 2002</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876254" title="more info on JOHN DAVID REESE">JOHN DAVID REESE</a>, director<span class="dates">&nbsp;
+<span class="start_date">19 Apr 2006</span> - <span class="end_date">31 Jan 2007</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876272" title="more info on STEPHEN JOHN RAYMOND RUMSEY">STEPHEN JOHN RAYMOND RUMSEY</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 2 Mar 1999</span> - <span class="end_date">18 Nov 2005</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876290" title="more info on JEREMY CHARLES WRIGLEY">JEREMY CHARLES WRIGLEY</a>, director<span class="dates">&nbsp;
+<span class="start_date">14 Apr 1999</span> - <span class="end_date">31 Jan 2007</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/212876313" title="more info on STEPHEN MARTIN ZINSER">STEPHEN MARTIN ZINSER</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 2 Mar 1999</span> - <span class="end_date">31 Dec 2014</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/219340118" title="more info on FRANCIS ANTHONY PIZZO">FRANCIS ANTHONY PIZZO</a>, director<span class="dates">&nbsp;
+<span class="start_date">24 Dec 2015</span> - <span class="end_date">31 Dec 2017</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/267291909" title="more info on DAVID GARLAND BULLOCK">DAVID GARLAND BULLOCK</a>, director<span class="dates">&nbsp;
+<span class="start_date">13 Jun 2017</span> - <span class="end_date">31 May 2018</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/267982494" title="more info on KARLA MARIE RABUSCH">KARLA MARIE RABUSCH</a>, director<span class="dates">&nbsp;
+<span class="start_date"> 5 Feb 2013</span> - <span class="end_date">17 Mar 2017</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+<li><a class="officer inactive" href="/officers/271561676" title="more info on JONATHAN RHYS HILL">JONATHAN RHYS HILL</a>, secretary<span class="dates">&nbsp;
+<span class="start_date"> 1 Dec 2015</span> - <span class="end_date">19 Sep 2017</span></span>
+&nbsp;
+<span class="status label">
+inactive
+</span></li>
+</ul>
+</div>
+<div class="pagination"><ul><li class="prev previous_page disabled"><a href="#">← Previous</a></li> <li class="active"><a rel="start nofollow" href="/companies/gb/03710963/officers?page=1">1</a></li> <li><a rel="next nofollow" href="/companies/gb/03710963/officers?page=2">2</a></li> <li class="next next_page "><a rel="next nofollow" href="/companies/gb/03710963/officers?page=2">Next →</a></li></ul></div>
+
+</div>
+<div class="span5">
+</div>
+</div>

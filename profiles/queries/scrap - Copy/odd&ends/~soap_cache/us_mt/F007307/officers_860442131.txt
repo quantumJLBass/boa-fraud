@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>THOMAS BOLAND</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=THOMAS+BOLAND" title="Company Officers/Directors named THOMAS BOLAND">THOMAS BOLAND</a></dd>
+<dt>Address</dt> <dd class="address">8901 MOUNTAIN VIEW RD, SCOTTSDALE, AZ, 85258, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=THOMAS+BOLAND">Search Google for 'THOMAS BOLAND'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=THOMAS+BOLAND">Search LittleSis for 'THOMAS BOLAND'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=THOMAS+BOLAND" title="Company Officers/Directors named THOMAS BOLAND">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=THOMAS+BOLAND">Found 231.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/187662296" title="more info on ALEXANDER THOMAS BOLAND">ALEXANDER THOMAS BOLAND</a>, director, <span class="start_date">12 Jan 2005</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/05330088" title="More Free And Open Company Data On DELIVER ME LIMITED (United Kingdom, 05330088)">DELIVER ME LIMITED</a> (United Kingdom, <span class="start_date">12 Jan 2005</span>-<span class="end_date">23 Oct 2014</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/188577581" title="more info on ALEXANDER THOMAS BOLAND">ALEXANDER THOMAS BOLAND</a>, director, <span class="start_date">12 Mar 2009</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/06845524" title="More Free And Open Company Data On BORJOMI UK LTD (United Kingdom, 06845524)">BORJOMI UK LTD</a> (United Kingdom, <span class="start_date">12 Mar 2009</span>-<span class="end_date">22 Nov 2011</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/188578007" title="more info on ALEXANDER THOMAS BOLAND">ALEXANDER THOMAS BOLAND</a>, director, <span class="start_date">12 Mar 2009</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/06845530" title="More Free And Open Company Data On ALEXANDER BOLAND LIMITED (United Kingdom, 06845530)">ALEXANDER BOLAND LIMITED</a> (United Kingdom, <span class="start_date">12 Mar 2009</span>-<span class="end_date">19 Oct 2010</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/351797918" title="more info on BOLAND THOMAS VINEYARDS, LLC">BOLAND THOMAS VINEYARDS, LLC</a>, dos process agent,
+<a class="jurisdiction_filter us" href="/companies/us_ny" title="Free And Open Data On New York (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_ny/5556937" title="More Free And Open Company Data On BOLAND THOMAS VINEYARDS, LLC (New York (US), 5556937)">BOLAND THOMAS VINEYARDS, LLC</a> (New York (US), <span class="start_date">21 May 2019</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/7446205" title="more info on BOLAND, THOMAS">BOLAND, THOMAS</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S37671" title="More Free And Open Company Data On TOTAL WELLNESS FITNESS CENTER, INC. (Florida (US), S37671)">TOTAL WELLNESS FITNESS CENTER, INC.</a> (Florida (US), <span class="start_date">11 Mar 1991</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/7446203" title="more info on BOLAND, THOMAS">BOLAND, THOMAS</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S37671" title="More Free And Open Company Data On TOTAL WELLNESS FITNESS CENTER, INC. (Florida (US), S37671)">TOTAL WELLNESS FITNESS CENTER, INC.</a> (Florida (US), <span class="start_date">11 Mar 1991</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/711757191" title="more info on BOLAND, THOMAS">BOLAND, THOMAS</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company goodstanding" href="/companies/us_il/LLC_10589371" title="More Free And Open Company Data On BOLAND'S HEALTH &amp; WELLNESS, LLC (Illinois (US), LLC_10589371)">BOLAND'S HEALTH &amp; WELLNESS, LLC</a> (Illinois (US), <span class="start_date"> 9 Jul 2021</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/7446204" title="more info on BOLAND, THOMAS">BOLAND, THOMAS</a>, treasurer,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S37671" title="More Free And Open Company Data On TOTAL WELLNESS FITNESS CENTER, INC. (Florida (US), S37671)">TOTAL WELLNESS FITNESS CENTER, INC.</a> (Florida (US), <span class="start_date">11 Mar 1991</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/7446202" title="more info on BOLAND, THOMAS">BOLAND, THOMAS</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S37671" title="More Free And Open Company Data On TOTAL WELLNESS FITNESS CENTER, INC. (Florida (US), S37671)">TOTAL WELLNESS FITNESS CENTER, INC.</a> (Florida (US), <span class="start_date">11 Mar 1991</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/457937972" title="more info on BOLAND, THOMAS A">BOLAND, THOMAS A</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_ia" title="Free And Open Data On Iowa (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_ia/145029" title="More Free And Open Company Data On PRENTICE SECURITIES INC. (Iowa (US), 145029)">PRENTICE SECURITIES INC.</a> (Iowa (US), <span class="start_date">28 Aug 1990</span>-<span class="end_date"> 6 Sep 1991</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/6366582" title="more info on BOLAND, THOMAS C">BOLAND, THOMAS C</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/583781" title="More Free And Open Company Data On BOLAND FIREPLACES AND ACCESSORIES, INC. (Florida (US), 583781)">BOLAND FIREPLACES AND ACCESSORIES, INC.</a> (Florida (US), <span class="start_date">30 Aug 1978</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>JAMES W LANSING</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=JAMES+W+LANSING" title="Company Officers/Directors named JAMES W LANSING">JAMES W LANSING</a></dd>
+<dt>Address</dt> <dd class="address">255 2ND AVE S, MINNEAPOLIS, MN, 55479, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=JAMES+W+LANSING">Search Google for 'JAMES W LANSING'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=JAMES+W+LANSING">Search LittleSis for 'JAMES W LANSING'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=JAMES+W+LANSING" title="Company Officers/Directors named JAMES W LANSING">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=JAMES+W+LANSING">Found 64.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/148897451" title="more info on CLAYTON JAMES LANSING, JR">CLAYTON JAMES LANSING, JR</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive forfeited" href="/companies/us_mo/00204464" title="More Free And Open Company Data On COUNTRY CAR SALES, INC. (Missouri (US), 00204464)">COUNTRY CAR SALES, INC.</a> (Missouri (US), <span class="start_date"> 4 Oct 1978</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/115296193" title="more info on JAMES B LANSING">JAMES B LANSING</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <span class="status label">nonprofit</span> <a class="company inactive branch inactive" href="/companies/us_fl/F02000001219" title="More Free And Open Company Data On THE OFFICE OF PRESIDING ELDER FOR GRANADA MISSION AND HIS SUCCESSORS, A CORPORATION SOLE (Florida (US), F02000001219)">THE OFFICE OF PRESIDING ELDER FOR GRANADA MISSION AND HIS SUCCESSORS, A CORPORATION SOLE</a> (Florida (US), <span class="start_date"> 8 Mar 2002</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/28236898" title="more info on JAMES B LANSING">JAMES B LANSING</a>,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <span class="status label">nonprofit</span> <a class="company inactive branch inactive" href="/companies/us_fl/F02000001219" title="More Free And Open Company Data On THE OFFICE OF PRESIDING ELDER FOR GRANADA MISSION AND HIS SUCCESSORS, A CORPORATION SOLE (Florida (US), F02000001219)">THE OFFICE OF PRESIDING ELDER FOR GRANADA MISSION AND HIS SUCCESSORS, A CORPORATION SOLE</a> (Florida (US), <span class="start_date"> 8 Mar 2002</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/778255548" title="more info on JAMES C LANSING">JAMES C LANSING</a>, chairman,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch in_existence" href="/companies/us_tx/0800243027" title="More Free And Open Company Data On Lansing Building Products, LLC (Texas (US), 0800243027)">Lansing Building Products, LLC</a> (Texas (US), <span class="start_date">29 Aug 2003</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/170913838" title="more info on JAMES C LANSING">JAMES C LANSING</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive suspended___ftb" href="/companies/us_ca/1966504" title="More Free And Open Company Data On SAN FRANCISCO MANAGEMENT GROUP (California (US), 1966504)">SAN FRANCISCO MANAGEMENT GROUP</a> (California (US), <span class="start_date">15 Apr 1996</span>-<span class="end_date"> 1 Feb 2001</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/518934104" title="more info on JAMES C LANSING">JAMES C LANSING</a>, chief executive officer,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive suspended___ftb" href="/companies/us_ca/1966504" title="More Free And Open Company Data On SAN FRANCISCO MANAGEMENT GROUP (California (US), 1966504)">SAN FRANCISCO MANAGEMENT GROUP</a> (California (US), <span class="start_date">15 Apr 1996</span>-<span class="end_date"> 1 Feb 2001</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/25530385" title="more info on JAMES C. LANSING">JAMES C. LANSING</a>, member,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active___in_good_standing" href="/companies/us_la/35485957K" title="More Free And Open Company Data On LANSING PROPERTY MANAGEMENT, LIMITED LIABILITY COMPANY (Louisiana (US), 35485957K)">LANSING PROPERTY MANAGEMENT, LIMITED LIABILITY COMPANY</a> (Louisiana (US), <span class="start_date">21 May 2003</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/895892156" title="more info on JAMES C. LANSING">JAMES C. LANSING</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active___in_good_standing" href="/companies/us_la/35485957K" title="More Free And Open Company Data On LANSING PROPERTY MANAGEMENT, LIMITED LIABILITY COMPANY (Louisiana (US), 35485957K)">LANSING PROPERTY MANAGEMENT, LIMITED LIABILITY COMPANY</a> (Louisiana (US), <span class="start_date">21 May 2003</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/108213734" title="more info on JAMES EUGENE LANSING">JAMES EUGENE LANSING</a>,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/L14000152936" title="More Free And Open Company Data On LANSING &amp; LANSING ENTERPRISES, LLC (Florida (US), L14000152936)">LANSING &amp; LANSING ENTERPRISES, LLC</a> (Florida (US), <span class="start_date"> 1 Oct 2014</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/778255554" title="more info on JAMES H LANSING">JAMES H LANSING</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch in_existence" href="/companies/us_tx/0800243027" title="More Free And Open Company Data On Lansing Building Products, LLC (Texas (US), 0800243027)">Lansing Building Products, LLC</a> (Texas (US), <span class="start_date">29 Aug 2003</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/276794622" title="more info on JAMES HUNTER LANSING">JAMES HUNTER LANSING</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_va" title="Free And Open Data On Virginia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_va/08084246" title="More Free And Open Company Data On The Lansing Foundation (Virginia (US), 08084246)">The Lansing Foundation</a> (Virginia (US), <span class="start_date">16 Aug 2016</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

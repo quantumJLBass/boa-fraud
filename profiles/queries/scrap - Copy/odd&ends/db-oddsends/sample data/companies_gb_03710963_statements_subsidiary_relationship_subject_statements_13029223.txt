@@ -1,0 +1,111 @@
+<div class="row content main_content">
+<div class="span12">
+<h2>
+<a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a> has subsidiary <a class="company" href="/companies/lu/B174935" title="More Free And Open Company Data On ECM Special Situations (Luxembourg) GP sàrl (Luxembourg, B174935)">ECM Special Situations (Luxembourg) GP sàrl</a><br>
+</h2>
+
+<h3>About Subsidiary Relationships</h3>
+A subsidiary is a company that is controlled by another company. Often the control is exerted via a majority shareholding, but can be via other mechanisms. It can also be exerted via shareholdings in other companies. When this happens, we call it an indirect subsidiary. Subsidiary information often comes from official annual reports. Companies are only obliged to report 'significant' subsidiaries, and the definition of 'significant' is not consistent.
+</div>
+</div>
+
+<div class="row content top-buffer">
+<div class="span12">
+<div id="statement-properties-view">
+<h3>Raw data</h3>
+<table class="table table-condensed table-of-hash">
+<tbody><tr>
+<td>
+Subsidiary
+<a name="subsidiary"></a>
+</td>
+<td><table class="table table-condensed table-of-hash">
+<tbody><tr>
+<td>
+Name
+<a name="subsidiary__name"></a>
+</td>
+<td>ECM SPECIAL SITUATIONS (LUXEMBOURG) GP S.A.R.L.
+</td>
+</tr>
+<tr>
+<td>
+Identifier
+<a name="subsidiary__identifier"></a>
+</td>
+<td>rssd/4486563
+</td>
+</tr>
+<tr>
+<td>
+Jurisdiction
+<a name="subsidiary__jurisdiction"></a>
+</td>
+<td>LUXEMBOURG
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<style>
+  #statement-properties-view table {
+    background-color: white;
+    width: auto !important;
+  }
+  #statement-properties-view table > tbody > tr:first-child > td {
+    padding-top: 0;
+  }
+  #statement-properties-view table.table-of-hash > tbody > tr > td {
+    border-bottom: 1px dotted #d9d9d9;
+  }
+  
+  
+  #statement-properties-view table.table-of-hash > tbody > tr:last-child > td {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+  
+  #statement-properties-view table > tbody > tr > td:nth-child(1) {
+    font-weight: bold;
+  }
+  #statement-properties-view table > tbody > tr > td:nth-child(2) {
+    font-weight: normal;
+  }
+</style>
+</div>
+</div>
+</div>
+<div class="row content top-buffer">
+<div class="span12">
+<div id="provenance">
+<h3>
+<a name="provenances"></a>
+Where we got this information from
+</h3>
+<dl class="attributes dl-horizontal">
+<div class="provenance">
+
+<dt>Created By</dt> <dd class="created_by">an OpenCorporates bot</dd>
+<dt>Source</dt> <dd class="source"><a href="http://www.ffiec.gov/nicpubweb/nicweb/OrgHierarchySearchForm.aspx?parID_RSSD=2924669&amp;parDT_END=99991231">external source</a></dd>
+<dt>Confidence</dt> <dd class="confidence">very high</dd>
+<dt>Added On</dt> <dd class="added_on">April  1 2014,  2.32PM</dd>
+
+</div>
+
+</dl>
+<p>
+We think this happened
+<strong>before February  1 2013.</strong>
+<a class="company" href="/companies/lu/B174935" title="More Free And Open Company Data On ECM Special Situations (Luxembourg) GP sàrl (Luxembourg, B174935)">ECM Special Situations (Luxembourg) GP sàrl</a> is no longer a subsidiary.  We think this happened
+<strong>after March  1 2014.</strong>
+</p>
+</div>
+<div id="statement-edit-tree">
+<h3>Other versions of this statement</h3>
+<p>This statement is highlighted in bold. Alterations of this statement are nested beneath it.  The version currently used by OpenCorporates is highlighted in red.</p>
+<ul><li><a class=" selected" href="/statements/5515532">Subsidiary relationship &lt;5515532&gt;</a><ul><li><a class="" href="/statements/10739631">Subsidiary relationship &lt;10739631&gt;</a></li></ul><ul><li><strong class="current">Subsidiary relationship &lt;13029223&gt;</strong></li></ul></li></ul>
+</div>
+</div>
+</div>

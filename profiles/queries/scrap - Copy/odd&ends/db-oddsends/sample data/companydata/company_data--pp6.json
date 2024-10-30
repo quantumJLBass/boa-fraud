@@ -1,0 +1,2858 @@
+{
+    "https://opencorporates.com/companies/us_ne/0546232": {
+        "Links": [
+            "https://www.nebraska.gov/sos/corp/corpsearch.cgi?acct-number=0546232",
+            "/events/2112801020",
+            "/filings/921608810",
+            "/officers/535028015",
+            "/filings/921608813",
+            "/events/2112801038",
+            "https://www.nebraska.gov/sos/corp/",
+            "https://opencorporates.com/companies/us_ne/0546232/filings"
+        ],
+        "Company Name": "AMERICAN LAND TITLE ESCROW CO., INC. (Nebraska)",
+        "Attributes": {
+            "Company Number": "0546232",
+            "Status": "Inactive",
+            "Incorporation Date": "30 September 1980 (over 43 years ago)",
+            "Company Type": "Domestic Corp",
+            "Jurisdiction": "Nebraska",
+            "Inactive Directors / Officers": "JOHN FAHEY, agent",
+            "Registry Page": "https://www.nebraska.gov/sos/corp/cor..."
+        },
+        "Filings": [
+            {
+                "Date": "3 Aug 1982",
+                "Link": "https://opencorporates.com/filings/921608813",
+                "Description": "Non Payment of Taxes"
+            },
+            {
+                "Date": "30 Sep 1980",
+                "Link": "https://opencorporates.com/filings/921608810",
+                "Description": "Articles Perpetual"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1980-09-30",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/2112801038"
+            },
+            {
+                "Date": "Between 1980-09-30 and 2021-05-16",
+                "Description": "Addition of officer JOHN FAHEY, agent",
+                "Link": "https://opencorporates.com/events/2112801020"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "JOHN FAHEY",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/535028015",
+                "Address": "540 KEELINE BUILDING, 319 S 17TH S , OMAHA, NEBRASKA, 68102-0000"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_nj/0100559899": {
+        "Links": [
+            "/companies/us_ar/100001824",
+            "/companies/us_tn/000278435",
+            "/companies/us_sc/221334",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/companies/us_ak/53950F",
+            "https://www.njportal.com/DOR/businessrecords/EntityDocs/BusinessStatCopies.aspx",
+            "/companies/us_ne/0440868",
+            "/companies/us_ks/2153567",
+            "/companies/us_mt/F025441",
+            "/events/485374214",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (New Jersey)",
+        "Attributes": {
+            "Company Number": "0100559899",
+            "Incorporation Date": "28 July 1993 (almost 31 years ago)",
+            "Company Type": "Foreign For-Profit Corporation",
+            "Jurisdiction": "New Jersey",
+            "Branch": "Branch of out-of-jurisdiction company"
+        },
+        "Events": [
+            {
+                "Date": "On 1993-07-28",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/485374214"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_nm/1669324": {
+        "Links": [
+            "/filings/349809496",
+            "/companies/us_md/F03726908",
+            "/companies/us_sc/221334",
+            "/events/411547613",
+            "/filings/186201774",
+            "/events/1532763521",
+            "/companies/us_ms/608223",
+            "https://portal.sos.state.nm.us/BFS/online/",
+            "/companies/us_ga/K324852",
+            "https://portal.sos.state.nm.us/BFS/online/CorporationBusinessSearch/CorporationBusinessInformation?businessId=135431",
+            "/companies/us_nd/0000027916",
+            "/companies/us_tn/000278435",
+            "/companies/us_wa/601517989",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/officers/66383856",
+            "https://opencorporates.com/companies/us_nm/1669324/filings",
+            "/filings/708187754",
+            "/companies/us_ne/0440868",
+            "/filings/314817564",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (New Mexico)",
+        "Attributes": {
+            "Company Number": "1669324",
+            "Status": "Merged",
+            "Incorporation Date": "19 May 1994 (about 30 years ago)",
+            "Company Type": "Foreign Profit Corporation",
+            "Jurisdiction": "New Mexico",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "MERGED OUT OF EXISTENCE, agent, 19 May 1994-",
+            "Registry Page": "https://portal.sos.state.nm.us/BFS/on...Website unavailable outside U.S."
+        },
+        "Filings": [
+            {
+                "Date": "9 Mar 1999",
+                "Link": "https://opencorporates.com/filings/314817564",
+                "Description": "Business Merger"
+            },
+            {
+                "Date": "19 May 1994",
+                "Link": "https://opencorporates.com/filings/708187754",
+                "Description": "Certificate Of Authority"
+            },
+            {
+                "Date": "19 May 1994",
+                "Link": "https://opencorporates.com/filings/349809496",
+                "Description": "Other/Initial Stock"
+            },
+            {
+                "Date": "19 May 1994",
+                "Link": "https://opencorporates.com/filings/186201774",
+                "Description": "Office Use Only"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-05-19",
+                "Description": "Addition of officer MERGED OUT OF EXISTENCE, agent",
+                "Link": "https://opencorporates.com/events/1532763521"
+            },
+            {
+                "Date": "On 1994-05-19",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/411547613"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "MERGED OUT OF EXISTENCE",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/66383856",
+                "Address": "S FT11 FOR SERVICE OF PROCESS, USA"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_nv/C9153-1994": {
+        "Links": [
+            "/officers/153221224",
+            "/officers/153221223",
+            "/filings/251174244",
+            "https://esos.nv.gov/EntitySearch/OnlineEntitySearch",
+            "/filings/251174242",
+            "/companies/us_ks/2153567",
+            "/filings/251174243",
+            "https://opencorporates.com/companies/us_nv/C9153-1994/filings",
+            "/filings/251174245",
+            "/companies/us_sc/221334",
+            "/filings/251174240",
+            "/companies/us_mt/F025441",
+            "/events/1980908669",
+            "/officers/432037889",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/companies/us_tn/000278435",
+            "/events/1920540257",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/officers/153221225",
+            "https://www.nvsos.gov/sos/",
+            "/filings/251174241",
+            "/events/1980908675",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "/filings/251174246",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Nevada)",
+        "Attributes": {
+            "Company Number": "C9153-1994",
+            "Native Company Number": "C9153-1994",
+            "Status": "Merged",
+            "Incorporation Date": "15 June 1994 (about 30 years ago)",
+            "Company Type": "Foreign Corporation",
+            "Jurisdiction": "Nevada",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "C T CORPORATION SYSTEM**, agent JAMES M STROTHER, secretary RICHARD F MALLOY, president ROBERT CHAPMAN, treasurer",
+            "Registry Page": "https://esos.nv.gov/EntitySearch/Onli..."
+        },
+        "Filings": [
+            {
+                "Date": "8 Mar 1999",
+                "Link": "https://opencorporates.com/filings/251174246",
+                "Description": "Merge Out"
+            },
+            {
+                "Date": "9 Jul 1998",
+                "Link": "https://opencorporates.com/filings/251174245",
+                "Description": "Annual List"
+            },
+            {
+                "Date": "7 Jun 1996",
+                "Link": "https://opencorporates.com/filings/251174244",
+                "Description": "Annual List"
+            },
+            {
+                "Date": "6 Jul 1995",
+                "Link": "https://opencorporates.com/filings/251174243",
+                "Description": "Annual List"
+            },
+            {
+                "Date": "15 Jun 1994",
+                "Link": "https://opencorporates.com/filings/251174242",
+                "Description": "Miscellaneous"
+            },
+            {
+                "Date": "15 Jun 1994",
+                "Link": "https://opencorporates.com/filings/251174241",
+                "Description": "Initial List"
+            },
+            {
+                "Date": "15 Jun 1994",
+                "Link": "https://opencorporates.com/filings/251174240",
+                "Description": "Foreign Qualification"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-06-15",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/438260954"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2018-12-12",
+                "Description": "Addition of officer JAMES M STROTHER, secretary",
+                "Link": "https://opencorporates.com/events/438260393"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2018-12-12",
+                "Description": "Addition of officer RICHARD F MALLOY, president",
+                "Link": "https://opencorporates.com/events/438259838"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2018-12-12",
+                "Description": "Addition of officer ROBERT CHAPMAN, treasurer",
+                "Link": "https://opencorporates.com/events/438259280"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2018-12-12",
+                "Description": "Addition of officer THE CORPORATION TRUST COMPANY OF NEVADA, agent",
+                "Link": "https://opencorporates.com/events/438258734"
+            },
+            {
+                "Date": "Between 2018-12-12 and 2019-06-18",
+                "Description": "Addition of officer CT CORPORATION SYSTEM, agent",
+                "Link": "https://opencorporates.com/events/1550539223"
+            },
+            {
+                "Date": "Between 2019-06-18 and 2020-11-22",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/1920540239"
+            },
+            {
+                "Date": "Between 2019-06-18 and 2020-11-22",
+                "Description": "Change of status from 'Merge Dissolved' to 'Merged'",
+                "Link": "https://opencorporates.com/events/1920540257"
+            },
+            {
+                "Date": "Between 2019-06-18 and 2020-11-22",
+                "Description": "No longer inactive",
+                "Link": "https://opencorporates.com/events/1920540266"
+            },
+            {
+                "Date": "Between 2019-06-18 and 2020-11-22",
+                "Description": "Removal of officer THE CORPORATION TRUST COMPANY OF NEVADA, agent",
+                "Link": "https://opencorporates.com/events/1920540245"
+            },
+            {
+                "Date": "Between 2020-11-22 and 2021-04-08",
+                "Description": "Became inactive",
+                "Link": "https://opencorporates.com/events/1980908669"
+            },
+            {
+                "Date": "Between 2020-11-22 and 2021-04-08",
+                "Description": "Removal of officer CT CORPORATION SYSTEM, agent",
+                "Link": "https://opencorporates.com/events/1980908675"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "ROBERT CHAPMAN",
+                "Role": "treasurer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/153221223",
+                "Address": "MS122473 ONE HOME CAMPUS, DES MOINES, IA, 503280001"
+            },
+            {
+                "Name": "RICHARD F MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/153221224",
+                "Address": "MS122459 ONE HOME CAMPUS, DES MOINES, IA, 503280001"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/153221225",
+                "Address": "MS122457 ONE HOME CAMPUS, DES MOINES, IA, 503280001"
+            },
+            {
+                "Name": "C T CORPORATION SYSTEM**",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/432037889",
+                "Address": "701 S CARSON S S 200, CARSON CITY, N , 89701"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ny/1767391": {
+        "Links": [
+            "/companies/us_ar/100001824",
+            "/officers/228291584",
+            "/companies/us_nd/0000027916",
+            "/companies/us_nj/0100559899",
+            "/companies/us_sc/221334",
+            "/companies/us_ms/608223",
+            "https://appext20.dos.ny.gov/corp_public/CORPSEARCH.ENTITY_INFORMATION?p_nameid=0&p_corpid=1767391&p_entity_name=%25&p_name_type=%25&p_search_type=BEGINS&p_srch_results_page=0",
+            "/events/407039114",
+            "/officers/228291587",
+            "/companies/us_ga/K324852",
+            "/companies/us_ne/0440868",
+            "/events/407039102",
+            "/events/407039129",
+            "/companies/us_tn/000278435",
+            "/officers/228291586",
+            "/companies/us_wa/601517989",
+            "/companies/us_de/2349626",
+            "/companies/us_md/F03726908"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (New York)",
+        "Attributes": {
+            "Company Number": "1767391",
+            "Status": "Inactive Termination",
+            "Incorporation Date": "27 October 1993 (over 30 years ago)",
+            "Dissolution Date": "11 March 1999",
+            "Company Type": "FOREIGN BUSINESS CORPORATION",
+            "Jurisdiction": "New York",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "C/O [[C T CORPORATION SYSTEM]], 1633 BROADWAY, N YORK, N YORK, 10019",
+            "Previous Names": "AMERICAN LAND TITLE CO., INC. AMERICAN LAND TITLE CO., INC.",
+            "Alternative Names": "ATI TITLE AGENCY (trading name, 1994-01-28 - ) AMERICAN LAND TITLE AGENCY CO. (trading name, 1993-10-27 - )",
+            "Inactive Directors / Officers": "AMERICAN LAND TITLE CO., INC, principal executive office [[C T CORPORATION SYSTEM]], agent RICHARD MALLOY, chief executive officer",
+            "Registry Page": "https://appext20.dos.ny.gov/corp_publ..."
+        },
+        "Events": [
+            {
+                "Date": "On 1993-10-27",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/407039156"
+            },
+            {
+                "Date": "Between 1993-10-27 and 2016-07-05",
+                "Description": "Addition of officer AMERICAN LAND TITLE CO., INC, principal executive office",
+                "Link": "https://opencorporates.com/events/407039114"
+            },
+            {
+                "Date": "Between 1993-10-27 and 2016-07-05",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/407039129"
+            },
+            {
+                "Date": "Between 1993-10-27 and 2016-07-05",
+                "Description": "Addition of officer RICHARD MALLOY, chief executive officer",
+                "Link": "https://opencorporates.com/events/407039102"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "RICHARD MALLOY",
+                "Role": "chief executive officer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/228291584",
+                "Address": "405 S 5TH S MS 122459, DES MOINES, IOWA, 50328"
+            },
+            {
+                "Name": "AMERICAN LAND TITLE CO., INC",
+                "Role": "principal executive office",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/228291586",
+                "Address": "405 S 5TH S MS 122481, DES MOINES, IOWA, 50328"
+            },
+            {
+                "Name": "C T CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/228291587",
+                "Address": "1633 BROADWAY, N YORK, N YORK, 10019"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_oh/850651": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/officers/550804728",
+            "/filings/266949555",
+            "/companies/us_pa/2563093",
+            "https://businesssearch.ohiosos.gov",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/9417_1192/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/199827802149/true",
+            "/events/525111182",
+            "/filings/266949556",
+            "/companies/us_ky/0325119",
+            "https://opencorporates.com/companies/us_oh/850651/filings",
+            "/companies/us_ut/1256804-0143",
+            "/companies/us_ga/K324852",
+            "/events/2167827917",
+            "/companies/us_az/F00606208",
+            "/filings/266949554",
+            "/companies/us_nj/0100559899",
+            "/filings/266949558",
+            "/companies/us_ar/100001824",
+            "/companies/us_nv/C9153-1994",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/H649_1098/true",
+            "/filings/266949552",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/5897_0439/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/200004701704/true",
+            "/filings/266949553",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/5325_0394/true",
+            "/filings/266949557",
+            "/companies/us_ne/0440868",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/199914401466/true",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Ohio)",
+        "Attributes": {
+            "Company Number": "850651",
+            "Status": "Dead",
+            "Incorporation Date": "29 July 1993 (almost 31 years ago)",
+            "Company Type": "FOREIGN CORPORATION",
+            "Jurisdiction": "Ohio",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "314 S 19TH S OMAHA 68102 N",
+            "Inactive Directors / Officers": "C T CORPORATION SYSTEM, agent, 29 Jul 1993-",
+            "Registry Page": "https://businesssearch.ohiosos.gov"
+        },
+        "Filings": [
+            {
+                "Date": "15 Feb 2000",
+                "Link": "https://opencorporates.com/filings/266949558",
+                "Description": "FOREIGN/SURRENDER\n\nview"
+            },
+            {
+                "Date": "2 Jul 1998",
+                "Link": "https://opencorporates.com/filings/266949556",
+                "Description": "FORM 7 FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "8 May 1998",
+                "Link": "https://opencorporates.com/filings/266949557",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "4 Oct 1996",
+                "Link": "https://opencorporates.com/filings/266949555",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "19 Oct 1995",
+                "Link": "https://opencorporates.com/filings/266949554",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "24 Jan 1994",
+                "Link": "https://opencorporates.com/filings/266949553",
+                "Description": "MISCELLANEOUS FILING\n\nview"
+            },
+            {
+                "Date": "29 Jul 1993",
+                "Link": "https://opencorporates.com/filings/266949552",
+                "Description": "FOREIGN LICENSE/FOR-PROFIT\n\nview"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1993-07-29",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/2167827917"
+            },
+            {
+                "Date": "On 1993-07-29",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/525111182"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "C T CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/550804728",
+                "Address": "1300 E 9TH S , CLEVELAND, OH, 441140000"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ok/2300537056": {
+        "Links": [
+            "/companies/us_ar/100001824",
+            "/officers/169456824",
+            "/events/175532006",
+            "/companies/us_sc/221334",
+            "/companies/us_ms/608223",
+            "https://www.sos.ok.gov/corp/corpInformation.aspx?id=2300537056",
+            "/companies/us_de/2349626",
+            "/companies/us_ga/K324852",
+            "/companies/us_ne/0440868",
+            "/companies/us_ak/53950F",
+            "/companies/us_ks/2153567",
+            "/companies/us_mt/F025441",
+            "/companies/us_tn/000278435",
+            "/events/175531985",
+            "/companies/us_nj/0100559899"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Oklahoma)",
+        "Attributes": {
+            "Company Number": "2300537056",
+            "Status": "Withdrawn",
+            "Incorporation Date": "25 April 1994 (about 30 years ago)",
+            "Company Type": "Foreign For Profit Business Corporation",
+            "Jurisdiction": "Oklahoma",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "SECRETARY OF STATE, agent",
+            "Registry Page": "https://www.sos.ok.gov/corp/corpInfor..."
+        },
+        "Events": [
+            {
+                "Date": "On 1994-04-25",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/175532006"
+            },
+            {
+                "Date": "Between 1994-04-25 and 2019-01-30",
+                "Description": "Addition of officer SECRETARY OF STATE, agent",
+                "Link": "https://opencorporates.com/events/175531985"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "SECRETARY OF STATE",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/169456824",
+                "Address": "2300 N LINCOLN BLVD RM 101 OKC OK 73105 4897"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_or/40586489": {
+        "Links": [
+            "/filings/777580229",
+            "/filings/777580256",
+            "/filings/777580235",
+            "/filings/777580232",
+            "/filings/777580262",
+            "/companies/us_ks/2153567",
+            "/filings/777580259",
+            "/companies/us_sc/221334",
+            "/officers/471326342",
+            "/filings/777580241",
+            "/filings/777580238",
+            "/companies/us_mt/F025441",
+            "/companies/us_ms/608223",
+            "/data/106953728",
+            "/companies/us_ga/K324852",
+            "/data/106953725",
+            "https://sos.oregon.gov/business/pages/default.aspx",
+            "/companies/us_tn/000278435",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/events/2032185452",
+            "/events/2032185446",
+            "/officers/471326336",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "https://opencorporates.com/companies/us_or/40586489/filings",
+            "/events/2032185461",
+            "http://egov.sos.state.or.us/br/pkg_web_name_srch_inq.do_name_srch?p_name=&p_regist_nbr=40586489&p_srch=PHASE1&p_print=FALSE&p_entity_status=ACTINA",
+            "/officers/471326339",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Oregon)",
+        "Attributes": {
+            "Company Number": "40586489",
+            "Status": "Inactive",
+            "Incorporation Date": "15 June 1994 (about 30 years ago)",
+            "Company Type": "FOREIGN BUSINESS CORPORATION",
+            "Jurisdiction": "Oregon",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "C T CORPORATION SYSTEM, agent JAMES M STROTHER, secretary RICHARD F MALLOY, president",
+            "Registry Page": "http://egov.sos.state.or.us/br/pkg_we..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/106953725",
+                    "Description": "MS 122301, 1 HOME CAMPUS, DES MOINES, IA, 50328-0001, OF AMERICA"
+                },
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/106953728",
+                    "Description": "314 S 19TH S , OMAHA, N , 68102, OF AMERICA"
+                }
+            ]
+        },
+        "Filings": [
+            {
+                "Date": "1 Dec 2017",
+                "Link": "https://opencorporates.com/filings/777580262",
+                "Description": "CHANGE OF REGISTERED AGENT/ADDRESS"
+            },
+            {
+                "Date": "12 Jun 2017",
+                "Link": "https://opencorporates.com/filings/777580259",
+                "Description": "CHANGE OF REGISTERED AGENT/ADDRESS"
+            },
+            {
+                "Date": "8 Jun 2001",
+                "Link": "https://opencorporates.com/filings/777580256",
+                "Description": "CHANGE OF REGISTERED AGENT/ADDRESS"
+            },
+            {
+                "Date": "11 May 1999",
+                "Link": "https://opencorporates.com/filings/777580229",
+                "Description": "VOLUNTARY WITHDRAWAL"
+            },
+            {
+                "Date": "9 Jun 1998",
+                "Link": "https://opencorporates.com/filings/777580235",
+                "Description": "STRAIGHT RENEWAL"
+            },
+            {
+                "Date": "9 Jun 1998",
+                "Link": "https://opencorporates.com/filings/777580232",
+                "Description": "CHANGED RENEWAL"
+            },
+            {
+                "Date": "23 Jun 1997",
+                "Link": "https://opencorporates.com/filings/777580241",
+                "Description": "STRAIGHT RENEWAL"
+            },
+            {
+                "Date": "23 Jun 1997",
+                "Link": "https://opencorporates.com/filings/777580238",
+                "Description": "CHANGED RENEWAL"
+            },
+            {
+                "Date": "29 May 1996",
+                "Link": "https://opencorporates.com/filings/777580247",
+                "Description": "STRAIGHT RENEWAL"
+            },
+            {
+                "Date": "29 May 1996",
+                "Link": "https://opencorporates.com/filings/777580244",
+                "Description": "CHANGED RENEWAL"
+            },
+            {
+                "Date": "15 Jun 1995",
+                "Link": "https://opencorporates.com/filings/777580250",
+                "Description": "AMENDED RENEWAL"
+            },
+            {
+                "Date": "15 Jun 1994",
+                "Link": "https://opencorporates.com/filings/777580253",
+                "Description": "NEW FILING"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-06-15",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/410816153"
+            },
+            {
+                "Date": "Between 2013-04-30 and 2021-05-04",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/2032185461"
+            },
+            {
+                "Date": "Between 2013-04-30 and 2021-05-04",
+                "Description": "Addition of officer JAMES M STROTHER, secretary",
+                "Link": "https://opencorporates.com/events/2032185452"
+            },
+            {
+                "Date": "Between 2013-04-30 and 2021-05-04",
+                "Description": "Addition of officer RICHARD F MALLOY, president",
+                "Link": "https://opencorporates.com/events/2032185446"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "RICHARD F MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/471326336",
+                "Address": "MS 122459, 1 HOME CAMPUS, DES MOINES, IA, 50328-0001, OF AMERICA"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/471326339",
+                "Address": "MS 122457, 1 HOME CAMPUS, DES MOINES, IA, 50328-0001, OF AMERICA"
+            },
+            {
+                "Name": "C T CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/471326342",
+                "Address": "780 COMMERCIAL S S S 100, SALEM, OR, 97301-3465, OF AMERICA"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_pa/2563093": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/filings/313082706",
+            "/filings/1290942824",
+            "/companies/us_ks/2153567",
+            "/filings/279913822",
+            "https://www.corporations.pa.gov/search/corpsearch",
+            "/companies/us_mt/F025441",
+            "/filings/1290942827",
+            "/companies/us_ky/0325119",
+            "/filings/279913823",
+            "/companies/us_ut/1256804-0143",
+            "/companies/us_ga/K324852",
+            "/companies/us_nj/0100559899",
+            "/filings/313082710",
+            "/companies/us_ar/100001824",
+            "/companies/us_ak/53950F",
+            "https://opencorporates.com/companies/us_pa/2563093/filings",
+            "/companies/us_ne/0440868",
+            "/companies/us_de/2349626",
+            "/events/374597423"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Pennsylvania)",
+        "Attributes": {
+            "Company Number": "2563093",
+            "Status": "Inactive Withdrawn Consolidated Inactive",
+            "Incorporation Date": "2 February 1994 (over 30 years ago)",
+            "Dissolution Date": "2 October 2000",
+            "Company Type": "Foreign Business Corporation",
+            "Jurisdiction": "Pennsylvania",
+            "Branch": "Branch of Pennsylvania company",
+            "Registered Address": "C/O [[C T CORPORATION SYSTEM]] 0 PA",
+            "Registry Page": "Website unavailable outside U.S."
+        },
+        "Filings": [
+            {
+                "Date": "2 Oct 2000",
+                "Link": "https://opencorporates.com/filings/1290942824",
+                "Description": "Withdrawal"
+            },
+            {
+                "Date": "2 Oct 2000",
+                "Link": "https://opencorporates.com/filings/313082710",
+                "Description": "TERMINATION/WITHDRAWAL FOREIGN-BUSINESS 2"
+            },
+            {
+                "Date": "2 Oct 2000",
+                "Link": "https://opencorporates.com/filings/279913823",
+                "Description": "With/Diss/Can 2"
+            },
+            {
+                "Date": "2 Feb 1994",
+                "Link": "https://opencorporates.com/filings/1290942827",
+                "Description": "Initial Filing"
+            },
+            {
+                "Date": "2 Feb 1994",
+                "Link": "https://opencorporates.com/filings/313082706",
+                "Description": "CERTIFICATE OF AUTHORITY 1"
+            },
+            {
+                "Date": "2 Feb 1994",
+                "Link": "https://opencorporates.com/filings/279913822",
+                "Description": "Creation Filing 1"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-02-02",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/374597423"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ri/000074932": {
+        "Links": [
+            "/filings/565698520",
+            "/events/38555882",
+            "https://opencorporates.com/companies/us_ri/000074932/filings",
+            "/companies/us_ks/2153567",
+            "/data/31221787",
+            "/filings/565698511",
+            "/events/1748856037",
+            "/companies/us_sc/221334",
+            "/filings/565698508",
+            "http://business.sos.ri.gov/CorpWeb/CorpSearch/CorpSummary.aspx?FEIN=000074932",
+            "/officers/151529647",
+            "/companies/us_mt/F025441",
+            "/filings/565698517",
+            "/events/38555897",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/filings/565698526",
+            "/companies/us_tn/000278435",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/filings/565698514",
+            "/officers/151529646",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "American Land Title Co., Inc. BRANCH (Rhode Island)",
+        "Attributes": {
+            "Company Number": "000074932",
+            "Status": "Withdrawn",
+            "Incorporation Date": "14 December 1993 (over 30 years ago)",
+            "Dissolution Date": "2 August 2000",
+            "Company Type": "Foreign Corporation",
+            "Jurisdiction": "Rhode Island",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "1 HOME CAMPUS MAC X2404-035 DES MOINES 50328 IA USA",
+            "Alternative Names": "ATI TITLE COMPANY (trading name, 1998-11-04 - )",
+            "Business Classification Text": "BUSINESS OF ABSTRACTING AND ABSTRACTING REAL ESTATE RECORDS.",
+            "Inactive Directors / Officers": "CT CORPORATION SYSTEM, agent RICHARD F MALLOY, president",
+            "Registry Page": "http://business.sos.ri.gov/CorpWeb/Co..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/31221787",
+                    "Description": "1 HOME CAMPUS MAC X2404-035, DES MOINES, IA, 50328, USA"
+                }
+            ]
+        },
+        "Total_shares": [
+            {
+                "Company": "",
+                "Jurisdiction": "",
+                "Status": "historic",
+                "Type": "Total shares object",
+                "Link": "https://opencorporates.com/companies/us_ri/000074932"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "24 Jan 2000",
+                "Link": "https://opencorporates.com/filings/565698508",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "12 Sep 1995",
+                "Link": "https://opencorporates.com/filings/565698511",
+                "Description": "Revocation Notice"
+            },
+            {
+                "Date": "11 Aug 1995",
+                "Link": "https://opencorporates.com/filings/565698517",
+                "Description": "Revocation Certificate"
+            },
+            {
+                "Date": "11 Aug 1995",
+                "Link": "https://opencorporates.com/filings/565698514",
+                "Description": "Revocation Certificate is Null and Void in Regard to Certificate Dated"
+            },
+            {
+                "Date": "30 Nov 1994",
+                "Link": "https://opencorporates.com/filings/565698520",
+                "Description": "Revocation Notice"
+            },
+            {
+                "Date": "24 Jan 1994",
+                "Link": "https://opencorporates.com/filings/565698526",
+                "Description": "Statement of Abandonment of Use of Fictitious Business Name"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1993-12-14",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/38555909"
+            },
+            {
+                "Date": "Between 1993-12-14 and 2017-01-25",
+                "Description": "Addition of officer CT CORPORATION SYSTEM, agent",
+                "Link": "https://opencorporates.com/events/38555882"
+            },
+            {
+                "Date": "Between 1993-12-14 and 2017-01-25",
+                "Description": "Addition of officer RICHARD F MALLOY, president",
+                "Link": "https://opencorporates.com/events/38555897"
+            },
+            {
+                "Date": "Between 2017-01-25 and 2020-01-08",
+                "Description": "Change of status from 'Inactive' to 'Withdrawn'",
+                "Link": "https://opencorporates.com/events/1748856037"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CT CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/151529646",
+                "Address": "123 DYER S , PROVIDENCE, RI, 02903, USA"
+            },
+            {
+                "Name": "RICHARD F MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/151529647",
+                "Address": "1 HOME CAMPUS DES MOINES, IA 50328-00001 USA"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_sc/221334": {
+        "Links": [
+            "/companies/us_ar/100001824",
+            "/officers/542630682",
+            "/companies/us_ok/2300537056",
+            "/events/2143615109",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ky/0325119",
+            "/companies/us_nv/C9153-1994",
+            "/companies/us_ut/1256804-0143",
+            "https://opencorporates.com/companies/us_sc/221334/filings",
+            "/events/2143615085",
+            "/companies/us_ga/K324852",
+            "/companies/us_ne/0440868",
+            "https://businessfilings.sc.gov/BusinessFiling/Entity/Search",
+            "/filings/931800393",
+            "/companies/us_tn/000278435",
+            "/filings/931800390",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (South Carolina)",
+        "Attributes": {
+            "Company Number": "221334",
+            "Previous Company Numbers": "221435",
+            "Status": "Forfeiture",
+            "Incorporation Date": "25 August 1993 (almost 31 years ago)",
+            "Dissolution Date": "15 May 1995",
+            "Company Type": "Corporation",
+            "Jurisdiction": "South Carolina",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "C T CORPORATION SYSTEM, agent",
+            "Registry Page": "https://businessfilings.sc.gov/Busine..."
+        },
+        "Filings": [
+            {
+                "Date": "15 May 1995",
+                "Link": "https://opencorporates.com/filings/931800390",
+                "Description": "Forfeiture"
+            },
+            {
+                "Date": "25 Aug 1993",
+                "Link": "https://opencorporates.com/filings/931800393",
+                "Description": "Authority"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1993-08-25",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/2143615109"
+            },
+            {
+                "Date": "Between 1993-08-25 and 2017-01-03",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/2143615085"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "C T CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/542630682",
+                "Address": "75 BEATTIE PL TWO INSIGNIA FINANCIAL PLZ , GREENVILLE, S , 29601-0000"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_tn/000278435": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/data/99569027",
+            "/companies/us_sc/221334",
+            "https://sos.tn.gov/business-services",
+            "/events/531825734",
+            "/companies/us_ky/0325119",
+            "/companies/us_ut/1256804-0143",
+            "/data/99569030",
+            "/filings/733075139",
+            "/companies/us_ga/K324852",
+            "/filings/733075133",
+            "https://tnbear.tn.gov/Ecommerce/FilingDetail.aspx?CN=247020247177166131006178059112247090132014197179",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/companies/us_nv/C9153-1994",
+            "/companies/us_ne/0440868",
+            "/filings/733075136",
+            "/filings/733075142",
+            "https://opencorporates.com/companies/us_tn/000278435/filings",
+            "/companies/us_de/2349626",
+            "/filings/733075130"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Tennessee)",
+        "Attributes": {
+            "Company Number": "000278435",
+            "Status": "Inactive Merged",
+            "Incorporation Date": "22 April 1994 (about 30 years ago)",
+            "Dissolution Date": "9 March 1999",
+            "Company Type": "For-profit Corporation",
+            "Jurisdiction": "Tennessee",
+            "Branch": "Branch of Nebraska company",
+            "Registry Page": "https://tnbear.tn.gov/Ecommerce/Filin..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/99569027",
+                    "Description": "1 HOME CAMPUS, MS 122481, DES MOINES, IA, USA"
+                },
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/99569030",
+                    "Description": "314 S 19TH S , OMAHA, N , USA"
+                }
+            ]
+        },
+        "Filings": [
+            {
+                "Date": "26 Mar 1999",
+                "Link": "https://opencorporates.com/filings/733075142",
+                "Description": "1998 Annual Report"
+            },
+            {
+                "Date": "31 Mar 1998",
+                "Link": "https://opencorporates.com/filings/733075139",
+                "Description": "1997 Annual Report"
+            },
+            {
+                "Date": "23 Jan 1997",
+                "Link": "https://opencorporates.com/filings/733075136",
+                "Description": "1996 Annual Report"
+            },
+            {
+                "Date": "1 Aug 1996",
+                "Link": "https://opencorporates.com/filings/733075133",
+                "Description": "1995 Annual Report"
+            },
+            {
+                "Date": "24 Jul 1995",
+                "Link": "https://opencorporates.com/filings/733075130",
+                "Description": "1995 Annual Report"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-04-22",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/531825734"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_tx/0009834906": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/officers/530017754",
+            "https://mycpa.cpa.state.tx.us/coa/",
+            "https://opencorporates.com/companies/us_tx/0009834906/filings",
+            "/filings/914041391",
+            "/officers/530017763",
+            "/events/2102053490",
+            "/events/2102053502",
+            "/officers/530017757",
+            "/companies/us_sc/221334",
+            "/officers/530017751",
+            "/filings/914041385",
+            "/companies/us_ky/0325119",
+            "https://direct.sos.state.tx.us/help/help-corp.asp?pg=bulk",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/companies/us_tn/000278435",
+            "/companies/us_nd/0000027916",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/officers/530017760",
+            "/officers/540245628",
+            "/companies/us_ne/0440868",
+            "/events/2441436623",
+            "/filings/914041379",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Texas)",
+        "Attributes": {
+            "Company Number": "0009834906",
+            "Status": "Withdrawn",
+            "Incorporation Date": "11 January 1994 (over 30 years ago)",
+            "Dissolution Date": "30 December 1998",
+            "Company Type": "Foreign For-Profit Corporation",
+            "Jurisdiction": "Texas",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "6TH & MARQUETTE C/O 1600 N CTR MS 1013 MINNEAPOLIS 55479 MN USA",
+            "Alternative Names": "ATI TITLE COMPANY (trading name) AMERICAN LAND TITLE CO., INC. (trading name, 1994-01-11 - 1998-12-30) ATI TITLE COMPANY (trading name, 1994-01-11 - 1998-12-30) ATI TITLE COMPANY (trading name, 1994-01-24 - 2004-01-24)",
+            "Inactive Directors / Officers": "Greg Merkle, vp Micheal G Fahey, p Patricia A Towns, vp Serve Secretary of State for mailing to, agent Stephen D Bennett, srvp Stephen Morrison, srvp",
+            "Registry Page": "https://mycpa.cpa.state.tx.us/coa/"
+        },
+        "Filings": [
+            {
+                "Date": "30 Dec 1998",
+                "Link": "https://opencorporates.com/filings/914041391",
+                "Description": "Certificate Of Withdrawal"
+            },
+            {
+                "Date": "24 Jan 1994",
+                "Link": "https://opencorporates.com/filings/914041385",
+                "Description": "Assumed Name Certificate"
+            },
+            {
+                "Date": "11 Jan 1994",
+                "Link": "https://opencorporates.com/filings/914041379",
+                "Description": "Application For Certificate Of Authority"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-01-11",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/63795332"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer 00000000, agent",
+                "Link": "https://opencorporates.com/events/2102053481"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Greg Merkle, vp",
+                "Link": "https://opencorporates.com/events/2102053499"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Micheal G Fahey, p",
+                "Link": "https://opencorporates.com/events/2102053502"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Patricia A Towns, vp",
+                "Link": "https://opencorporates.com/events/2102053496"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Stephen D Bennett, srvp",
+                "Link": "https://opencorporates.com/events/2102053484"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Stephen Morrison, srvp",
+                "Link": "https://opencorporates.com/events/2102053490"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Change of name from 'AMERICAN LAND TITLE CO INC' to 'AMERICAN LAND TITLE CO., INC.'",
+                "Link": "https://opencorporates.com/events/2102053478"
+            },
+            {
+                "Date": "Between 2021-06-01 and 2022-03-30",
+                "Description": "Removal of officer 00000000, agent",
+                "Link": "https://opencorporates.com/events/2441436623"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "Stephen D Bennett",
+                "Role": "srvp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/530017751",
+                "Address": "12742 FOSTER RD, LOS ALAMITOA, CA, 90720, USA"
+            },
+            {
+                "Name": "Stephen Morrison",
+                "Role": "srvp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/530017754",
+                "Address": "630 S 26TH S , W DES MOINES, IA, 50263, USA"
+            },
+            {
+                "Name": "Patricia A Towns",
+                "Role": "vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/530017757",
+                "Address": "14 ODYSSEY DR, TINFEY PARK , IL, 60477, USA"
+            },
+            {
+                "Name": "Greg Merkle",
+                "Role": "vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/530017760",
+                "Address": "712 MIGHWOOD AVE, BALTIMORE, MD, 21212, USA"
+            },
+            {
+                "Name": "Micheal G Fahey",
+                "Role": "p",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/530017763",
+                "Address": "1236 S 113TH PLZ , OMAHA, N , 68137, ANT"
+            },
+            {
+                "Name": "Serve Secretary of State for mailing to",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/540245628",
+                "Address": "CT CORPORATION SYSTEM, 350 N S PAUL S , DALLAS, TX, 75201, USA"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ut/1256804-0143": {
+        "Links": [
+            "/officers/768084156",
+            "/companies/us_ks/2153567",
+            "/officers/144026624",
+            "/officers/768084153",
+            "/companies/us_sc/221334",
+            "/officers/768084171",
+            "/officers/768084165",
+            "/companies/us_mt/F025441",
+            "/officers/768084159",
+            "/officers/768084168",
+            "https://secure.utah.gov/bes/index.html",
+            "/companies/us_ms/608223",
+            "/officers/768084162",
+            "/companies/us_ga/K324852",
+            "/officers/768084150",
+            "/companies/us_tn/000278435",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/events/591384809",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "/events/591384797",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Utah)",
+        "Attributes": {
+            "Company Number": "1256804-0143",
+            "Status": "Expired Merged",
+            "Incorporation Date": "11 January 1994 (over 30 years ago)",
+            "Dissolution Date": "9 March 1999",
+            "Company Type": "Corporation - Foreign - Profit",
+            "Jurisdiction": "Utah",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "314 S 19TH S OMAHA 68102 N",
+            "Alternative Names": "ATI TITLE COMPANY (trading name)",
+            "Inactive Directors / Officers": "CT CORPORATION SYSTEM, agent CT CORPORATION SYSTEM, registered agent GREG MERKLE, vice president JAMES M STROTHER, director JAMES M STROTHER, secretary RICHARD MALLOY, director RICHARD MALLOY, president ROBERT K CHAPMAN, treasurer STEPHEN D MORRISON, director",
+            "Registry Page": "https://secure.utah.gov/bes/index.html"
+        },
+        "Events": [
+            {
+                "Date": "On 1994-01-11",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/591384809"
+            },
+            {
+                "Date": "Between 1994-01-11 and 2018-11-20",
+                "Description": "Addition of officer CT CORPORATION SYSTEM, agent",
+                "Link": "https://opencorporates.com/events/591384797"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CT CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144026624",
+                "Address": "50 W BROADWAY 8TH FLOOR SALT LK CITY, UT 841012006"
+            },
+            {
+                "Name": "RICHARD MALLOY",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084150",
+                "Address": "405 S 5TH S MS 122459, DES MOINES, IA, 50328"
+            },
+            {
+                "Name": "STEPHEN D MORRISON",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084153",
+                "Address": "405 S 5TH S MS 122457, DES MOINES, IA, 50328"
+            },
+            {
+                "Name": "CT CORPORATION SYSTEM",
+                "Role": "registered agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084156",
+                "Address": "50 W BROADWAY 8TH FLOOR, SALT LK CITY, UT, 841012006"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084159",
+                "Address": "1 HOME CAMPUS MS 122457, DES MOINES, IA, 50328"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084162",
+                "Address": "1 HOME CAMPUS MS 122457, DES MOINES, IA, 50328"
+            },
+            {
+                "Name": "RICHARD MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084165",
+                "Address": "405 S 5TH S MS 122459, DES MOINES, IA, 50328"
+            },
+            {
+                "Name": "GREG MERKLE",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084168",
+                "Address": "2360 JOPPA RD S 205, LUTHERVILLE, MD, 21093"
+            },
+            {
+                "Name": "ROBERT K CHAPMAN",
+                "Role": "treasurer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/768084171",
+                "Address": "405 S 5TH S MS 122459, DES MOINES, IA, 50328"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_va/F1151549": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/officers/261921693",
+            "/officers/167933786",
+            "/companies/us_ks/2153567",
+            "/officers/428755187",
+            "/officers/261921690",
+            "/companies/us_mt/F025441",
+            "/officers/261921689",
+            "/events/1912313258",
+            "/companies/us_ky/0325119",
+            "/companies/us_ut/1256804-0143",
+            "/companies/us_ga/K324852",
+            "https://cis.scc.virginia.gov/",
+            "/events/2027469719",
+            "/officers/261921694",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/officers/261921692",
+            "/officers/261921691",
+            "/companies/us_ak/53950F",
+            "/events/1926309644",
+            "/companies/us_ne/0440868",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Virginia)",
+        "Attributes": {
+            "Company Number": "F1151549",
+            "Status": "Inactive",
+            "Incorporation Date": "1 September 1993 (almost 31 years ago)",
+            "Dissolution Date": "10 March 1999",
+            "Company Type": "Foreign Corporation",
+            "Jurisdiction": "Virginia",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "1 HOME CAMPUS, MS 22481 DES MOINES 50328-0001 IOWA",
+            "Alternative Names": "ATI TITLE COMPANY (trading name, 1994-01-26 - )",
+            "Business Classification Text": "INSURANCE AGENCIES",
+            "Inactive Directors / Officers": "EDWARD R PARKER, agent JAMES M STROTHER, exec vp JAMES M STROTHER, s RICHARD F MALLOY, president ROBERT K CHAPMAN, exec vp ROBERT K CHAPMAN, cfo STEVEN D MCCLELLAND, vice president STEVEN D MORRISON, sr. vp"
+        },
+        "Total_shares": [
+            {
+                "Company": "",
+                "Jurisdiction": "",
+                "Status": "historic",
+                "Type": "Total shares object",
+                "Link": "https://opencorporates.com/companies/us_va/F1151549"
+            },
+            {
+                "Company": "",
+                "Jurisdiction": "",
+                "Status": "historic",
+                "Type": "Total shares object",
+                "Link": "https://opencorporates.com/companies/us_va/F1151549"
+            }
+        ],
+        "Merger": [
+            {
+                "Company": "AMERICAN LAND TITLE CO., INC.",
+                "Jurisdiction": "",
+                "Status": "inactive",
+                "Type": "Merger object",
+                "Link": "https://opencorporates.com/companies/us_va/F1151549"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1993-09-01",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/718848059"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer EDWARD R PARKER, agent",
+                "Link": "https://opencorporates.com/events/1668857569"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer JAMES M STROTHER, exec vp",
+                "Link": "https://opencorporates.com/events/1668857602"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer JAMES M STROTHER, secretary",
+                "Link": "https://opencorporates.com/events/1668857611"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer RICHARD F MALLOY, president",
+                "Link": "https://opencorporates.com/events/1668857575"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer ROBERT K CHAPMAN, cfo",
+                "Link": "https://opencorporates.com/events/1668857584"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer ROBERT K CHAPMAN, exec vp",
+                "Link": "https://opencorporates.com/events/1668857581"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer STEVEN D MCCLELLAND, vice president",
+                "Link": "https://opencorporates.com/events/1668857590"
+            },
+            {
+                "Date": "Between 1993-09-01 and 2019-11-12",
+                "Description": "Addition of officer STEVEN D MORRISON, sr. vp",
+                "Link": "https://opencorporates.com/events/1668857596"
+            },
+            {
+                "Date": "Between 2019-12-03 and 2020-12-05",
+                "Description": "Addition of officer JAMES M STROTHER, s",
+                "Link": "https://opencorporates.com/events/1912313288"
+            },
+            {
+                "Date": "Between 2019-12-03 and 2020-12-05",
+                "Description": "Change of name from 'AMERICAN LAND TITLE CO., INC.' to 'AMERICAN LAND TITLE CO. INC.'",
+                "Link": "https://opencorporates.com/events/1912313258"
+            },
+            {
+                "Date": "Between 2019-12-03 and 2020-12-05",
+                "Description": "Change of status from 'Merged' to 'Inactive'",
+                "Link": "https://opencorporates.com/events/1912313294"
+            },
+            {
+                "Date": "Between 2020-12-05 and 2021-01-02",
+                "Description": "Removal of officer JAMES M STROTHER, secretary",
+                "Link": "https://opencorporates.com/events/1926309644"
+            },
+            {
+                "Date": "Between 2021-05-02 and 2021-05-08",
+                "Description": "Change of name from 'AMERICAN LAND TITLE CO. INC.' to 'AMERICAN LAND TITLE CO., INC.'",
+                "Link": "https://opencorporates.com/events/2027469719"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "EDWARD R PARKER",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/167933786",
+                "Address": "5511 STAPLES ML RD , RICHMOND, VIRGINIA, 23228-0000"
+            },
+            {
+                "Name": "RICHARD F MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921689"
+            },
+            {
+                "Name": "ROBERT K CHAPMAN",
+                "Role": "exec vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921690"
+            },
+            {
+                "Name": "ROBERT K CHAPMAN",
+                "Role": "cfo",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921691"
+            },
+            {
+                "Name": "STEVEN D MCCLELLAND",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921692"
+            },
+            {
+                "Name": "STEVEN D MORRISON",
+                "Role": "sr. vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921693"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "exec vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/261921694"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "s",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/428755187"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_wa/601517989": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "https://opencorporates.com/companies/us_wa/601517989/filings",
+            "/filings/451837961",
+            "/officers/322673041",
+            "/events/387949487",
+            "/filings/451837962",
+            "/events/387949517",
+            "/filings/451837964",
+            "/companies/us_sc/221334",
+            "/events/387949568",
+            "/officers/322673042",
+            "https://www.sos.wa.gov/corps/business.aspx?ubi=601517989",
+            "/officers/322673039",
+            "/companies/us_ky/0325119",
+            "https://ccfs.sos.wa.gov/",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/companies/us_tn/000278435",
+            "/companies/us_nd/0000027916",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/filings/451837963",
+            "/companies/us_ne/0440868",
+            "/officers/165634036",
+            "/officers/322673040",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (Washington)",
+        "Attributes": {
+            "Company Number": "601517989",
+            "Status": "Terminated",
+            "Incorporation Date": "20 November 1995 (over 28 years ago)",
+            "Company Type": "FOREIGN PROFIT CORPORATION",
+            "Jurisdiction": "Washington",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "CT CORPORATION SYSTEM, agent JAMES STROTHER, governor RICHARD MALLOY, governor ROBERT CHAPMAN, governor STEVEN MCCLELLAND, governor",
+            "Registry Page": "https://www.sos.wa.gov/corps/business..."
+        },
+        "Filings": [
+            {
+                "Date": "28 Apr 2016",
+                "Link": "https://opencorporates.com/filings/451837961",
+                "Description": "STATEMENT OF CHANGE"
+            },
+            {
+                "Date": "24 Feb 2015",
+                "Link": "https://opencorporates.com/filings/451837962",
+                "Description": "STATEMENT OF CHANGE"
+            },
+            {
+                "Date": "9 Mar 1999",
+                "Link": "https://opencorporates.com/filings/451837963",
+                "Description": "MERGER"
+            },
+            {
+                "Date": "25 Nov 1998",
+                "Link": "https://opencorporates.com/filings/451837964",
+                "Description": "ANNUAL REPORT"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "Between 1995-11-20 and 2019-01-15",
+                "Description": "Addition of officer CT CORPORATION SYSTEM, agent",
+                "Link": "https://opencorporates.com/events/387949487"
+            },
+            {
+                "Date": "Between 1995-11-20 and 2019-01-15",
+                "Description": "Addition of officer JAMES STROTHER, governor",
+                "Link": "https://opencorporates.com/events/387949568"
+            },
+            {
+                "Date": "Between 1995-11-20 and 2019-01-15",
+                "Description": "Addition of officer RICHARD MALLOY, governor",
+                "Link": "https://opencorporates.com/events/387949517"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CT CORPORATION SYSTEM",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/165634036",
+                "Address": "505 UN AVE S S 120, OLYMPIA, W , 98501,"
+            },
+            {
+                "Name": "RICHARD MALLOY",
+                "Role": "governor",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/322673039",
+                "Address": "1 HOME CAMPUS, MS 122473, DES MOINES, IA, 50328,"
+            },
+            {
+                "Name": "ROBERT CHAPMAN",
+                "Role": "governor",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/322673040",
+                "Address": "1 HOME CAMPUS, MS 122481, DES MOINES, IA, 50328,"
+            },
+            {
+                "Name": "STEVEN MCCLELLAND",
+                "Role": "governor",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/322673041",
+                "Address": "1 HOME CAMPUS, MS 122473, DES MOINES, IA, 50328,"
+            },
+            {
+                "Name": "JAMES STROTHER",
+                "Role": "governor",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/322673042",
+                "Address": "1 HOME CAMPUS, MS 122473, DES MOINES, IA, 50328,"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_wv/151433": {
+        "Links": [
+            "/companies/us_ok/2300537056",
+            "/officers/144423116",
+            "/companies/us_ks/2153567",
+            "/officers/144423120",
+            "/events/715973528",
+            "/companies/us_mt/F025441",
+            "/companies/us_ky/0325119",
+            "http://apps.sos.wv.gov/business/corporations/organization.aspx?org=151433",
+            "/companies/us_ut/1256804-0143",
+            "/companies/us_ga/K324852",
+            "/officers/144423118",
+            "/events/715973513",
+            "/companies/us_nj/0100559899",
+            "/companies/us_ar/100001824",
+            "/officers/144423119",
+            "/events/715973477",
+            "/officers/144423117",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "/data/28255127",
+            "/companies/us_de/2349626"
+        ],
+        "Company Name": "AMERICAN LAND TITLE CO., INC. BRANCH (West Virginia)",
+        "Attributes": {
+            "Company Number": "151433",
+            "Status": "Merger",
+            "Incorporation Date": "20 January 1994 (over 30 years ago)",
+            "Dissolution Date": "10 March 1999",
+            "Company Type": "Corporation (Foreign Profit)",
+            "Jurisdiction": "West Virginia",
+            "Branch": "Branch of Nebraska company",
+            "Inactive Directors / Officers": "JAMES M. STROTHER, secretary RICHARD F. MALLOY, president ROBERT CHAPMAN, treasurer STEVE D. MCCLELLAND, vice-president STEVE D. MCCLELLAND, agent",
+            "Registry Page": "http://apps.sos.wv.gov/business/corpo..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/28255127",
+                    "Description": "314 S 19TH S , OMAHA, N , 68102"
+                }
+            ]
+        },
+        "Events": [
+            {
+                "Date": "On 1994-01-20",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/715973552"
+            },
+            {
+                "Date": "Between 1994-01-20 and 2018-12-15",
+                "Description": "Addition of officer JAMES M. STROTHER, secretary",
+                "Link": "https://opencorporates.com/events/715973477"
+            },
+            {
+                "Date": "Between 1994-01-20 and 2018-12-15",
+                "Description": "Addition of officer RICHARD F. MALLOY, president",
+                "Link": "https://opencorporates.com/events/715973465"
+            },
+            {
+                "Date": "Between 1994-01-20 and 2018-12-15",
+                "Description": "Addition of officer ROBERT CHAPMAN, treasurer",
+                "Link": "https://opencorporates.com/events/715973489"
+            },
+            {
+                "Date": "Between 1994-01-20 and 2018-12-15",
+                "Description": "Addition of officer STEVE D. MCCLELLAND, agent",
+                "Link": "https://opencorporates.com/events/715973528"
+            },
+            {
+                "Date": "Between 1994-01-20 and 2018-12-15",
+                "Description": "Addition of officer STEVE D. MCCLELLAND, vice-president",
+                "Link": "https://opencorporates.com/events/715973513"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "RICHARD F. MALLOY",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144423116",
+                "Address": "MS 122459 ONE HOME CAMPUS, DES MOINES, IA, 503280001"
+            },
+            {
+                "Name": "JAMES M. STROTHER",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144423117",
+                "Address": "MS 122457 ONE HOME CAMPUS, SAME,"
+            },
+            {
+                "Name": "ROBERT CHAPMAN",
+                "Role": "treasurer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144423118",
+                "Address": "MS 122473 ONE HOME CAMPUS, SAME,"
+            },
+            {
+                "Name": "STEVE D. MCCLELLAND",
+                "Role": "vice-president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144423119",
+                "Address": "MS 122481 ONE HOME CAMPUS, SAME,"
+            },
+            {
+                "Name": "STEVE D. MCCLELLAND",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/144423120",
+                "Address": "MS 122481 ONE HOME CAMPUS, DES MOINES, IA, 503280001"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_wy/1994-000292152": {
+        "Links": [
+            "/events/1716327796",
+            "/officers/99292400",
+            "/companies/us_ks/2153567",
+            "https://opencorporates.com/companies/us_wy/1994-000292152/filings",
+            "/companies/us_sc/221334",
+            "/filings/206288995",
+            "/companies/us_mt/F025441",
+            "/filings/273630094",
+            "/filings/206288994",
+            "/companies/us_ms/608223",
+            "/companies/us_ga/K324852",
+            "/events/1716327790",
+            "/officers/99292402",
+            "/filings/206288990",
+            "/companies/us_tn/000278435",
+            "/companies/us_nj/0100559899",
+            "/events/1716327793",
+            "/companies/us_ar/100001824",
+            "/filings/206288993",
+            "/filings/206288992",
+            "/companies/us_ak/53950F",
+            "/companies/us_ne/0440868",
+            "https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=093111112095072104026120243064170181006134180165",
+            "/officers/99292401",
+            "/companies/us_de/2349626",
+            "/filings/206288991"
+        ],
+        "Company Name": "American Land Title Co., Inc. BRANCH (Wyoming)",
+        "Attributes": {
+            "Company Number": "1994-000292152",
+            "Status": "Inactive Merged",
+            "Incorporation Date": "15 June 1994 (about 30 years ago)",
+            "Dissolution Date": "10 March 1999",
+            "Company Type": "Profit Corporation",
+            "Jurisdiction": "Wyoming",
+            "Branch": "Branch of Nebraska company",
+            "Registered Address": "405 S FIFTH S MS 122481DES MOINES, IA 50328USA",
+            "Inactive Directors / Officers": "C T Corporation System, agent See Ar, director See Fiche, president",
+            "Registry Page": "https://wyobiz.wyo.gov/Business/Filin..."
+        },
+        "Filings": [
+            {
+                "Date": "9 Nov 2015",
+                "Link": "https://opencorporates.com/filings/273630094",
+                "Description": "RA Address Change"
+            },
+            {
+                "Date": "29 Jan 2013",
+                "Link": "https://opencorporates.com/filings/206288990",
+                "Description": "RA Address Change"
+            },
+            {
+                "Date": "15 Jun 1994",
+                "Link": "https://opencorporates.com/filings/206288991",
+                "Description": "Initial Filing"
+            },
+            {
+                "Date": "1 Jan 1800",
+                "Link": "https://opencorporates.com/filings/206288995",
+                "Description": "1995 Original Annual Report"
+            },
+            {
+                "Date": "1 Jan 1800",
+                "Link": "https://opencorporates.com/filings/206288994",
+                "Description": "1996 Original Annual Report"
+            },
+            {
+                "Date": "1 Jan 1800",
+                "Link": "https://opencorporates.com/filings/206288993",
+                "Description": "1997 Original Annual Report"
+            },
+            {
+                "Date": "1 Jan 1800",
+                "Link": "https://opencorporates.com/filings/206288992",
+                "Description": "1998 Original Annual Report"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1994-06-15",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/750284843"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2019-12-16",
+                "Description": "Addition of officer [[C T CORPORATION SYSTEM]], agent",
+                "Link": "https://opencorporates.com/events/1716327790"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2019-12-16",
+                "Description": "Addition of officer See Ar, director",
+                "Link": "https://opencorporates.com/events/1716327793"
+            },
+            {
+                "Date": "Between 1994-06-15 and 2019-12-16",
+                "Description": "Addition of officer See Fiche, president",
+                "Link": "https://opencorporates.com/events/1716327796"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "C T Corporation System",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/99292400",
+                "Address": "1908 THOMES AVE CHEYENNE, W 82001 USA"
+            },
+            {
+                "Name": "See Ar",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/99292401"
+            },
+            {
+                "Name": "See Fiche",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/99292402"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_dc/EXTUID_2861164": {
+        "Links": [
+            "/events/143588711",
+            "https://corponline.dcra.dc.gov/BizEntity.aspx/ViewEntityData?entityId=2861164",
+            "/companies/us_de/2854969",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/companies/us_wa/601886637",
+            "/companies/us_wv/179786",
+            "/companies/us_tn/000357881",
+            "/companies/us_co/19981117011",
+            "/events/143588669",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/companies/us_ak/64242F",
+            "/companies/us_il/LLC_00209422",
+            "/officers/174703396",
+            "/companies/us_pa/2828900"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE LLC BRANCH (District of Columbia)",
+        "Attributes": {
+            "Company Number": "EXTUID_2861164",
+            "Native Company Number": "L05333",
+            "Status": "Withdrawn",
+            "Incorporation Date": "19 January 2000 (over 24 years ago)",
+            "Dissolution Date": "19 April 2013",
+            "Company Type": "Limited Liability Company",
+            "Jurisdiction": "District of Columbia",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Registered Address": "ONE HOME CAMPUS, MAC X2401-05W DES MOINES 50328 IOWA",
+            "Inactive Directors / Officers": "CORPORATION SERVICE COMPANY, agent",
+            "Registry Page": "https://corponline.dcra.dc.gov/BizEnt..."
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2000-01-19",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/143588711"
+            },
+            {
+                "Date": "Between 2000-01-19 and 2019-02-05",
+                "Description": "Addition of officer CORPORATION SERVICE COMPANY, agent",
+                "Link": "https://opencorporates.com/events/143588669"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CORPORATION SERVICE COMPANY",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/174703396",
+                "Address": "1090 VERMONT AVE N , WASHINGTON, DISTRICT OF COLUMBIA, 20005"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_tn/000357881": {
+        "Links": [
+            "https://opencorporates.com/companies/us_tn/000357881/filings",
+            "/filings/733789832",
+            "/companies/us_de/2854969",
+            "/companies/us_wv/179786",
+            "/companies/us_co/19981117011",
+            "/data/99856556",
+            "/filings/733789823",
+            "https://sos.tn.gov/business-services",
+            "/filings/733789826",
+            "/companies/us_pa/2828900",
+            "https://tnbear.tn.gov/Ecommerce/FilingDetail.aspx?CN=033144041139160094241129073085093029027085079249",
+            "/filings/733789820",
+            "/filings/733789814",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/companies/us_wa/601886637",
+            "/events/653334485",
+            "/filings/733789817",
+            "/filings/733789811",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/data/99856553",
+            "/companies/us_il/LLC_00209422",
+            "/companies/us_ny/2311071",
+            "/filings/733789829"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE LLC BRANCH (Tennessee)",
+        "Attributes": {
+            "Company Number": "000357881",
+            "Status": "Inactive Cancelled",
+            "Incorporation Date": "23 September 1998 (over 25 years ago)",
+            "Dissolution Date": "30 April 2013",
+            "Company Type": "Limited Liability Company",
+            "Jurisdiction": "Tennessee",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Registry Page": "https://tnbear.tn.gov/Ecommerce/Filin..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/99856553",
+                    "Description": "1 HOME CAMPUS MAC X2401-05W, DES MOINES, IA, USA"
+                },
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/99856556",
+                    "Description": "1 HOME CAMPUS MAC X2401-05W, DES MOINES, IA, USA"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "27 Mar 2013",
+                "Link": "https://opencorporates.com/filings/733789832",
+                "Description": "2012 Annual Report"
+            },
+            {
+                "Date": "16 Mar 2012",
+                "Link": "https://opencorporates.com/filings/733789829",
+                "Description": "2011 Annual Report"
+            },
+            {
+                "Date": "7 Mar 2011",
+                "Link": "https://opencorporates.com/filings/733789826",
+                "Description": "2010 Annual Report"
+            },
+            {
+                "Date": "22 Mar 2010",
+                "Link": "https://opencorporates.com/filings/733789823",
+                "Description": "2009 Annual Report"
+            },
+            {
+                "Date": "27 Mar 2009",
+                "Link": "https://opencorporates.com/filings/733789820",
+                "Description": "2008 Annual Report"
+            },
+            {
+                "Date": "28 Mar 2008",
+                "Link": "https://opencorporates.com/filings/733789817",
+                "Description": "2007 Annual Report"
+            },
+            {
+                "Date": "2 Apr 2007",
+                "Link": "https://opencorporates.com/filings/733789814",
+                "Description": "2006 Annual Report"
+            },
+            {
+                "Date": "27 Mar 2006",
+                "Link": "https://opencorporates.com/filings/733789811",
+                "Description": "2005 Annual Report"
+            },
+            {
+                "Date": "29 Mar 2005",
+                "Link": "https://opencorporates.com/filings/733789808",
+                "Description": "2004 Annual Report"
+            },
+            {
+                "Date": "6 Apr 2004",
+                "Link": "https://opencorporates.com/filings/733789805",
+                "Description": "2003 Annual Report"
+            },
+            {
+                "Date": "3 Apr 2003",
+                "Link": "https://opencorporates.com/filings/733789802",
+                "Description": "2002 Annual Report"
+            },
+            {
+                "Date": "26 Mar 2002",
+                "Link": "https://opencorporates.com/filings/733789799",
+                "Description": "2001 Annual Report"
+            },
+            {
+                "Date": "29 Mar 2001",
+                "Link": "https://opencorporates.com/filings/733789796",
+                "Description": "2000 Annual Report"
+            },
+            {
+                "Date": "7 Mar 2000",
+                "Link": "https://opencorporates.com/filings/733789793",
+                "Description": "1999 Annual Report"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1998-09-23",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/653334485"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_sd/FL000346": {
+        "Links": [
+            "/companies/us_de/2854969",
+            "/officers/143693792",
+            "/data/71282504",
+            "/companies/us_wv/179786",
+            "/companies/us_co/19981117011",
+            "/events/2015678708",
+            "/filings/548163557",
+            "/filings/728404145",
+            "/filings/548163563",
+            "/filings/548163554",
+            "/companies/us_pa/2828900",
+            "/events/2015678711",
+            "/filings/728404139",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/filings/728404142",
+            "/companies/us_wa/601886637",
+            "/companies/us_tn/000357881",
+            "https://opencorporates.com/companies/us_sd/FL000346/filings",
+            "/filings/548163566",
+            "/filings/548163560",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "https://sosenterprise.sd.gov/BusinessServices/Business/FilingSearch.aspx",
+            "/companies/us_ak/64242F",
+            "/companies/us_il/LLC_00209422",
+            "/events/2015678714"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (South Dakota)",
+        "Attributes": {
+            "Company Number": "FL000346",
+            "Status": "Inactive",
+            "Incorporation Date": "30 July 1998 (almost 26 years ago)",
+            "Company Type": "Foreign LLC",
+            "Jurisdiction": "South Dakota",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Inactive Directors / Officers": "CORPORATION SERVICE COMPANY, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/71282504",
+                    "Description": "1 HOME CAMPUS, MAC X2401-049, DES MOINES, IA, 50328"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "18 May 2017",
+                "Link": "https://opencorporates.com/filings/728404145",
+                "Description": "Generic Amendment"
+            },
+            {
+                "Date": "22 Apr 2013",
+                "Link": "https://opencorporates.com/filings/728404142",
+                "Description": "Cancellation"
+            },
+            {
+                "Date": "13 Jul 2012",
+                "Link": "https://opencorporates.com/filings/548163554",
+                "Description": "2012 Annual Report"
+            },
+            {
+                "Date": "21 Jul 2011",
+                "Link": "https://opencorporates.com/filings/548163557",
+                "Description": "2011 Annual Report"
+            },
+            {
+                "Date": "19 Jul 2010",
+                "Link": "https://opencorporates.com/filings/548163560",
+                "Description": "2010 Annual Report"
+            },
+            {
+                "Date": "31 Jul 2009",
+                "Link": "https://opencorporates.com/filings/548163563",
+                "Description": "2009 Annual Report"
+            },
+            {
+                "Date": "28 Jul 2008",
+                "Link": "https://opencorporates.com/filings/548163566",
+                "Description": "2008 Annual Report"
+            },
+            {
+                "Date": "14 Jul 2008",
+                "Link": "https://opencorporates.com/filings/728404139",
+                "Description": "Generic Amendment"
+            },
+            {
+                "Date": "26 Jul 2007",
+                "Link": "https://opencorporates.com/filings/548163572",
+                "Description": "2007 Annual Report"
+            },
+            {
+                "Date": "24 Jul 2006",
+                "Link": "https://opencorporates.com/filings/548163575",
+                "Description": "2006 Annual Report"
+            },
+            {
+                "Date": "3 Aug 2005",
+                "Link": "https://opencorporates.com/filings/548163578",
+                "Description": "2005 Annual Report"
+            },
+            {
+                "Date": "2 Aug 2004",
+                "Link": "https://opencorporates.com/filings/548163581",
+                "Description": "2004 Annual Report"
+            },
+            {
+                "Date": "28 Jul 2003",
+                "Link": "https://opencorporates.com/filings/548163584",
+                "Description": "2003 Annual Report"
+            },
+            {
+                "Date": "12 Jul 2002",
+                "Link": "https://opencorporates.com/filings/548163587",
+                "Description": "2002 Annual Report"
+            },
+            {
+                "Date": "2 Jul 2001",
+                "Link": "https://opencorporates.com/filings/548163590",
+                "Description": "2001 Annual Report"
+            },
+            {
+                "Date": "1 Jul 2000",
+                "Link": "https://opencorporates.com/filings/548163593",
+                "Description": "2000 Annual Report"
+            },
+            {
+                "Date": "22 Jul 1999",
+                "Link": "https://opencorporates.com/filings/548163596",
+                "Description": "1999 Annual Report"
+            },
+            {
+                "Date": "22 Mar 1999",
+                "Link": "https://opencorporates.com/filings/728404136",
+                "Description": "Statement of Change"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1998-07-30",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/498866723"
+            },
+            {
+                "Date": "Between 1998-07-30 and 2016-10-09",
+                "Description": "Addition of officer CORPORATION SERVICE COMPANY, agent",
+                "Link": "https://opencorporates.com/events/498866681"
+            },
+            {
+                "Date": "Between 1998-07-30 and 2016-10-09",
+                "Description": "Addition of officer WELLS FARGO, VENTURES, LLC, manager",
+                "Link": "https://opencorporates.com/events/498866702"
+            },
+            {
+                "Date": "Between 2016-10-09 and 2019-07-28",
+                "Description": "Change of status from 'Inactive' to 'Cancelled'",
+                "Link": "https://opencorporates.com/events/1559565041"
+            },
+            {
+                "Date": "Between 2016-10-09 and 2019-07-28",
+                "Description": "No longer inactive",
+                "Link": "https://opencorporates.com/events/1559565044"
+            },
+            {
+                "Date": "Between 2019-07-28 and 2021-04-11",
+                "Description": "Became inactive",
+                "Link": "https://opencorporates.com/events/2015678708"
+            },
+            {
+                "Date": "Between 2019-07-28 and 2021-04-11",
+                "Description": "Change of status from 'Cancelled' to 'Inactive'",
+                "Link": "https://opencorporates.com/events/2015678714"
+            },
+            {
+                "Date": "Between 2019-07-28 and 2021-04-11",
+                "Description": "Removal of officer WELLS FARGO, VENTURES, LLC, manager",
+                "Link": "https://opencorporates.com/events/2015678711"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CORPORATION SERVICE COMPANY",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/143693792",
+                "Address": "503 S PIERRE S , PIERRE, S , 57501-4522"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_me/19990027FC": {
+        "Links": [
+            "/companies/us_de/2854969",
+            "/filings/278496189",
+            "/filings/278496193",
+            "/companies/us_co/19981117011",
+            "/events/537913310",
+            "https://icrs.informe.org/nei-sos-icrs/ICRS",
+            "/filings/278496191",
+            "/companies/us_nh/298333",
+            "/filings/278496194",
+            "/filings/278496187",
+            "/filings/278496188",
+            "/events/537913295",
+            "/companies/us_wy/1998-000336244",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/companies/us_wa/601886637",
+            "/companies/us_tn/000357881",
+            "/filings/278496195",
+            "https://opencorporates.com/companies/us_me/19990027FC/filings",
+            "/officers/178920260",
+            "https://icrs.informe.org/nei-sos-icrs/ICRS?CorpSumm=19990027FC",
+            "/data/114799271",
+            "/filings/278496190",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/companies/us_ut/2052554-0161",
+            "/companies/us_il/LLC_00209422"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (Maine)",
+        "Attributes": {
+            "Company Number": "19990027FC",
+            "Native Company Number": "19990027FC",
+            "Status": "Cancelled",
+            "Incorporation Date": "4 February 1998 (over 26 years ago)",
+            "Company Type": "Foreign Limited Liability Company",
+            "Jurisdiction": "Maine",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Registered Address": "1 HOME CAMPUS, MAC X2401-049 DES MOINES 50328-0001 IA US",
+            "Business Classification Text": "RESIDENTIAL MORTGAGE LENDING",
+            "Inactive Directors / Officers": "ONE HOME CAMPUS, agent",
+            "Registry Page": "https://icrs.informe.org/nei-sos-icrs..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/114799271",
+                    "Description": "1 HOME CAMPUS, MAC X2401-049, DES MOINES, IA, 50328-0001"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "29 May 2013",
+                "Link": "https://opencorporates.com/filings/278496195",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "16 May 2013",
+                "Link": "https://opencorporates.com/filings/278496194",
+                "Description": "CANCELLATION/TERMINATION"
+            },
+            {
+                "Date": "11 May 2012",
+                "Link": "https://opencorporates.com/filings/278496193",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "17 May 2011",
+                "Link": "https://opencorporates.com/filings/278496191",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "21 Apr 2010",
+                "Link": "https://opencorporates.com/filings/278496190",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "26 May 2009",
+                "Link": "https://opencorporates.com/filings/278496189",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "19 May 2008",
+                "Link": "https://opencorporates.com/filings/278496188",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "25 May 2007",
+                "Link": "https://opencorporates.com/filings/278496187",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "21 Apr 2006",
+                "Link": "https://opencorporates.com/filings/278496186",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "17 May 2005",
+                "Link": "https://opencorporates.com/filings/278496185",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "1 Jun 2004",
+                "Link": "https://opencorporates.com/filings/278496184",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "3 Jun 2003",
+                "Link": "https://opencorporates.com/filings/1317247922",
+                "Description": "CURRENT ANNUAL REPORT FILED WITH THE PENALTY WAIVED"
+            },
+            {
+                "Date": "3 Jun 2003",
+                "Link": "https://opencorporates.com/filings/278496182",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "3 Jun 2002",
+                "Link": "https://opencorporates.com/filings/1317247925",
+                "Description": "CURRENT ANNUAL REPORT FILED WITH THE PENALTY WAIVED"
+            },
+            {
+                "Date": "3 Jun 2002",
+                "Link": "https://opencorporates.com/filings/278496181",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "7 Sep 2001",
+                "Link": "https://opencorporates.com/filings/1317247928",
+                "Description": "CHANGE OF PRINCIPAL ADDRESS"
+            },
+            {
+                "Date": "26 Mar 2001",
+                "Link": "https://opencorporates.com/filings/278496179",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "31 Mar 2000",
+                "Link": "https://opencorporates.com/filings/278496178",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "28 May 1999",
+                "Link": "https://opencorporates.com/filings/278496177",
+                "Description": "ANNUAL REPORT"
+            },
+            {
+                "Date": "31 Mar 1999",
+                "Link": "https://opencorporates.com/filings/278496176",
+                "Description": "CHANGE OF AGENT AND REGISTERED OFFICE"
+            },
+            {
+                "Date": "10 Aug 1998",
+                "Link": "https://opencorporates.com/filings/278496174",
+                "Description": "FOREIGN QUALIFICATION"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1998-08-10",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/537913310"
+            },
+            {
+                "Date": "Between 1998-08-10 and 2019-03-28",
+                "Description": "Addition of officer ONE HOME CAMPUS, agent",
+                "Link": "https://opencorporates.com/events/537913295"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "ONE HOME CAMPUS",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/178920260",
+                "Address": "MAC X2401-05W DES MOINES, IA 50328"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ok/3700606794": {
+        "Links": [
+            "/companies/us_al/000-601-012",
+            "/companies/us_de/2854969",
+            "https://www.sos.ok.gov/corp/corpInformation.aspx?id=3700606794",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/events/158199713",
+            "/companies/us_tn/000357881",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/officers/169261700",
+            "/companies/us_co/19981117011",
+            "/events/158199677",
+            "/companies/us_wa/601886637",
+            "/companies/us_ky/0456262",
+            "/companies/us_il/LLC_00209422",
+            "/companies/us_ny/2311071"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (Oklahoma)",
+        "Attributes": {
+            "Company Number": "3700606794",
+            "Status": "Withdrawn",
+            "Incorporation Date": "2 July 1998 (almost 26 years ago)",
+            "Company Type": "Foreign Limited Liability Company",
+            "Jurisdiction": "Oklahoma",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Inactive Directors / Officers": "CORPORATION SERVICE COMPANY, agent",
+            "Registry Page": "https://www.sos.ok.gov/corp/corpInfor..."
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1998-07-02",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/158199713"
+            },
+            {
+                "Date": "Between 1998-07-02 and 2018-11-30",
+                "Description": "Addition of officer CORPORATION SERVICE COMPANY, agent",
+                "Link": "https://opencorporates.com/events/158199677"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CORPORATION SERVICE COMPANY",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/169261700",
+                "Address": "115 S 89TH S OKC OK 73139 8511"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_co/19981117011": {
+        "Links": [
+            "/companies/us_de/2854969",
+            "/filings/261580962",
+            "/filings/261580958",
+            "/filings/261580963",
+            "/companies/us_al/000-601-012",
+            "https://opencorporates.com/companies/us_co/19981117011/filings",
+            "/filings/261580960",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/companies/us_tn/000357881",
+            "/companies/us_wa/601886637",
+            "https://www.sos.state.co.us/biz",
+            "/filings/261580961",
+            "/filings/261580959",
+            "/filings/261580949",
+            "/filings/261580964",
+            "/data/32124049",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/companies/us_ky/0456262",
+            "/companies/us_il/LLC_00209422",
+            "/companies/us_ny/2311071"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (Colorado)",
+        "Attributes": {
+            "Company Number": "19981117011",
+            "Status": "Withdrawn",
+            "Incorporation Date": "25 June 1998 (almost 26 years ago)",
+            "Company Type": "Foreign Limited Liability Company",
+            "Jurisdiction": "Colorado",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/32124049",
+                    "Description": "ONE HOME CAMPUS, MAC X2401-05W, W DES MOINES, IA, 50328, US"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "17 Apr 2013",
+                "Link": "https://opencorporates.com/filings/261580964",
+                "Description": "Withdraw Foreign Entity Authority"
+            },
+            {
+                "Date": "8 Aug 2012",
+                "Link": "https://opencorporates.com/filings/261580963",
+                "Description": "File Report"
+            },
+            {
+                "Date": "17 Aug 2011",
+                "Link": "https://opencorporates.com/filings/261580962",
+                "Description": "File Report"
+            },
+            {
+                "Date": "1 Jul 2010",
+                "Link": "https://opencorporates.com/filings/261580961",
+                "Description": "File Report"
+            },
+            {
+                "Date": "20 Aug 2009",
+                "Link": "https://opencorporates.com/filings/261580960",
+                "Description": "File Report"
+            },
+            {
+                "Date": "6 Aug 2008",
+                "Link": "https://opencorporates.com/filings/261580959",
+                "Description": "File Report"
+            },
+            {
+                "Date": "16 Jul 2007",
+                "Link": "https://opencorporates.com/filings/261580958",
+                "Description": "File Report"
+            },
+            {
+                "Date": "10 Nov 2006",
+                "Link": "https://opencorporates.com/filings/261580949",
+                "Description": "Filing Officer Correction"
+            },
+            {
+                "Date": "22 Aug 2006",
+                "Link": "https://opencorporates.com/filings/261580950",
+                "Description": "File Report"
+            },
+            {
+                "Date": "4 Aug 2005",
+                "Link": "https://opencorporates.com/filings/261580954",
+                "Description": "File Report"
+            },
+            {
+                "Date": "14 Jul 2004",
+                "Link": "https://opencorporates.com/filings/261580953",
+                "Description": "File Report"
+            },
+            {
+                "Date": "29 Jul 2003",
+                "Link": "https://opencorporates.com/filings/261580956",
+                "Description": "Statement of Older Periodic Report"
+            },
+            {
+                "Date": "22 Aug 2002",
+                "Link": "https://opencorporates.com/filings/261580957",
+                "Description": "Statement of Older Periodic Report"
+            },
+            {
+                "Date": "16 Aug 2000",
+                "Link": "https://opencorporates.com/filings/261580951",
+                "Description": "Statement of Older Periodic Report"
+            },
+            {
+                "Date": "17 Mar 1999",
+                "Link": "https://opencorporates.com/filings/261580952",
+                "Description": "Amendment"
+            },
+            {
+                "Date": "25 Jun 1998",
+                "Link": "https://opencorporates.com/filings/261580955",
+                "Description": "Application for Authority"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_mo/FL0019537": {
+        "Links": [
+            "https://bsd.sos.mo.gov/BusinessEntity/BusinessEntityDetail.aspx?page=beSearch&ID=550293",
+            "/companies/us_de/2854969",
+            "/events/2270334818",
+            "/companies/us_wv/179786",
+            "/filings/8283219",
+            "/companies/us_co/19981117011",
+            "/filings/247764186",
+            "https://opencorporates.com/companies/us_mo/FL0019537/filings",
+            "/filings/658029167",
+            "/events/2278437338",
+            "/companies/us_pa/2828900",
+            "/filings/247764183",
+            "/filings/247764187",
+            "/filings/658029176",
+            "/companies/us_ms/659405",
+            "/companies/us_nj/0600054223",
+            "/companies/us_wa/601886637",
+            "/companies/us_tn/000357881",
+            "/filings/658029173",
+            "https://www.sos.mo.gov/BusinessEntity/soskb/pdfViewer.asp?crypt=%98%7Cw%8F%7D%D9%AA%AC%85%A4%A0%A4%99%C0%B2%D1%93%95%C5%96%B1Q%A2%C2%92%7C%A1%8E%AD%D2%9Db%7F%8Er%89%81%7DoU%7F%A2%9E%86%B3%B9%BD%B6%8C%9Fy%AB%97%B2%9Cw%9C%A7%95%97%A8%81%8D%ACyyv%9E%9AjUdkuqrfV%81u%8Av%87%9A%A6%C0%A7%5F%7F%A6%92%BE%9E%8FPl%8B%80%C5%97%9B%A8%9C%5Bx%9F%CA%BF%A4%92%A7%C6%A3%ADq%7Eh%96%A7%9D%A9%B8%A4%8A%9CcZ",
+            "https://www.sos.mo.gov/business",
+            "/officers/581143152",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "/events/890147567",
+            "/companies/us_ak/64242F",
+            "/companies/us_il/LLC_00209422",
+            "/filings/247764184"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (Missouri)",
+        "Attributes": {
+            "Company Number": "FL0019537",
+            "Status": "Term/Cancel",
+            "Incorporation Date": "7 May 1998 (about 26 years ago)",
+            "Dissolution Date": "18 April 2013",
+            "Company Type": "Limited Liability Company",
+            "Jurisdiction": "Missouri",
+            "Branch": "Branch of EDWARD JONES MORTGAGE, LLC (Delaware)",
+            "Registered Address": "600 W MAIN JEFFERSON CITY 65102 MO",
+            "Inactive Directors / Officers": "(Secretary of State), agent",
+            "Registry Page": "https://bsd.sos.mo.gov/BusinessEntity..."
+        },
+        "Branch_relationship": [
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            },
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            },
+            {
+                "Company": "EDWARD JONES MORTGAGE, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/2854969"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "18 Apr 2013",
+                "Link": "https://opencorporates.com/filings/658029173",
+                "Description": "Articles of Cancellation"
+            },
+            {
+                "Date": "18 Apr 2013",
+                "Link": "https://opencorporates.com/filings/247764186",
+                "Description": "Articles of Cancellation"
+            },
+            {
+                "Date": "18 Apr 2013",
+                "Link": "https://opencorporates.com/filings/247764183",
+                "Description": "Articles of Cancellation"
+            },
+            {
+                "Date": "31 Mar 1999",
+                "Link": "https://opencorporates.com/filings/658029176",
+                "Description": "Change of Registered Agent and/or Registered Office"
+            },
+            {
+                "Date": "31 Mar 1999",
+                "Link": "https://opencorporates.com/filings/247764187",
+                "Description": "Change of Registered Agent and/or Registered Office"
+            },
+            {
+                "Date": "31 Mar 1999",
+                "Link": "https://opencorporates.com/filings/247764184",
+                "Description": "Change of Registered Agent and/or Registered Office"
+            },
+            {
+                "Date": "31 Mar 1999",
+                "Link": "https://opencorporates.com/filings/8283219",
+                "Description": "Agent Change/Resign\n\nview"
+            },
+            {
+                "Date": "7 May 1998",
+                "Link": "https://opencorporates.com/filings/658029167",
+                "Description": "Application for Registration of a Foreign Limited Liability Company"
+            },
+            {
+                "Date": "7 May 1998",
+                "Link": "https://opencorporates.com/filings/247764188",
+                "Description": "Application for Registration of a Foreign Limited Liability Company"
+            },
+            {
+                "Date": "7 May 1998",
+                "Link": "https://opencorporates.com/filings/247764185",
+                "Description": "Application for Registration of a Foreign Limited Liability Company"
+            },
+            {
+                "Date": "7 May 1998",
+                "Link": "https://opencorporates.com/filings/8283218",
+                "Description": "Creation Filing\n\nview"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1998-05-07",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/890147603"
+            },
+            {
+                "Date": "Between 1998-05-07 and 2016-07-26",
+                "Description": "Addition of officer Secretary of State, agent",
+                "Link": "https://opencorporates.com/events/890147567"
+            },
+            {
+                "Date": "Between 2021-08-08 and 2021-08-14",
+                "Description": "Addition of officer (Secretary of State), agent",
+                "Link": "https://opencorporates.com/events/2270334818"
+            },
+            {
+                "Date": "Between 2021-08-15 and 2021-08-21",
+                "Description": "Removal of officer SECRETARY OF STATE, agent",
+                "Link": "https://opencorporates.com/events/2278437338"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "(Secretary of State)",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/581143152"
+            }
+        ]
+    }
+}

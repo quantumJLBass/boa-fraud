@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>NEIL JACOBSON</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=NEIL+JACOBSON" title="Company Officers/Directors named NEIL JACOBSON">NEIL JACOBSON</a></dd>
+<dt>Address</dt> <dd class="address">155 5TH ST, SAN FRANCISCO, CA, 94103, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=NEIL+JACOBSON">Search Google for 'NEIL JACOBSON'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=NEIL+JACOBSON">Search LittleSis for 'NEIL JACOBSON'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=NEIL+JACOBSON" title="Company Officers/Directors named NEIL JACOBSON">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=NEIL+JACOBSON">Found 142.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/16593258" title="more info on DR. H. NEIL JACOBSON">DR. H. NEIL JACOBSON</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___voluntary_action" href="/companies/us_la/33433570D" title="More Free And Open Company Data On H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION (Louisiana (US), 33433570D)">H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION</a> (Louisiana (US), <span class="start_date">26 May 1981</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/16593254" title="more info on DR. H. NEIL JACOBSON">DR. H. NEIL JACOBSON</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___voluntary_action" href="/companies/us_la/33433570D" title="More Free And Open Company Data On H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION (Louisiana (US), 33433570D)">H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION</a> (Louisiana (US), <span class="start_date">26 May 1981</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/16593259" title="more info on DR. H. NEIL JACOBSON">DR. H. NEIL JACOBSON</a>, agent, <span class="start_date">26 May 1981</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___voluntary_action" href="/companies/us_la/33433570D" title="More Free And Open Company Data On H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION (Louisiana (US), 33433570D)">H. NEIL JACOBSON, M.D. - A PROFESSIONAL CORPORATION</a> (Louisiana (US), <span class="start_date">26 May 1981</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/74681815" title="more info on Gavin Neil JACOBSON">Gavin Neil JACOBSON</a>, director, <span class="start_date">11 Sep 2013</span>- ,
+<a class="jurisdiction_filter nz" href="/companies/nz" title="Free And Open Data On New Zealand Companies"><img alt="New Zealand flag" class="flag" src="/assets/flags/nz-a5dc6ee1a28d7274a7791b374a6931d4.gif"/></a> <a class="company registered" href="/companies/nz/4634900" title="More Free And Open Company Data On FOODSAFE 360 LIMITED (New Zealand, 4634900)">FOODSAFE 360 LIMITED</a> (New Zealand, <span class="start_date">11 Sep 2013</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/489224747" title="more info on H Neil Jacobson">H Neil Jacobson</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company in_existence" href="/companies/us_tx/0801065713" title="More Free And Open Company Data On H. NEIL JACOBSON, M.D., P.A. (Texas (US), 0801065713)">H. NEIL JACOBSON, M.D., P.A.</a> (Texas (US), <span class="start_date">22 Dec 2008</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/139873451" title="more info on JACOBSON, NEIL MD">JACOBSON, NEIL MD</a>, incorporator,
+<a class="jurisdiction_filter us" href="/companies/us_al" title="Free And Open Data On Alabama (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company exists" href="/companies/us_al/000-052-100" title="More Free And Open Company Data On Neil Jacobson, M.D., P.C. (Alabama (US), 000-052-100)">Neil Jacobson, M.D., P.C.</a> (Alabama (US), <span class="start_date">30 Jun 1978</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/202847661" title="more info on KENT NEIL JACOBSON">KENT NEIL JACOBSON</a>, director, <span class="start_date">18 Apr 2013</span>-<span class="end_date">25 Jul 2014</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/07752587" title="More Free And Open Company Data On RESERVE MINES PLC (United Kingdom, 07752587)">RESERVE MINES PLC</a> (United Kingdom, <span class="start_date">25 Aug 2011</span>-<span class="end_date">15 Sep 2015</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/202835619" title="more info on KENT NEIL JACOBSON">KENT NEIL JACOBSON</a>, director, <span class="start_date"> 6 Feb 2013</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/07752355" title="More Free And Open Company Data On ZONDA USA GLOBAL DISTRIBUTION CORPORATION PLC (United Kingdom, 07752355)">ZONDA USA GLOBAL DISTRIBUTION CORPORATION PLC</a> (United Kingdom, <span class="start_date">25 Aug 2011</span>-<span class="end_date">23 Dec 2014</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/176217995" title="more info on NEIL A JACOBSON">NEIL A JACOBSON</a>, incorporator,
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_oh/960026" title="More Free And Open Company Data On FRJ, LTD. (Ohio (US), 960026)">FRJ, LTD.</a> (Ohio (US), <span class="start_date">19 Nov 1996</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/653508064" title="more info on NEIL A JACOBSON">NEIL A JACOBSON</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_pa" title="Free And Open Data On Pennsylvania (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_pa/3687" title="More Free And Open Company Data On ADELPHIA GRAPHIC SYSTEMS, INC. (Pennsylvania (US), 3687)">ADELPHIA GRAPHIC SYSTEMS, INC.</a> (Pennsylvania (US), <span class="start_date">30 Jul 1962</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/653836884" title="more info on NEIL A JACOBSON">NEIL A JACOBSON</a>, general partner,
+<a class="jurisdiction_filter us" href="/companies/us_pa" title="Free And Open Data On Pennsylvania (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_pa/2840165" title="More Free And Open Company Data On JACOBSON &amp; JACOBSON (Pennsylvania (US), 2840165)">JACOBSON &amp; JACOBSON</a> (Pennsylvania (US), <span class="start_date"> 8 Oct 1998</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

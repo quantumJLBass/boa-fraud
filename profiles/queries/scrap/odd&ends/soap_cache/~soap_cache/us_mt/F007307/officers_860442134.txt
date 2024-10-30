@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>TOM CLIFFORD</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=TOM+CLIFFORD" title="Company Officers/Directors named TOM CLIFFORD">TOM CLIFFORD</a></dd>
+<dt>Address</dt> <dd class="address">8600 HARRY HINES BLVD, DALLAS, TX, 75235, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=TOM+CLIFFORD">Search Google for 'TOM CLIFFORD'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=TOM+CLIFFORD">Search LittleSis for 'TOM CLIFFORD'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=TOM+CLIFFORD" title="Company Officers/Directors named TOM CLIFFORD">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=TOM+CLIFFORD">Found 162.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer">
+<a class="officer" href="/officers/905423456" title="more info on CLIFFORD TOM">CLIFFORD TOM</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_ca/1880520" title="More Free And Open Company Data On EAST BAY ANESTHESIOLOGY MEDICAL GROUP, INC. (California (US), 1880520)">EAST BAY ANESTHESIOLOGY MEDICAL GROUP, INC.</a> (California (US), <span class="start_date"> 1 Jan 1994</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/192109336" title="more info on CLIFFORD TOM CURTIS">CLIFFORD TOM CURTIS</a>, director, <span class="start_date">19 May 1995</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/03059078" title="More Free And Open Company Data On ON LINE COMMUNICATION SYSTEMS LIMITED (United Kingdom, 03059078)">ON LINE COMMUNICATION SYSTEMS LIMITED</a> (United Kingdom, <span class="start_date">19 May 1995</span>-<span class="end_date"> 4 Oct 2011</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/918469766" title="more info on CLIFFORD TOM HILL">CLIFFORD TOM HILL</a>, secretary,
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_or/2370294" title="More Free And Open Company Data On BAKER VETERINARY HOSPITAL, P.C. (Oregon (US), 2370294)">BAKER VETERINARY HOSPITAL, P.C.</a> (Oregon (US), <span class="start_date"> 5 Jun 2001</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/224480928" title="more info on CLIFFORD TOM LEHMAN">CLIFFORD TOM LEHMAN</a>, president, <span class="start_date">28 Mar 2006</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_in" title="Free And Open Data On Indiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive admin_dissolved" href="/companies/us_in/2004010500420" title="More Free And Open Company Data On LEHMAN EXPRESS, INC. (Indiana (US), 2004010500420)">LEHMAN EXPRESS, INC.</a> (Indiana (US), <span class="start_date"> 1 Jan 2004</span>-<span class="end_date">28 Aug 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/224480925" title="more info on CLIFFORD TOM LEHMAN">CLIFFORD TOM LEHMAN</a>, agent, <span class="start_date">28 Mar 2006</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_in" title="Free And Open Data On Indiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive admin_dissolved" href="/companies/us_in/2004010500420" title="More Free And Open Company Data On LEHMAN EXPRESS, INC. (Indiana (US), 2004010500420)">LEHMAN EXPRESS, INC.</a> (Indiana (US), <span class="start_date"> 1 Jan 2004</span>-<span class="end_date">28 Aug 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/712382997" title="more info on CLIFFORD, TOM">CLIFFORD, TOM</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive withdrawn" href="/companies/us_il/LLC_09498273" title="More Free And Open Company Data On MAC FACILITY SERVICES, LLC (Illinois (US), LLC_09498273)">MAC FACILITY SERVICES, LLC</a> (Illinois (US), <span class="start_date">16 Feb 2021</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/857316881" title="more info on Clifford Tom">Clifford Tom</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_ca/202251418750" title="More Free And Open Company Data On CORNERSTONE INVESTMENTS &amp; REALTY LLC (California (US), 202251418750)">CORNERSTONE INVESTMENTS &amp; REALTY LLC</a> (California (US), <span class="start_date"> 7 Jul 2022</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/687289059" title="more info on Clifford, Tom">Clifford, Tom</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_nc" title="Free And Open Data On North Carolina (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_nc/1170655" title="More Free And Open Company Data On TriWilmington LLC (North Carolina (US), 1170655)">TriWilmington LLC</a> (North Carolina (US), <span class="start_date">12 Oct 2010</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/261110299" title="more info on LT TOM CLIFFORD">LT TOM CLIFFORD</a>, vice president,
+<a class="jurisdiction_filter us" href="/companies/us_va" title="Free And Open Data On Virginia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_va/04327599" title="More Free And Open Company Data On CONCERNED CITIZENS ADVOCATING TRAFFIC SAFETY, INC. (Virginia (US), 04327599)">CONCERNED CITIZENS ADVOCATING TRAFFIC SAFETY, INC.</a> (Virginia (US), <span class="start_date">24 Aug 1994</span>-<span class="end_date">15 Jan 2004</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/207266548" title="more info on TOM CLIFFORD">TOM CLIFFORD</a>, director, <span class="start_date">19 Jun 1996</span>-<span class="end_date">18 Nov 2003</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <span class="status label">nonprofit</span> <a class="company inactive dissolved" href="/companies/gb/02912701" title="More Free And Open Company Data On NATIONAL HOUSEHOLD HAZARDOUS WASTE FORUM (United Kingdom, 02912701)">NATIONAL HOUSEHOLD HAZARDOUS WASTE FORUM</a> (United Kingdom, <span class="start_date">25 Mar 1994</span>-<span class="end_date">14 Aug 2012</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/174309490" title="more info on TOM CLIFFORD">TOM CLIFFORD</a>, incorporator,
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive cancelled" href="/companies/us_oh/52521" title="More Free And Open Company Data On THE 3 PERCENT LOAN CO - OPERATIVE ASSOCIATION (Ohio (US), 52521)">THE 3 PERCENT LOAN CO - OPERATIVE ASSOCIATION</a> (Ohio (US), <span class="start_date">20 Mar 1919</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

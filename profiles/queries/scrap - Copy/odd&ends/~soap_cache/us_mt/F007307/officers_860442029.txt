@@ -1,0 +1,169 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>JOYCE CLINTON</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=JOYCE+CLINTON" title="Company Officers/Directors named JOYCE CLINTON">JOYCE CLINTON</a></dd>
+<dt>Address</dt> <dd class="address">10450 N 90TH ST, SCOTTSDALE, AZ, 85258, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=JOYCE+CLINTON">Search Google for 'JOYCE CLINTON'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=JOYCE+CLINTON">Search LittleSis for 'JOYCE CLINTON'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=JOYCE+CLINTON" title="Company Officers/Directors named JOYCE CLINTON">Similarly named officers</a></h3>
+<ul class="officers">
+<li class="search-result officer">
+<a class="officer" href="/officers/225797525" title="more info on CLINTON AND JOYCE SHERROD">CLINTON AND JOYCE SHERROD</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company incorporated" href="/companies/us_md/D16873820" title="More Free And Open Company Data On CLINTON AND JOYCE SHERROD MINISTRIES, INC (Maryland (US), D16873820)">CLINTON AND JOYCE SHERROD MINISTRIES, INC</a> (Maryland (US), <span class="start_date">12 Nov 2015</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/661760932" title="more info on Clinton James Joyce">Clinton James Joyce</a>, incorporator,
+<a class="jurisdiction_filter us" href="/companies/us_ga" title="Free And Open Data On Georgia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">nonprofit</span> <a class="company active/noncompliance" href="/companies/us_ga/20174280" title="More Free And Open Company Data On Repairer of the Breach Inc (Georgia (US), 20174280)">Repairer of the Breach Inc</a> (Georgia (US), <span class="start_date">23 Jul 2020</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/661760924" title="more info on Clinton James Joyce">Clinton James Joyce</a>, cfo,
+<a class="jurisdiction_filter us" href="/companies/us_ga" title="Free And Open Data On Georgia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">nonprofit</span> <a class="company active/noncompliance" href="/companies/us_ga/20174280" title="More Free And Open Company Data On Repairer of the Breach Inc (Georgia (US), 20174280)">Repairer of the Breach Inc</a> (Georgia (US), <span class="start_date">23 Jul 2020</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/900679646" title="more info on Emily Joyce Clinton">Emily Joyce Clinton</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company good_standing" href="/companies/us_co/20221690210" title="More Free And Open Company Data On Entirely Emmy LLC (Colorado (US), 20221690210)">Entirely Emmy LLC</a> (Colorado (US), <span class="start_date">18 Jul 2022</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/77821308" title="more info on JOYCE A CLINTON">JOYCE A CLINTON</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_wa" title="Free And Open Data On Washington (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_wa/600027133" title="More Free And Open Company Data On CLINTON ELECTRIC, INC. (Washington (US), 600027133)">CLINTON ELECTRIC, INC.</a> (Washington (US), <span class="start_date">27 Aug 1970</span>-<span class="end_date"> 1 Dec 2004</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/163916717" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/L15000168540" title="More Free And Open Company Data On WOODCHIP FLOORING, LLC (Florida (US), L15000168540)">WOODCHIP FLOORING, LLC</a> (Florida (US), <span class="start_date">28 Sep 2015</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/150393594" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive forfeited" href="/companies/us_md/D10040053" title="More Free And Open Company Data On UPPER ROOM CHRISTIAN MINISTRIES, INC (Maryland (US), D10040053)">UPPER ROOM CHRISTIAN MINISTRIES, INC</a> (Maryland (US), <span class="start_date"> 9 Jun 2004</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/322552335" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>, governor,
+<a class="jurisdiction_filter us" href="/companies/us_wa" title="Free And Open Data On Washington (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_wa/600027133" title="More Free And Open Company Data On CLINTON ELECTRIC, INC. (Washington (US), 600027133)">CLINTON ELECTRIC, INC.</a> (Washington (US), <span class="start_date">27 Aug 1970</span>-<span class="end_date"> 1 Dec 2004</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/125899490" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive forfeited___not_in_good_standing" href="/companies/us_md/W06424469" title="More Free And Open Company Data On W.E.A. LLC (Maryland (US), W06424469)">W.E.A. LLC</a> (Maryland (US), <span class="start_date">15 Aug 2001</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/150855961" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive forfeited___not_in_good_standing" href="/companies/us_md/D06424477" title="More Free And Open Company Data On MAZARETH HOME INC. (Maryland (US), D06424477)">MAZARETH HOME INC.</a> (Maryland (US), <span class="start_date">15 Aug 2001</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,87 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch ousted" href="/companies/us_ok/2300409361" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Oklahoma (US), 2300409361)">WACHOVIA MORTGAGE CORPORATION</a> &gt; <a href="https://opencorporates.com/companies/us_ok/2300409361/officers" title="All officers/directors for WACHOVIA MORTGAGE CORPORATION">All officers</a>
+<h1>THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch ousted" href="/companies/us_ok/2300409361" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Oklahoma (US), 2300409361)">WACHOVIA MORTGAGE CORPORATION</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=THE+PRENTICE-HALL+CORPORATION+SYSTEM%2C+OKLAHOMA%2C+INC" title="Company Officers/Directors named THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC">THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC</a></dd>
+<dt>Address</dt> <dd class="address">115 SW 89TH
+OKC OK 73139 8511</dd>
+<dt>Position</dt> <dd class="position">agent</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=THE+PRENTICE-HALL+CORPORATION+SYSTEM%2C+OKLAHOMA%2C+INC">Search Google for 'THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=THE+PRENTICE-HALL+CORPORATION+SYSTEM%2C+OKLAHOMA%2C+INC">Search LittleSis for 'THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch ousted" href="/companies/us_ok/2300409361" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Oklahoma (US), 2300409361)">WACHOVIA MORTGAGE CORPORATION</a>
+</h3>
+<ul class="officers">
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated November 10 2015,  5.34PM (over 8 years ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=THE+PRENTICE-HALL+CORPORATION+SYSTEM%2C+OKLAHOMA%2C+INC" title="Company Officers/Directors named THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=THE+PRENTICE-HALL+CORPORATION+SYSTEM%2C+OKLAHOMA%2C+INC">Found 1753.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer">
+<a class="officer" href="/officers/168965987" title="more info on REG OFFICE: C/O THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC">REG OFFICE: C/O THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch otc_suspension" href="/companies/us_ok/2300368305" title="More Free And Open Company Data On HEALTHCALL CORPORATION (Oklahoma (US), 2300368305)">HEALTHCALL CORPORATION</a> (Oklahoma (US), <span class="start_date">22 May 1981</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/169465276" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_ok/2310234748" title="More Free And Open Company Data On ARLEN REALTY &amp; DEVELOPMENT CORP. (Oklahoma (US), 2310234748)">ARLEN REALTY &amp; DEVELOPMENT CORP.</a> (Oklahoma (US), <span class="start_date">23 Feb 1971</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168964833" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch ousted" href="/companies/us_ok/2300355839" title="More Free And Open Company Data On WEYERHAEUSER REAL ESTATE COMPANY (Oklahoma (US), 2300355839)">WEYERHAEUSER REAL ESTATE COMPANY</a> (Oklahoma (US), <span class="start_date">19 Sep 1980</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/169393059" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive merged" href="/companies/us_ok/1910211405" title="More Free And Open Company Data On LESAL RETAILERS OF OKLAHOMA CITY (Oklahoma (US), 1910211405)">LESAL RETAILERS OF OKLAHOMA CITY</a> (Oklahoma (US), <span class="start_date"> 4 Dec 1967</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/169393060" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive merged" href="/companies/us_ok/1910211407" title="More Free And Open Company Data On LESAL RETAILERS OF OIL TOWN, INC. (Oklahoma (US), 1910211407)">LESAL RETAILERS OF OIL TOWN, INC.</a> (Oklahoma (US), <span class="start_date"> 4 Dec 1967</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168886401" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_ok/1910170486" title="More Free And Open Company Data On NARC DRUG COMPANY OF OKLAHOMA CITY, INC. (Oklahoma (US), 1910170486)">NARC DRUG COMPANY OF OKLAHOMA CITY, INC.</a> (Oklahoma (US), <span class="start_date">10 May 1961</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168968469" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch merged" href="/companies/us_ok/2300390436" title="More Free And Open Company Data On MASTER PUMPS &amp; EQUIPMENT CORP. (Oklahoma (US), 2300390436)">MASTER PUMPS &amp; EQUIPMENT CORP.</a> (Oklahoma (US), <span class="start_date"> 7 Jul 1982</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/169393015" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive merged" href="/companies/us_ok/1910209001" title="More Free And Open Company Data On SPENCER GIFTS OF SOUTHROADS, INC. (Oklahoma (US), 1910209001)">SPENCER GIFTS OF SOUTHROADS, INC.</a> (Oklahoma (US), <span class="start_date">27 Jul 1967</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168890579" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive merged" href="/companies/us_ok/1910329454" title="More Free And Open Company Data On TDS OF OKLAHOMA, INC. (Oklahoma (US), 1910329454)">TDS OF OKLAHOMA, INC.</a> (Oklahoma (US), <span class="start_date">18 Dec 1978</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168995718" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch merged" href="/companies/us_ok/2310258179" title="More Free And Open Company Data On TWENTIETH CENTURY-FOX FILM CORPORATION (Oklahoma (US), 2310258179)">TWENTIETH CENTURY-FOX FILM CORPORATION</a> (Oklahoma (US), <span class="start_date">14 Jun 1973</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168966007" title="more info on THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC">THE PRENTICE HALL CORPORATION SYSTEM OKLAHOMA INC</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_ok/2300368543" title="More Free And Open Company Data On SYSTEM AUTO PARKS &amp; GARAGES, INC. (Oklahoma (US), 2300368543)">SYSTEM AUTO PARKS &amp; GARAGES, INC.</a> (Oklahoma (US), <span class="start_date">28 May 1981</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>BRUCE E WALLACE</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=BRUCE+E+WALLACE" title="Company Officers/Directors named BRUCE E WALLACE">BRUCE E WALLACE</a></dd>
+<dt>Address</dt> <dd class="address">1305 W 23RD ST, TEMPE, AZ, 85282, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=BRUCE+E+WALLACE">Search Google for 'BRUCE E WALLACE'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=BRUCE+E+WALLACE">Search LittleSis for 'BRUCE E WALLACE'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442011" title="more info on GREGORY A BRENK">GREGORY A BRENK</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=BRUCE+E+WALLACE" title="Company Officers/Directors named BRUCE E WALLACE">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=BRUCE+E+WALLACE">Found 1030.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/192530787" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, director, <span class="start_date">29 Dec 1988</span>-<span class="end_date">18 May 1992</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC083430" title="More Free And Open Company Data On CROFTFOOT PROPERTY CENTRE LIMITED (United Kingdom, SC083430)">CROFTFOOT PROPERTY CENTRE LIMITED</a> (United Kingdom, <span class="start_date"> 9 Jun 1983</span>-<span class="end_date"> 8 May 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/46692233" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, director, <span class="start_date">31 Dec 1988</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC057781" title="More Free And Open Company Data On CAMPBELL WALLACE PRODUCTS LIMITED (United Kingdom, SC057781)">CAMPBELL WALLACE PRODUCTS LIMITED</a> (United Kingdom)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/199328766" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, secretary, <span class="start_date">14 Nov 1988</span>-<span class="end_date">28 Oct 2005</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company liquidation" href="/companies/gb/SC022750" title="More Free And Open Company Data On LANGWOOD PROPERTIES LIMITED (United Kingdom, SC022750)">LANGWOOD PROPERTIES LIMITED</a> (United Kingdom, <span class="start_date">12 Apr 1944</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/192530751" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, secretary, <span class="start_date">29 Dec 1988</span>-<span class="end_date">18 May 1992</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC083430" title="More Free And Open Company Data On CROFTFOOT PROPERTY CENTRE LIMITED (United Kingdom, SC083430)">CROFTFOOT PROPERTY CENTRE LIMITED</a> (United Kingdom, <span class="start_date"> 9 Jun 1983</span>-<span class="end_date"> 8 May 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/46692229" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, secretary, <span class="start_date">31 Dec 1988</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC057781" title="More Free And Open Company Data On CAMPBELL WALLACE PRODUCTS LIMITED (United Kingdom, SC057781)">CAMPBELL WALLACE PRODUCTS LIMITED</a> (United Kingdom)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/199329100" title="more info on ALASTAIR BRUCE WALLACE">ALASTAIR BRUCE WALLACE</a>, director, <span class="start_date">14 Nov 1988</span>-<span class="end_date">21 Dec 2006</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company liquidation" href="/companies/gb/SC022750" title="More Free And Open Company Data On LANGWOOD PROPERTIES LIMITED (United Kingdom, SC022750)">LANGWOOD PROPERTIES LIMITED</a> (United Kingdom, <span class="start_date">12 Apr 1944</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/194395962" title="more info on ANDREW BRUCE WALLACE">ANDREW BRUCE WALLACE</a>, director, <span class="start_date">22 Apr 2013</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/08497995" title="More Free And Open Company Data On ABW HEATING AND PLUMBING LTD (United Kingdom, 08497995)">ABW HEATING AND PLUMBING LTD</a> (United Kingdom, <span class="start_date">22 Apr 2013</span>-<span class="end_date">27 Nov 2018</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/46796403" title="more info on ANDREW WALLACE BRUCE">ANDREW WALLACE BRUCE</a>, secretary, <span class="start_date">27 May 1988</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC093407" title="More Free And Open Company Data On BRUCE PRESERVATION LIMITED (United Kingdom, SC093407)">BRUCE PRESERVATION LIMITED</a> (United Kingdom)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/46796405" title="more info on ANDREW WALLACE BRUCE">ANDREW WALLACE BRUCE</a>, director, <span class="start_date">27 May 1988</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/SC093407" title="More Free And Open Company Data On BRUCE PRESERVATION LIMITED (United Kingdom, SC093407)">BRUCE PRESERVATION LIMITED</a> (United Kingdom)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/30328812" title="more info on Allan Bruce WALLACE">Allan Bruce WALLACE</a>, director, <span class="start_date">20 Aug 1998</span>- ,
+<a class="jurisdiction_filter nz" href="/companies/nz" title="Free And Open Data On New Zealand Companies"><img alt="New Zealand flag" class="flag" src="/assets/flags/nz-a5dc6ee1a28d7274a7791b374a6931d4.gif"/></a> <a class="company registered" href="/companies/nz/921791" title="More Free And Open Company Data On AMR CAR CARE LIMITED (New Zealand, 921791)">AMR CAR CARE LIMITED</a> (New Zealand, <span class="start_date">20 Aug 1998</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/76325036" title="more info on Andrew Bruce WALLACE">Andrew Bruce WALLACE</a>, director, <span class="start_date">25 Aug 2003</span>- ,
+<a class="jurisdiction_filter nz" href="/companies/nz" title="Free And Open Data On New Zealand Companies"><img alt="New Zealand flag" class="flag" src="/assets/flags/nz-a5dc6ee1a28d7274a7791b374a6931d4.gif"/></a> <span class="status label">inactive</span> <a class="company inactive removed" href="/companies/nz/1379199" title="More Free And Open Company Data On A TO B INVESTMENTS LIMITED (New Zealand, 1379199)">A TO B INVESTMENTS LIMITED</a> (New Zealand, <span class="start_date">25 Aug 2003</span>-<span class="end_date">28 Feb 2012</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>

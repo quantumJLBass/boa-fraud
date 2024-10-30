@@ -1,0 +1,6 @@
+---
+aka:
+- JAMES STROTHER
+- JAMES M STROTHER
+- JAMES M. STROTHER
+---

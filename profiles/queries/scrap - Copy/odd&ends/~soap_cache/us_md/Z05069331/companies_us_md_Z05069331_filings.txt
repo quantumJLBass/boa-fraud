@@ -1,0 +1,78 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company inactive branch dissolved" href="/companies/us_md/Z05069331" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Maryland (US), Z05069331)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Maryland (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_468653910"><div class="dateline">14 Jun 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653910" title="more info on ARTICLES OF CANCELLATION">ARTICLES OF CANCELLATION</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000362010418459&amp;departmentId=Z05069331" title="View ARTICLES OF CANCELLATION for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653911"><div class="dateline"> 4 Dec 2014</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653911" title="more info on RESIDENT AGENT CHANGE OF ADDRESS">RESIDENT AGENT CHANGE OF ADDRESS</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000362007290317&amp;departmentId=Z05069331" title="View RESIDENT AGENT CHANGE OF ADDRESS for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653912"><div class="dateline">20 Nov 2006</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653912" title="more info on RESIDENT AGENT CHANGE OF ADDRESS">RESIDENT AGENT CHANGE OF ADDRESS</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000361993931520&amp;departmentId=Z05069331" title="View RESIDENT AGENT CHANGE OF ADDRESS for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653913"><div class="dateline">16 Aug 2001</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653913" title="more info on AMENDMENT / NAME CHANGE">AMENDMENT / NAME CHANGE</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000361986041204&amp;departmentId=Z05069331" title="View AMENDMENT / NAME CHANGE for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569193"><div class="dateline"> 5 May 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569193" title="more info on RESOLUTION">RESOLUTION</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569190"><div class="dateline">17 Apr 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569190" title="more info on AMENDMENT / NAME CHANGE">AMENDMENT / NAME CHANGE</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569187"><div class="dateline">10 Aug 1998</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569187" title="more info on REGISTRATION">REGISTRATION</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

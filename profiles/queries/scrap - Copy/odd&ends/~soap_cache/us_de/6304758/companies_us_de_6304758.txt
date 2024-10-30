@@ -1,0 +1,98 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+DWP HOLDINGS, LLC
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">6304758</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="2017-02-03" itemprop="foundingDate"> 3 February 2017</span> (over 7 years ago)</dd>
+<dt>Company Type</dt> <dd class="company_type">Limited Liability Company</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_de" title="Free And Open Data On Delaware (US) Companies">Delaware (US)</a></dd>
+<dt>Agent Name</dt> <dd class="agent_name">BUSINESS FILINGS INCORPORATED</dd>
+<dt>Agent Address</dt> <dd class="agent_address">108 WEST 13TH ST, WILMINGTON, New Castle, DE, 19801</dd>
+<dt><a href="/companies/us_de/6304758/officers" title="Directors for DWP HOLDINGS, LLC (Delaware (US))">Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer" href="/officers/263999040" title="more info on BUSINESS FILINGS INCORPORATED">BUSINESS FILINGS INCORPORATED</a>, agent</li></ul></dd>
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx" title="Registry entry for DWP HOLDINGS, LLC">https://icis.corp.delaware.gov/Ecorp/...</a></dd>
+</dl>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Delaware Department of State: Division of Corporations</span>, <a class="url external" href="http://www.corp.delaware.gov/">http://www.corp.delaware.gov/</a>, <span class="retrieved">28 Aug 2019</span></div>
+<div id="company_data">
+<div id="update_links">
+</div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="On 2017-02-03">
+2017-02-03
+</dt>
+<dd><a href="/events/825460346">Incorporated</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_de/6304758/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=6304758&amp;jurisdiction_code=us_de" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=DWP+HOLDINGS%2C+LLC" title="Companies named DWP HOLDINGS, LLC">Similarly named companies</a></h3>
+<p>
+<a href="/companies?q=DWP+HOLDINGS%2C+LLC" title="Companies named DWP HOLDINGS, LLC">Found 18.</a>
+Showing first 10
+</p>
+<ul class="companies">
+<li class="active/noncompliance">
+<a class="jurisdiction_filter us" href="/companies/us_ga" title="Free And Open Data On Georgia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active/noncompliance" href="/companies/us_ga/23004545" title="More Free And Open Company Data On DWP HOLDINGS LLC (Georgia (US), 23004545)">DWP HOLDINGS LLC</a> (Georgia (US), <span class="start_date"> 5 Jan 2023</span>- )
+</li>
+<li class="good_standing">
+<a class="jurisdiction_filter us" href="/companies/us_sc" title="Free And Open Data On South Carolina (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company good_standing" href="/companies/us_sc/1289956" title="More Free And Open Company Data On DWP HOLDINGS, LLC (South Carolina (US), 1289956)">DWP HOLDINGS, LLC</a> (South Carolina (US), <span class="start_date">26 Jan 2023</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_fl/L17000070832" title="More Free And Open Company Data On DWP HOLDINGS LLC (Florida (US), L17000070832)">DWP HOLDINGS LLC</a> (Florida (US), <span class="start_date">29 Mar 2017</span>- )
+</li>
+<li>
+<a class="jurisdiction_filter us" href="/companies/us_nj" title="Free And Open Data On New Jersey (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company" href="/companies/us_nj/0451002507" title="More Free And Open Company Data On DWP HOLDINGS LLC (New Jersey (US), 0451002507)">DWP HOLDINGS LLC</a> (New Jersey (US), <span class="start_date">28 Jul 2023</span>- )
+</li>
+<li class="inactive dissolved">
+<a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_ok/3512762033" title="More Free And Open Company Data On DWP HOLDINGS, LLC (Oklahoma (US), 3512762033)">DWP HOLDINGS, LLC</a> (Oklahoma (US), <span class="start_date">20 Jun 2019</span>- )
+</li>
+<li class="inactive revoked">
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive revoked" href="/companies/us_nv/E0257822019-2" title="More Free And Open Company Data On DWP HOLDINGS, LLC (Nevada (US), E0257822019-2)">DWP HOLDINGS, LLC</a> (Nevada (US), <span class="start_date"> 4 Jun 2019</span>- )
+</li>
+<li class="inactive permanently_revoked">
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive permanently_revoked" href="/companies/us_nv/E0372892014-4" title="More Free And Open Company Data On DWP HOLDINGS LLC (Nevada (US), E0372892014-4)">DWP HOLDINGS LLC</a> (Nevada (US), <span class="start_date">21 Jul 2014</span>- )
+</li>
+<li class="inactive voluntarily_dissolved">
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive voluntarily_dissolved" href="/companies/us_co/20041178958" title="More Free And Open Company Data On DWP HOLDINGS LLC (Colorado (US), 20041178958)">DWP HOLDINGS LLC</a> (Colorado (US), <span class="start_date">14 May 2004</span>-<span class="end_date">27 Jul 2009</span>)
+</li>
+<li class="in_existence">
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company in_existence" href="/companies/us_tx/0804233330" title="More Free And Open Company Data On DWP IP Holdings, LLC (Texas (US), 0804233330)">DWP IP Holdings, LLC</a> (Texas (US), <span class="start_date">15 Sep 2021</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_fl/L20000350907" title="More Free And Open Company Data On DWP PROPERTY HOLDINGS LLC (Florida (US), L20000350907)">DWP PROPERTY HOLDINGS LLC</a> (Florida (US), <span class="start_date"> 5 Nov 2020</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

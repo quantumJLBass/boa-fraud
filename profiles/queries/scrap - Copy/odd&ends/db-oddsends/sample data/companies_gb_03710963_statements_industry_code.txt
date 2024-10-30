@@ -1,0 +1,55 @@
+<div class="row content main_content">
+<div class="span7">
+<h2><a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a></h2>
+<div class="row">
+<div class="span12">
+<div id="data-table-industry_code">
+<h3>
+Industry codes
+<span class="heading-help">
+<a class="data-type-description" data-content="A classification denoting the industry or sector a company is in, according to a specific code list (e.g. NAICS, NACE)" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Industry codes">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Code</th>
+<th>Description</th>
+<th>Code scheme</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+66.30
+</td>
+<td>
+Fund management activities
+</td>
+<td>
+UK SIC Classification 2007
+</td>
+<td></td>
+<td>
+<a href="/statements/28747904">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+
+</div>
+</div>
+<a href="/companies/gb/03710963/statements/industry_code?exclude_inactive=true">Hide historic records</a>
+
+</div>
+<div class="span5">
+</div>
+</div>

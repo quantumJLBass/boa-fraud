@@ -1,0 +1,905 @@
+<div class="container plain_background" id="page_container">
+<div class="oc-messages"></div>
+
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">03710963</dd>
+
+
+
+<dt>Status</dt> <dd class="status">Active</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span itemprop="foundingDate" datetime="1999-02-10">10 February 1999</span> (over 25 years ago)</dd>
+
+<dt>Company Type</dt> <dd class="company_type">Private Limited Company</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies">United Kingdom</a></dd>
+
+
+
+
+
+
+
+
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">Bow Bells House 6th Floor<br>1 Bread Street</li><li class="address_line">London</li><li class="address_line">EC4M 9BE</li><li class="address_line">United Kingdom</li></ul></dd>
+<dt>Industry Codes</dt> <dd class="industry_codes"><ul class="attribute_list"><li class="attribute_item">66.30: Fund management activities (UK SIC Classification 2007)</li><li class="attribute_item">66.30: Fund management activities (European Community NACE Rev 2)</li><li class="attribute_item">6630: Fund management activities (UN ISIC Rev 4)</li></ul></dd>
+
+
+<dt>Latest Accounts Date</dt> <dd class="latest_accounts_date">2022-12-31</dd>
+<dt>Annual Return Last Made Up Date</dt> <dd class="annual_return_last_made_up_date">2016-02-10</dd>
+<dt>Previous Names</dt> <dd class="previous_names"><ul class="name_lines"><li class="name_line">WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED</li><li class="name_line">ECM ASSET MANAGEMENT LIMITED</li><li class="name_line">EUROPEAN CREDIT MANAGEMENT LIMITED</li><li class="name_line">MANDARN LIMITED</li></ul></dd>
+
+
+
+
+<dt><a href="/companies/gb/03710963/officers" title="Directors for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom)">Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer" href="/officers/751328538" title="more info on ANDREW SOWERBY">ANDREW SOWERBY</a>, director, <span class="start_date">10 Mar 2023</span>- </li><li class="attribute_item"><a class="officer" href="/officers/611281755" title="more info on ANGELA ABENA ROBERTS">ANGELA ABENA ROBERTS</a>, secretary, <span class="start_date"> 1 Nov 2021</span>- </li><li class="attribute_item"><a class="officer" href="/officers/731337594" title="more info on CHARLES ADRIAN SPUNGIN">CHARLES ADRIAN SPUNGIN</a>, director, <span class="start_date"> 1 Dec 2022</span>- </li><li class="attribute_item"><a class="officer" href="/officers/363194147" title="more info on DANIEL MORRIS">DANIEL MORRIS</a>, director, <span class="start_date">30 Aug 2019</span>- </li><li class="attribute_item"><a class="officer" href="/officers/623342409" title="more info on HENRIETTE LOUISE PACQUEMENT">HENRIETTE LOUISE PACQUEMENT</a>, director, <span class="start_date">20 Dec 2021</span>- </li></ul></dd>
+
+<dt><a href="/companies/gb/03710963/officers" title="Directors for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom)">Inactive Directors / Officers</a></dt> <dd class="officers trunc8 truncated" style="height: 261.964px; padding-bottom: 0px; overflow-y: hidden;"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/212876093" title="more info on ANDREW JOHN HUNT">ANDREW JOHN HUNT</a>, director, <span class="start_date"> 6 Feb 2015</span>-<span class="end_date">17 Mar 2020</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/579373872" title="more info on CARLA FULLER">CARLA FULLER</a>, director, <span class="start_date">26 Aug 2021</span>-<span class="end_date"> 3 Jan 2023</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875854" title="more info on COMBINED SECRETARIAL SERVICES LIMITED">COMBINED SECRETARIAL SERVICES LIMITED</a>, secretary, <span class="start_date">10 Feb 1999</span>-<span class="end_date"> 2 Mar 1999</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875999" title="more info on DAVID CARROLL">DAVID CARROLL</a>, director, <span class="start_date"> 1 May 2007</span>-<span class="end_date"> 9 Oct 2008</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/267291909" title="more info on DAVID GARLAND BULLOCK">DAVID GARLAND BULLOCK</a>, director, <span class="start_date">13 Jun 2017</span>-<span class="end_date">31 May 2018</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876023" title="more info on DEIRDRE ELIZABETH FLOOD">DEIRDRE ELIZABETH FLOOD</a>, director, <span class="start_date">16 Sep 2015</span>-<span class="end_date"> 5 Apr 2022</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876012" title="more info on DENNIS HENRY FERRO">DENNIS HENRY FERRO</a>, director, <span class="start_date"> 1 May 2007</span>-<span class="end_date"> 1 Oct 2008</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/219340118" title="more info on FRANCIS ANTHONY PIZZO">FRANCIS ANTHONY PIZZO</a>, director, <span class="start_date">24 Dec 2015</span>-<span class="end_date">31 Dec 2017</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876113" title="more info on JAMES CRAIG JOHNSTON">JAMES CRAIG JOHNSTON</a>, director, <span class="start_date"> 8 Feb 2012</span>-<span class="end_date">30 Nov 2015</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876224" title="more info on JAMES LEGH POPE">JAMES LEGH POPE</a>, director, <span class="start_date"> 1 Sep 2000</span>-<span class="end_date">16 Apr 2002</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876290" title="more info on JEREMY CHARLES WRIGLEY">JEREMY CHARLES WRIGLEY</a>, director, <span class="start_date">14 Apr 1999</span>-<span class="end_date">31 Jan 2007</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/356553908" title="more info on JILL PATRICIA GRIFFIN">JILL PATRICIA GRIFFIN</a>, director, <span class="start_date">20 Jun 2019</span>-<span class="end_date">24 Feb 2023</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876254" title="more info on JOHN DAVID REESE">JOHN DAVID REESE</a>, director, <span class="start_date">19 Apr 2006</span>-<span class="end_date">31 Jan 2007</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/277933339" title="more info on JONATHAN HILL">JONATHAN HILL</a>, director, <span class="start_date">22 Nov 2017</span>-<span class="end_date">20 Jun 2019</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/271561676" title="more info on JONATHAN RHYS HILL">JONATHAN RHYS HILL</a>, secretary, <span class="start_date"> 1 Dec 2015</span>-<span class="end_date">19 Sep 2017</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875940" title="more info on JOSEPH BIERNAT">JOSEPH BIERNAT</a>, director, <span class="start_date">16 Jun 2000</span>-<span class="end_date">31 Jan 2007</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875838" title="more info on JULIAN VINCENT CAMPBELL">JULIAN VINCENT CAMPBELL</a>, secretary, <span class="start_date"> 1 Jan 2015</span>-<span class="end_date">30 Nov 2015</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876145" title="more info on JURGEN MEISCH">JURGEN MEISCH</a>, director, <span class="start_date"> 1 Jul 2004</span>-<span class="end_date">31 Jan 2007</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/267982494" title="more info on KARLA MARIE RABUSCH">KARLA MARIE RABUSCH</a>, director, <span class="start_date"> 5 Feb 2013</span>-<span class="end_date">17 Mar 2017</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876215" title="more info on KENNETH JOSEPH PETRILLA">KENNETH JOSEPH PETRILLA</a>, director, <span class="start_date">13 Dec 2010</span>-<span class="end_date">18 Jan 2012</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876055" title="more info on KIRK DOUGLAS HARTMAN">KIRK DOUGLAS HARTMAN</a>, director, <span class="start_date"> 5 Mar 2014</span>-<span class="end_date"> 3 Dec 2014</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876160" title="more info on MATTHEW CHARLES MOSS">MATTHEW CHARLES MOSS</a>, director, <span class="start_date">20 Apr 2009</span>-<span class="end_date"> 2 Jul 2010</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875921" title="more info on MATTHEW RUSSELL AUCOTT">MATTHEW RUSSELL AUCOTT</a>, director, <span class="start_date">10 Feb 1999</span>-<span class="end_date"> 2 Mar 1999</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876171" title="more info on MICHAEL JOHN NIEDERMEYER">MICHAEL JOHN NIEDERMEYER</a>, director, <span class="start_date">22 Mar 2010</span>-<span class="end_date">14 Sep 2015</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/309751623" title="more info on NANCY WISER">NANCY WISER</a>, director, <span class="start_date">17 Nov 2017</span>-<span class="end_date">10 Mar 2021</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/271561677" title="more info on PATRICIA MCGUINNESS">PATRICIA MCGUINNESS</a>, secretary, <span class="start_date">19 Sep 2017</span>-<span class="end_date"> 8 Oct 2019</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/365311259" title="more info on PAULA HEGARTY">PAULA HEGARTY</a>, secretary, <span class="start_date"> 8 Oct 2019</span>-<span class="end_date">29 Oct 2021</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875979" title="more info on REINHARD ANTON HEINRICH BLEI">REINHARD ANTON HEINRICH BLEI</a>, director, <span class="start_date"> 1 Sep 2000</span>-<span class="end_date"> 9 Mar 2004</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876039" title="more info on RICHARD GERSHEN">RICHARD GERSHEN</a>, director, <span class="start_date"> 1 May 2007</span>-<span class="end_date"> 6 Feb 2009</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876200" title="more info on ROSS ALGER PAMPHILON">ROSS ALGER PAMPHILON</a>, director, <span class="start_date"> 2 Apr 2015</span>-<span class="end_date">19 Aug 2020</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876272" title="more info on STEPHEN JOHN RAYMOND RUMSEY">STEPHEN JOHN RAYMOND RUMSEY</a>, director, <span class="start_date"> 2 Mar 1999</span>-<span class="end_date">18 Nov 2005</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875897" title="more info on STEPHEN MARTIN ZINSER">STEPHEN MARTIN ZINSER</a>, secretary, <span class="start_date"> 2 Mar 1999</span>-<span class="end_date">31 Dec 2014</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876313" title="more info on STEPHEN MARTIN ZINSER">STEPHEN MARTIN ZINSER</a>, director, <span class="start_date"> 2 Mar 1999</span>-<span class="end_date">31 Dec 2014</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212875963" title="more info on STEVEN ANDREW BLAKEY">STEVEN ANDREW BLAKEY</a>, director, <span class="start_date"> 2 Mar 1999</span>-<span class="end_date">10 Jul 2012</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876129" title="more info on SUSAN MARGARET MCCOUBRIE AMERI">SUSAN MARGARET MCCOUBRIE AMERI</a>, director, <span class="start_date">14 Apr 1999</span>-<span class="end_date"> 5 Jan 2007</span></li><li class="attribute_item"><a class="officer inactive" href="/officers/212876073" title="more info on THOMAS KARL HOOPS">THOMAS KARL HOOPS</a>, director, <span class="start_date">13 Feb 2009</span>-<span class="end_date"> 6 Jan 2014</span></li></ul><div class="footer"><a href="#">See all</a></div></dd>
+
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://beta.companieshouse.gov.uk/company/03710963" title="Registry entry for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">https://beta.companieshouse.gov.uk/co...</a></dd>
+</dl>
+</div>
+</div>
+
+
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">UK Companies House</span>, <a class="url external" href="http://xmlgw.companieshouse.gov.uk/">http://xmlgw.companieshouse.gov.uk/</a>, <span class="retrieved">24 May 2024</span><span class="terms"> (UK Crown Copyright)</span></div>
+<div id="company_data">
+<div id="update_links">
+<form action="/companies/gb/03710963" class="button_to" data-remote="true" method="post"><div><input name="_method" type="hidden" value="put"><input class="btn btn-primary" data-disable-with="Submitting..." id="update_company" type="submit" value="update from registry"><input name="authenticity_token" type="hidden" value="OdcqYQsqcWNkndG5XoHtf/AFie/HHiUkb/aw7OMkgYY="></div></form>
+</div>
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_3577743"><div class="subhead">
+<a href="/data/3577743">Company Address</a>
+</div>
+<p class="description">
+EUROPEAN CREDIT MANAGEMENT LTD, 34 GROSVENOR STREET, LONDON, W1K 4QU, United Kingdom
+</p>
+</div></div><div class="assertion_group" id="official_register_entries"><h3>Official Register Entries</h3><div class="assertion official_register_entry" id="assertion_3577742"><div class="subhead">
+<a href="/data/3577742">UK Data Protection Register entry</a>
+</div>
+<p class="description">
+register id: Z9687237
+</p>
+</div></div></div>
+</div>
+
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="On 2023-01-03">
+2023-01-03
+</dt>
+<dd><a href="/events/2857266761">Removal of officer CARLA FULLER, director</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="On 2023-02-24">
+2023-02-24
+</dt>
+<dd><a href="/events/2890627349">Removal of officer JILL PATRICIA GRIFFIN, director</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="On 2023-03-10">
+2023-03-10
+</dt>
+<dd><a href="/events/2902685462">Addition of officer ANDREW SOWERBY, director</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/gb/03710963/events">See all events</a>
+</div>
+</div>
+
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a href="/legal/glossary#user-contributed-data" rel="tooltip" data-placement="top" data-original-title="This data has been user contributed">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=03710963&amp;jurisdiction_code=gb" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=ALLSPRING+GLOBAL+INVESTMENTS+%28UK%29+LIMITED" title="Companies named ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Similarly named companies</a></h3>
+<ul class="companies">
+<li class="inactive dissolved">
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a> <span class="status label">inactive</span>  <a class="company inactive dissolved" href="/companies/gb/13546533" title="More Free And Open Company Data On ALLSPRING UK LIMITED (United Kingdom, 13546533)">ALLSPRING UK LIMITED</a> (United Kingdom, <span class="start_date"> 4 Aug 2021</span>-<span class="end_date">31 May 2022</span>)
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span12">
+<div id="data-table-branch_relationship_subject">
+<h3>
+Branches
+<span class="heading-help">
+<a class="data-type-description" data-content="A branch company is an out-of-jurisdiction registration of a company (in the US it is often referred to as a 'Foreign Corporation')" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Branches">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+<tr>
+<td>
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a> <span class="status label">inactive</span>  <span class="status label">branch</span>  <a class="company inactive branch terminated" href="/companies/us_ca/2876387" title="More Free And Open Company Data On EUROPEAN CREDIT MANAGEMENT LIMITED (California (US), 2876387)">EUROPEAN CREDIT MANAGEMENT LIMITED</a> (California (US), <span class="start_date">26 Apr 2006</span>-<span class="end_date">12 Dec 2011</span>)
+</td>
+<td></td>
+<td>
+<a href="/statements/1775429">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a> <span class="status label">inactive</span>  <span class="status label">branch</span>  <a class="company inactive branch terminated" href="/companies/us_ca/2876387" title="More Free And Open Company Data On EUROPEAN CREDIT MANAGEMENT LIMITED (California (US), 2876387)">EUROPEAN CREDIT MANAGEMENT LIMITED</a> (California (US), <span class="start_date">26 Apr 2006</span>-<span class="end_date">12 Dec 2011</span>)
+</td>
+<td></td>
+<td>
+<a href="/statements/1791691">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter au" href="/companies/au" title="Free And Open Data On Australia Companies"><img alt="Australia flag" class="flag" src="/assets/flags/au-068696d5a49edf17237035dd6a8fa737.gif"></a> <span class="status label">branch</span>  <a class="company branch registered" href="/companies/au/104778092" title="More Free And Open Company Data On WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED (Australia, 104778092)">WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED</a> (Australia, <span class="start_date">24 Jun 2003</span>- )
+</td>
+<td></td>
+<td>
+<a href="/statements/493947826">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter au" href="/companies/au" title="Free And Open Data On Australia Companies"><img alt="Australia flag" class="flag" src="/assets/flags/au-068696d5a49edf17237035dd6a8fa737.gif"></a> <span class="status label">branch</span>  <a class="company branch registered" href="/companies/au/104778092" title="More Free And Open Company Data On WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED (Australia, 104778092)">WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED</a> (Australia, <span class="start_date">24 Jun 2003</span>- )
+</td>
+<td></td>
+<td>
+<a href="/statements/629302661">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-control_statement_object">
+<h3>
+Statements of control (by this company)
+<span class="heading-help">
+<a class="data-type-description" data-content="A ControlStatement is a declaration by a company or entity about how it is controlled. A company may have multiple entities controlling it (entites may be companies, people or organisations), in which case there will be multiple statements of control, or may have no entity controlling it in which case the statement can detail this fact together with the reasons. The controlling entities will be 'ultimate beneficial owners' if the company is stating that the controlling entities are natural persons who ultimately control the company in some way" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Statements of control (by this company)">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Date</th>
+<th>Description</th>
+<th>Mechanisms</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+2021-11-01
+</td>
+<td>
+No Individual Or Entity With Signficant Control: The company knows or has reasonable cause to believe that there is no registrable person or registrable relevant legal entity in relation to the company
+</td>
+<td>
+N/A
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/1244013258">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2019-03-01
+</td>
+<td>
+<a class="jurisdiction_filter us" href="/companies/us_de" title="Free And Open Data On Delaware (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company" href="/companies/us_de/6358095" title="More Free And Open Company Data On WELLS FARGO ASSET MANAGEMENT HOLDINGS, LLC (Delaware (US), 6358095)">WELLS FARGO ASSET MANAGEMENT HOLDINGS, LLC</a> (Delaware (US), <span class="start_date">24 Mar 2017</span>- ) controls <a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a>  <a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a> (United Kingdom, <span class="start_date">10 Feb 1999</span>- )
+</td>
+<td>
+Share Ownership, Voting Rights
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/1244012655">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2016-12-15
+</td>
+<td>
+Island Finance Holding Company Llc (Cayman Islands) controls <a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a>  <a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a> (United Kingdom, <span class="start_date">10 Feb 1999</span>- )
+</td>
+<td>
+Share Ownership, Voting Rights, Right To Appoint And Remove Directors
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/730565050">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2016-04-06
+</td>
+<td>
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a> <span class="status label">inactive</span>  <a class="company inactive dissolved" href="/companies/gb/06010433" title="More Free And Open Company Data On ECM HOLDINGS LIMITED (United Kingdom, 06010433)">ECM HOLDINGS LIMITED</a> (United Kingdom, <span class="start_date">27 Nov 2006</span>-<span class="end_date"> 2 Feb 2020</span>) and Island Finance Holding Company Llc (Cayman Islands) controls <a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a>  <a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a> (United Kingdom, <span class="start_date">10 Feb 1999</span>- )
+</td>
+<td>
+Share Ownership
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/730921789">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-filing_delegate">
+<h3>
+Filings
+<span class="heading-help">
+<a class="data-type-description" data-content="Filings are official documents filed with a publisher who usually has regulatory powers" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Filings">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Filing Date</th>
+<th>Title</th>
+<th>Description</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+2024-02-22
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzQxMjA5OTE3MmFkaXF6a2N4/document" target="_blank" title="View Confirmation Statement for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Confirmation Statement</a></span>
+</td>
+<td>
+Confirmation statement made on 2024-02-10 with no updates
+</td>
+<td></td>
+<td>
+<a href="/statements/1751945765">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-08-30
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM5MTI3MjQ4MWFkaXF6a2N4/document" target="_blank" title="View Change of director's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of director's details</a></span>
+</td>
+<td>
+Director's details changed for Mr Andrew Sowerby on 2023-08-28
+</td>
+<td></td>
+<td>
+<a href="/statements/1611897738">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-08-21
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM5MDAwNTgyOWFkaXF6a2N4/document" target="_blank" title="View Annual Accounts for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Annual Accounts</a></span>
+</td>
+<td>
+Full accounts made up to 2022-12-31
+</td>
+<td></td>
+<td>
+<a href="/statements/1603836744">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-03-20
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM3MzIwMzEyNGFkaXF6a2N4/document" target="_blank" title="View Appointment of director for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Appointment of director</a></span>
+</td>
+<td>
+Appointment of Mr Andrew Sowerby as a director on 2023-03-10
+</td>
+<td></td>
+<td>
+<a href="/statements/1474131189">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-02-28
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM3MTA0Njk3OGFkaXF6a2N4/document" target="_blank" title="View Termination of appointment of director  for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Termination of appointment of director </a></span>
+</td>
+<td>
+Termination of appointment of Jill Patricia Griffin as a director on 2023-02-24
+</td>
+<td></td>
+<td>
+<a href="/statements/1456408245">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-02-10
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM2ODgzMDgzMWFkaXF6a2N4/document" target="_blank" title="View Confirmation Statement for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Confirmation Statement</a></span>
+</td>
+<td>
+Confirmation statement made on 2023-02-10 with updates
+</td>
+<td></td>
+<td>
+<a href="/statements/1436391084">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2023-01-04
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM2NDY0MzA2NWFkaXF6a2N4/document" target="_blank" title="View Termination of appointment of director  for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Termination of appointment of director </a></span>
+</td>
+<td>
+Termination of appointment of Carla Fuller as a director on 2023-01-03
+</td>
+<td></td>
+<td>
+<a href="/statements/1404975170">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-12-05
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM2MTAxNDY1MWFkaXF6a2N4/document" target="_blank" title="View Appointment of director for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Appointment of director</a></span>
+</td>
+<td>
+Appointment of Mr Charles Adrian Spungin as a director on 2022-12-01
+</td>
+<td></td>
+<td>
+<a href="/statements/1381319346">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-08-30
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM1MDEwNDM4MGFkaXF6a2N4/document" target="_blank" title="View Annual Accounts for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Annual Accounts</a></span>
+</td>
+<td>
+Full accounts made up to 2021-12-31
+</td>
+<td></td>
+<td>
+<a href="/statements/1308039870">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-08-09
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM0ODE3MzgzOGFkaXF6a2N4/document" target="_blank" title="View Change of director's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of director's details</a></span>
+</td>
+<td>
+Director's details changed for Ms Carla Fuller on 2022-08-09
+</td>
+<td></td>
+<td>
+<a href="/statements/1300215406">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-06-29
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM0NDEyMTg2OGFkaXF6a2N4/document" target="_blank" title="View Change of director's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of director's details</a></span>
+</td>
+<td>
+Director's details changed for Henriette Louise Pacquement on 2022-06-28
+</td>
+<td></td>
+<td>
+<a href="/statements/1283455504">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-06-28
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzM0NDAwMjgwN2FkaXF6a2N4/document" target="_blank" title="View Change of registered office address for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of registered office address</a></span>
+</td>
+<td>
+Registered office address changed from The Broadgate Tower Third Floor 20 Primrose Street London EC2A 2RS United Kingdom to Bow Bells House 6th Floor 1 Bread Street London EC4M 9BE on 2022-06-28
+</td>
+<td></td>
+<td>
+<a href="/statements/1283455508">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-04-08
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMzNTcxNzg0NWFkaXF6a2N4/document" target="_blank" title="View Termination of appointment of director  for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Termination of appointment of director </a></span>
+</td>
+<td>
+Termination of appointment of Deirdre Elizabeth Flood as a director on 2022-04-05
+</td>
+<td></td>
+<td>
+<a href="/statements/1249866648">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-02-23
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMzMDc5MDg0OGFkaXF6a2N4/document" target="_blank" title="View Confirmation Statement for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Confirmation Statement</a></span>
+</td>
+<td>
+Confirmation statement made on 2022-02-10 with no updates
+</td>
+<td></td>
+<td>
+<a href="/statements/1226220135">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-01-11
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMyNjMwNDc3NGFkaXF6a2N4/document" target="_blank" title="View Change of director's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of director's details</a></span>
+</td>
+<td>
+Director's details changed for Henrietta Louise Pacquement on 2022-01-10
+</td>
+<td></td>
+<td>
+<a href="/statements/1220825472">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-01-10
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMyNTg3NTQ5MWFkaXF6a2N4/document" target="_blank" title="View Filing dated 10 January 2022 for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Filing dated 10 January 2022</a></span>
+</td>
+<td>
+Memorandum and Articles of Association
+</td>
+<td></td>
+<td>
+<a href="/statements/1220825475">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-01-06
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMyNTc3MzkxNmFkaXF6a2N4/document" target="_blank" title="View Appointment of director for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Appointment of director</a></span>
+</td>
+<td>
+Appointment of Henrietta Louise Pacquement as a director on 2021-12-20
+</td>
+<td></td>
+<td>
+<a href="/statements/1220825478">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-01-05
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMyNTc3NTMzMGFkaXF6a2N4/document" target="_blank" title="View Change of secretary's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of secretary's details</a></span>
+</td>
+<td>
+Secretary's details changed for Angela Abena Roberts on 2022-01-05
+</td>
+<td></td>
+<td>
+<a href="/statements/1220825481">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2022-01-05
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMyNTc3MzkyMGFkaXF6a2N4/document" target="_blank" title="View Change of director's details for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Change of director's details</a></span>
+</td>
+<td>
+Director's details changed for Ms. Jill Patricia Griffin on 2022-01-05
+</td>
+<td></td>
+<td>
+<a href="/statements/1220825484">details</a>
+</td>
+</tr>
+<tr>
+<td>
+2021-11-11
+</td>
+<td>
+<span class="filing_link"><a class="external filing_url" href="https://beta.companieshouse.gov.uk/company/03710963/filing-history/MzMxOTkzNDU5NGFkaXF6a2N4/document" target="_blank" title="View Give notice of PSC statements for ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED">Give notice of PSC statements</a></span>
+</td>
+<td>
+Notification of a person with significant control statement
+</td>
+<td></td>
+<td>
+<a href="/statements/1177353336">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<div class="row">
+<div class="span12">
+<a href="/companies/gb/03710963/statements/filing_delegate">See all (216 records)</a>
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-identifier_delegate">
+<h3>
+Identifiers
+<span class="heading-help">
+<a class="data-type-description" data-content="An official identifier (e.g. Tax number)" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Identifiers">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Identifier System</th>
+<th>Identifier</th>
+<th>Categories</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+LEI
+</td>
+<td>
+<a href="https://search.gleif.org/#/record/213800F1BB4S4H554W68">213800F1BB4S4H554W68</a>
+</td>
+<td>
+
+</td>
+<td></td>
+<td>
+<a href="/statements/1645065522">details</a>
+</td>
+</tr>
+<tr>
+<td>
+GB VAT Number
+</td>
+<td>
+417137706
+</td>
+<td>
+Tax
+</td>
+<td></td>
+<td>
+<a href="/statements/1430847822">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-industry_code">
+<h3>
+Industry codes
+<span class="heading-help">
+<a class="data-type-description" data-content="A classification denoting the industry or sector a company is in, according to a specific code list (e.g. NAICS, NACE)" data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Industry codes">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Code</th>
+<th>Description</th>
+<th>Code scheme</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+66.30
+</td>
+<td>
+Fund management activities
+</td>
+<td>
+UK SIC Classification 2007
+</td>
+<td></td>
+<td>
+<a href="/statements/28747904">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-subsidiary_relationship_object">
+<h3>
+Parent companies
+<span class="heading-help">
+<a class="data-type-description" data-content="A subsidiary is a company that is controlled by another company. Often the control is exerted via a majority shareholding, but can be via other mechanisms. It can also be exerted via shareholdings in other companies. When this happens, we call it an indirect subsidiary. Subsidiary information often comes from official annual reports. Companies are only obliged to report 'significant' subsidiaries, and the definition of 'significant' is not consistent." data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Parent companies">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+<tr>
+<td>
+WELLS FARGO &amp; COMPANY (Delaware (US))
+</td>
+<td></td>
+<td>
+<a href="/statements/584793605">details</a>
+</td>
+</tr>
+<tr>
+<td>
+WELLS FARGO &amp; COMPANY (Delaware (US))
+</td>
+<td></td>
+<td>
+<a href="/statements/584943723">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter lu" href="/companies/lu" title="Free And Open Data On Luxembourg Companies"><img alt="Luxembourg flag" class="flag" src="/assets/flags/lu-85bb2615be94fff0b675f4ce196d8d99.gif"></a>  <a class="company" href="/companies/lu/B156554" title="More Free And Open Company Data On Partnership Investments S.à r.l. (Luxembourg, B156554)">Partnership Investments S.à r.l.</a> (Luxembourg, <span class="start_date">12 Nov 2010</span>- )
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10740641">details</a>
+</td>
+</tr>
+<tr>
+<td>
+WELLS FARGO INSURANCE MONTANA, INC. (Minnesota (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10740654">details</a>
+</td>
+</tr>
+<tr>
+<td>
+NECKAR FINANCIAL, LLC (California (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739620">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<div class="row">
+<div class="span12">
+<a href="/companies/gb/03710963/statements/subsidiary_relationship_object">See all (7 records)</a>
+</div>
+</div>
+<br>
+<div class="row">
+<div class="span12">
+<div id="data-table-subsidiary_relationship_subject">
+<h3>
+Subsidiaries
+<span class="heading-help">
+<a class="data-type-description" data-content="A subsidiary is a company that is controlled by another company. Often the control is exerted via a majority shareholding, but can be via other mechanisms. It can also be exerted via shareholdings in other companies. When this happens, we call it an indirect subsidiary. Subsidiary information often comes from official annual reports. Companies are only obliged to report 'significant' subsidiaries, and the definition of 'significant' is not consistent." data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Subsidiaries">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+<tr>
+<td>
+<a class="jurisdiction_filter lu" href="/companies/lu" title="Free And Open Data On Luxembourg Companies"><img alt="Luxembourg flag" class="flag" src="/assets/flags/lu-85bb2615be94fff0b675f4ce196d8d99.gif"></a>  <a class="company" href="/companies/lu/B174935" title="More Free And Open Company Data On ECM Special Situations (Luxembourg) GP sàrl (Luxembourg, B174935)">ECM Special Situations (Luxembourg) GP sàrl</a> (Luxembourg, <span class="start_date"> 6 Feb 2013</span>- )
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/13029223">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a> <span class="status label">inactive</span>  <a class="company inactive dissolved" href="/companies/gb/06010433" title="More Free And Open Company Data On ECM HOLDINGS LIMITED (United Kingdom, 06010433)">ECM HOLDINGS LIMITED</a> (United Kingdom, <span class="start_date">27 Nov 2006</span>-<span class="end_date"> 2 Feb 2020</span>)
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739628">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter nl" href="/companies/nl" title="Free And Open Data On Netherlands Companies"><img alt="Netherlands flag" class="flag" src="/assets/flags/nl-4017f6fa6aed2b72c8484bda8a2593a6.gif"></a> <span class="status label">inactive</span>  <a class="company inactive inactive" href="/companies/nl/34261228" title="More Free And Open Company Data On Evergreen ECM Holdings B.V. (Netherlands, 34261228)">Evergreen ECM Holdings B.V.</a> (Netherlands)
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739627">details</a>
+</td>
+</tr>
+<tr>
+<td>
+NECKAR FINANCIAL, LLC (California (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739630">details</a>
+</td>
+</tr>
+<tr>
+<td>
+EUROPEAN CREDIT MANAGEMENT, INC. (Illinois (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/13079460">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<br>
+
+<div class="row prefooter">
+<div class="span12">
+<div class="explanation">
+<a name="explanation"></a>
+* While we strive to keep this information correct and up-to-date, it is not the primary source, and the company registry (<a href="/companies/gb/03710963#source">see source</a>, above) should always be referred to for definitive information
+</div>
+<div class="last_update">
+Data on this page last changed May 24 2024
+</div>
+
+<div id="problem_notification">
+<p>
+<strong>Problem/question about this data?</strong>
+<a href="/legal/problems">Click here</a>
+</p>
+</div>
+
+<div id="api_info">
+<h4><a href="https://api.opencorporates.com" title="OpenCorporates API"><img alt="API" src="/assets/api_icon-5bcdbe332f5bf4e7e2b23e6c6b2ecf21.gif"></a> Open Data</h4>
+<p>
+</p><div id="api_key_required_message">
+You'll need an API key to download as
+JSON, XML or RDF
+. Click
+<a href="https://opencorporates.com/info/our-data/">here</a>
+to find out more.
+</div>
+<p></p>
+</div>
+
+</div>
+<div style="margin: 30px">
+<img alt="OpenCorporates" src="/assets/components/oc-header/logo-675d5dcda47d375dfe62845605bb7c70.svg" width="200px">
+<div>
+<b style="font-weight: bold; margin-top: 10px; margin-bottom: 10px;">A very different type of data company</b>
+</div>
+<a class="add label label-important" href="https://opencorporates.com/legal-entity-data-principles" style="padding: 8px 10px; margin-top: 10px;">Find out more</a>
+</div>
+
+</div>
+</div>

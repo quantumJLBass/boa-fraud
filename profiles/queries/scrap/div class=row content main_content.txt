@@ -1,0 +1,120 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs">
+<a class="company active/compliance" href="/companies/us_ga/15021853" title="More Free And Open Company Data On DWP INTERNATIONAL, INC (Georgia (US), 15021853)">DWP INTERNATIONAL, INC</a> &gt; <a href="https://opencorporates.com/companies/us_ga/15021853/filings" title="All filings for DWP INTERNATIONAL, INC">All filings</a>
+</div>
+<h1>Annual Registration</h1>
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><a class="company active/compliance" href="/companies/us_ga/15021853" title="More Free And Open Company Data On DWP INTERNATIONAL, INC (Georgia (US), 15021853)">DWP INTERNATIONAL, INC</a></dd>
+<dt>Filing Date</dt> <dd class="filing_date">2017-01-24</dd>
+
+<dt>Filing Number</dt> <dd class="filing_number truncate">13904540</dd>
+
+
+<dt>Description</dt> <dd class="description">Domestic Nonprofit Corporation</dd>
+</dl>
+<p class="last_update">Last updated October 18 2021,  2.26AM (almost 3 years ago)</p>
+
+</div>
+<div class="span5">
+</div>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_5013124"><div class="subhead">
+<a href="/data/5013124">Company Address</a>
+</div>
+<p class="description">
+15480 ANNAPOLIS RD STE 202132, BOWIE, MD, 207151852
+</p>
+</div><div class="assertion company_address" id="assertion_24503372"><div class="subhead">
+<a href="/data/24503372">Mailing Address</a>
+</div>
+<p class="description">
+BOC &amp; ASSOCIATES, INC., STE 202132, 15480 ANNAPOLIS RD, BOWIE, MD, 207151852
+</p>
+</div></div><div class="assertion_group" id="government_approved_suppliers"><h3>Approved Government Suppliers</h3><div class="assertion government_approved_supplier" id="assertion_2740235"><div class="subhead">
+<a href="/data/2740235">Approved US Government Supplier</a>
+</div>
+<p class="description">
+
+</p>
+</div></div><div class="assertion_group" id="telephone_numbers"><h3>Telephone Numbers</h3><div class="assertion telephone_number" id="assertion_5013125"><div class="subhead">
+<a href="/data/5013125">Telephone Number</a>
+</div>
+<p class="description">
+Number: +1 3016744384
+</p>
+</div></div></div>
+
+
+
+<div class="sidebar-item" id="latest_data">
+<div class="rss_feed"><a href="/corporate_groupings/Wells+Fargo+&amp;+Company/data.rss" title="Subscribe to latest data for this grouping"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"></a></div>
+<h3>Latest data for these companies</h3>
+<div class="assertion company_address" id="assertion_161358926"><div class="subhead">
+<a href="/data/161358926">Head Office Address</a>
+</div>
+<p class="description">
+420 MONTGOMERY STREET, SAN FRANCISCO, CA, 94104, United States
+</p>
+</div>
+<div class="assertion company_address" id="assertion_47221251"><div class="subhead">
+<a href="/data/47221251">Head Office Address</a>
+</div>
+<p class="description">
+Herikerbergweg 88, Amsterdam, 1101CM
+</p>
+</div>
+<div class="assertion company_address" id="assertion_44642138"><div class="subhead">
+<a href="/data/44642138">Mailing Address</a>
+</div>
+<p class="description">
+420 MONTGOMERY STREET, SAN FRANCISCO, CA, 94104, United States
+</p>
+</div>
+<div class="assertion company_address" id="assertion_4810823"><div class="subhead">
+<a href="/data/4810823">Company Address</a>
+</div>
+<p class="description">
+420 MONTGOMERY ST, SAN FRANCISCO, CA, 941041207
+</p>
+</div>
+<div class="assertion government_approved_supplier" id="assertion_2572913"><div class="subhead">
+<a href="/data/2572913">Approved US Government Supplier</a>
+</div>
+<p class="description">
+
+</p>
+</div>
+<div class="assertion official_register_entry" id="assertion_3472588"><div class="subhead">
+<a href="/data/3472588">UK Data Protection Register entry</a>
+</div>
+<p class="description">
+register id: Z8702286
+</p>
+</div>
+<div class="assertion company_address" id="assertion_3472589"><div class="subhead">
+<a href="/data/3472589">Company Address</a>
+</div>
+<p class="description">
+1 PLANTATION PLACE, 30 FENCHURCH STREET, LONDON, EC3M 3BD, United Kingdom
+</p>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<div><div class="row content main_content"><div class="span7"><h2><a class="company inactive branch merged" href="/companies/us_in/2000020300159">NEXSTAR FINANCIAL CORPORATION</a></h2><div class="row"><div class="span12"><div id="data-table-merger_object"><h3> Mergers </h3><div class="table-wrapper"><table class="table table-condensed table-striped company-data-object"><thead><tr><th>Merged Company</th><th>Surviving Company</th></tr></thead><tbody><tr><td><span class="status label">inactive</span><span class="status label">branch</span><a class="company inactive branch merged" href="/companies/us_in/2000020300159">NEXSTAR FINANCIAL CORPORATION</a> (Indiana (US), <span class="start_date"> 3 Feb 2000</span>-<span class="end_date">22 Nov 2013</span>) </td><td><a href="/statements/1033356776">details</a></td></tr></tbody></table></div></div></div></div></div></div></div>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<div><div class="row content main_content"><div class="span7"><div><h1 class="wrapping_heading fn org" itemprop="name"> THE CARLYLE GROUP L.P. </h1><div id="attributes"><dl class="attributes dl-horizontal"><dt>Company Number</dt><dd class="company_number">5011921</dd><dt>Incorporation Date</dt><dd class="incorporation_date"><span datetime="2011-07-18" itemprop="foundingDate">18 July 2011</span> (about 13 years ago)</dd><dt>Company Type</dt><dd class="company_type">Limited Partnership</dd><dt>Jurisdiction</dt> &lt;dd&gt;Delaware (US)&lt;/dd&gt; <dt>Agent Name</dt><dd class="agent_name">THE CORPORATION TRUST COMPANY</dd><dt>Agent Address</dt><dd class="agent_address">CORPORATION TRUST CENTER 1209 ORANGE ST, WILMINGTON, New Castle, DE, 19801</dd><dt><a href="/companies/us_de/5011921/officers">Directors / Officers</a></dt><dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer" href="/officers/159599169">THE CORPORATION TRUST COMPANY</a>, agent</li></ul></dd><dt>Registry Page</dt></dl></div></div><div id="source"><strong>Source </strong><span class="publisher">Delaware Department of State: Division of Corporations</span>, <a class="url external" href="http://www.corp.delaware.gov/">http://www.corp.delaware.gov/</a>, <span class="retrieved">31 Aug 2019</span></div></div><div class="span5"><div class="sidebar"><div class="sidebar-item" id="similarly_named"><p><a href="/companies?q=THE+CARLYLE+GROUP+L.P.">Found 15.</a> Showing first 10 </p><ul class="companies"><li class="active"><a class="company active" href="/companies/us_dc/EXTUID_2911921">CARLYLE GROUP, L.P. (THE)</a> (District of Columbia (US), <span class="start_date"> 6 Apr 1988</span>- ) </li><li><a class="company" href="/companies/us_de/5485278">CARLYLE GROUP VI, L.P.</a> (Delaware (US), <span class="start_date">20 Feb 2014</span>- ) </li><li><a class="company" href="/companies/us_de/3500015">CARLYLE MANAGEMENT GROUP, L.P.</a> (Delaware (US), <span class="start_date"> 7 Mar 2002</span>- ) </li><li><a class="company" href="/companies/us_de/2124970">THE CARLYLE GROUP 1987, L.P.</a> (Delaware (US), <span class="start_date">30 Apr 1987</span>- ) </li><li class="inactive branch cancelled"><span class="status label">inactive</span><span class="status label">branch</span><a class="company inactive branch cancelled" href="/companies/us_nc/0003700">Carlyle Group, Limited Partnership</a> (North Carolina (US), <span class="start_date">30 Apr 1987</span>- ) </li><li><a class="company" href="/companies/us_de/2438362">CARLYLE INVESTMENT GROUP, L.P.</a> (Delaware (US), <span class="start_date">26 Sep 1994</span>- ) </li><li class="inactive branch inactive"><span class="status label">inactive</span><span class="status label">branch</span><a class="company inactive branch inactive" href="/companies/us_va/M0065682">CARLYLE GROUP L.P.</a> (Virginia (US), -<span class="end_date">31 Dec 2000</span>) </li><li class="branch refer_to_home_jurisdiction"><span class="status label">branch</span><a class="company branch refer_to_home_jurisdiction" href="/companies/ca_on/120759717">CARLYLE MANAGEMENT GROUP, L.P.</a> (Ontario (Canada), <span class="start_date"> 8 Aug 2002</span>- ) </li><li><a class="company" href="/companies/us_de/3457948">CARLYLE MANAGEMENT GROUP PARTNERS, L.P.</a> (Delaware (US), <span class="start_date"> 7 Mar 2002</span>- ) </li><li><a class="company" href="/companies/us_de/3126570">CARLYLE MANAGEMENT GROUP I, L.P.</a> (Delaware (US), <span class="start_date">15 Nov 1999</span>- ) </li></ul></div></div></div></div><div class="row"><div class="span12"><div id="data-table-control_statement_subject"><h3> Statements of control (relating to this company) </h3><div class="table-wrapper"><table class="table table-condensed table-striped company-data-object"><thead><tr><th>Date</th><th>Description</th><th>Mechanisms</th></tr></thead><tbody><tr><td> 2021-04-01 </td><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) controls <a class="company active" href="/companies/gb/13309739">PHRASE UK LTD</a> (United Kingdom, <span class="start_date"> 1 Apr 2021</span>- ) </td><td> Share Ownership, Voting Rights, Right To Appoint And Remove Directors </td><td><a href="/statements/1370491608">details</a></td></tr><tr><td> 2021-03-05 </td><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) controls <a class="company active" href="/companies/gb/13248943">LOBSTER MIDCO LIMITED</a> (United Kingdom, <span class="start_date"> 5 Mar 2021</span>- ) </td><td> Share Ownership, Voting Rights, Right To Appoint And Remove Directors </td><td><a href="/statements/1038435170">details</a></td></tr><tr><td> 2020-01-01 </td><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) controls <a class="company active" href="/companies/gb/OC357085">CARLYLE REAL ESTATE ADVISORS LLP</a> (United Kingdom, <span class="start_date">11 Aug 2010</span>- ) </td><td> Voting Rights, Right To Share Surplus Assets, Right To Appoint And Remove Members </td><td><a href="/statements/936717218">details</a></td></tr><tr><td> 2020-01-01 </td><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) controls <a class="company active" href="/companies/gb/OC357077">CECP ADVISORS LLP</a> (United Kingdom, <span class="start_date">11 Aug 2010</span>- ) </td><td> Voting Rights, Right To Share Surplus Assets, Right To Appoint And Remove Members </td><td><a href="/statements/936769685">details</a></td></tr><tr><td> 2020-01-01 </td><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) controls <a class="company active" href="/companies/gb/OC357078">CELF ADVISORS LLP</a> (United Kingdom, <span class="start_date">11 Aug 2010</span>- ) </td><td> Voting Rights, Right To Share Surplus Assets, Right To Appoint And Remove Members </td><td><a href="/statements/936669305">details</a></td></tr></tbody></table></div></div></div></div><div class="row"><div class="span12"><a href="/companies/us_de/5011921/statements/control_statement_subject">See all (13 records)</a></div></div><div class="row"><div class="span12"><div id="data-table-identifier_delegate"><h3> Identifiers </h3><div class="table-wrapper"><table class="table table-condensed table-striped company-data-object"><thead><tr><th>Identifier System</th><th>Identifier</th><th>Categories</th></tr></thead><tbody><tr><td> LEI </td><td><a href="https://search.gleif.org/#/record/529900NGGVF94UK6PG95">529900NGGVF94UK6PG95</a></td><td><a href="/statements/1849233704">details</a></td></tr></tbody></table></div></div></div></div><div class="row"><div class="span12"><div id="data-table-subsidiary_relationship_object"><h3> Parent companies </h3><div class="table-wrapper"><table class="table table-condensed table-striped company-data-object"><tbody><tr><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) </td><td><a href="/statements/715799020">details</a></td></tr><tr><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) </td><td><a href="/statements/615053155">details</a></td></tr><tr><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) </td><td><a href="/statements/615203104">details</a></td></tr><tr><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) </td><td><a href="/statements/585054066">details</a></td></tr><tr><td><a class="company" href="/companies/us_de/5011921">THE CARLYLE GROUP L.P.</a> (Delaware (US), <span class="start_date">18 Jul 2011</span>- ) </td><td><a href="/statements/584900625">details</a></td></tr></tbody></table></div></div></div></div><div class="row"><div class="span12"><a href="/companies/us_de/5011921/statements/subsidiary_relationship_object">See all (6 records)</a></div></div><div class="row"><div class="span12"><div id="data-table-subsidiary_relationship_subject"><h3> Subsidiaries </h3><div class="table-wrapper"><table class="table table-condensed table-striped company-data-object"><tbody><tr><td><a class="company live_company" href="/companies/sg/200004780G">CARLYLE SINGAPORE INVESTMENT ADVISORS PTE LTD</a> (Singapore, <span class="start_date"> 2 Jun 2000</span>- ) </td><td><a href="/statements/716720017">details</a></td></tr><tr><td><a class="company active" href="/companies/bm/40745">A310 MSN 483 Limited</a> (Bermuda, <span class="start_date">24 Sep 2007</span>- ) </td><td><a href="/statements/716884702">details</a></td></tr><tr><td><a class="company active" href="/companies/bm/39690">Apollo Aviation Holdings Limited</a> (Bermuda, <span class="start_date"> 2 Mar 2007</span>- ) </td><td><a href="/statements/715796566">details</a></td></tr><tr><td><a class="company active" href="/companies/bm/39689">Apollo Aviation Management Limited</a> (Bermuda, <span class="start_date"> 2 Mar 2007</span>- ) </td><td><a href="/statements/716013706">details</a></td></tr><tr><td><a class="company in_business" href="/companies/za/2011-004464-07">CARLYLE SOUTH AFRICA ADVISORS</a> (South Africa, <span class="start_date">23 Feb 2011</span>- ) </td><td><a href="/statements/715800622">details</a></td></tr></tbody></table></div></div></div></div><div class="row"><div class="span12"><a href="/companies/us_de/5011921/statements/subsidiary_relationship_subject">See all (5315 records)</a></div></div></div>

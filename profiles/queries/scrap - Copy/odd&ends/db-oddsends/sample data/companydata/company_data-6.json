@@ -1,0 +1,878 @@
+{
+    "https://opencorporates.com/companies/us_mt/F079999": {
+        "Links": [
+            "/data/43660146",
+            "/companies/us_ms/1317164",
+            "/events/777853289",
+            "/filings/1074348816",
+            "/companies/us_nd/0000155703",
+            "/filings/433876515",
+            "/companies/us_ne/1908207534",
+            "/companies/us_al/000-963-464",
+            "/filings/698828303",
+            "/companies/us_co/20171678010",
+            "/filings/627702569",
+            "/officers/862298804",
+            "/filings/477565648",
+            "/companies/us_id/0000629678",
+            "/companies/us_sd/FB039444",
+            "/officers/254485943",
+            "https://biz.sosmt.gov/search/business",
+            "/filings/698828306",
+            "https://opencorporates.com/companies/us_mt/F079999/filings",
+            "/events/777853310",
+            "/filings/698828300",
+            "/companies/us_ut/1341274-0144",
+            "/companies/us_wy/2016-000728936",
+            "/officers/862298807",
+            "/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c",
+            "/filings/703357679"
+        ],
+        "Company Name": "HALLIDAY, WATKINS & MANN, P.C. BRANCH (Montana - F079999)",
+        "Attributes": {
+            "Company Number": "F079999",
+            "Status": "Active Good Standing",
+            "Incorporation Date": "25 July 2016 (almost 8 years ago)",
+            "Company Type": "Foreign Profit Corporation",
+            "Jurisdiction": "Montana",
+            "Parent": {
+                "company_name": "HALLIDAY, WATKINS & MANN, P.C.",
+                "url": "/companies/us_ut/1341274-0144"
+            },
+            "Registered Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+            "Business Classification Text": "PROFESSIONAL SERVICE-LAWYER",
+            "Agent Name": "JOSEPH ROHAN",
+            "Agent Address": "2105 ORGEON AVE, BUTTE, MT, 59701",
+            "Directors / Officers": "BENJAMIN MANN, director BENJAMIN MANN, other officer JOSEPH ROHAN, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/43660146",
+                    "Description": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Utah - 1341274-0144)",
+                "Company ID": "1341274-0144",
+                "Jurisdiction": "Utah",
+                "Status": "Active",
+                "Type": "Branchobject",
+                "Link": "https://opencorporates.com/companies/us_ut/1341274-0144",
+                "Start Date": "24 Jan 1997",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/453983816"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "27 Feb 2022",
+                "Link": "https://opencorporates.com/filings/1074348816",
+                "Description": "Annual Report 2022"
+            },
+            {
+                "Date": "22 Feb 2021",
+                "Link": "https://opencorporates.com/filings/703357679",
+                "Description": "Annual Report 2021"
+            },
+            {
+                "Date": "10 Mar 2020",
+                "Link": "https://opencorporates.com/filings/698828300",
+                "Description": "Annual Report 2020 (other)"
+            },
+            {
+                "Date": "10 Mar 2020",
+                "Link": "https://opencorporates.com/filings/627702569",
+                "Description": "Annual Report 2020 ( Other )"
+            },
+            {
+                "Date": "18 Jan 2019",
+                "Link": "https://opencorporates.com/filings/698828303",
+                "Description": "Annual Report 2019 (other)"
+            },
+            {
+                "Date": "18 Jan 2019",
+                "Link": "https://opencorporates.com/filings/477565648",
+                "Description": "Annual Report 2019 ( Other )"
+            },
+            {
+                "Date": "1 Feb 2018",
+                "Link": "https://opencorporates.com/filings/698828306",
+                "Description": "Annual Report 2018 (businessAddress,principal,directorOfficer,other)"
+            },
+            {
+                "Date": "1 Feb 2018",
+                "Link": "https://opencorporates.com/filings/433876515",
+                "Description": "Annual Report 2018 ( Business Address,Principal,Director/Officer,Other )"
+            },
+            {
+                "Date": "20 Apr 2017",
+                "Link": "https://opencorporates.com/filings/698828309",
+                "Description": "Annual Report 2017"
+            },
+            {
+                "Date": "20 Apr 2017",
+                "Link": "https://opencorporates.com/filings/367024637",
+                "Description": "Annual Report 2017"
+            },
+            {
+                "Date": "20 Aug 2016",
+                "Link": "https://opencorporates.com/filings/334086503",
+                "Description": "Migrated Business Entity Data"
+            },
+            {
+                "Date": "25 Jul 2016",
+                "Link": "https://opencorporates.com/filings/698828312",
+                "Description": "Initial Filing"
+            },
+            {
+                "Date": "25 Jul 2016",
+                "Link": "https://opencorporates.com/filings/334086504",
+                "Description": "CERTIFICATE OF AUTHORITY"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "Before 2019-02-13",
+                "Description": "Addition of officer JOSEPH ROHAN, agent",
+                "Link": "https://opencorporates.com/events/777853289"
+            },
+            {
+                "Date": "Before 2019-02-13",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/777853310"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "JOSEPH ROHAN",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/254485943",
+                "Type": "Person",
+                "Address": "2105 ORGEON AVE, BUTTE, MT, 59701",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN MANN",
+                "Role": "director",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/862298804",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN MANN",
+                "Role": "other officer",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/862298807",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": null
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_sd/FB039444": {
+        "Links": [
+            "/officers/576028986",
+            "/filings/1339264574",
+            "/companies/us_mt/F079999",
+            "/companies/us_ms/1317164",
+            "/companies/us_ne/1908207534",
+            "/companies/us_nd/0000155703",
+            "/events/1559348675",
+            "/data/42274077",
+            "/companies/us_al/000-963-464",
+            "/companies/us_co/20171678010",
+            "/events/2256948326",
+            "/data/71131439",
+            "/companies/us_id/0000629678",
+            "/officers/247376153",
+            "https://opencorporates.com/companies/us_sd/FB039444/filings",
+            "/events/585266663",
+            "/companies/us_wy/2016-000728936",
+            "/companies/us_ut/1341274-0144",
+            "https://sosenterprise.sd.gov/BusinessServices/Business/FilingSearch.aspx",
+            "/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c"
+        ],
+        "Company Name": "HALLIDAY, WATKINS & MANN, P.C. BRANCH (South Dakota - FB039444)",
+        "Attributes": {
+            "Company Number": "FB039444",
+            "Status": "Good Standing",
+            "Incorporation Date": "18 July 2016 (almost 8 years ago)",
+            "Company Type": "Foreign Business Corporation",
+            "Jurisdiction": "South Dakota",
+            "Parent": {
+                "company_name": "HALLIDAY, WATKINS & MANN, P.C.",
+                "url": "/companies/us_ut/1341274-0144"
+            },
+            "Agent Name": "Vice President",
+            "Agent Address": "14363 WOLF CREEK COURT, SUMMERSET, SD, 57769",
+            "Directors / Officers": "Vice President, agent",
+            "Inactive Directors / Officers": "LINDA KOGEL, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/42274077",
+                    "Description": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111"
+                },
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/71131439",
+                    "Description": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Utah - 1341274-0144)",
+                "Company ID": "1341274-0144",
+                "Jurisdiction": "Utah",
+                "Status": "Active",
+                "Type": "Branchobject",
+                "Link": "https://opencorporates.com/companies/us_ut/1341274-0144",
+                "Start Date": "24 Jan 1997",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/665918087"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "2 May 2024",
+                "Link": "https://opencorporates.com/filings/1339264574",
+                "Description": "2024 Annual Report"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2016-07-18",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/585266672"
+            },
+            {
+                "Date": "Between 2016-07-18 and 2016-10-27",
+                "Description": "Addition of officer LINDA KOGEL, agent",
+                "Link": "https://opencorporates.com/events/585266663"
+            },
+            {
+                "Date": "Between 2016-10-27 and 2019-07-26",
+                "Description": "Change of name from 'HALLIDAY, WATKINS & MAIN, P.C.' to 'HALLIDAY, WATKINS & MANN, P.C.'",
+                "Link": "https://opencorporates.com/events/1559348675"
+            },
+            {
+                "Date": "Between 2021-05-09 and 2021-09-05",
+                "Description": "Addition of officer Vice President, agent",
+                "Link": "https://opencorporates.com/events/2256948326"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "LINDA KOGEL",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/247376153",
+                "Type": "Person",
+                "Address": "119 E MAIN ST, VERMILLION, SD, 57069",
+                "Start_Date": null
+            },
+            {
+                "Name": "Vice President",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/576028986",
+                "Type": "Corporation",
+                "Address": "14363 WOLF CREEK COURT, SUMMERSET, SD, 57769",
+                "Start_Date": null
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_nd/0000155703": {
+        "Links": [
+            "/filings/1221226476",
+            "/companies/us_mt/F079999",
+            "/companies/us_ms/1317164",
+            "/data/88397132",
+            "/companies/us_ne/1908207534",
+            "https://firststop.sos.nd.gov/",
+            "/companies/us_al/000-963-464",
+            "/companies/us_co/20171678010",
+            "/companies/us_id/0000629678",
+            "/companies/us_sd/FB039444",
+            "https://opencorporates.com/companies/us_nd/0000155703/filings",
+            "/officers/427955648",
+            "/filings/667704368",
+            "/companies/us_wy/2016-000728936",
+            "/companies/us_ut/1341274-0144",
+            "/filings/667704365",
+            "/filings/751703879",
+            "/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c",
+            "/filings/667704371",
+            "/filings/667704362",
+            "/filings/1343312399",
+            "/events/1908327197",
+            "/filings/1089331536",
+            "/events/1908327185"
+        ],
+        "Company Name": "HALLIDAY, WATKINS & MANN, P.C. BRANCH (North Dakota - 0000155703)",
+        "Attributes": {
+            "Company Number": "0000155703",
+            "Status": "Active",
+            "Incorporation Date": "27 September 2016 (almost 8 years ago)",
+            "Company Type": "Corporation - Professional - Foreign",
+            "Jurisdiction": "North Dakota",
+            "Parent": {
+                "company_name": "HALLIDAY, WATKINS & MANN, P.C.",
+                "url": "/companies/us_ut/1341274-0144"
+            },
+            "Registered Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111-2906",
+            "Agent Name": "Jason Henderson",
+            "Agent Address": "38 SECOND E AVE, STE B, DICKINSON, ND, 58601",
+            "Directors / Officers": "Jason Henderson, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/88397132",
+                    "Description": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111-2906"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Utah - 1341274-0144)",
+                "Company ID": "1341274-0144",
+                "Jurisdiction": "Utah",
+                "Status": "Active",
+                "Type": "Branchobject",
+                "Link": "https://opencorporates.com/companies/us_ut/1341274-0144",
+                "Start Date": "24 Jan 1997",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/969425411"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "6 May 2024",
+                "Link": "https://opencorporates.com/filings/1343312399",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "5 Apr 2023",
+                "Link": "https://opencorporates.com/filings/1221226476",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "30 Mar 2022",
+                "Link": "https://opencorporates.com/filings/1089331536",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "9 Apr 2021",
+                "Link": "https://opencorporates.com/filings/751703879",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "15 Aug 2020",
+                "Link": "https://opencorporates.com/filings/667704362",
+                "Description": "Registered Agent/Office Statement of Change (by entity)"
+            },
+            {
+                "Date": "27 Mar 2020",
+                "Link": "https://opencorporates.com/filings/667704365",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "10 Mar 2020",
+                "Link": "https://opencorporates.com/filings/667704368",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "19 Jun 2018",
+                "Link": "https://opencorporates.com/filings/667704371",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "26 Sep 2017",
+                "Link": "https://opencorporates.com/filings/667704374",
+                "Description": "Annual Report"
+            },
+            {
+                "Date": "21 Aug 2017",
+                "Link": "https://opencorporates.com/filings/667704377",
+                "Description": "Not Good Standing - Involuntary"
+            },
+            {
+                "Date": "27 Sep 2016",
+                "Link": "https://opencorporates.com/filings/667704380",
+                "Description": "Initial Filing"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2016-09-27",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1908327197"
+            },
+            {
+                "Date": "Between 2016-09-27 and 2020-10-31",
+                "Description": "Addition of officer Jason Henderson, agent",
+                "Link": "https://opencorporates.com/events/1908327185"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "Jason Henderson",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/427955648",
+                "Type": "Person",
+                "Address": "38 SECOND E AVE, STE B, DICKINSON, ND, 58601",
+                "Start_Date": null
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ne/1908207534": {
+        "Links": [
+            "/data/71825948",
+            "/events/1578978119",
+            "/officers/533722079",
+            "/filings/920008799",
+            "/filings/1304560115",
+            "/filings/1220492745",
+            "/filings/1096127842",
+            "/events/1578978128",
+            "/officers/777813768",
+            "/officers/533722073",
+            "/filings/1067191590",
+            "/companies/us_mt/F079999",
+            "/officers/533722076",
+            "/companies/us_wy/2016-000728936",
+            "/companies/us_sd/FB039444",
+            "/filings/1231248060",
+            "/companies/us_al/000-963-464",
+            "https://opencorporates.com/companies/us_ne/1908207534/filings",
+            "/companies/us_nd/0000155703",
+            "/companies/us_ut/1341274-0144",
+            "https://www.nebraska.gov/sos/corp/corpsearch.cgi?acct-number=1908207534",
+            "/companies/us_id/0000629678",
+            "https://www.nebraska.gov/sos/corp/",
+            "/companies/us_ms/1317164",
+            "/filings/1344508706",
+            "/companies/us_co/20171678010",
+            "/filings/1231248057",
+            "/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c"
+        ],
+        "Company Name": "HALLIDAY, WATKINS & MANN, P.C. BRANCH (Nebraska - 1908207534)",
+        "Attributes": {
+            "Company Number": "1908207534",
+            "Status": "Active",
+            "Incorporation Date": "20 August 2019 (almost 5 years ago)",
+            "Company Type": "Foreign Corp PC",
+            "Jurisdiction": "Nebraska",
+            "Parent": {
+                "company_name": "HALLIDAY, WATKINS & MANN, P.C.",
+                "url": "/companies/us_ut/1341274-0144"
+            },
+            "Business Classification Text": "LAW FIRM",
+            "Agent Name": "STEVEN TWOHIG",
+            "Agent Address": "635 N BROAD STREET, FREMONT, NEBRASKA, 68102",
+            "Directors / Officers": "BENJAMIN J MANN, director, 25 Feb 2020- BENJAMIN J MANN, director, 25 Feb 2020- BENJAMIN J MANN, president, 25 Feb 2020- STEVEN TWOHIG, agent",
+            "Registry Page": "https://www.nebraska.gov/sos/corp/cor..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/71825948",
+                    "Description": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Utah - 1341274-0144)",
+                "Company ID": "1341274-0144",
+                "Jurisdiction": "Utah",
+                "Status": "Active",
+                "Type": "Branchobject",
+                "Link": "https://opencorporates.com/companies/us_ut/1341274-0144",
+                "Start Date": "24 Jan 1997",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/674584256"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "30 May 2024",
+                "Link": "https://opencorporates.com/filings/1344508706",
+                "Description": "Professional Certificate"
+            },
+            {
+                "Date": "5 Jan 2024",
+                "Link": "https://opencorporates.com/filings/1304560115",
+                "Description": "Occupation Tax Report"
+            },
+            {
+                "Date": "25 May 2023",
+                "Link": "https://opencorporates.com/filings/1231248060",
+                "Description": "Change of Agent or Office"
+            },
+            {
+                "Date": "22 May 2023",
+                "Link": "https://opencorporates.com/filings/1231248057",
+                "Description": "Professional Certificate"
+            },
+            {
+                "Date": "6 Apr 2023",
+                "Link": "https://opencorporates.com/filings/1220492745",
+                "Description": "Agent Resignation"
+            },
+            {
+                "Date": "19 Apr 2022",
+                "Link": "https://opencorporates.com/filings/1096127842",
+                "Description": "Professional Certificate"
+            },
+            {
+                "Date": "11 Jan 2022",
+                "Link": "https://opencorporates.com/filings/1067191590",
+                "Description": "Occupation Tax Report"
+            },
+            {
+                "Date": "20 Apr 2021",
+                "Link": "https://opencorporates.com/filings/920008799",
+                "Description": "Professional Certificate"
+            },
+            {
+                "Date": "25 Feb 2020",
+                "Link": "https://opencorporates.com/filings/920008796",
+                "Description": "Occupation Tax Report"
+            },
+            {
+                "Date": "20 Aug 2019",
+                "Link": "https://opencorporates.com/filings/569573638",
+                "Description": "Professional Certificate"
+            },
+            {
+                "Date": "20 Aug 2019",
+                "Link": "https://opencorporates.com/filings/569573635",
+                "Description": "Foreign Authority"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "Before 2019-08-27",
+                "Description": "Addition of officer JASON C. HUBBARD, ESQ, agent",
+                "Link": "https://opencorporates.com/events/1578978119"
+            },
+            {
+                "Date": "Before 2019-08-27",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1578978128"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "BENJAMIN J MANN",
+                "Role": "director",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/533722073",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": "2020-02-25"
+            },
+            {
+                "Name": "BENJAMIN J MANN",
+                "Role": "director",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/533722076",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": "2020-02-25"
+            },
+            {
+                "Name": "BENJAMIN J MANN",
+                "Role": "president",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/533722079",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": "2020-02-25"
+            },
+            {
+                "Name": "STEVEN TWOHIG",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/777813768",
+                "Type": "Person",
+                "Address": "635 N BROAD STREET, FREMONT, NEBRASKA, 68102",
+                "Start_Date": null
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ut/1341274-0144": {
+        "Links": [
+            "/officers/769300056",
+            "/officers/769300047",
+            "/officers/883051994",
+            "/companies/us_mt/F079999",
+            "/officers/883051997",
+            "/companies/us_wy/2016-000728936",
+            "/officers/769300050",
+            "/officers/769300053",
+            "/companies/us_sd/FB039444",
+            "/officers/769300044",
+            "/events/1635883607",
+            "/events/1705711876",
+            "/officers/769300041",
+            "/companies/us_al/000-963-464",
+            "/companies/us_nd/0000155703",
+            "/companies/us_id/0000629678",
+            "/officers/769300059",
+            "/companies/us_ms/1317164",
+            "/companies/us_co/20171678010",
+            "/officers/363892064",
+            "/events/351832949",
+            "https://secure.utah.gov/bes/index.html",
+            "/companies/us_ne/1908207534",
+            "/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c"
+        ],
+        "Company Name": "HALLIDAY, WATKINS & MANN, P.C. (Utah - 1341274-0144)",
+        "Attributes": {
+            "Company Number": "1341274-0144",
+            "Status": "Active Current",
+            "Incorporation Date": "24 January 1997 (over 27 years ago)",
+            "Company Type": "Corporation - Professional",
+            "Jurisdiction": "Utah",
+            "Registered Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+            "Industry Codes": "5411: Legal Services (North American Industry Classification System 2007)",
+            "Previous Names": "HALLIDAY & HALLIDAY, P.C. HALLIDAY, WATKINS & MANN P.C. HALLIDAY, WATKINS, & MANN, P.C.",
+            "Directors / Officers": "BENJAMIN J. MANN, registered agent BENJAMIN JAMES MANN, president BRIGHAM LUNDBERG, vice president JASON JAMES TINGLE, vice president",
+            "Inactive Directors / Officers": "BENJAMIN J. MANN, agent BENJAMIN JAMES MANN, director BENJAMIN JAMES MANN, treasurer BENJAMIN JAMES MANN, secretary STEPHEN B. WATKINS, director STEPHEN B. WATKINS, vice president",
+            "Registry Page": "https://secure.utah.gov/bes/index.html"
+        },
+        "Branch_relationship": [
+            {
+                "Company": "Halliday, Watkins & Mann, P.C. (Alabama - 000-963-464)",
+                "Company ID": "000-963-464",
+                "Jurisdiction": "Alabama",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_al/000-963-464",
+                "Start Date": "24 Jan 2022",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/1208225640"
+            },
+            {
+                "Company": "Halliday, Watkins & Mann, P.C. (Mississippi - 1317164)",
+                "Company ID": "1317164",
+                "Jurisdiction": "Mississippi",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_ms/1317164",
+                "Start Date": "30 Dec 2021",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/1196970780"
+            },
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Nebraska - 1908207534)",
+                "Company ID": "1908207534",
+                "Jurisdiction": "Nebraska",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_ne/1908207534",
+                "Start Date": "20 Aug 2019",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/674584256"
+            },
+            {
+                "Company": "Halliday, Watkins & Mann, P.C. P. C. (Minnesota - 2b6334da-92c3-e911-9179-00155d01b32c)",
+                "Company ID": "2b6334da-92c3-e911-9179-00155d01b32c",
+                "Jurisdiction": "Minnesota",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_mn/2b6334da-92c3-e911-9179-00155d01b32c",
+                "Start Date": "20 Aug 2019",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/1050563786"
+            },
+            {
+                "Company": "Halliday, Watkins & Mann, P.C. (Colorado - 20171678010)",
+                "Company ID": "20171678010",
+                "Jurisdiction": "Colorado",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_co/20171678010",
+                "Start Date": "6 Sep 2017",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/545539329"
+            },
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Montana - F079999)",
+                "Company ID": "F079999",
+                "Jurisdiction": "Montana",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_mt/F079999",
+                "Start Date": "25 Jul 2016",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/453983816"
+            },
+            {
+                "Company": "Halliday, Watkins & Mann, P.C. (Wyoming - 2016-000728936)",
+                "Company ID": "2016-000728936",
+                "Jurisdiction": "Wyoming",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_wy/2016-000728936",
+                "Start Date": "10 Oct 2016",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/438896907"
+            },
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (North Dakota - 0000155703)",
+                "Company ID": "0000155703",
+                "Jurisdiction": "North Dakota",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_nd/0000155703",
+                "Start Date": "27 Sep 2016",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/969425411"
+            },
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (Idaho - 0000629678)",
+                "Company ID": "0000629678",
+                "Jurisdiction": "Idaho",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_id/0000629678",
+                "Start Date": "8 Sep 2016",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/473523189"
+            },
+            {
+                "Company": "HALLIDAY, WATKINS & MANN, P.C. (South Dakota - FB039444)",
+                "Company ID": "FB039444",
+                "Jurisdiction": "South Dakota",
+                "Status": "Active",
+                "Type": "Branchsubject",
+                "Link": "https://opencorporates.com/companies/us_sd/FB039444",
+                "Start Date": "18 Jul 2016",
+                "End Date": null,
+                "statement_link": "https://opencorporates.com/statements/665918087"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1997-01-24",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/351832979"
+            },
+            {
+                "Date": "Between 1997-01-24 and 2019-01-08",
+                "Description": "Addition of officer PAUL M HALLIDAY JR, agent",
+                "Link": "https://opencorporates.com/events/351832949"
+            },
+            {
+                "Date": "Between 2019-07-03 and 2019-09-24",
+                "Description": "Addition of officer BENJAMIN J. MANN, agent",
+                "Link": "https://opencorporates.com/events/1635883607"
+            },
+            {
+                "Date": "Between 2019-09-24 and 2019-12-10",
+                "Description": "Removal of officer PAUL M HALLIDAY JR, agent",
+                "Link": "https://opencorporates.com/events/1705711876"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "BENJAMIN J. MANN",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/363892064",
+                "Type": "Person",
+                "Address": "376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN JAMES MANN",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/769300041",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN JAMES MANN",
+                "Role": "treasurer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/769300044",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN J MANN",
+                "Role": "registered agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/769300047",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN JAMES MANN",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/769300050",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "STEPHEN B WATKINS",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/769300053",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "STEPHEN B WATKINS",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/769300056",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "BENJAMIN JAMES MANN",
+                "Role": "president",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/769300059",
+                "Type": "Person",
+                "Start_Date": null
+            },
+            {
+                "Name": "BRIGHAM LUNDBERG",
+                "Role": "vice president",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/883051994",
+                "Type": "Corporation",
+                "Start_Date": null
+            },
+            {
+                "Name": "JASON JAMES TINGLE",
+                "Role": "vice president",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/883051997",
+                "Type": "Person",
+                "Start_Date": null
+            }
+        ]
+    }
+}

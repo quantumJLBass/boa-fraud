@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>TERRY JOHNSON</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=TERRY+JOHNSON" title="Company Officers/Directors named TERRY JOHNSON">TERRY JOHNSON</a></dd>
+<dt>Address</dt> <dd class="address">201 3RD ST, SAN FRANCISCO, CA, 94103, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=TERRY+JOHNSON">Search Google for 'TERRY JOHNSON'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=TERRY+JOHNSON">Search LittleSis for 'TERRY JOHNSON'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=TERRY+JOHNSON" title="Company Officers/Directors named TERRY JOHNSON">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=TERRY+JOHNSON">Found 3001.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/146333387" title="more info on A. TERRY JOHNSON">A. TERRY JOHNSON</a>, agent, <span class="start_date">31 Mar 1994</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___action_by_secretary_of_state" href="/companies/us_la/34459989D" title="More Free And Open Company Data On AAA CHILD CARE OF AMERICA, INC. (Louisiana (US), 34459989D)">AAA CHILD CARE OF AMERICA, INC.</a> (Louisiana (US), <span class="start_date">31 Mar 1994</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/19253612" title="more info on A. TERRY JOHNSON">A. TERRY JOHNSON</a>, agent, <span class="start_date">31 Mar 1994</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___action_by_secretary_of_state" href="/companies/us_la/34459988D" title="More Free And Open Company Data On THE PARENT COMPANY, TWENTY-TWO, TWENTY-THREE, TWENTY-FOUR, INC. (Louisiana (US), 34459988D)">THE PARENT COMPANY, TWENTY-TWO, TWENTY-THREE, TWENTY-FOUR, INC.</a> (Louisiana (US), <span class="start_date">31 Mar 1994</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/19253662" title="more info on A. TERRY JOHNSON">A. TERRY JOHNSON</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___action_by_secretary_of_state" href="/companies/us_la/34459989D" title="More Free And Open Company Data On AAA CHILD CARE OF AMERICA, INC. (Louisiana (US), 34459989D)">AAA CHILD CARE OF AMERICA, INC.</a> (Louisiana (US), <span class="start_date">31 Mar 1994</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/25865067" title="more info on ANDREW TERRY JOHNSON">ANDREW TERRY JOHNSON</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">nonprofit</span> <a class="company inactive inactive___action_by_secretary_of_state" href="/companies/us_la/35557862N" title="More Free And Open Company Data On NATIONAL SOLAR POWER FOUNDATION (Louisiana (US), 35557862N)">NATIONAL SOLAR POWER FOUNDATION</a> (Louisiana (US), <span class="start_date">18 Sep 2003</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/27187173" title="more info on ANDREW TERRY JOHNSON">ANDREW TERRY JOHNSON</a>, member,
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___action_by_secretary_of_state" href="/companies/us_la/35862961K" title="More Free And Open Company Data On MINH ENTERPRISES, L.L.C. (Louisiana (US), 35862961K)">MINH ENTERPRISES, L.L.C.</a> (Louisiana (US), <span class="start_date">24 Jan 2005</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/880740455" title="more info on ANN TERRY JOHNSON">ANN TERRY JOHNSON</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">nonprofit</span> <a class="company good_standing" href="/companies/us_mo/N00025678" title="More Free And Open Company Data On Center for Educational Media (Missouri (US), N00025678)">Center for Educational Media</a> (Missouri (US), <span class="start_date">30 Mar 1981</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/880740458" title="more info on ANN TERRY JOHNSON">ANN TERRY JOHNSON</a>, chairman,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">nonprofit</span> <a class="company good_standing" href="/companies/us_mo/N00025678" title="More Free And Open Company Data On Center for Educational Media (Missouri (US), N00025678)">Center for Educational Media</a> (Missouri (US), <span class="start_date">30 Mar 1981</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/149314800" title="more info on ANN TERRY JOHNSON">ANN TERRY JOHNSON</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive voluntarily_dissolved" href="/companies/us_mo/00379983" title="More Free And Open Company Data On MALACHI'S &amp; ASSOCIATES, INC. (Missouri (US), 00379983)">MALACHI'S &amp; ASSOCIATES, INC.</a> (Missouri (US), <span class="start_date">23 Apr 1993</span>-<span class="end_date"> 3 Jan 1994</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/316820633" title="more info on Brandon Terry Johnson">Brandon Terry Johnson</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_ut" title="Free And Open Data On Utah (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive expired___failure_to_file_renewal" href="/companies/us_ut/10913205-0142" title="More Free And Open Company Data On B&amp;C SALES AND SERVICES CORP. (Utah (US), 10913205-0142)">B&amp;C SALES AND SERVICES CORP.</a> (Utah (US), <span class="start_date">18 Jul 2018</span>-<span class="end_date">31 Jul 2019</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/765635109" title="more info on Brandon Terry Johnson">Brandon Terry Johnson</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_ut" title="Free And Open Data On Utah (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive expired___failure_to_file_renewal" href="/companies/us_ut/10913205-0142" title="More Free And Open Company Data On B&amp;C SALES AND SERVICES CORP. (Utah (US), 10913205-0142)">B&amp;C SALES AND SERVICES CORP.</a> (Utah (US), <span class="start_date">18 Jul 2018</span>-<span class="end_date">31 Jul 2019</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/765635115" title="more info on Brandon Terry Johnson">Brandon Terry Johnson</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_ut" title="Free And Open Data On Utah (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive expired___failure_to_file_renewal" href="/companies/us_ut/10913205-0142" title="More Free And Open Company Data On B&amp;C SALES AND SERVICES CORP. (Utah (US), 10913205-0142)">B&amp;C SALES AND SERVICES CORP.</a> (Utah (US), <span class="start_date">18 Jul 2018</span>-<span class="end_date">31 Jul 2019</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,33 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Events for <a class="company inactive admin._dissolved" href="/companies/us_nc/1207158" title="More Free And Open Company Data On DPW Services, LLC (North Carolina (US), 1207158)">DPW Services, LLC</a></h1>
+<div id="events">
+<div class="oc-events-timeline">
+<dl>
+<dt>On 2011-06-07</dt>
+<dd><a href="/events/118196402">Incorporated</a></dd>
+<dt>Between 2011-06-07 and 2018-11-24</dt>
+<dd><a href="/events/118196381">Addition of officer Doris P Williamson, manager</a></dd>
+<dt>Between 2011-06-07 and 2018-11-24</dt>
+<dd><a href="/events/118196372">Addition of officer Williamson, Doris P, agent</a></dd>
+<dt>Between 2019-08-23 and 2019-12-17</dt>
+<dd><a href="/events/1716863659">Change of status from 'Current Active' to 'Admin. Dissolved'</a></dd>
+<dt>Between 2021-03-15 and 2022-04-29</dt>
+<dd><a href="/events/2526170203">Change of name from 'DPW Services, LLC' to 'DPW Services LLC'</a></dd>
+<dt>Between 2021-03-15 and 2022-04-29</dt>
+<dd><a href="/events/2526170241">Removal of officer Doris P Williamson, manager</a></dd>
+<dt>Between 2022-08-27 and 2022-09-02</dt>
+<dd><a href="/events/2606622848">Addition of officer Williamson, Doris P, manager</a></dd>
+<dt>Between 2022-08-27 and 2022-09-02</dt>
+<dd><a href="/events/2606622830">Change of name from 'DPW Services LLC' to 'DPW Services, LLC'</a></dd>
+<dt>Between 2022-09-03 and 2022-09-09</dt>
+<dd><a href="/events/2617475726">Removal of officer Williamson Doris P, manager</a></dd>
+</dl>
+</div>
+</div>
+<div class="pagination_tools">
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

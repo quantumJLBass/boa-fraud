@@ -1,0 +1,65 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company inactive terminated" href="/companies/us_ca/199507310005" title="More Free And Open Company Data On SQUARE ONE FINANCIAL, LLC (California (US), 199507310005)">SQUARE ONE FINANCIAL, LLC</a> (California (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_376568959"><div class="dateline">27 Nov 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/376568959" title="more info on DISSOLUTION">DISSOLUTION</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=199507310005-1094443" title="View DISSOLUTION for SQUARE ONE FINANCIAL, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_376568957"><div class="dateline">27 Nov 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/376568957" title="more info on CANCELLATION">CANCELLATION</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=199507310005-1088450" title="View CANCELLATION for SQUARE ONE FINANCIAL, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_376568956"><div class="dateline">29 Dec 1995</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/376568956" title="more info on SI-NO CHANGE">SI-NO CHANGE</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=199507310005-1088449" title="View SI-NO CHANGE for SQUARE ONE FINANCIAL, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_376568958"><div class="dateline"> 9 Nov 1995</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/376568958" title="more info on SI-COMPLETE">SI-COMPLETE</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=199507310005-1094442" title="View SI-COMPLETE for SQUARE ONE FINANCIAL, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_376568955"><div class="dateline">14 Mar 1995</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/376568955" title="more info on REGISTRATION">REGISTRATION</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=199507310005-140344" title="View REGISTRATION for SQUARE ONE FINANCIAL, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

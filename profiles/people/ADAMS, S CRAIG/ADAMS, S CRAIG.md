@@ -1,0 +1,6 @@
+---
+aka:
+- S CRAIG ADAMS
+- CRAIG ADAMS
+- S. CRAIG ADAMS
+---

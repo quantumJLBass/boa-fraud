@@ -1,0 +1,185 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+WELLS FARGO REAL ESTATE TAX SERVICES, LLC
+<span class="badge"><a data-original-title="branch" data-placement="top" href="/legal/glossary#branch" rel="tooltip">branch</a></span>
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">Z05069331</dd>
+<dt>Status</dt> <dd class="status">Dissolved</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="1998-08-10" itemprop="foundingDate">10 August 1998</span> (almost 26 years ago)</dd>
+<dt>Company Type</dt> <dd class="company_type">FOREIGN LLC</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies">Maryland (US)</a></dd>
+<dt><span class="define">Branch</span></dt> <dd class="branch">Branch of <a class="company" href="/companies/us_de/2836641" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Delaware (US), 2836641)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Delaware (US))</dd>
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">1 HOME CAMPUS</li><li class="address_line">DES MOINES</li><li class="address_line">503280001</li><li class="address_line">IA</li><li class="address_line">United States</li></ul></dd>
+<dt>Previous Names</dt> <dd class="previous_names"><ul class="name_lines"><li class="name_line">NORWEST ELECTRONIC TAX SERVICE, L.L.C</li><li class="name_line">NETS ELECTRONIC TAX SERVICE, LLC</li></ul></dd>
+<dt>Business Classification Text</dt> <dd class="business_classification_text">20 ENTITIES OTHER THAN CORPORATIONS</dd>
+<dt><a href="/companies/us_md/Z05069331/officers" title="Directors for WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Maryland (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/327060313" title="more info on CSC-LAWYERS INCORPORATING SERVICE">CSC-LAWYERS INCORPORATING SERVICE</a>, agent</li></ul></dd>
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/BusinessInformation/Z05069331" title="Registry entry for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">https://egov.maryland.gov/BusinessExp...</a></dd>
+</dl>
+</div>
+</div>
+<div id="filings">
+<div class="rss_feed"><a href="/companies/us_md/Z05069331/filings.rss" title="Subscribe to filings for WELLS FARGO REAL ESTATE TAX SERVICES, LLC"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"/></a></div>
+<h3><a href="https://opencorporates.com/companies/us_md/Z05069331/filings" title="See all filings for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">Recent filings for WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a></h3>
+<div class="filing" id="filing_468653910"><div class="dateline">14 Jun 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653910" title="more info on ARTICLES OF CANCELLATION">ARTICLES OF CANCELLATION</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000362010418459&amp;departmentId=Z05069331" title="View ARTICLES OF CANCELLATION for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653911"><div class="dateline"> 4 Dec 2014</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653911" title="more info on RESIDENT AGENT CHANGE OF ADDRESS">RESIDENT AGENT CHANGE OF ADDRESS</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000362007290317&amp;departmentId=Z05069331" title="View RESIDENT AGENT CHANGE OF ADDRESS for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653912"><div class="dateline">20 Nov 2006</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653912" title="more info on RESIDENT AGENT CHANGE OF ADDRESS">RESIDENT AGENT CHANGE OF ADDRESS</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000361993931520&amp;departmentId=Z05069331" title="View RESIDENT AGENT CHANGE OF ADDRESS for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_468653913"><div class="dateline">16 Aug 2001</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/468653913" title="more info on AMENDMENT / NAME CHANGE">AMENDMENT / NAME CHANGE</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://egov.maryland.gov/BusinessExpress/EntitySearch/PreviewDocumentFromBusinessInformation?filingNumber=1000361986041204&amp;departmentId=Z05069331" title="View AMENDMENT / NAME CHANGE for WELLS FARGO REAL ESTATE TAX SERVICES, LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569193"><div class="dateline"> 5 May 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569193" title="more info on RESOLUTION">RESOLUTION</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569190"><div class="dateline">17 Apr 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569190" title="more info on AMENDMENT / NAME CHANGE">AMENDMENT / NAME CHANGE</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_942569187"><div class="dateline">10 Aug 1998</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/942569187" title="more info on REGISTRATION">REGISTRATION</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Maryland Department of Assessments &amp; Taxation</span>, <a class="url external" href="https://egov.maryland.gov/BusinessExpress/">https://egov.maryland.gov/BusinessExp...</a>, <span class="retrieved"> 6 Jun 2024</span></div>
+<div id="company_data">
+<div id="update_links">
+<form action="/companies/us_md/Z05069331" class="button_to" data-remote="true" method="post"><div><input name="_method" type="hidden" value="put"/><input class="btn btn-primary" data-disable-with="Submitting..." id="update_company" type="submit" value="update from registry"/><input name="authenticity_token" type="hidden" value="pb3MJ+WmFv5ERtgpWQz9V/JjmMR7KNowe56Vtxou7b0="/></div></form>
+</div>
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_25064614"><div class="subhead">
+<a href="/data/25064614">Mailing Address</a>
+</div>
+<p class="description">
+WELLS FARGO REAL ESTATE TAX SERVICES, LL, P O BOX 2609, CARLSBAD, CA, 920182609
+</p>
+</div></div></div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="On 1998-08-10">
+1998-08-10
+</dt>
+<dd><a href="/events/638524985">Incorporated</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 1998-08-10 and 2018-10-09">
+1998-08-10 - 2018-10-09
+</dt>
+<dd><a href="/events/638524604">Addition of officer CSC-LAWYERS INCORPORATING SERVICE, agent</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2020-02-07 and 2021-05-03">
+2020-02-07 - 2021-05-03
+</dt>
+<dd><a href="/events/2177138300">Change of status from 'Dissolved   Not In Good Standing' to 'Dissolved'</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_md/Z05069331/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=Z05069331&amp;jurisdiction_code=us_md" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=WELLS+FARGO+REAL+ESTATE+TAX+SERVICES%2C+LLC" title="Companies named WELLS FARGO REAL ESTATE TAX SERVICES, LLC">Similarly named companies</a></h3>
+<ul class="companies">
+<li>
+<a class="jurisdiction_filter us" href="/companies/us_de" title="Free And Open Data On Delaware (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company" href="/companies/us_de/2836641" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Delaware (US), 2836641)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Delaware (US), <span class="start_date">22 Dec 1997</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_or/123056798" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Oregon (US), 123056798)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Oregon (US), <span class="start_date"> 6 Jul 2016</span>- )
+</li>
+<li class="inactive withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive withdrawn" href="/companies/us_il/LLC_00218251" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Illinois (US), LLC_00218251)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Illinois (US), <span class="start_date"> 2 Sep 1998</span>- )
+</li>
+<li class="inactive branch withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_nc" title="Free And Open Data On North Carolina (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_nc/0467740" title="More Free And Open Company Data On Wells Fargo Real Estate Tax Services, LLC (North Carolina (US), 0467740)">Wells Fargo Real Estate Tax Services, LLC</a> (North Carolina (US), <span class="start_date">14 Aug 1998</span>- )
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_ma" title="Free And Open Data On Massachusetts (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_ma/001124278" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Massachusetts (US), 001124278)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Massachusetts (US), <span class="start_date">27 Dec 2013</span>-<span class="end_date">31 May 2017</span>)
+</li>
+<li class="inactive branch dissolved">
+<a class="jurisdiction_filter us" href="/companies/us_sc" title="Free And Open Data On South Carolina (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch dissolved" href="/companies/us_sc/516202" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES LLC (South Carolina (US), 516202)">WELLS FARGO REAL ESTATE TAX SERVICES LLC</a> (South Carolina (US), <span class="start_date"> 7 May 2015</span>-<span class="end_date"> 1 Jun 2017</span>)
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_mn" title="Free And Open Data On Minnesota (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_mn/21fade95-1c5d-e311-8e3a-001ec94ffe7f" title="More Free And Open Company Data On Wells Fargo Real Estate Tax Services, LLC (Minnesota (US), 21fade95-1c5d-e311-8e3a-001ec94ffe7f)">Wells Fargo Real Estate Tax Services, LLC</a> (Minnesota (US), <span class="start_date"> 3 Dec 2013</span>- )
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_ia" title="Free And Open Data On Iowa (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_ia/220506" title="More Free And Open Company Data On WELLS FARGO REAL ESTATE TAX SERVICES, LLC (Iowa (US), 220506)">WELLS FARGO REAL ESTATE TAX SERVICES, LLC</a> (Iowa (US), <span class="start_date">31 Aug 1998</span>-<span class="end_date">15 Jun 2017</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

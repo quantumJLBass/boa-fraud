@@ -1,0 +1,603 @@
+
+digraph structs {
+
+
+rankdir="LR"
+
+
+node [shape=none]
+
+addresses [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>addresses</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="address_to">&nbsp;</TD>
+                    <TD PORT="address_from">address</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+assertions [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>assertions</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="title_to">&nbsp;</TD>
+                    <TD PORT="title_from">title</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="description_to">&nbsp;</TD>
+                    <TD PORT="description_from">description</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+attributes [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>attributes</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="name_to">&nbsp;</TD>
+                    <TD PORT="name_from">name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="value_to">&nbsp;</TD>
+                    <TD PORT="value_from">value</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+branch_relationships [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>branch_relationships</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="branch_company_to">&nbsp;</TD>
+                    <TD PORT="branch_company_from">branch_company</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="branch_company_id_to">&nbsp;</TD>
+                    <TD PORT="branch_company_id_from">branch_company_id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="jurisdiction_to">&nbsp;</TD>
+                    <TD PORT="jurisdiction_from">jurisdiction</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="status_to">&nbsp;</TD>
+                    <TD PORT="status_from">status</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="type_to">&nbsp;</TD>
+                    <TD PORT="type_from">type</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="start_date_to">&nbsp;</TD>
+                    <TD PORT="start_date_from">start_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="end_date_to">&nbsp;</TD>
+                    <TD PORT="end_date_from">end_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="statement_link_to">&nbsp;</TD>
+                    <TD PORT="statement_link_from">statement_link</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+companies [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>companies</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="company_number_to">🔑</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_name_to">&nbsp;</TD>
+                    <TD PORT="company_name_from">company_name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="status_to">&nbsp;</TD>
+                    <TD PORT="status_from">status</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="incorporation_date_to">&nbsp;</TD>
+                    <TD PORT="incorporation_date_from">incorporation_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_type_to">&nbsp;</TD>
+                    <TD PORT="company_type_from">company_type</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="jurisdiction_to">&nbsp;</TD>
+                    <TD PORT="jurisdiction_from">jurisdiction</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="registered_address_to">&nbsp;</TD>
+                    <TD PORT="registered_address_from">registered_address</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="agent_name_to">&nbsp;</TD>
+                    <TD PORT="agent_name_from">agent_name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="agent_address_to">&nbsp;</TD>
+                    <TD PORT="agent_address_from">agent_address</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="parent_company_name_to">&nbsp;</TD>
+                    <TD PORT="parent_company_name_from">parent_company_name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="parent_company_url_to">&nbsp;</TD>
+                    <TD PORT="parent_company_url_from">parent_company_url</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+company_addresses [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>company_addresses</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="company_number_to">🔑</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="address_id_to">🔑</TD>
+                    <TD PORT="address_id_from">address_id</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+company_people [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>company_people</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="company_number_to">🔑</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="person_id_to">🔑</TD>
+                    <TD PORT="person_id_from">person_id</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+events [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>events</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="start_date_to">&nbsp;</TD>
+                    <TD PORT="start_date_from">start_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="end_date_to">&nbsp;</TD>
+                    <TD PORT="end_date_from">end_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="description_to">&nbsp;</TD>
+                    <TD PORT="description_from">description</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+filings [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>filings</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="date_to">&nbsp;</TD>
+                    <TD PORT="date_from">date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="description_to">&nbsp;</TD>
+                    <TD PORT="description_from">description</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+links [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>links</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+officers [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>officers</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="occurrence_number_to">&nbsp;</TD>
+                    <TD PORT="occurrence_number_from">occurrence_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="name_to">&nbsp;</TD>
+                    <TD PORT="name_from">name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="role_to">&nbsp;</TD>
+                    <TD PORT="role_from">role</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="status_to">&nbsp;</TD>
+                    <TD PORT="status_from">status</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="link_to">&nbsp;</TD>
+                    <TD PORT="link_from">link</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="address_to">&nbsp;</TD>
+                    <TD PORT="address_from">address</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="start_date_to">&nbsp;</TD>
+                    <TD PORT="start_date_from">start_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="end_date_to">&nbsp;</TD>
+                    <TD PORT="end_date_from">end_date</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="type_to">&nbsp;</TD>
+                    <TD PORT="type_from">type</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+people [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>people</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="name_to">&nbsp;</TD>
+                    <TD PORT="name_from">name</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="role_to">&nbsp;</TD>
+                    <TD PORT="role_from">role</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+people_addresses [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>people_addresses</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="person_id_to">🔑</TD>
+                    <TD PORT="person_id_from">person_id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="address_id_to">🔑</TD>
+                    <TD PORT="address_id_from">address_id</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+state_mapping [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>state_mapping</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="state_abv_to">🔑</TD>
+                    <TD PORT="state_abv_from">state_abv</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="state_name_to">&nbsp;</TD>
+                    <TD PORT="state_name_from">state_name</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+url_catalog [label=<
+            <TABLE BORDER="0" CELLSPACING="0" CELLBORDER="1">
+                <TR>
+                    <TD COLSPAN="2"><B>url_catalog</B></TD>
+                </TR>
+            
+                <TR>
+                    <TD PORT="id_to">🔑</TD>
+                    <TD PORT="id_from">id</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="url_to">&nbsp;</TD>
+                    <TD PORT="url_from">url</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="company_number_to">&nbsp;</TD>
+                    <TD PORT="company_number_from">company_number</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="jurisdiction_to">&nbsp;</TD>
+                    <TD PORT="jurisdiction_from">jurisdiction</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="completed_to">&nbsp;</TD>
+                    <TD PORT="completed_from">completed</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="html_content_to">&nbsp;</TD>
+                    <TD PORT="html_content_from">html_content</TD>
+                </TR>
+            
+
+                <TR>
+                    <TD PORT="parent_id_to">&nbsp;</TD>
+                    <TD PORT="parent_id_from">parent_id</TD>
+                </TR>
+            
+            </TABLE>
+        >];
+        
+url_catalog:company_number_from:e -> companies:company_number_to:w
+url_catalog:parent_id_from:e -> url_catalog:id_to:w
+people_addresses:address_id_from:e -> addresses:id_to:w
+people_addresses:person_id_from:e -> people:id_to:w
+company_people:person_id_from:e -> people:id_to:w
+company_people:company_number_from:e -> companies:company_number_to:w
+company_addresses:address_id_from:e -> addresses:id_to:w
+company_addresses:company_number_from:e -> companies:company_number_to:w
+attributes:company_number_from:e -> companies:company_number_to:w
+officers:company_number_from:e -> companies:company_number_to:w
+events:company_number_from:e -> companies:company_number_to:w
+assertions:company_number_from:e -> companies:company_number_to:w
+filings:company_number_from:e -> companies:company_number_to:w
+links:company_number_from:e -> companies:company_number_to:w
+branch_relationships:branch_company_id_from:e -> companies:company_number_to:w
+branch_relationships:company_number_from:e -> companies:company_number_to:w
+
+}

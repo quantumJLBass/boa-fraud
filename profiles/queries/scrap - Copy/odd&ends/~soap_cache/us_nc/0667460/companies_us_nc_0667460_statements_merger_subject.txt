@@ -1,0 +1,36 @@
+<div class="row content main_content">
+<div class="span7">
+<h2><a class="company multiple" href="/companies/us_nc/0667460" title="More Free And Open Company Data On DWP Enterprises, Inc. (North Carolina (US), 0667460)">DWP Enterprises, Inc.</a></h2>
+<div class="row">
+<div class="span12">
+<div id="data-table-merger_subject">
+<h3>
+Mergers
+<span class="heading-help">
+<a class="data-type-description" data-content="A merger is when one or more companies combine together into a surviving company" data-html="true" data-original-title="Mergers" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+<tr>
+<th>Merged Company</th>
+<th>Surviving Company</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<a href="/companies/us_nc/0667460/statements/merger_subject?exclude_inactive=true">Hide historic records</a>
+</div>
+<div class="span5">
+</div>
+</div>

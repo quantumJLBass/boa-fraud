@@ -1,0 +1,943 @@
+ RAWdeal-002ML   E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap  master ≢  ?38                                                                                                            18:16:21 
+  pwsh  py gather.py main
+INFO    | 159.118.32.24   : 🧮🔆2🔆🧮Initial IP: 159.118.32.24
+18:16:27.798 | gather.py:initialize:75
+INFO    | 159.118.32.24   :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨--------- 🧮🔆3🔆🧮hello, I'm starting the scraper 🕵️‍♂️. let's go!!! 🚀 ---------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:27.820 | applogging.py:section:60
+INFO    | 159.118.32.24   :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ 📡⌛STARTING SERVICES AND CONNECTIONS ---------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:27.825 | applogging.py:section:60
+
+DevTools listening on ws://127.0.0.1:50937/devtools/browser/33f9aa42-f15e-417b-a146-49cb4a365e46
+INFO    | 138.199.52.202  : 🔍 Starting to fetch records from URLCatalog.
+18:16:45.456 | mixins.py:fetch_records:188
+DEBUG   | 138.199.52.202  : Applied conditions: ['completed = FALSE']
+18:16:45.459 | mixins.py:fetch_records:202
+DEBUG   | 138.199.52.202  : Executing SQL: SELECT url_catalog.id, url_catalog.url, url_catalog.company_number, url_catalog.jurisdiction, url_catalog.completed, url_catalog.html_content, url_catalog.parent_id,
+url_catalog.cached_on
+FROM url_catalog
+WHERE completed = FALSE
+18:16:45.590 | mixins.py:fetch_records:211
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.595 | base.py:_log_info:190
+INFO    | 138.199.52.202  : SELECT url_catalog.id AS url_catalog_id, url_catalog.url AS url_catalog_url, url_catalog.company_number AS url_catalog_company_number, url_catalog.jurisdiction AS
+url_catalog_jurisdiction, url_catalog.completed AS url_catalog_completed, url_catalog.html_content AS url_catalog_html_content, url_catalog.parent_id AS url_catalog_parent_id, url_catalog.cached_on AS
+url_catalog_cached_on
+FROM url_catalog
+WHERE completed = FALSE
+ LIMIT ? OFFSET ?
+18:16:45.598 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  (20, 0)
+18:16:45.601 | base.py:_log_info:190
+DEBUG   | 138.199.52.202  : Col ('url_catalog_id', 'url_catalog_url', 'url_catalog_company_number', 'url_catalog_jurisdiction', 'url_catalog_completed', 'url_catalog_html_content', 'url_catalog_parent_id',
+'url_catalog_cached_on')
+18:16:45.604 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (2, 'https://opencorporates.com/companies/us_mo/00345772', '00345772', 'Missouri', False, '<div><div class="row content main_content"><div class="span7"><div><h1
+class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC. </h1><di ... (3409 characters truncated) ... gent</a></dd></div></dl><div class="see-more"><a href="/companies/us_mo/00345772/events">See all
+events</a></div></div></div></div></div></div></div>', None, datetime.datetime(2024, 7, 31, 23, 44, 26, 372150))
+18:16:45.606 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (3, 'https://opencorporates.com/companies/us_mo/00345772/statements/subsidiary_relationship_object', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.609 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (4, 'https://opencorporates.com/companies/us_mo/00345772/statements/subsidiary_relationship_subject', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.612 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (5, 'https://opencorporates.com/companies/us_mo/00345772/statements/branch_relationship_subject', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.613 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (6, 'https://opencorporates.com/companies/us_mo/00345772/statements/branch_relationship_object', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.615 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (7, 'https://opencorporates.com/companies/us_mo/00345772/statements/total_shares_object', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.617 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (8, 'https://opencorporates.com/companies/us_mo/00345772/statements/total_shares_subject', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.618 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (9, 'https://opencorporates.com/companies/us_mo/00345772/statements/merger_object', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.620 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (10, 'https://opencorporates.com/companies/us_mo/00345772/statements/merger_subject', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.622 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (11, 'https://opencorporates.com/companies/us_mo/00345772/filings', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.624 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (12, 'https://opencorporates.com/companies/us_mo/00345772/events', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.626 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (13, 'https://opencorporates.com/companies/us_mo/00345772/officers', '00345772', 'Missouri', False, None, 2, None)
+18:16:45.627 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (16, 'https://opencorporates.com/companies/us_il/CORP_66442861', 'CORP_66442861', 'Illinois', False, '<div><div class="row content main_content"><div class="span7"><div><h1
+class="wrapping_heading fn org" itemprop="name"> DPW ENTERPRISES, INC. </h1><d ... (3965 characters truncated) ... pan class="status label">historic</span></td><td><a
+href="/statements/1444699524">details</a></td></tr></tbody></table></div></div></div></div></div>', None, datetime.datetime(2024, 7, 31, 23, 44, 16, 176257))
+18:16:45.628 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (17, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/subsidiary_relationship_object', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.631 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (18, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/subsidiary_relationship_subject', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.633 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (19, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/branch_relationship_subject', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.635 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (20, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/branch_relationship_object', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.637 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (21, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/total_shares_object', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.639 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (22, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/total_shares_subject', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.641 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (23, 'https://opencorporates.com/companies/us_il/CORP_66442861/statements/merger_object', 'CORP_66442861', 'Illinois', False, None, 16, None)
+18:16:45.643 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Retrieved 20 records without random sampling.
+18:16:45.645 | mixins.py:fetch_records:232
+DEBUG   | 138.199.52.202  : Retrieved 20 records.
+18:16:45.646 | mixins.py:fetch_records:233
+INFO    | 138.199.52.202  : 🌎📡 Retrieved 20 records from URLCatalog.
+18:16:45.648 | mixins.py:fetch_records:234
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.650 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🧮🔆41🔆🧮🧺 Gathering URLs: [(2, 'https://opencorporates.com/companies/us_mo/00345772', '00345772', 'Missouri', False, '<div><div class="row content main_content"><div
+class="span7"><div><h1 class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC. </h1><div id="attributes"><dl class="attributes dl-horizontal"><dt>Company Number</dt><dd
+class="company_number">00345772</dd><dt>Status</dt><dd class="status">Voluntarily Dissolved</dd><dt>Incorporation Date</dt><dd class="incorporation_date"><span datetime="1990-10-16" itemprop="foundingDate">16
+October 1990</span> (almost 34 years ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">30 June 1992</dd><dt>Company Type</dt><dd class="company_type">Gen. Business - For ...
+18:16:45.651 | gather.py:main:127
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────── 1 ────────────────────────────────────────────────────────────────────────────────────────────────────────
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨------------------ ⌛⛏️⛏️ Working on https://opencorporates.com/companies/us_mo/00345772 ✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:45.659 | applogging.py:section:60
+DEBUG   | 138.199.52.202  : 🧮🔆42🔆🧮📛📛 WRITE <class 'function'>
+18:16:45.662 | gather.py:main:145
+DEBUG   | 138.199.52.202  : 🧮🔆43🔆🧮📛📛 READ <class 'function'>
+18:16:45.663 | gather.py:main:146
+INFO    | 138.199.52.202  : 🧮🔆44🔆🧮🌎ENSURE URL ------ url: None
+18:16:45.665 | scraper.py:ensure_url:71
+INFO    | 138.199.52.202  : 🧮🔆45🔆🧮🌎ENSURE URL ------ WAS None now it's url: https://opencorporates.com/companies/us_mo/00345772
+18:16:45.667 | scraper.py:ensure_url:74
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨------------------------------ ⛏️🖨️ SCRAPING THE URL 🖨️⛏️ ------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:45.669 | applogging.py:section:60
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨---------- Scraping URL: https://opencorporates.com/companies/us_mo/00345772 -----------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:45.671 | applogging.py:section:60
+INFO    | 138.199.52.202  : 🧮🔆46🔆🧮🌎ENSURE URL ------ url: https://opencorporates.com/companies/us_mo/00345772
+18:16:45.673 | scraper.py:ensure_url:71
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.675 | base.py:_log_info:190
+INFO    | 138.199.52.202  : SELECT count(*) AS count_1
+FROM (SELECT url_catalog.id AS url_catalog_id, url_catalog.url AS url_catalog_url, url_catalog.company_number AS url_catalog_company_number, url_catalog.jurisdiction AS url_catalog_jurisdiction,
+url_catalog.completed AS url_catalog_completed, url_catalog.html_content AS url_catalog_html_content, url_catalog.parent_id AS url_catalog_parent_id, url_catalog.cached_on AS url_catalog_cached_on
+FROM url_catalog
+WHERE url_catalog.url = ? AND url_catalog.html_content IS NOT NULL) AS anon_1
+18:16:45.682 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('https://opencorporates.com/companies/us_mo/00345772',)
+18:16:45.685 | base.py:_log_info:190
+DEBUG   | 138.199.52.202  : Col ('count_1',)
+18:16:45.687 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (1,)
+18:16:45.688 | base.py:_log_debug:201
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.689 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ LOADING CACHE ----- Loading cached content for URL: https://opencorporates.com/companies/us_mo/00345772
+18:16:45.691 | scraper.py:load_html_content:303
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.693 | base.py:_log_info:190
+INFO    | 138.199.52.202  : SELECT url_catalog.id AS url_catalog_id, url_catalog.url AS url_catalog_url, url_catalog.company_number AS url_catalog_company_number, url_catalog.jurisdiction AS
+url_catalog_jurisdiction, url_catalog.completed AS url_catalog_completed, url_catalog.html_content AS url_catalog_html_content, url_catalog.parent_id AS url_catalog_parent_id, url_catalog.cached_on AS
+url_catalog_cached_on
+FROM url_catalog
+WHERE url_catalog.url = ?
+ LIMIT ? OFFSET ?
+18:16:45.696 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('https://opencorporates.com/companies/us_mo/00345772', 1, 0)
+18:16:45.699 | base.py:_log_info:190
+DEBUG   | 138.199.52.202  : Col ('url_catalog_id', 'url_catalog_url', 'url_catalog_company_number', 'url_catalog_jurisdiction', 'url_catalog_completed', 'url_catalog_html_content', 'url_catalog_parent_id',
+'url_catalog_cached_on')
+18:16:45.700 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (2, 'https://opencorporates.com/companies/us_mo/00345772', '00345772', 'Missouri', False, '<div><div class="row content main_content"><div class="span7"><div><h1
+class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC. </h1><di ... (3409 characters truncated) ... gent</a></dd></div></dl><div class="see-more"><a href="/companies/us_mo/00345772/events">See all
+events</a></div></div></div></div></div></div></div>', None, datetime.datetime(2024, 7, 31, 23, 44, 26, 372150))
+18:16:45.702 | base.py:_log_debug:201
+INFO    | 138.199.52.202  : 🔧🗃️ LOADING HTML ----- Loading cache data for URL: https://opencorporates.com/companies/us_mo/00345772
+18:16:45.704 | cache.py:load_cache:164
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.710 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🧮🔆47🔆🧮⛏️🖨️ SCRAPPING --- Extracting company data from base URL
+18:16:45.712 | scraper.py:scrape_data:373
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ SCRAPING COMPANY DATA -----------------------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:45.713 | applogging.py:section:60
+DEBUG   | 138.199.52.202  : 🧮🔆48🔆🧮⛏️🖨️ COMPANY DATA -- Extracting data from the company page
+18:16:45.716 | scraper.py:extract_company_data:489
+DEBUG   | 138.199.52.202  : 🧮🔆49🔆🧮⛏️🖨️ COMPANY DATA -- Company Name element: <h1 class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC. </h1>
+18:16:45.717 | scraper.py:extract_company_data:493
+DEBUG   | 138.199.52.202  : 🧮🔆50🔆🧮⛏️🖨️ COMPANY DATA -- Company Name: DPW INDUSTRIES, INC. (Missouri - 00345772)
+18:16:45.720 | scraper.py:extract_company_data:497
+DEBUG   | 138.199.52.202  : 🧮🔆51🔆🧮⛏️🖨️ COMPANY DATA -- Attributes element: <dl class="attributes dl-horizontal"><dt>Company Number</dt><dd class="company_number">00345772</dd><dt>Status</dt><dd
+class="status">Voluntarily Dissolved</dd><dt>Incorporation Date</dt><dd class="incorporation_date"><span datetime="1990-10-16" itemprop="foundingDate">16 October 1990</span> (almost 34 years
+ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">30 June 1992</dd><dt>Company Type</dt><dd class="company_type">Gen. Business - For Profit</dd><dt>Jurisdiction</dt><dd>Missouri</dd><dt>Registered
+Address</dt><dd class="registered_address adr"><ul class="address_lines"><li class="address_line">9722 APPLETON</li><li class="address_line">KANSAS CITY</li><li class="addr...
+18:16:45.722 | scraper.py:extract_company_data:502
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ SCRAPING ATTRIBUTES -------------------------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:45.727 | applogging.py:section:60
+DEBUG   | 138.199.52.202  : 🧮🔆52🔆🧮⛏️🖨️ ATTRIBUTES -- Extracting data from attributes string 319 long
+18:16:45.729 | scraper.py:extract_attributes:666
+DEBUG   | 138.199.52.202  : 🧮🔆53🔆🧮⛏️🖨️ ATTRIBUTES -- Extracting from <dl class="attributes dl-horizontal
+18:16:45.732 | scraper.py:extract_attributes:667
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.734 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.736 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.739 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.741 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Company Number', '00345772')
+18:16:45.743 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.749 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.770 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.773 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.775 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.777 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.779 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Status', 'Voluntarily Dissolved')
+18:16:45.780 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.785 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.810 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.813 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.814 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.817 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.818 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Incorporation Date', '16 October 1990 (almost 34 years ago)')
+18:16:45.820 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.825 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.850 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.853 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.854 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.856 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.858 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Dissolution Date', '30 June 1992')
+18:16:45.859 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.864 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.887 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.890 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.892 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.894 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.895 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Company Type', 'Gen. Business - For Profit')
+18:16:45.897 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.902 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.927 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:45.930 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:45.931 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:45.933 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:45.935 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Jurisdiction', 'Missouri')
+18:16:45.936 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:45.942 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:45.963 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : 🧮🔆66🔆🧮🌍📫〽️✍️ Cleaned Address: `9722 APPLETON, KANSAS CITY, 64134, MO`
+18:16:45.965 | useollama.py:normalize_address:254
+DEBUG   | 138.199.52.202  : 🧮🔆67🔆🧮⁉️❓❓Address parts: PlaceName
+18:16:45.968 | useollama.py:apply_directionals_and_parts:76
+DEBUG   | 138.199.52.202  : 🧮🔆68🔆🧮🌍📫〽️✍️ about to clean and or join parts for PlaceName
+18:16:45.970 | useollama.py:clean_and_join_parts:95
+DEBUG   | 138.199.52.202  : 🧮🔆69🔆🧮🌍📫〽️✍️ parts ready to be cleaned and or joinned: ['KANSAS']
+18:16:45.972 | useollama.py:clean_and_join_parts:97
+DEBUG   | 138.199.52.202  : 🧮🔆70🔆🧮🌍📫〽️✍️ Single part for `PlaceName`: KANSAS
+18:16:45.974 | useollama.py:clean_and_join_parts:103
+DEBUG   | 138.199.52.202  : 🧮🔆71🔆🧮🌍📫〽️✍️ Cleaned and joined parts for label `PlaceName`: KANSAS
+18:16:45.975 | useollama.py:apply_directionals_and_parts:78
+DEBUG   | 138.199.52.202  : 🧮🔆72🔆🧮⁉️❓❓Address parts: StreetName
+18:16:45.978 | useollama.py:apply_directionals_and_parts:76
+DEBUG   | 138.199.52.202  : 🧮🔆73🔆🧮🌍📫〽️✍️ about to clean and or join parts for StreetName
+18:16:45.979 | useollama.py:clean_and_join_parts:95
+DEBUG   | 138.199.52.202  : 🧮🔆74🔆🧮🌍📫〽️✍️ parts ready to be cleaned and or joinned: ['APPLETON']
+18:16:45.981 | useollama.py:clean_and_join_parts:97
+DEBUG   | 138.199.52.202  : 🧮🔆75🔆🧮🌍📫〽️✍️ Single part for `StreetName`: APPLETON
+18:16:45.982 | useollama.py:clean_and_join_parts:103
+DEBUG   | 138.199.52.202  : 🧮🔆76🔆🧮🌍📫〽️✍️ Cleaned and joined parts for label `StreetName`: APPLETON
+18:16:45.984 | useollama.py:apply_directionals_and_parts:78
+DEBUG   | 138.199.52.202  : 🧮🔆77🔆🧮🌍📫〽️✍️Address Type: Street Address
+18:16:45.986 | useollama.py:normalize_address:262
+DEBUG   | 138.199.52.202  : 🧮🔆78🔆🧮🌍📫〽️✍️Parsed Address: OrderedDict([('AddressNumber', '9722'), ('StreetName', 'APPLETON'), ('PlaceName', 'KANSAS'), ('SubaddressType', 'CITY'), ('SubaddressIdentifier',
+'64134'), ('StateName', 'MO')])
+18:16:45.988 | useollama.py:normalize_address:263
+DEBUG   | 138.199.52.202  : 🧮🔆79🔆🧮🌍📫〽️✍️ about to clean and or join parts for PlaceName
+18:16:45.990 | useollama.py:clean_and_join_parts:95
+DEBUG   | 138.199.52.202  : 🧮🔆80🔆🧮🌍📫〽️✍️ parts ready to be cleaned and or joinned: ['KANSAS']
+18:16:45.992 | useollama.py:clean_and_join_parts:97
+DEBUG   | 138.199.52.202  : 🧮🔆81🔆🧮🌍📫〽️✍️ Single part for `PlaceName`: KANSAS
+18:16:45.994 | useollama.py:clean_and_join_parts:103
+DEBUG   | 138.199.52.202  : 🧮🔆82🔆🧮🌍📫〽️✍️ about to clean and or join parts for StreetName
+18:16:45.995 | useollama.py:clean_and_join_parts:95
+DEBUG   | 138.199.52.202  : 🧮🔆83🔆🧮🌍📫〽️✍️ parts ready to be cleaned and or joinned: ['APPLETON']
+18:16:45.997 | useollama.py:clean_and_join_parts:97
+DEBUG   | 138.199.52.202  : 🧮🔆84🔆🧮🌍📫〽️✍️ Single part for `StreetName`: APPLETON
+18:16:45.998 | useollama.py:clean_and_join_parts:103
+DEBUG   | 138.199.52.202  : 🧮🔆85🔆🧮🌍📫〽️✍️ about to clean and or join parts for StateName
+18:16:46.000 | useollama.py:clean_and_join_parts:95
+DEBUG   | 138.199.52.202  : 🧮🔆86🔆🧮🌍📫〽️✍️ parts ready to be cleaned and or joinned: ['MO']
+18:16:46.002 | useollama.py:clean_and_join_parts:97
+DEBUG   | 138.199.52.202  : 🧮🔆87🔆🧮🌍📫〽️✍️ Single part for `StateName`: MO
+18:16:46.003 | useollama.py:clean_and_join_parts:103
+DEBUG   | 138.199.52.202  : 🧮🔆88🔆🧮🌍📫〽️✍️ Cleaned and joined parts for address: OrderedDict([('AddressNumber', '9722'), ('StreetName', 'APPLETON'), ('PlaceName', 'KANSAS'), ('SubaddressType', 'CITY'),
+('SubaddressIdentifier', '64134'), ('StateName', 'MO')])
+18:16:46.005 | useollama.py:normalize_address:298
+DEBUG   | 138.199.52.202  : 🧮🔆89🔆🧮 Parsed Address (after cleaning and joining): OrderedDict([('AddressNumber', '9722'), ('StreetName', 'APPLETON'), ('PlaceName', 'KANSAS'), ('SubaddressType', 'CITY'),
+('SubaddressIdentifier', '64134'), ('StateName', 'MO')])
+18:16:46.008 | useollama.py:normalize_address:301
+ERROR   | 138.199.52.202  : 🧮🔆90🔆🧮‼️🚨🏢🙅‍♂️🏣🚨‼️🤔 City/state validation failed for: `KANSAS`, state: `MO`, zip: `00000`
+18:16:46.034 | useollama.py:validate_and_correct_city_zip:201
+ERROR   | 138.199.52.202  : 🧮🔆91🔆🧮🛑❌🚨🚩 Invalid city/state or zip code detected: `KANSAS`, `MO`, ``
+18:16:46.036 | useollama.py:normalize_address:345
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:46.038 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:46.039 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:46.041 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:46.043 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Registered Address', '9722 APPLETON, KANSAS CITY, 64134, MO')
+18:16:46.045 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:46.049 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:46.074 | mixins.py:catalog_record:96
+DEBUG   | 138.199.52.202  : Write function: None
+18:16:46.076 | mixins.py:catalog_record:83
+INFO    | 138.199.52.202  : 🔧🗃️ CATALOG Attribute ----- Cataloging new Attribute data
+18:16:46.077 | mixins.py:catalog_record:92
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:46.079 | base.py:_log_info:190
+INFO    | 138.199.52.202  : INSERT INTO attributes (company_number, name, value) VALUES (?, ?, ?)
+18:16:46.081 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('00345772', 'Inactive Directors / Officers', 'DEWAIN N. WHITMORE, agent')
+18:16:46.083 | base.py:_log_info:190
+INFO    | 138.199.52.202  : COMMIT
+18:16:46.088 | base.py:_log_info:190
+INFO    | 138.199.52.202  : 🔧🗃️ Attribute data saved for ID: NEW
+18:16:46.108 | mixins.py:catalog_record:96
+INFO    | 138.199.52.202  : 🧮🔆92🔆🧮 the type of globals.read: <class 'function'>
+18:16:46.110 | scraper.py:extract_company_data:523
+INFO    | 138.199.52.202  : 🧮🔆93🔆🧮 the type of Jurisdiction: <class 'sqlalchemy.orm.decl_api.DeclarativeMeta'>
+18:16:46.112 | scraper.py:extract_company_data:524
+INFO    | 138.199.52.202  : BEGIN (implicit)
+18:16:46.115 | base.py:_log_info:190
+INFO    | 138.199.52.202  : SELECT jurisdiction.id AS jurisdiction_id, jurisdiction.code AS jurisdiction_code, jurisdiction.name AS jurisdiction_name, jurisdiction.country AS jurisdiction_country,
+jurisdiction.full_name AS jurisdiction_full_name, jurisdiction.state_abv AS jurisdiction_state_abv, jurisdiction.county AS jurisdiction_county, jurisdiction.city AS jurisdiction_city, jurisdiction.longitude AS
+jurisdiction_longitude, jurisdiction.latitude AS jurisdiction_latitude, jurisdiction.zip_code AS jurisdiction_zip_code, jurisdiction.area_code AS jurisdiction_area_code, jurisdiction.parent_jurisdiction AS
+jurisdiction_parent_jurisdiction
+FROM jurisdiction
+WHERE jurisdiction.name = ?
+18:16:46.118 | base.py:_log_info:190
+INFO    | 138.199.52.202  :  ('Missouri',)
+18:16:46.122 | base.py:_log_info:190
+DEBUG   | 138.199.52.202  : Col ('jurisdiction_id', 'jurisdiction_code', 'jurisdiction_name', 'jurisdiction_country', 'jurisdiction_full_name', 'jurisdiction_state_abv', 'jurisdiction_county',
+'jurisdiction_city', 'jurisdiction_longitude', 'jurisdiction_latitude', 'jurisdiction_zip_code', 'jurisdiction_area_code', 'jurisdiction_parent_jurisdiction')
+18:16:46.124 | base.py:_log_debug:201
+DEBUG   | 138.199.52.202  : Row (25, 'us_mo', 'Missouri', 'United States', 'Missouri', 'mo', None, None, None, None, None, None, 0)
+18:16:46.134 | base.py:_log_debug:201
+INFO    | 138.199.52.202  : COMMIT
+18:16:46.136 | base.py:_log_info:190
+INFO    | 138.199.52.202  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨--------------------------- ENDING SCRAPPING ----- bye bye 👋 ---------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+18:16:46.138 | applogging.py:section:60
+╭─────────────────────────────── Traceback (most recent call last) ────────────────────────────────╮
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\gather.py:147 in main                       │
+│                                                                                                  │
+│   144 │   │   │   │                                                                              │
+│   145 │   │   │   │   logger.debug(f"{i()}📛📛 WRITE {type(globals.write)}")                     │
+│   146 │   │   │   │   logger.debug(f"{i()}📛📛 READ {type(globals.read)}")                       │
+│ ❱ 147 │   │   │   │   company_data = scrape_data()                                               │
+│   148 │   │   │   │   if company_data:                                                           │
+│   149 │   │   │   │   │   #save_data_intermediate({url: company_data})                           │
+│   150 │   │   │   │   │   # should the saved in the db by now and we are not saving to json an   │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │      gathering = (                                                                           │ │
+│ │                  │   2,                                                                      │ │
+│ │                  │   'https://opencorporates.com/companies/us_mo/00345772',                  │ │
+│ │                  │   '00345772',                                                             │ │
+│ │                  │   'Missouri',                                                             │ │
+│ │                  │   False,                                                                  │ │
+│ │                  │   '<div><div class="row content main_content"><div class="span7"><div><h1 │ │
+│ │                  class="wr'+3627,                                                            │ │
+│ │                  │   None,                                                                   │ │
+│ │                  │   datetime.datetime(2024, 7, 31, 23, 44, 26, 372150)                      │ │
+│ │                  )                                                                           │ │
+│ │ gathering_urls = [                                                                           │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_mo/00345772',              │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+3627,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 44, 26, 372150)                  │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   3,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/subsidiary… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   4,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/subsidiary… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   5,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/branch_rel… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   6,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/branch_rel… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   7,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/total_shar… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   8,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/total_shar… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   9,                                                                  │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/merger_obj… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   10,                                                                 │ │
+│ │                  │   │                                                                       │ │
+│ │                  'https://opencorporates.com/companies/us_mo/00345772/statements/merger_sub… │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   11,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_mo/00345772/filings',      │ │
+│ │                  │   │   '00345772',                                                         │ │
+│ │                  │   │   'Missouri',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   2,                                                                  │ │
+│ │                  │   │   None                                                                │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   ... +10                                                                 │ │
+│ │                  ]                                                                           │ │
+│ │              k = 2                                                                           │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\scraper.py:374 in scrape_data               │
+│                                                                                                  │
+│    371 │   if url_parts[0] == 'companies' and len(url_parts) == 3:                               │
+│    372 │   │   # Base company URL                                                                │
+│    373 │   │   logger.info(f"{i()}⛏️🖨️ SCRAPPING --- Extracting company data from base URL")       │
+│ ❱  374 │   │   data.update(extract_company_data(soup))                                           │
+│    375 │   │   data['Links'] = extract_links(soup, url)                                          │
+│    376 │   │                                                                                     │
+│    377 │   │   attributes_element = main_soup.find('dl', class_='attributes')                    │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │      data = {}                                                                               │ │
+│ │      soup = <div><div class="row content main_content"><div class="span7"><div><h1           │ │
+│ │             class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC. </h1><div  │ │
+│ │             id="attributes"><dl class="attributes dl-horizontal"><dt>Company Number</dt><dd  │ │
+│ │             class="company_number">00345772</dd><dt>Status</dt><dd                           │ │
+│ │             class="status">Voluntarily Dissolved</dd><dt>Incorporation Date</dt><dd          │ │
+│ │             class="incorporation_date"><span datetime="1990-10-16"                           │ │
+│ │             itemprop="foundingDate">16 October 1990</span> (almost 34 years                  │ │
+│ │             ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">30 June           │ │
+│ │             1992</dd><dt>Company Type</dt><dd class="company_type">Gen. Business - For       │ │
+│ │             Profit</dd><dt>Jurisdiction</dt><dd>Missouri</dd><dt>Registered Address</dt><dd  │ │
+│ │             class="registered_address adr"><ul class="address_lines"><li                     │ │
+│ │             class="address_line">9722 APPLETON</li><li class="address_line">KANSAS           │ │
+│ │             CITY</li><li class="address_line">64134</li><li class="address_line">MO</li><li  │ │
+│ │             class="address_line">United States</li></ul></dd><dt><a                          │ │
+│ │             href="/companies/us_mo/00345772/officers">Inactive Directors /                   │ │
+│ │             Officers</a></dt><dd class="officers trunc8"><ul class="attribute_list"><li      │ │
+│ │             class="attribute_item"><a class="officer inactive"                               │ │
+│ │             href="/officers/149222667">DEWAIN N. WHITMORE</a>,                               │ │
+│ │             agent</li></ul></dd><dt>Registry Page</dt></dl></div></div><div                  │ │
+│ │             id="filings"><h3><a                                                              │ │
+│ │             href="https://opencorporates.com/companies/us_mo/00345772/filings">Recent        │ │
+│ │             filings for DPW INDUSTRIES, INC.</a></h3><div class="filing"                     │ │
+│ │             id="filing_655572074"><div class="dateline">30 Jun 1992</div><div                │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/655572074">Articles of Dissolution by Voluntary                   │ │
+│ │             Action</a></div><p class="description"></p></div></div><div class="filing"       │ │
+│ │             id="filing_245672758"><div class="dateline">30 Jun 1992</div><div                │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/245672758">Articles of Dissolution by Voluntary                   │ │
+│ │             Action</a></div><p class="description"></p></div></div><div class="filing"       │ │
+│ │             id="filing_7490053"><div class="dateline">30 Jun 1992</div><div                  │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/7490053">With/Term/Dissolve</a></div><p                           │ │
+│ │             class="description"></p></div></div><div class="filing"                          │ │
+│ │             id="filing_245672759"><div class="dateline">22 Jan 1991</div><div                │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/245672759">Annual Registration Report</a></div><p                 │ │
+│ │             class="description"></p></div></div><div class="filing"                          │ │
+│ │             id="filing_655572065"><div class="dateline">16 Oct 1990</div><div                │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/655572065">Articles of Incorporation</a></div><p                  │ │
+│ │             class="description"></p></div></div><div class="filing"                          │ │
+│ │             id="filing_245672760"><div class="dateline">16 Oct 1990</div><div                │ │
+│ │             class="info"><div class="subhead"><a class="filing"                              │ │
+│ │             href="/filings/245672760">Articles of Incorporation</a></div><p                  │ │
+│ │             class="description"></p></div></div><div class="filing" id="filing_7490052"><div │ │
+│ │             class="dateline">16 Oct 1990</div><div class="info"><div class="subhead"><a      │ │
+│ │             class="filing" href="/filings/7490052">Creation Filing</a></div><p               │ │
+│ │             class="description"></p></div></div></div><div id="company_data"><div            │ │
+│ │             id="update_links"></div></div></div><div class="span5"><div class="sidebar"><div │ │
+│ │             class="sidebar-item" id="events"><h3>Latest Events</h3><div                      │ │
+│ │             class="oc-events-timeline"><dl><div class="event-timeline-row"><dt> 1990-10-16   │ │
+│ │             </dt><dd><a href="/events/890421458">Incorporated</a></dd></div><div             │ │
+│ │             class="event-timeline-row"><dt> 1990-10-16 - 2016-08-03 </dt><dd><a              │ │
+│ │             href="/events/890421290">Addition of officer DEWAIN N. WHITMORE,                 │ │
+│ │             agent</a></dd></div></dl><div class="see-more"><a                                │ │
+│ │             href="/companies/us_mo/00345772/events">See all                                  │ │
+│ │             events</a></div></div></div></div></div></div></div>                             │ │
+│ │       url = 'https://opencorporates.com/companies/us_mo/00345772'                            │ │
+│ │ url_parts = ['companies', 'us_mo', '00345772']                                               │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\scraper.py:544 in extract_company_data      │
+│                                                                                                  │
+│    541 │   │   'jurisdiction_id': jurisdiction_id,                                               │
+│    542 │   │   'jurisdiction': globals.current_jurisdiction                                      │
+│    543 │   }                                                                                     │
+│ ❱  544 │   company = Company(**company_data)                                                     │
+│    545 │   company.catalog_record(data=company_data)                                             │
+│    546 │   logger.info(f"{i()}🏢📊 COMPANY DATA -- Company data saved to database: {company_nam  │
+│    547                                                                                           │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │          attributes = {                                                                      │ │
+│ │                       │   'Company Number': '00345772',                                      │ │
+│ │                       │   'Status': 'Voluntarily Dissolved',                                 │ │
+│ │                       │   'Incorporation Date': '16 October 1990 (almost 34 years ago)',     │ │
+│ │                       │   'Dissolution Date': '30 June 1992',                                │ │
+│ │                       │   'Company Type': 'Gen. Business - For Profit',                      │ │
+│ │                       │   'Jurisdiction': 'Missouri',                                        │ │
+│ │                       │   'Registered Address': '9722 APPLETON, KANSAS CITY, 64134, MO',     │ │
+│ │                       │   'Inactive Directors / Officers': 'DEWAIN N. WHITMORE, agent'       │ │
+│ │                       }                                                                      │ │
+│ │  attributes_element = <dl class="attributes dl-horizontal"><dt>Company Number</dt><dd        │ │
+│ │                       class="company_number">00345772</dd><dt>Status</dt><dd                 │ │
+│ │                       class="status">Voluntarily Dissolved</dd><dt>Incorporation             │ │
+│ │                       Date</dt><dd class="incorporation_date"><span datetime="1990-10-16"    │ │
+│ │                       itemprop="foundingDate">16 October 1990</span> (almost 34 years        │ │
+│ │                       ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">30 June │ │
+│ │                       1992</dd><dt>Company Type</dt><dd class="company_type">Gen. Business - │ │
+│ │                       For Profit</dd><dt>Jurisdiction</dt><dd>Missouri</dd><dt>Registered    │ │
+│ │                       Address</dt><dd class="registered_address adr"><ul                     │ │
+│ │                       class="address_lines"><li class="address_line">9722 APPLETON</li><li   │ │
+│ │                       class="address_line">KANSAS CITY</li><li                               │ │
+│ │                       class="address_line">64134</li><li class="address_line">MO</li><li     │ │
+│ │                       class="address_line">United States</li></ul></dd><dt><a                │ │
+│ │                       href="/companies/us_mo/00345772/officers">Inactive Directors /         │ │
+│ │                       Officers</a></dt><dd class="officers trunc8"><ul                       │ │
+│ │                       class="attribute_list"><li class="attribute_item"><a class="officer    │ │
+│ │                       inactive" href="/officers/149222667">DEWAIN N. WHITMORE</a>,           │ │
+│ │                       agent</li></ul></dd><dt>Registry Page</dt></dl>                        │ │
+│ │        company_data = {                                                                      │ │
+│ │                       │   'company_number': '00345772',                                      │ │
+│ │                       │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',      │ │
+│ │                       │   'status': 'Voluntarily Dissolved',                                 │ │
+│ │                       │   'incorporation_date': '16 October 1990 (almost 34 years ago)',     │ │
+│ │                       │   'company_type': 'Gen. Business - For Profit',                      │ │
+│ │                       │   'jurisdiction_id': 25,                                             │ │
+│ │                       │   'jurisdiction': 'Missouri'                                         │ │
+│ │                       }                                                                      │ │
+│ │        company_name = 'DPW INDUSTRIES, INC. (Missouri - 00345772)'                           │ │
+│ │        company_type = 'Gen. Business - For Profit'                                           │ │
+│ │  incorporation_date = '16 October 1990 (almost 34 years ago)'                                │ │
+│ │        jurisdiction = 'Missouri'                                                             │ │
+│ │     jurisdiction_id = 25                                                                     │ │
+│ │ jurisdiction_record = <db.db_ef_classes.Jurisdiction object at 0x000002A89593F8B0>           │ │
+│ │        name_element = <h1 class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES,   │ │
+│ │                       INC. </h1>                                                             │ │
+│ │             session = <sqlalchemy.orm.session.Session object at 0x000002A895822BC0>          │ │
+│ │                soup = <div><div class="row content main_content"><div class="span7"><div><h1 │ │
+│ │                       class="wrapping_heading fn org" itemprop="name"> DPW INDUSTRIES, INC.  │ │
+│ │                       </h1><div id="attributes"><dl class="attributes                        │ │
+│ │                       dl-horizontal"><dt>Company Number</dt><dd                              │ │
+│ │                       class="company_number">00345772</dd><dt>Status</dt><dd                 │ │
+│ │                       class="status">Voluntarily Dissolved</dd><dt>Incorporation             │ │
+│ │                       Date</dt><dd class="incorporation_date"><span datetime="1990-10-16"    │ │
+│ │                       itemprop="foundingDate">16 October 1990</span> (almost 34 years        │ │
+│ │                       ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">30 June │ │
+│ │                       1992</dd><dt>Company Type</dt><dd class="company_type">Gen. Business - │ │
+│ │                       For Profit</dd><dt>Jurisdiction</dt><dd>Missouri</dd><dt>Registered    │ │
+│ │                       Address</dt><dd class="registered_address adr"><ul                     │ │
+│ │                       class="address_lines"><li class="address_line">9722 APPLETON</li><li   │ │
+│ │                       class="address_line">KANSAS CITY</li><li                               │ │
+│ │                       class="address_line">64134</li><li class="address_line">MO</li><li     │ │
+│ │                       class="address_line">United States</li></ul></dd><dt><a                │ │
+│ │                       href="/companies/us_mo/00345772/officers">Inactive Directors /         │ │
+│ │                       Officers</a></dt><dd class="officers trunc8"><ul                       │ │
+│ │                       class="attribute_list"><li class="attribute_item"><a class="officer    │ │
+│ │                       inactive" href="/officers/149222667">DEWAIN N. WHITMORE</a>,           │ │
+│ │                       agent</li></ul></dd><dt>Registry Page</dt></dl></div></div><div        │ │
+│ │                       id="filings"><h3><a                                                    │ │
+│ │                       href="https://opencorporates.com/companies/us_mo/00345772/filings">Re… │ │
+│ │                       filings for DPW INDUSTRIES, INC.</a></h3><div class="filing"           │ │
+│ │                       id="filing_655572074"><div class="dateline">30 Jun 1992</div><div      │ │
+│ │                       class="info"><div class="subhead"><a class="filing"                    │ │
+│ │                       href="/filings/655572074">Articles of Dissolution by Voluntary         │ │
+│ │                       Action</a></div><p class="description"></p></div></div><div            │ │
+│ │                       class="filing" id="filing_245672758"><div class="dateline">30 Jun      │ │
+│ │                       1992</div><div class="info"><div class="subhead"><a class="filing"     │ │
+│ │                       href="/filings/245672758">Articles of Dissolution by Voluntary         │ │
+│ │                       Action</a></div><p class="description"></p></div></div><div            │ │
+│ │                       class="filing" id="filing_7490053"><div class="dateline">30 Jun        │ │
+│ │                       1992</div><div class="info"><div class="subhead"><a class="filing"     │ │
+│ │                       href="/filings/7490053">With/Term/Dissolve</a></div><p                 │ │
+│ │                       class="description"></p></div></div><div class="filing"                │ │
+│ │                       id="filing_245672759"><div class="dateline">22 Jan 1991</div><div      │ │
+│ │                       class="info"><div class="subhead"><a class="filing"                    │ │
+│ │                       href="/filings/245672759">Annual Registration Report</a></div><p       │ │
+│ │                       class="description"></p></div></div><div class="filing"                │ │
+│ │                       id="filing_655572065"><div class="dateline">16 Oct 1990</div><div      │ │
+│ │                       class="info"><div class="subhead"><a class="filing"                    │ │
+│ │                       href="/filings/655572065">Articles of Incorporation</a></div><p        │ │
+│ │                       class="description"></p></div></div><div class="filing"                │ │
+│ │                       id="filing_245672760"><div class="dateline">16 Oct 1990</div><div      │ │
+│ │                       class="info"><div class="subhead"><a class="filing"                    │ │
+│ │                       href="/filings/245672760">Articles of Incorporation</a></div><p        │ │
+│ │                       class="description"></p></div></div><div class="filing"                │ │
+│ │                       id="filing_7490052"><div class="dateline">16 Oct 1990</div><div        │ │
+│ │                       class="info"><div class="subhead"><a class="filing"                    │ │
+│ │                       href="/filings/7490052">Creation Filing</a></div><p                    │ │
+│ │                       class="description"></p></div></div></div><div id="company_data"><div  │ │
+│ │                       id="update_links"></div></div></div><div class="span5"><div            │ │
+│ │                       class="sidebar"><div class="sidebar-item" id="events"><h3>Latest       │ │
+│ │                       Events</h3><div class="oc-events-timeline"><dl><div                    │ │
+│ │                       class="event-timeline-row"><dt> 1990-10-16 </dt><dd><a                 │ │
+│ │                       href="/events/890421458">Incorporated</a></dd></div><div               │ │
+│ │                       class="event-timeline-row"><dt> 1990-10-16 - 2016-08-03 </dt><dd><a    │ │
+│ │                       href="/events/890421290">Addition of officer DEWAIN N. WHITMORE,       │ │
+│ │                       agent</a></dd></div></dl><div class="see-more"><a                      │ │
+│ │                       href="/companies/us_mo/00345772/events">See all                        │ │
+│ │                       events</a></div></div></div></div></div></div></div>                   │ │
+│ │              status = 'Voluntarily Dissolved'                                                │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│ in __init__:4                                                                                    │
+│ ╭──────────────────────────────────── locals ────────────────────────────────────╮               │
+│ │    kwargs = {                                                                  │               │
+│ │             │   'company_number': '00345772',                                  │               │
+│ │             │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',  │               │
+│ │             │   'status': 'Voluntarily Dissolved',                             │               │
+│ │             │   'incorporation_date': '16 October 1990 (almost 34 years ago)', │               │
+│ │             │   'company_type': 'Gen. Business - For Profit',                  │               │
+│ │             │   'jurisdiction_id': 25,                                         │               │
+│ │             │   'jurisdiction': 'Missouri'                                     │               │
+│ │             }                                                                  │               │
+│ │ new_state = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>  │               │
+│ │      self = <db.db_ef_classes.Company object at 0x000002A8958228F0>            │               │
+│ ╰────────────────────────────────────────────────────────────────────────────────╯               │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\state.py:571 in _initialize_instance               │
+│                                                                                                  │
+│    568 │   │   try:                                                                              │
+│    569 │   │   │   manager.original_init(*mixed[1:], **kwargs)                                   │
+│    570 │   │   except:                                                                           │
+│ ❱  571 │   │   │   with util.safe_reraise():                                                     │
+│    572 │   │   │   │   manager.dispatch.init_failure(self, args, kwargs)                         │
+│    573 │                                                                                         │
+│    574 │   def get_history(self, key: str, passive: PassiveFlag) -> History:                     │
+│                                                                                                  │
+│ ╭───────────────────────────────────── locals ──────────────────────────────────────╮            │
+│ │     args = ()                                                                     │            │
+│ │ instance = <db.db_ef_classes.Company object at 0x000002A8958228F0>                │            │
+│ │   kwargs = {                                                                      │            │
+│ │            │   'company_number': '00345772',                                      │            │
+│ │            │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',      │            │
+│ │            │   'status': 'Voluntarily Dissolved',                                 │            │
+│ │            │   'incorporation_date': '16 October 1990 (almost 34 years ago)',     │            │
+│ │            │   'company_type': 'Gen. Business - For Profit',                      │            │
+│ │            │   'jurisdiction_id': 25,                                             │            │
+│ │            │   'jurisdiction': 'Missouri'                                         │            │
+│ │            }                                                                      │            │
+│ │  manager = <ClassManager of <class 'db.db_ef_classes.Company'> at 2a8940bbb00>    │            │
+│ │    mixed = (                                                                      │            │
+│ │            │   <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>, │            │
+│ │            │   <db.db_ef_classes.Company object at 0x000002A8958228F0>            │            │
+│ │            )                                                                      │            │
+│ │     self = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>      │            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────╯            │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py:146 in __exit__                    │
+│                                                                                                  │
+│    143 │   │   │   exc_type, exc_value, exc_tb = self._exc_info                                  │
+│    144 │   │   │   assert exc_value is not None                                                  │
+│    145 │   │   │   self._exc_info = None  # remove potential circular references                 │
+│ ❱  146 │   │   │   raise exc_value.with_traceback(exc_tb)                                        │
+│    147 │   │   else:                                                                             │
+│    148 │   │   │   self._exc_info = None  # remove potential circular references                 │
+│    149 │   │   │   assert value is not None                                                      │
+│                                                                                                  │
+│ ╭────────────────────────────────────── locals ───────────────────────────────────────╮          │
+│ │    exc_tb = <traceback object at 0x000002A89589C600>                                │          │
+│ │  exc_type = <class 'AttributeError'>                                                │          │
+│ │ exc_value = AttributeError("'str' object has no attribute '_sa_instance_state'")    │          │
+│ │      self = <sqlalchemy.util.langhelpers.safe_reraise object at 0x000002A8958E7100> │          │
+│ │ traceback = None                                                                    │          │
+│ │     type_ = None                                                                    │          │
+│ │     value = None                                                                    │          │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────╯          │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\state.py:569 in _initialize_instance               │
+│                                                                                                  │
+│    566 │   │   manager.dispatch.init(self, args, kwargs)                                         │
+│    567 │   │                                                                                     │
+│    568 │   │   try:                                                                              │
+│ ❱  569 │   │   │   manager.original_init(*mixed[1:], **kwargs)                                   │
+│    570 │   │   except:                                                                           │
+│    571 │   │   │   with util.safe_reraise():                                                     │
+│    572 │   │   │   │   manager.dispatch.init_failure(self, args, kwargs)                         │
+│                                                                                                  │
+│ ╭───────────────────────────────────── locals ──────────────────────────────────────╮            │
+│ │     args = ()                                                                     │            │
+│ │ instance = <db.db_ef_classes.Company object at 0x000002A8958228F0>                │            │
+│ │   kwargs = {                                                                      │            │
+│ │            │   'company_number': '00345772',                                      │            │
+│ │            │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',      │            │
+│ │            │   'status': 'Voluntarily Dissolved',                                 │            │
+│ │            │   'incorporation_date': '16 October 1990 (almost 34 years ago)',     │            │
+│ │            │   'company_type': 'Gen. Business - For Profit',                      │            │
+│ │            │   'jurisdiction_id': 25,                                             │            │
+│ │            │   'jurisdiction': 'Missouri'                                         │            │
+│ │            }                                                                      │            │
+│ │  manager = <ClassManager of <class 'db.db_ef_classes.Company'> at 2a8940bbb00>    │            │
+│ │    mixed = (                                                                      │            │
+│ │            │   <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>, │            │
+│ │            │   <db.db_ef_classes.Company object at 0x000002A8958228F0>            │            │
+│ │            )                                                                      │            │
+│ │     self = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>      │            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────╯            │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py:2170 in _declarative_constructor      │
+│                                                                                                  │
+│   2167 │   │   │   raise TypeError(                                                              │
+│   2168 │   │   │   │   "%r is an invalid keyword argument for %s" % (k, cls_.__name__)           │
+│   2169 │   │   │   )                                                                             │
+│ ❱ 2170 │   │   setattr(self, k, kwargs[k])                                                       │
+│   2171                                                                                           │
+│   2172                                                                                           │
+│   2173 _declarative_constructor.__name__ = "__init__"                                            │
+│                                                                                                  │
+│ ╭────────────────────────────────── locals ───────────────────────────────────╮                  │
+│ │   cls_ = <class 'db.db_ef_classes.Company'>                                 │                  │
+│ │      k = 'jurisdiction'                                                     │                  │
+│ │ kwargs = {                                                                  │                  │
+│ │          │   'company_number': '00345772',                                  │                  │
+│ │          │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',  │                  │
+│ │          │   'status': 'Voluntarily Dissolved',                             │                  │
+│ │          │   'incorporation_date': '16 October 1990 (almost 34 years ago)', │                  │
+│ │          │   'company_type': 'Gen. Business - For Profit',                  │                  │
+│ │          │   'jurisdiction_id': 25,                                         │                  │
+│ │          │   'jurisdiction': 'Missouri'                                     │                  │
+│ │          }                                                                  │                  │
+│ │   self = <db.db_ef_classes.Company object at 0x000002A8958228F0>            │                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────╯                  │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:537 in __set__                       │
+│                                                                                                  │
+│    534 │   │   return super().__doc__                                                            │
+│    535 │                                                                                         │
+│    536 │   def __set__(self, instance: object, value: Any) -> None:                              │
+│ ❱  537 │   │   self.impl.set(                                                                    │
+│    538 │   │   │   instance_state(instance), instance_dict(instance), value, None                │
+│    539 │   │   )                                                                                 │
+│    540                                                                                           │
+│                                                                                                  │
+│ ╭───────────────────────────────────────── locals ──────────────────────────────────────────╮    │
+│ │ instance = <db.db_ef_classes.Company object at 0x000002A8958228F0>                        │    │
+│ │     self = <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x000002A8940DC360> │    │
+│ │    value = 'Missouri'                                                                     │    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────╯    │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:1467 in set                          │
+│                                                                                                  │
+│   1464 │   │   │   │   │   % (instance_str(check_old), state_str(state), self.key)               │
+│   1465 │   │   │   │   )                                                                         │
+│   1466 │   │                                                                                     │
+│ ❱ 1467 │   │   value = self.fire_replace_event(state, dict_, value, old, initiator)              │
+│   1468 │   │   dict_[self.key] = value                                                           │
+│   1469 │                                                                                         │
+│   1470 │   def fire_remove_event(                                                                │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │ check_old = None                                                                             │ │
+│ │     dict_ = {                                                                                │ │
+│ │             │   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at          │ │
+│ │             0x000002A895744FA0>,                                                             │ │
+│ │             │   'company_number': '00345772',                                                │ │
+│ │             │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',                │ │
+│ │             │   'status': 'Voluntarily Dissolved',                                           │ │
+│ │             │   'incorporation_date': '16 October 1990 (almost 34 years ago)',               │ │
+│ │             │   'company_type': 'Gen. Business - For Profit',                                │ │
+│ │             │   'jurisdiction_id': 25                                                        │ │
+│ │             }                                                                                │ │
+│ │ initiator = None                                                                             │ │
+│ │       old = <LoaderCallableStatus.NO_VALUE: 4>                                               │ │
+│ │   passive = symbol('PASSIVE_OFF')                                                            │ │
+│ │       pop = False                                                                            │ │
+│ │      self = <sqlalchemy.orm.attributes.ScalarObjectAttributeImpl object at                   │ │
+│ │             0x000002A89551EDE0>                                                              │ │
+│ │     state = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>                │ │
+│ │     value = 'Missouri'                                                                       │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:1506 in fire_replace_event           │
+│                                                                                                  │
+│   1503 │   │   │   │   self.sethasparent(instance_state(previous), state, False)                 │
+│   1504 │   │                                                                                     │
+│   1505 │   │   for fn in self.dispatch.set:                                                      │
+│ ❱ 1506 │   │   │   value = fn(                                                                   │
+│   1507 │   │   │   │   state, value, previous, initiator or self._replace_token                  │
+│   1508 │   │   │   )                                                                             │
+│   1509                                                                                           │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │     dict_ = {                                                                                │ │
+│ │             │   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at          │ │
+│ │             0x000002A895744FA0>,                                                             │ │
+│ │             │   'company_number': '00345772',                                                │ │
+│ │             │   'company_name': 'DPW INDUSTRIES, INC. (Missouri - 00345772)',                │ │
+│ │             │   'status': 'Voluntarily Dissolved',                                           │ │
+│ │             │   'incorporation_date': '16 October 1990 (almost 34 years ago)',               │ │
+│ │             │   'company_type': 'Gen. Business - For Profit',                                │ │
+│ │             │   'jurisdiction_id': 25                                                        │ │
+│ │             }                                                                                │ │
+│ │        fn = <function backref_listeners.<locals>.emit_backref_from_scalar_set_event at       │ │
+│ │             0x000002A895619480>                                                              │ │
+│ │ initiator = None                                                                             │ │
+│ │  previous = <LoaderCallableStatus.NO_VALUE: 4>                                               │ │
+│ │      self = <sqlalchemy.orm.attributes.ScalarObjectAttributeImpl object at                   │ │
+│ │             0x000002A89551EDE0>                                                              │ │
+│ │     state = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>                │ │
+│ │     value = 'Missouri'                                                                       │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:2161 in                              │
+│ emit_backref_from_scalar_set_event                                                               │
+│                                                                                                  │
+│   2158 │   │                                                                                     │
+│   2159 │   │   if child is not None:                                                             │
+│   2160 │   │   │   child_state, child_dict = (                                                   │
+│ ❱ 2161 │   │   │   │   instance_state(child),                                                    │
+│   2162 │   │   │   │   instance_dict(child),                                                     │
+│   2163 │   │   │   )                                                                             │
+│   2164 │   │   │   child_impl = child_state.manager[key].impl                                    │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │ _acceptable_key_err = <function backref_listeners.<locals>._acceptable_key_err at            │ │
+│ │                       0x000002A8956193F0>                                                    │ │
+│ │               child = 'Missouri'                                                             │ │
+│ │           initiator = <sqlalchemy.orm.attributes.AttributeEventToken object at               │ │
+│ │                       0x000002A89560ECC0>                                                    │ │
+│ │                 key = 'companies'                                                            │ │
+│ │                  kw = {}                                                                     │ │
+│ │            oldchild = <LoaderCallableStatus.NO_VALUE: 4>                                     │ │
+│ │         parent_impl = <sqlalchemy.orm.attributes.ScalarObjectAttributeImpl object at         │ │
+│ │                       0x000002A89551EDE0>                                                    │ │
+│ │        parent_token = <_RelationshipDeclared at 0x2a89402f600; jurisdiction>                 │ │
+│ │               state = <sqlalchemy.orm.state.InstanceState object at 0x000002A895744FA0>      │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
+AttributeError: 'str' object has no attribute '_sa_instance_state'

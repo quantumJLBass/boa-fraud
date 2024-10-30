@@ -1,0 +1,169 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>SANDRA SUTTER</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=SANDRA+SUTTER" title="Company Officers/Directors named SANDRA SUTTER">SANDRA SUTTER</a></dd>
+<dt>Address</dt> <dd class="address">255 2ND AVE S, MINNEAPOLIS, MN, 55479, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=SANDRA+SUTTER">Search Google for 'SANDRA SUTTER'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=SANDRA+SUTTER">Search LittleSis for 'SANDRA SUTTER'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=SANDRA+SUTTER" title="Company Officers/Directors named SANDRA SUTTER">Similarly named officers</a></h3>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/26604988" title="more info on SANDRA D SUTTER">SANDRA D SUTTER</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/P09000007268" title="More Free And Open Company Data On SANDRA D. SUTTER, P.A. (Florida (US), P09000007268)">SANDRA D. SUTTER, P.A.</a> (Florida (US), <span class="start_date">23 Jan 2009</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/26604989" title="more info on SANDRA D SUTTER">SANDRA D SUTTER</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/P09000007268" title="More Free And Open Company Data On SANDRA D. SUTTER, P.A. (Florida (US), P09000007268)">SANDRA D. SUTTER, P.A.</a> (Florida (US), <span class="start_date">23 Jan 2009</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/168255032" title="more info on SANDRA H SUTTER">SANDRA H SUTTER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_va" title="Free And Open Data On Virginia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_va/S2796615" title="More Free And Open Company Data On Deutsche Gaerten, LLC (Virginia (US), S2796615)">Deutsche Gaerten, LLC</a> (Virginia (US), <span class="start_date"> 9 Jan 2009</span>-<span class="end_date">30 Apr 2015</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/152996347" title="more info on SANDRA L SUTTER">SANDRA L SUTTER</a>, agent, <span class="start_date">25 Aug 2009</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_oh/1878865" title="More Free And Open Company Data On PONOMORE, LLC (Ohio (US), 1878865)">PONOMORE, LLC</a> (Ohio (US), <span class="start_date">25 Aug 2009</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/716302875" title="more info on SANDRA SUTTER">SANDRA SUTTER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company goodstanding" href="/companies/us_il/LLC_02952939" title="More Free And Open Company Data On FRESH PASTURE FARMS, LLC (Illinois (US), LLC_02952939)">FRESH PASTURE FARMS, LLC</a> (Illinois (US), <span class="start_date">24 Mar 2010</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/219764563" title="more info on SANDRA SUTTER">SANDRA SUTTER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_wi" title="Free And Open Data On Wisconsin (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive administratively_dissolved" href="/companies/us_wi/I019272" title="More Free And Open Company Data On INDIANHEAD BEHAVIORAL HEALTH SERVICES, INC. (Wisconsin (US), I019272)">INDIANHEAD BEHAVIORAL HEALTH SERVICES, INC.</a> (Wisconsin (US), <span class="start_date"> 7 Feb 2000</span>-<span class="end_date">13 Aug 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/128960254" title="more info on SANDRA SUTTER">SANDRA SUTTER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_mi" title="Free And Open Data On Michigan (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_mi/800315375" title="More Free And Open Company Data On KYS DISTRIBUTORS, INC. (Michigan (US), 800315375)">KYS DISTRIBUTORS, INC.</a> (Michigan (US), <span class="start_date">29 Nov 1989</span>-<span class="end_date">15 May 1992</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/878989769" title="more info on SUTTER, SANDRA">SUTTER, SANDRA</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company goodstanding" href="/companies/us_il/LLC_02952939" title="More Free And Open Company Data On FRESH PASTURE FARMS, LLC (Illinois (US), LLC_02952939)">FRESH PASTURE FARMS, LLC</a> (Illinois (US), <span class="start_date">24 Mar 2010</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/22943305" title="more info on SUTTER, SANDRA">SUTTER, SANDRA</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/M76887" title="More Free And Open Company Data On SANDEE'S PLACE, INC. (Florida (US), M76887)">SANDEE'S PLACE, INC.</a> (Florida (US), <span class="start_date">18 Apr 1988</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/22943303" title="more info on SUTTER, SANDRA">SUTTER, SANDRA</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/M76887" title="More Free And Open Company Data On SANDEE'S PLACE, INC. (Florida (US), M76887)">SANDEE'S PLACE, INC.</a> (Florida (US), <span class="start_date">18 Apr 1988</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

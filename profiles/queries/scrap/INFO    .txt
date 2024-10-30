@@ -1,0 +1,464 @@
+19:15:46.645 | applogging.py:section:69
+INFO    | 138.199.52.242  : 🧮🔆54🔆🧮⛏️🖨️ SCRAPPING --- Extracting company data from base URL
+19:15:46.672 | scraper.py:scrape_data:61
+INFO    | 138.199.52.242  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ SCRAPING COMPANY DATA -----------------------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+19:15:46.675 | applogging.py:section:69
+INFO    | 138.199.52.242  : 🧮🔆55🔆🧮🏢📊 Extracted company name: DPW ENTERPRISES, INC. (Illinois - CORP_66442861)
+19:15:46.677 | company_data.py:extract_company_name:88
+INFO    | 138.199.52.242  : 🧮🔆56🔆🧮📊 Fetching jurisdiction: Illinois
+19:15:46.680 | company_data.py:get_jurisdiction:45
+INFO    | 138.199.52.242  : 🧮🔆57🔆🧮 Jurisdiction reattached to the session.
+19:15:46.721 | company_data.py:reattach_jurisdiction:21
+INFO    | 138.199.52.242  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ 📡⌛EXITING SERVICES AND CONNECTIONS ----------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+19:15:46.725 | applogging.py:section:69
+INFO    | 138.199.52.242  :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨ 🧨⌛TERMINATING DRIVER ------------------------------------------------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+19:15:46.729 | applogging.py:section:69
+INFO    | 159.118.32.24   :
+✨✨------------------------------------------------------------------------------------------✨✨
+✨✨--------------------------- ENDING SCRAPPING ----- bye bye 👋 ---------------------------✨✨
+✨✨------------------------------------------------------------------------------------------✨✨
+19:16:19.631 | applogging.py:section:69
+╭─────────────────────────────── Traceback (most recent call last) ────────────────────────────────╮
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\gather.py:164 in main                       │
+│                                                                                                  │
+│   161 │   │   │   │                                                                              │
+│   162 │   │   │   │   section(f"⌛⛏️⛏️ Working on {gs.current_url}", "sky_blue1", "right")         │
+│   163 │   │   │   │                                                                              │
+│ ❱ 164 │   │   │   │   company_data = scrape_data()                                               │
+│   165 │   │   │   │   if company_data:                                                           │
+│   166 │   │   │   │   │   # save_data_intermediate({url: company_data})                          │
+│   167 │   │   │   │   │   # should the saved in the db by now and we are not saving to json an   │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │      gathering = (                                                                           │ │
+│ │                  │   16,                                                                     │ │
+│ │                  │   'https://opencorporates.com/companies/us_il/CORP_66442861',             │ │
+│ │                  │   'CORP_66442861',                                                        │ │
+│ │                  │   'Illinois',                                                             │ │
+│ │                  │   False,                                                                  │ │
+│ │                  │   '<div><div class="row content main_content"><div class="span7"><div><h1 │ │
+│ │                  class="wr'+4183,                                                            │ │
+│ │                  │   None,                                                                   │ │
+│ │                  │   datetime.datetime(2024, 7, 31, 23, 44, 16, 176257),                     │ │
+│ │                  │   datetime.date(2024, 8, 25)                                              │ │
+│ │                  )                                                                           │ │
+│ │ gathering_urls = [                                                                           │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   16,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_il/CORP_66442861',         │ │
+│ │                  │   │   'CORP_66442861',                                                    │ │
+│ │                  │   │   'Illinois',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+4183,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 44, 16, 176257),                 │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   30,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_ca/199507310005',          │ │
+│ │                  │   │   '199507310005',                                                     │ │
+│ │                  │   │   'California',                                                       │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+7773,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 36, 13, 543995),                 │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   48,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_la/29828130F',             │ │
+│ │                  │   │   '29828130F',                                                        │ │
+│ │                  │   │   'Louisiana',                                                        │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+9202,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 43, 31, 140684),                 │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   66,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_ma/411531749',             │ │
+│ │                  │   │   '411531749',                                                        │ │
+│ │                  │   │   'Massachusetts',                                                    │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+9407,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 8, 1, 0, 50, 28, 473321),                   │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   82,                                                                 │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_ne/0030090',               │ │
+│ │                  │   │   '0030090',                                                          │ │
+│ │                  │   │   'Nebraska',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+7497,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 34, 4, 333283),                  │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   103,                                                                │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_fl/L05000020561',          │ │
+│ │                  │   │   'L05000020561',                                                     │ │
+│ │                  │   │   'Florida',                                                          │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+3876,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 8, 1, 0, 50, 55, 345211),                   │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   121,                                                                │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_ca/201234110149',          │ │
+│ │                  │   │   '201234110149',                                                     │ │
+│ │                  │   │   'California',                                                       │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+6381,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 34, 38, 939250),                 │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   139,                                                                │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_mi/801916067',             │ │
+│ │                  │   │   '801916067',                                                        │ │
+│ │                  │   │   'Michigan',                                                         │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+4903,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 44, 4, 330436),                  │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   154,                                                                │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_nv/LLC21420-2004',         │ │
+│ │                  │   │   'LLC21420-2004',                                                    │ │
+│ │                  │   │   'Nevada',                                                           │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+6903,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 8, 1, 0, 51, 0, 914383),                    │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   (                                                                       │ │
+│ │                  │   │   169,                                                                │ │
+│ │                  │   │   'https://opencorporates.com/companies/us_tx/0800774805',            │ │
+│ │                  │   │   '0800774805',                                                       │ │
+│ │                  │   │   'Texas',                                                            │ │
+│ │                  │   │   False,                                                              │ │
+│ │                  │   │   '<div><div class="row content main_content"><div                    │ │
+│ │                  class="span7"><div><h1 class="wr'+7266,                                     │ │
+│ │                  │   │   None,                                                               │ │
+│ │                  │   │   datetime.datetime(2024, 7, 31, 23, 44, 51, 364219),                 │ │
+│ │                  │   │   datetime.date(2024, 8, 25)                                          │ │
+│ │                  │   ),                                                                      │ │
+│ │                  │   ... +10                                                                 │ │
+│ │                  ]                                                                           │ │
+│ │              k = 2                                                                           │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\services\scraper.py:62 in scrape_data       │
+│                                                                                                  │
+│    59 │   if url_parts[0] == "companies" and len(url_parts) == 3:                                │
+│    60 │   │   # Base company URL                                                                 │
+│    61 │   │   logger.info(f"{i()}⛏️🖨️ SCRAPPING --- Extracting company data from base URL")        │
+│ ❱  62 │   │   data.update(extract.company_data(soup))                                            │
+│    63 │   │   data["Links"] = extract.links(soup, url)                                           │
+│    64 │   │                                                                                      │
+│    65 │   │   attributes_element = soup.find("dl", class_="attributes")                          │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │      data = {}                                                                               │ │
+│ │      soup = <div><div class="row content main_content"><div class="span7"><div><h1           │ │
+│ │             class="wrapping_heading fn org" itemprop="name"> DPW ENTERPRISES, INC. </h1><div │ │
+│ │             id="attributes"><dl class="attributes dl-horizontal"><dt>Company Number</dt><dd  │ │
+│ │             class="company_number">CORP_66442861</dd><dt>Native Company Number</dt><dd       │ │
+│ │             class="native_company_number"><a                                                 │ │
+│ │             href="/registers/jurisdiction/us_il">66442861</a></dd><dt>Status</dt><dd         │ │
+│ │             class="status">Dissolved</dd><dt>Incorporation Date</dt><dd                      │ │
+│ │             class="incorporation_date"><span datetime="2008-05-15"                           │ │
+│ │             itemprop="foundingDate">15 May 2008</span> (about 16 years                       │ │
+│ │             ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">10 October        │ │
+│ │             2014</dd><dt>Company Type</dt><dd class="company_type">Domestic                  │ │
+│ │             BCA</dd><dt>Jurisdiction</dt><dd>Illinois</dd><dt>Alternative Names</dt><dd      │ │
+│ │             class="alternative_names"><ul class="name_lines"><li class="name_line">TOTAL     │ │
+│ │             COMMUNICATION SERVICES OF ILLINOIS (alias name, 2008-08-27 -                     │ │
+│ │             2014-10-01)</li></ul></dd><dt><a                                                 │ │
+│ │             href="/companies/us_il/CORP_66442861/officers">Inactive Directors /              │ │
+│ │             Officers</a></dt><dd class="officers trunc8"><ul class="attribute_list"><li      │ │
+│ │             class="attribute_item"><a class="officer inactive"                               │ │
+│ │             href="/officers/706847904">TIMOTHY C. HINRICHS, ESQ</a>, agent, <span            │ │
+│ │             class="start_date">15 May 2008</span>- </li></ul></dd><dt>Registry               │ │
+│ │             Page</dt></dl></div><div class="event-timeline-row"><dt> 2008-05-15 </dt><dd><a  │ │
+│ │             href="/events/2720177888">Incorporated</a></dd></div><div class="see-more"><a    │ │
+│ │             href="/companies/us_il/CORP_66442861/events">See all                             │ │
+│ │             events</a></div></div></div><div class="sidebar-item" id="similarly_named"><p><a │ │
+│ │             href="/companies?q=DPW+ENTERPRISES%2C+INC.">Found 23.</a> Showing first 10       │ │
+│ │             </p><ul class="companies"><li class="active"><a class="company active"           │ │
+│ │             href="/companies/us_ny/1628269">D.P.W. ENTERPRISES, INC.</a> (New York (US),     │ │
+│ │             <span class="start_date">13 Apr 1992</span>- ) </li><li><a class="company"       │ │
+│ │             href="/companies/us_nj/0100503616">DPW ENTERPRISES INC.</a> (New Jersey (US),    │ │
+│ │             <span class="start_date">19 Dec 1991</span>- ) </li><li><a class="company"       │ │
+│ │             href="/companies/us_nj/0100921407">D P W ENTERPRISES, INC.</a> (New Jersey (US), │ │
+│ │             <span class="start_date">18 Feb 2004</span>- ) </li><li><a class="company"       │ │
+│ │             href="/companies/us_nj/0450207211">DPW ENTERPRISES INC</a> (New Jersey (US),     │ │
+│ │             <span class="start_date">11 Oct 2017</span>- ) </li><li class="active"><a        │ │
+│ │             class="company active" href="/companies/ca_nl/51814">D.P.W. ENTERPRISES INC.</a> │ │
+│ │             (Newfoundland and Labrador (Canada), <span class="start_date">30 May             │ │
+│ │             2005</span>- ) </li><li class="active"><a class="company active"                 │ │
+│ │             href="/companies/us_pa/2692427">D.P.W. ENTERPRISES, INC.</a> (Pennsylvania (US), │ │
+│ │             <span class="start_date">29 Apr 1996</span>- ) </li><li class="active"><a        │ │
+│ │             class="company active" href="/companies/ca_on/2814612">DPW ENTERPRISES INC.</a>  │ │
+│ │             (Ontario (Canada), <span class="start_date">15 Feb 2021</span>- ) </li><li       │ │
+│ │             class="otc_suspension"><a class="company otc_suspension"                         │ │
+│ │             href="/companies/us_ok/1912238681">DPW ENTERPRISES, INC.</a> (Oklahoma (US),     │ │
+│ │             <span class="start_date">23 Jun 2009</span>- ) </li><li class="good_standing"><a │ │
+│ │             class="company good_standing" href="/companies/us_ar/800043810">D P W            │ │
+│ │             ENTERPRISES, INC.</a> (Arkansas (US), <span class="start_date">11 Oct            │ │
+│ │             2004</span>- ) </li><li class="inactive inactive"><span class="status            │ │
+│ │             label">inactive</span><a class="company inactive inactive"                       │ │
+│ │             href="/companies/us_va/04831988">DPW ENTERPRISES INC.</a> (Virginia (US), -<span │ │
+│ │             class="end_date">31 Mar 2017</span>) </li><li class="inactive inactive"><span    │ │
+│ │             class="status label">inactive</span><a class="company inactive inactive"         │ │
+│ │             href="/companies/us_ma/000165477">DPW ENTERPRISES, INC.</a> (Massachusetts (US), │ │
+│ │             <span class="start_date">13 Jan 1981</span>-<span class="end_date">31 Dec        │ │
+│ │             1990</span>) </li></ul></div></div></div><div class="row"><div                   │ │
+│ │             class="span12"><div id="data-table-total_shares"><h3> Total Shares </h3><div     │ │
+│ │             class="table-wrapper"><table class="table table-condensed table-striped          │ │
+│ │             company-data-object"><thead><tr><th>Number</th><th>Share                         │ │
+│ │             Class</th></tr></thead><tbody><tr><td> 100000 </td><td> COMMON </td><td><span    │ │
+│ │             class="status label">historic</span></td><td><a                                  │ │
+│ │             href="/statements/1444699524">details</a></td></tr></tbody></table></div></div>… │ │
+│ │       url = 'https://opencorporates.com/companies/us_il/CORP_66442861'                       │ │
+│ │ url_parts = ['companies', 'us_il', 'CORP_66442861']                                          │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ E:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\services\extractors\company_data.py:187 in  │
+│ company_data                                                                                     │
+│                                                                                                  │
+│   184 │   │   │   │   # Reattach the jurisdiction_record if it's detached                        │
+│   185 │   │   │   │   jurisdiction_record = reattach_jurisdiction(jurisdiction_record)           │
+│   186 │   │   │   │   jurisdiction_id = (                                                        │
+│ ❱ 187 │   │   │   │   │   jurisdiction_record.id                                                 │
+│   188 │   │   │   │   )  # Safely access the id attribute                                        │
+│   189 │   │   │   else:                                                                          │
+│   190 │   │   │   │   jurisdiction_id = None                                                     │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │        company_name = 'DPW ENTERPRISES, INC. (Illinois - CORP_66442861)'                     │ │
+│ │         company_obj = {'Company Name': 'DPW ENTERPRISES, INC. (Illinois - CORP_66442861)'}   │ │
+│ │     jurisdiction_id = None                                                                   │ │
+│ │   jurisdiction_name = 'Illinois'                                                             │ │
+│ │ jurisdiction_record = <db.dbefclasses.Jurisdiction object at 0x0000022BE3627EB0>             │ │
+│ │                soup = <div><div class="row content main_content"><div class="span7"><div><h1 │ │
+│ │                       class="wrapping_heading fn org" itemprop="name"> DPW ENTERPRISES, INC. │ │
+│ │                       </h1><div id="attributes"><dl class="attributes                        │ │
+│ │                       dl-horizontal"><dt>Company Number</dt><dd                              │ │
+│ │                       class="company_number">CORP_66442861</dd><dt>Native Company            │ │
+│ │                       Number</dt><dd class="native_company_number"><a                        │ │
+│ │                       href="/registers/jurisdiction/us_il">66442861</a></dd><dt>Status</dt>… │ │
+│ │                       class="status">Dissolved</dd><dt>Incorporation Date</dt><dd            │ │
+│ │                       class="incorporation_date"><span datetime="2008-05-15"                 │ │
+│ │                       itemprop="foundingDate">15 May 2008</span> (about 16 years             │ │
+│ │                       ago)</dd><dt>Dissolution Date</dt><dd class="dissolution date">10      │ │
+│ │                       October 2014</dd><dt>Company Type</dt><dd                              │ │
+│ │                       class="company_type">Domestic                                          │ │
+│ │                       BCA</dd><dt>Jurisdiction</dt><dd>Illinois</dd><dt>Alternative          │ │
+│ │                       Names</dt><dd class="alternative_names"><ul class="name_lines"><li     │ │
+│ │                       class="name_line">TOTAL COMMUNICATION SERVICES OF ILLINOIS (alias      │ │
+│ │                       name, 2008-08-27 - 2014-10-01)</li></ul></dd><dt><a                    │ │
+│ │                       href="/companies/us_il/CORP_66442861/officers">Inactive Directors /    │ │
+│ │                       Officers</a></dt><dd class="officers trunc8"><ul                       │ │
+│ │                       class="attribute_list"><li class="attribute_item"><a class="officer    │ │
+│ │                       inactive" href="/officers/706847904">TIMOTHY C. HINRICHS, ESQ</a>,     │ │
+│ │                       agent, <span class="start_date">15 May 2008</span>-                    │ │
+│ │                       </li></ul></dd><dt>Registry Page</dt></dl></div><div                   │ │
+│ │                       class="event-timeline-row"><dt> 2008-05-15 </dt><dd><a                 │ │
+│ │                       href="/events/2720177888">Incorporated</a></dd></div><div              │ │
+│ │                       class="see-more"><a href="/companies/us_il/CORP_66442861/events">See   │ │
+│ │                       all events</a></div></div></div><div class="sidebar-item"              │ │
+│ │                       id="similarly_named"><p><a                                             │ │
+│ │                       href="/companies?q=DPW+ENTERPRISES%2C+INC.">Found 23.</a> Showing      │ │
+│ │                       first 10 </p><ul class="companies"><li class="active"><a               │ │
+│ │                       class="company active" href="/companies/us_ny/1628269">D.P.W.          │ │
+│ │                       ENTERPRISES, INC.</a> (New York (US), <span class="start_date">13 Apr  │ │
+│ │                       1992</span>- ) </li><li><a class="company"                             │ │
+│ │                       href="/companies/us_nj/0100503616">DPW ENTERPRISES INC.</a> (New       │ │
+│ │                       Jersey (US), <span class="start_date">19 Dec 1991</span>- )            │ │
+│ │                       </li><li><a class="company" href="/companies/us_nj/0100921407">D P W   │ │
+│ │                       ENTERPRISES, INC.</a> (New Jersey (US), <span class="start_date">18    │ │
+│ │                       Feb 2004</span>- ) </li><li><a class="company"                         │ │
+│ │                       href="/companies/us_nj/0450207211">DPW ENTERPRISES INC</a> (New Jersey │ │
+│ │                       (US), <span class="start_date">11 Oct 2017</span>- ) </li><li          │ │
+│ │                       class="active"><a class="company active"                               │ │
+│ │                       href="/companies/ca_nl/51814">D.P.W. ENTERPRISES INC.</a>              │ │
+│ │                       (Newfoundland and Labrador (Canada), <span class="start_date">30 May   │ │
+│ │                       2005</span>- ) </li><li class="active"><a class="company active"       │ │
+│ │                       href="/companies/us_pa/2692427">D.P.W. ENTERPRISES, INC.</a>           │ │
+│ │                       (Pennsylvania (US), <span class="start_date">29 Apr 1996</span>- )     │ │
+│ │                       </li><li class="active"><a class="company active"                      │ │
+│ │                       href="/companies/ca_on/2814612">DPW ENTERPRISES INC.</a> (Ontario      │ │
+│ │                       (Canada), <span class="start_date">15 Feb 2021</span>- ) </li><li      │ │
+│ │                       class="otc_suspension"><a class="company otc_suspension"               │ │
+│ │                       href="/companies/us_ok/1912238681">DPW ENTERPRISES, INC.</a> (Oklahoma │ │
+│ │                       (US), <span class="start_date">23 Jun 2009</span>- ) </li><li          │ │
+│ │                       class="good_standing"><a class="company good_standing"                 │ │
+│ │                       href="/companies/us_ar/800043810">D P W ENTERPRISES, INC.</a>          │ │
+│ │                       (Arkansas (US), <span class="start_date">11 Oct 2004</span>- )         │ │
+│ │                       </li><li class="inactive inactive"><span class="status                 │ │
+│ │                       label">inactive</span><a class="company inactive inactive"             │ │
+│ │                       href="/companies/us_va/04831988">DPW ENTERPRISES INC.</a> (Virginia    │ │
+│ │                       (US), -<span class="end_date">31 Mar 2017</span>) </li><li             │ │
+│ │                       class="inactive inactive"><span class="status label">inactive</span><a │ │
+│ │                       class="company inactive inactive"                                      │ │
+│ │                       href="/companies/us_ma/000165477">DPW ENTERPRISES, INC.</a>            │ │
+│ │                       (Massachusetts (US), <span class="start_date">13 Jan 1981</span>-<span │ │
+│ │                       class="end_date">31 Dec 1990</span>) </li></ul></div></div></div><div  │ │
+│ │                       class="row"><div class="span12"><div id="data-table-total_shares"><h3> │ │
+│ │                       Total Shares </h3><div class="table-wrapper"><table class="table       │ │
+│ │                       table-condensed table-striped                                          │ │
+│ │                       company-data-object"><thead><tr><th>Number</th><th>Share               │ │
+│ │                       Class</th></tr></thead><tbody><tr><td> 100000 </td><td> COMMON         │ │
+│ │                       </td><td><span class="status label">historic</span></td><td><a         │ │
+│ │                       href="/statements/1444699524">details</a></td></tr></tbody></table></… │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:566 in __get__                       │
+│                                                                                                  │
+│    563 │   │   │   │   state = instance_state(instance)                                          │
+│    564 │   │   │   except AttributeError as err:                                                 │
+│    565 │   │   │   │   raise orm_exc.UnmappedInstanceError(instance) from err                    │
+│ ❱  566 │   │   │   return self.impl.get(state, dict_)  # type: ignore[no-any-return]             │
+│    567                                                                                           │
+│    568                                                                                           │
+│    569 @dataclasses.dataclass(frozen=True)                                                       │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │    dict_ = {                                                                                 │ │
+│ │            │   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at           │ │
+│ │            0x0000022BE35F5BA0>                                                               │ │
+│ │            }                                                                                 │ │
+│ │ instance = <db.dbefclasses.Jurisdiction object at 0x0000022BE3627EB0>                        │ │
+│ │    owner = <class 'db.dbefclasses.Jurisdiction'>                                             │ │
+│ │     self = <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x0000022BDEAFB9C0>    │ │
+│ │    state = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0>                 │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:1086 in get                          │
+│                                                                                                  │
+│   1083 │   │   │   │   if not passive & CALLABLES_OK:                                            │
+│   1084 │   │   │   │   │   return PASSIVE_NO_RESULT                                              │
+│   1085 │   │   │   │                                                                             │
+│ ❱ 1086 │   │   │   │   value = self._fire_loader_callables(state, key, passive)                  │
+│   1087 │   │   │   │                                                                             │
+│   1088 │   │   │   │   if value is PASSIVE_NO_RESULT or value is NO_VALUE:                       │
+│   1089 │   │   │   │   │   return value                                                          │
+│                                                                                                  │
+│ ╭─────────────────────────────────────────── locals ───────────────────────────────────────────╮ │
+│ │   dict_ = {                                                                                  │ │
+│ │           │   '_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at            │ │
+│ │           0x0000022BE35F5BA0>                                                                │ │
+│ │           }                                                                                  │ │
+│ │     key = 'id'                                                                               │ │
+│ │ passive = symbol('PASSIVE_OFF')                                                              │ │
+│ │    self = <sqlalchemy.orm.attributes.ScalarAttributeImpl object at 0x0000022BE17E2980>       │ │
+│ │   state = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0>                  │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\attributes.py:1116 in _fire_loader_callables       │
+│                                                                                                  │
+│   1113 │   │   │   and self.load_on_unexpire                                                     │
+│   1114 │   │   │   and key in state.expired_attributes                                           │
+│   1115 │   │   ):                                                                                │
+│ ❱ 1116 │   │   │   return state._load_expired(state, passive)                                    │
+│   1117 │   │   elif key in state.callables:                                                      │
+│   1118 │   │   │   callable_ = state.callables[key]                                              │
+│   1119 │   │   │   return callable_(state, passive)                                              │
+│                                                                                                  │
+│ ╭──────────────────────────────────────── locals ────────────────────────────────────────╮       │
+│ │     key = 'id'                                                                         │       │
+│ │ passive = symbol('PASSIVE_OFF')                                                        │       │
+│ │    self = <sqlalchemy.orm.attributes.ScalarAttributeImpl object at 0x0000022BE17E2980> │       │
+│ │   state = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0>            │       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────╯       │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\state.py:803 in _load_expired                      │
+│                                                                                                  │
+│    800 │   │   │   if not self.manager[attr].impl.load_on_unexpire                               │
+│    801 │   │   )                                                                                 │
+│    802 │   │                                                                                     │
+│ ❱  803 │   │   self.manager.expired_attribute_loader(self, toload, passive)                      │
+│    804 │   │                                                                                     │
+│    805 │   │   # if the loader failed, or this                                                   │
+│    806 │   │   # instance state didn't have an identity,                                         │
+│                                                                                                  │
+│ ╭────────────────────────────────── locals ───────────────────────────────────╮                  │
+│ │ passive = symbol('PASSIVE_OFF')                                             │                  │
+│ │    self = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0> │                  │
+│ │   state = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0> │                  │
+│ │  toload = {                                                                 │                  │
+│ │           │   'parent_jurisdiction',                                        │                  │
+│ │           │   'full_name',                                                  │                  │
+│ │           │   'lei_records',                                                │                  │
+│ │           │   'name',                                                       │                  │
+│ │           │   'latitude',                                                   │                  │
+│ │           │   'related_relationships',                                      │                  │
+│ │           │   'parent',                                                     │                  │
+│ │           │   'state_abv',                                                  │                  │
+│ │           │   'id',                                                         │                  │
+│ │           │   'asof',                                                       │                  │
+│ │           │   ... +14                                                       │                  │
+│ │           }                                                                 │                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────╯                  │
+│                                                                                                  │
+│ C:\Python310\lib\site-packages\sqlalchemy\orm\loading.py:1603 in load_scalar_attributes          │
+│                                                                                                  │
+│   1600 │   # assert mapper is _state_mapper(state)                                               │
+│   1601 │   session = state.session                                                               │
+│   1602 │   if not session:                                                                       │
+│ ❱ 1603 │   │   raise orm_exc.DetachedInstanceError(                                              │
+│   1604 │   │   │   "Instance %s is not bound to a Session; "                                     │
+│   1605 │   │   │   "attribute refresh operation cannot proceed" % (state_str(state))             │
+│   1606 │   │   )                                                                                 │
+│                                                                                                  │
+│ ╭────────────────────────────────────── locals ───────────────────────────────────────╮          │
+│ │ attribute_names = {                                                                 │          │
+│ │                   │   'parent_jurisdiction',                                        │          │
+│ │                   │   'full_name',                                                  │          │
+│ │                   │   'lei_records',                                                │          │
+│ │                   │   'name',                                                       │          │
+│ │                   │   'latitude',                                                   │          │
+│ │                   │   'related_relationships',                                      │          │
+│ │                   │   'parent',                                                     │          │
+│ │                   │   'state_abv',                                                  │          │
+│ │                   │   'id',                                                         │          │
+│ │                   │   'asof',                                                       │          │
+│ │                   │   ... +14                                                       │          │
+│ │                   }                                                                 │          │
+│ │          mapper = <Mapper at 0x22bdeb913f0; Jurisdiction>                           │          │
+│ │         passive = symbol('PASSIVE_OFF')                                             │          │
+│ │         session = None                                                              │          │
+│ │           state = <sqlalchemy.orm.state.InstanceState object at 0x0000022BE35F5BA0> │          │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────╯          │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
+DetachedInstanceError: Instance <Jurisdiction at 0x22be3627eb0> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)

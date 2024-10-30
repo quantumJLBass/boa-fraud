@@ -1,0 +1,19 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Events for <a class="company inactive admin._dissolved" href="/companies/us_ga/0510895" title="More Free And Open Company Data On THE THEODORE WEISS 2005 LLC (Georgia (US), 0510895)">THE THEODORE WEISS 2005 LLC</a></h1>
+<div id="events">
+<div class="oc-events-timeline">
+<dl>
+<dt>Between 2005-02-09 and 2019-01-23</dt>
+<dd><a href="/events/973242530">Addition of officer WELLS FARGO BANK, N.A, agent</a></dd>
+<dt>On 2021-10-12</dt>
+<dd><a href="/events/2324414357">Removal of officer WELLS FARGO BANK, N.A, agent</a></dd>
+</dl>
+</div>
+</div>
+<div class="pagination_tools">
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

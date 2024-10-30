@@ -1,0 +1,121 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+THE THEODORE WEISS 2005 LLC
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">0510895</dd>
+<dt>Previous Company Numbers</dt> <dd class="previous_company_numbers"><ul class="attribute_list"><li class="attribute_item">334793</li></ul></dd>
+<dt>Status</dt> <dd class="status">Admin. Dissolved</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="2005-02-09" itemprop="foundingDate"> 9 February 2005</span> (over 19 years ago)</dd>
+<dt>Company Type</dt> <dd class="company_type">Domestic Limited Liability Company</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_ga" title="Free And Open Data On Georgia (US) Companies">Georgia (US)</a></dd>
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">400 NORTHRIDGE ROAD, STE 600</li><li class="address_line">ATLANTA</li><li class="address_line">30350</li><li class="address_line">GA</li><li class="address_line">United States</li></ul></dd>
+<dt><a href="/companies/us_ga/0510895/officers" title="Directors for THE THEODORE WEISS 2005 LLC (Georgia (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/599662986" title="more info on WELLS FARGO BANK, N.A">WELLS FARGO BANK, N.A</a>, agent</li></ul></dd>
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=334788&amp;businessType=Domestic%20Limited%20Liability%20Company&amp;fromSearch=True" title="Registry entry for THE THEODORE WEISS 2005 LLC">https://ecorp.sos.ga.gov/BusinessSear...</a></dd>
+</dl>
+</div>
+</div>
+<div id="filings">
+<div class="rss_feed"><a href="/companies/us_ga/0510895/filings.rss" title="Subscribe to filings for THE THEODORE WEISS 2005 LLC"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"/></a></div>
+<h3><a href="https://opencorporates.com/companies/us_ga/0510895/filings" title="See all filings for THE THEODORE WEISS 2005 LLC">Recent filings for THE THEODORE WEISS 2005 LLC</a></h3>
+<div class="filing" id="filing_1037759541"><div class="dateline">16 May 2008</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1037759541" title="more info on Administrative Dissolution">Administrative Dissolution</a>
+</div>
+<p class="description">
+Domestic Limited Liability Company
+</p>
+</div>
+</div><div class="filing" id="filing_62441609"><div class="dateline">16 May 2008</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/62441609" title="more info on Administrative Dissolution">Administrative Dissolution</a>
+<span class="filing_link">
+<a class="external filing_url" href="http://corp.sos.state.ga.us/corp/soskb/pdfViewer.asp?crypt=%8F%95m%9B%8C%CC%BA%89%88%9A%C2%A8%C2%A1%B7%CE%AF%BC%96%97%A4V%7B%C7%97%A9%9A%92%98%B2hV%7CaZY%8Fs%85%5C%7F%A2%A4%A1%97%AF%C1%B7%9Dy%A5%8Af%A7ps%93%85%A1%B0og%8F%8A%8F%96%ACuua%5Ezn%80z%7C%88zsi%5B%97%8F%A1%9F%C0%C1%C3%AF%B2%90%B8%BB%AB%96%60o%A6%AA%C2%92%B8%A8%A8%A7%9D%B0%5F%B0%B5%CD%AD%C8i%A2%B4%97%B2%90TX%96%97%D0%8D%9B%AB%B9%C3%89U" title="View Administrative Dissolution for THE THEODORE WEISS 2005 LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_1037759538"><div class="dateline">17 Sep 2007</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1037759538" title="more info on Notice of Admin. Dissolution/Revocation">Notice of Admin. Dissolution/Revocation</a>
+</div>
+<p class="description">
+Domestic Limited Liability Company
+</p>
+</div>
+</div><div class="filing" id="filing_1037759535"><div class="dateline">22 Feb 2005</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1037759535" title="more info on Business Formation">Business Formation</a>
+</div>
+<p class="description">
+Domestic Limited Liability Company
+</p>
+</div>
+</div><div class="filing" id="filing_62441608"><div class="dateline">22 Feb 2005</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/62441608" title="more info on New Filing">New Filing</a>
+<span class="filing_link">
+<a class="external filing_url" href="http://corp.sos.state.ga.us/corp/soskb/pdfViewer.asp?crypt=%8F%95m%9B%8C%CC%BA%89%88%9A%C2%A8%C2%A1%B7%CE%AF%BC%96%97%A4V%7B%C7%97%A9%9A%92%98%B2hVxdXV%92q%84%5C%7F%A2%A4%A1%97%AF%C1%B7%9Dy%A5%8Af%A7ps%93%85%A1%B0og%8F%8A%8F%96%ACuua%5Ezn%80z%7C%88zsi%5B%A4%90%ABa%98%C1%BC%A4%AE%96j%A4%9A%A5%A7%A4%80%A6%C4%91%C0pddt%B1%AB%C1%B5%A7%A0%C6cc" title="View New Filing for THE THEODORE WEISS 2005 LLC">view</a>
+</span>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Georgia Secretary of State</span>, <a class="url external" href="https://ecorp.sos.ga.gov/BusinessSearch/BusinessInformation?businessId=334788&amp;businessType=Domestic%20Limited%20Liability%20Company&amp;fromSearch=True">https://ecorp.sos.ga.gov/BusinessSear...</a>, <span class="retrieved">27 Jun 2024</span></div>
+<div id="company_data">
+<div id="update_links">
+<form action="/companies/us_ga/0510895" class="button_to" data-remote="true" method="post"><div><input name="_method" type="hidden" value="put"/><input class="btn btn-primary" data-disable-with="Submitting..." id="update_company" type="submit" value="update from registry"/><input name="authenticity_token" type="hidden" value="+rvylgiBpXUJHt/2SbDNK7Ydds39KG/+SGiVk43oynk="/></div></form>
+</div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="Between 2005-02-09 and 2019-01-23">
+2005-02-09 - 2019-01-23
+</dt>
+<dd><a href="/events/973242530">Addition of officer WELLS FARGO BANK, N.A, agent</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="On 2021-10-12">
+2021-10-12
+</dt>
+<dd><a href="/events/2324414357">Removal of officer WELLS FARGO BANK, N.A, agent</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_ga/0510895/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=0510895&amp;jurisdiction_code=us_ga" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+</div>
+</div>
+</div>

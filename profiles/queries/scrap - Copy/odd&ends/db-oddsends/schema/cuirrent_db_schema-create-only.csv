@@ -1,0 +1,476 @@
+table_name, create_table_query
+address_types,"CREATE TABLE address_types (
+    code TEXT PRIMARY KEY,
+    name TEXT NOT NULL,
+    description TEXT
+)"
+addresses,"CREATE TABLE ""addresses"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	normalized_address VARCHAR NOT NULL UNIQUE, 
+	street VARCHAR NOT NULL, 
+	street_2 VARCHAR DEFAULT NULL, 
+	city VARCHAR NOT NULL, 
+	state VARCHAR NOT NULL, 
+	postal_code VARCHAR NOT NULL, 
+	country VARCHAR NOT NULL, 
+	raw_data TEXT NOT NULL
+)"
+assertions,"CREATE TABLE ""assertions"" (
+    id INTEGER PRIMARY KEY AUTOINCREMENT, 
+    company_number VARCHAR NOT NULL, 
+    title VARCHAR NOT NULL, 
+    description VARCHAR NOT NULL, 
+    link VARCHAR,
+    FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+attributes,"CREATE TABLE ""attributes"" (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  company_number VARCHAR NOT NULL,                       -- Associated company number (ForeignKey)
+  name VARCHAR NOT NULL,                                 -- Name of the attribute
+  value VARCHAR NOT NULL,                                -- Value of the attribute
+  FOREIGN KEY (company_number) REFERENCES companies(company_number) 
+    ON DELETE CASCADE ON UPDATE NO ACTION,               -- Explicitly set cascading options
+  UNIQUE (company_number, name, value)
+)"
+classifications,"CREATE TABLE ""classifications"" (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  classification VARCHAR UNIQUE                          -- Unique classification
+)"
+companies,"CREATE TABLE ""companies"" (
+  company_number TEXT NOT NULL UNIQUE,                                  -- Unique identifier for a company
+  company_name TEXT,                                                    -- Name of the company
+  status TEXT DEFAULT NULL,                                             -- Current status of the company
+  jurisdiction TEXT,                                                    -- Jurisdiction name or code
+  jurisdiction_id INTEGER,                                              -- Identifier for the jurisdiction (ForeignKey)
+  incorporation_date DATE DEFAULT NULL CHECK (                          -- Date of incorporation
+    incorporation_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+  company_type TEXT DEFAULT NULL,                                       -- Type of company
+  registered_address TEXT DEFAULT NULL,                                 -- Registered address of the company
+  agent_name TEXT DEFAULT NULL,                                         -- Name of the registered agent
+  agent_address TEXT DEFAULT NULL,                                      -- Address of the registered agent
+  parent_company_name TEXT DEFAULT NULL,                                -- Name of the parent company
+  parent_company_url TEXT DEFAULT NULL,                                 -- URL of the parent company
+  PRIMARY KEY (company_number),                                         -- Primary key
+  FOREIGN KEY (jurisdiction_id) REFERENCES jurisdiction(id) 
+    ON DELETE SET NULL ON UPDATE CASCADE                                 -- Explicitly set cascading options
+)"
+company_addresses,"CREATE TABLE ""company_addresses"" (
+  company_number VARCHAR NOT NULL,                       -- Associated company number (ForeignKey)
+  address_id INTEGER NOT NULL,                           -- Address ID (ForeignKey)
+  type TEXT REFERENCES address_types(code) DEFAULT NULL, -- Type of address
+  start_date DATE DEFAULT NULL CHECK (
+    start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- Start date of the address
+  end_date DATE DEFAULT NULL CHECK (
+    end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- End date of the address
+  PRIMARY KEY (company_number, address_id),
+  FOREIGN KEY (company_number) REFERENCES companies(company_number) 
+    ON DELETE CASCADE ON UPDATE NO ACTION,               -- Explicitly set cascading options
+  FOREIGN KEY (address_id) REFERENCES addresses(id) 
+    ON DELETE CASCADE ON UPDATE NO ACTION                -- Explicitly set cascading options
+)"
+company_akas,"CREATE TABLE ""company_akas"" (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  company_number VARCHAR NOT NULL,                       -- Associated company number (ForeignKey)
+  aka VARCHAR NOT NULL,                                  -- AKA (alias)
+  start_date DATE DEFAULT NULL CHECK (
+    start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- Start date
+  end_date DATE DEFAULT NULL CHECK (
+    end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- End date
+  type VARCHAR(12) DEFAULT NULL CHECK (
+    type IN ('trading', 'abbreviation', 'legal', 'published', 'dba', 'aka', 'alias')
+  ),                                                     -- Type of AKA
+  language VARCHAR(2) DEFAULT 'en',                      -- Language of the AKA
+  FOREIGN KEY (company_number) REFERENCES companies(company_number) 
+    ON DELETE CASCADE ON UPDATE NO ACTION                -- Explicitly set cascading options
+)"
+company_industry_codes,"CREATE TABLE ""company_industry_codes"" (
+  company_number VARCHAR NOT NULL,                       -- Associated company number (ForeignKey)
+  industry_code_id INTEGER NOT NULL,                     -- Industry code ID (ForeignKey)
+  statement_link VARCHAR,                                -- Link to the statement
+  PRIMARY KEY (company_number, industry_code_id),
+  FOREIGN KEY (company_number) REFERENCES companies(company_number) 
+    ON DELETE CASCADE ON UPDATE NO ACTION,               -- Explicitly set cascading options
+  FOREIGN KEY (industry_code_id) REFERENCES industry_codes(id) 
+    ON DELETE CASCADE ON UPDATE NO ACTION                -- Explicitly set cascading options
+)"
+company_officers,"CREATE TABLE ""company_officers"" (
+	company_number VARCHAR NOT NULL, 
+	officer_id INTEGER NOT NULL,
+	role TEXT REFERENCES role_types(code) DEFAULT NULL,
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	PRIMARY KEY (company_number, officer_id), 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(officer_id) REFERENCES officers (id)
+)"
+company_people,"CREATE TABLE ""company_people"" (
+	company_number VARCHAR NOT NULL, 
+	person_id INTEGER NOT NULL,
+	role TEXT REFERENCES role_types(code) DEFAULT NULL,
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	PRIMARY KEY (company_number, person_id), 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(person_id) REFERENCES people (id)
+)"
+control_mechanisms,"CREATE TABLE ""control_mechanisms"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	mechanism TEXT
+)"
+control_statement_mechanisms,"CREATE TABLE control_statement_mechanisms (
+	control_statement_id INTEGER NOT NULL, 
+	mechanism_id INTEGER NOT NULL, 
+	PRIMARY KEY (control_statement_id, mechanism_id), 
+	FOREIGN KEY(control_statement_id) REFERENCES control_statements (id), 
+	FOREIGN KEY(mechanism_id) REFERENCES control_mechanisms (id)
+)"
+control_statements,"CREATE TABLE ""control_statements"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	controlled_company_name VARCHAR, 
+	controlled_company_number VARCHAR, 
+	controlled_company_jurisdiction VARCHAR, 
+	controlling_company_name VARCHAR, 
+	controlling_company_number VARCHAR, 
+	controlling_company_jurisdiction VARCHAR, 
+	start_date VARCHAR DEFAULT NULL, 
+	end_date VARCHAR DEFAULT NULL, 
+	mechanisms TEXT, 
+	statement_link VARCHAR, 
+	raw_data TEXT,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(controlled_company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(controlled_company_jurisdiction) REFERENCES jurisdiction (code), 
+	FOREIGN KEY(controlling_company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(controlling_company_jurisdiction) REFERENCES jurisdiction (code)
+)"
+events,"CREATE TABLE ""events"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	description VARCHAR, 
+	link VARCHAR,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+filings,"CREATE TABLE ""filings"" (
+    id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	date VARCHAR, 
+	description VARCHAR, 
+	link VARCHAR,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+gazette_notices,"CREATE TABLE ""gazette_notices"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	company_number VARCHAR NOT NULL,
+	date VARCHAR,  
+	link TEXT,
+	publication_id INTEGER, 
+	notice TEXT,
+	classification_id INTEGER, 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(publication_id) REFERENCES publications (id), 
+	FOREIGN KEY(classification_id) REFERENCES classifications (id)
+)"
+identifier_delegate,"CREATE TABLE ""identifier_delegate"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	identifier_system VARCHAR DEFAULT NULL, 
+	identifier VARCHAR DEFAULT NULL, 
+	categories VARCHAR DEFAULT NULL,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+industry_codes,"CREATE TABLE ""industry_codes"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	code VARCHAR, 
+	description VARCHAR, 
+	code_scheme VARCHAR,
+	UNIQUE (code)
+)"
+jurisdiction,"CREATE TABLE ""jurisdiction"" (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  code VARCHAR UNIQUE,                                  -- Unique code for the jurisdiction
+  name VARCHAR,                                         -- Name of the jurisdiction
+  country VARCHAR,                                      -- Country of the jurisdiction
+  full_name VARCHAR,                                    -- Full name of the jurisdiction
+  state_abv VARCHAR,                                    -- State abbreviation
+  county VARCHAR,                                       -- County name
+  city VARCHAR,                                         -- City name
+  longitude FLOAT,                                      -- Longitude coordinate
+  latitude FLOAT,                                       -- Latitude coordinate
+  zip_code VARCHAR,                                     -- Zip code
+  area_code VARCHAR,                                    -- Area code
+  parent_jurisdiction INTEGER,                          -- Parent jurisdiction (ForeignKey)
+  FOREIGN KEY (parent_jurisdiction) REFERENCES jurisdiction(id)
+    ON DELETE SET NULL ON UPDATE CASCADE                -- Explicitly set cascading options
+)"
+lei_address,"CREATE TABLE ""lei_address"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	address_type VARCHAR, 
+	language VARCHAR, 
+	address_lines TEXT, 
+	city VARCHAR, 
+	region VARCHAR, 
+	country VARCHAR, 
+	postal_code VARCHAR, 
+	FOREIGN KEY(lei) REFERENCES lei_data (lei)
+)"
+lei_data,"CREATE TABLE ""lei_data"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	status VARCHAR, 
+	creation_date VARCHAR, 
+	registered_as VARCHAR, 
+	jurisdiction_id INTEGER, 
+	category VARCHAR, 
+	legal_form_id VARCHAR, 
+	legal_form_other VARCHAR, 
+	associated_lei VARCHAR, 
+	associated_name VARCHAR, 
+	expiration_date VARCHAR, 
+	expiration_reason VARCHAR, 
+	successor_lei VARCHAR, 
+	successor_name VARCHAR, 
+	sub_category VARCHAR, 
+	UNIQUE (lei), 
+	FOREIGN KEY(jurisdiction_id) REFERENCES jurisdiction (id)
+)"
+lei_entities,"CREATE TABLE ""lei_entities"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	entity_name VARCHAR, 
+	country VARCHAR, 
+	entity_type VARCHAR,
+	FOREIGN KEY(lei) REFERENCES lei_records (lei)
+)"
+lei_entity,"CREATE TABLE ""lei_entity"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	legal_name VARCHAR, 
+	language VARCHAR, 
+	FOREIGN KEY(lei) REFERENCES lei_data (lei)
+)"
+lei_links,"CREATE TABLE ""lei_links"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	self_link VARCHAR, 
+	managing_lou_link VARCHAR, 
+	lei_issuer_link VARCHAR, 
+	field_modifications_link VARCHAR, 
+	direct_parent_link VARCHAR, 
+	ultimate_parent_link VARCHAR, 
+	direct_children_link VARCHAR, 
+	ultimate_children_link VARCHAR,
+	FOREIGN KEY(lei) REFERENCES lei_data (lei)
+)"
+lei_records,"CREATE TABLE lei_records (
+	lei VARCHAR NOT NULL, 
+	entity_legal_name VARCHAR, 
+	registration_status VARCHAR, 
+	entity_status VARCHAR, 
+	jurisdiction_id INTEGER, 
+	registered_address VARCHAR, 
+	headquarters_address VARCHAR, 
+	registration_date VARCHAR, 
+	next_renewal_date VARCHAR, 
+	managing_lou VARCHAR, 
+	validated_at VARCHAR, 
+	PRIMARY KEY (lei), 
+	FOREIGN KEY(jurisdiction_id) REFERENCES jurisdiction (id)
+)"
+lei_registration,"CREATE TABLE ""lei_registration"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	initial_registration_date VARCHAR, 
+	last_update_date VARCHAR, 
+	status VARCHAR, 
+	next_renewal_date VARCHAR, 
+	managing_lou VARCHAR, 
+	corroboration_level VARCHAR, 
+	validated_at_id VARCHAR, 
+	validated_as VARCHAR, 
+	FOREIGN KEY(lei) REFERENCES lei_data (lei)
+)"
+lei_relationships,"CREATE TABLE ""lei_relationships"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	lei VARCHAR, 
+	relationship_type VARCHAR, 
+	related_link VARCHAR, 
+	FOREIGN KEY(lei) REFERENCES lei_data (lei)
+)"
+links,"CREATE TABLE links (
+    id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	link VARCHAR NOT NULL,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+mergers,"CREATE TABLE ""mergers"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	merged_company_name VARCHAR, 
+	merged_company_id VARCHAR, 
+	surviving_company_name VARCHAR, 
+	surviving_company_id VARCHAR, 
+	jurisdiction_id INTEGER, 
+	statement_link VARCHAR, 
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	raw_data TEXT, 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(merged_company_id) REFERENCES companies (company_number), 
+	FOREIGN KEY(surviving_company_id) REFERENCES companies (company_number), 
+	FOREIGN KEY(jurisdiction_id) REFERENCES jurisdiction (id)
+)"
+officer_addresses,"CREATE TABLE ""officer_addresses"" (
+  officer_id INTEGER REFERENCES officers(id) 
+    ON DELETE CASCADE ON UPDATE NO ACTION,               -- Explicitly set cascading options
+  address_id INTEGER REFERENCES addresses(id) 
+    ON DELETE CASCADE ON UPDATE NO ACTION,               -- Explicitly set cascading options
+  type TEXT REFERENCES address_types(code) 
+    ON DELETE SET NULL ON UPDATE NO ACTION,              -- Explicitly set cascading options
+  start_date DATE DEFAULT NULL CHECK (
+    start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- Start date
+  end_date DATE DEFAULT NULL CHECK (
+    end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  ),                                                     -- End date
+  PRIMARY KEY (officer_id, address_id)
+)"
+officers,"CREATE TABLE ""officers"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	company_number VARCHAR NOT NULL, 
+	occurrence_number VARCHAR, 
+	name VARCHAR, 
+	status VARCHAR, 
+	link VARCHAR, 
+	address VARCHAR, 
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),  
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+people,"CREATE TABLE ""people"" (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    full_name TEXT NOT NULL,
+    raw_data TEXT NOT NULL,
+    GivenName TEXT DEFAULT NULL,
+    MiddleName TEXT DEFAULT NULL,
+    Surname TEXT DEFAULT NULL,
+    PrefixMarital TEXT DEFAULT NULL,
+    PrefixOther TEXT DEFAULT NULL,
+    FirstInitial TEXT DEFAULT NULL,
+    MiddleInitial TEXT DEFAULT NULL,
+    LastInitial TEXT DEFAULT NULL,
+    SuffixGenerational TEXT DEFAULT NULL,
+    SuffixOther TEXT DEFAULT NULL,
+    Nickname TEXT DEFAULT NULL
+)"
+people_addresses,"CREATE TABLE ""people_addresses"" (
+	person_id INTEGER NOT NULL, 
+	address_id INTEGER NOT NULL,
+	type TEXT REFERENCES address_types(code) DEFAULT NULL,
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	PRIMARY KEY (person_id, address_id), 
+	FOREIGN KEY(person_id) REFERENCES people (id), 
+	FOREIGN KEY(address_id) REFERENCES addresses (id)
+)"
+person_akas,"CREATE TABLE ""person_akas"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,  
+	person_id INTEGER NOT NULL, 
+	aka VARCHAR NOT NULL, 
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+	type VARCHAR(12) DEFAULT NULL CHECK(type IN ('trading', 'abbreviation', 'legal', 'published', 'dba', 'aka', 'alias')),
+	language VARCHAR(2) DEFAULT 'en', 
+	FOREIGN KEY(person_id) REFERENCES people (id)
+)"
+person_officers,"CREATE TABLE ""person_officers"" (
+	person_id INTEGER NOT NULL, 
+	officer_id INTEGER NOT NULL,
+	role TEXT REFERENCES role_types(code) DEFAULT NULL,
+	start_date DATE DEFAULT NULL CHECK (start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'),
+    end_date DATE DEFAULT NULL CHECK (end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'), 
+    PRIMARY KEY (person_id, officer_id), 
+	FOREIGN KEY(person_id) REFERENCES people (id), 
+	FOREIGN KEY(officer_id) REFERENCES officers (id)
+)"
+publications,"CREATE TABLE ""publications"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	name VARCHAR, 
+	company_number VARCHAR,
+	UNIQUE (name), 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+related_relationships,"CREATE TABLE ""related_relationships"" (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  company_number VARCHAR,                                -- Associated company number (ForeignKey)
+  related_company VARCHAR,                               -- Name of the related company
+  related_company_id VARCHAR,                            -- Related company ID (ForeignKey)
+  jurisdiction_code VARCHAR,                             -- Jurisdiction code
+  status VARCHAR,                                        -- Status of the relationship
+  type VARCHAR,                                          -- Type of relationship
+  link VARCHAR,                                          -- Link related to the relationship
+  start_date VARCHAR DEFAULT NULL,                       -- Start date of the relationship
+  end_date VARCHAR DEFAULT NULL,                         -- End date of the relationship
+  statement_link VARCHAR,                                -- Statement link
+  FOREIGN KEY (company_number) REFERENCES companies(company_number) 
+    ON DELETE NO ACTION ON UPDATE NO ACTION,             -- Explicitly set cascading options
+  FOREIGN KEY (related_company_id) REFERENCES companies(company_number) 
+    ON DELETE NO ACTION ON UPDATE NO ACTION,             -- Explicitly set cascading options
+  FOREIGN KEY (jurisdiction_code) REFERENCES jurisdiction(code) 
+    ON DELETE NO ACTION ON UPDATE NO ACTION              -- Explicitly set cascading options
+)"
+role_types,"CREATE TABLE role_types (
+    code TEXT PRIMARY KEY,
+    name TEXT NOT NULL,
+    description TEXT
+)"
+share_parcel,"CREATE TABLE ""share_parcel"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	company_number VARCHAR NOT NULL, 
+	shareholder_id_person INTEGER, 
+	shareholder_id_company VARCHAR, 
+	shareholder VARCHAR, 
+	number_of_shares VARCHAR, 
+	voting_percentage VARCHAR,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(shareholder_id_person) REFERENCES people (id), 
+	FOREIGN KEY(shareholder_id_company) REFERENCES companies (company_number)
+)"
+subsidiary_relationships,"CREATE TABLE ""subsidiary_relationships"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	subsidiary_company VARCHAR, 
+	subsidiary_company_id VARCHAR, 
+	jurisdiction_code VARCHAR, 
+	status VARCHAR, 
+	type VARCHAR, 
+	link VARCHAR, 
+	start_date VARCHAR, 
+	end_date VARCHAR DEFAULT NULL, 
+	statement_link VARCHAR, 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number), 
+	FOREIGN KEY(subsidiary_company_id) REFERENCES companies (company_number), 
+	FOREIGN KEY(jurisdiction_code) REFERENCES jurisdiction (code)
+)"
+total_shares,"CREATE TABLE ""total_shares"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	company_number VARCHAR, 
+	number INTEGER, 
+	share_class VARCHAR,
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"
+trademark_registrations,"CREATE TABLE ""trademark_registrations"" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	company_number VARCHAR NOT NULL, 
+	trademark VARCHAR NOT NULL, 
+	registration_date VARCHAR, 
+	status VARCHAR, 
+	FOREIGN KEY(company_number) REFERENCES companies (company_number)
+)"

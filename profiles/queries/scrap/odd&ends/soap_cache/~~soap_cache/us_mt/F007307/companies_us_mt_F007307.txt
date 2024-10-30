@@ -1,0 +1,194 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+WELLS FARGO SERVICES COMPANY
+<span class="badge"><a data-original-title="branch" data-placement="top" href="/legal/glossary#branch" rel="tooltip">branch</a></span>
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">F007307</dd>
+<dt>Status</dt> <dd class="status">Voluntary Withdrawal</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="1968-06-21" itemprop="foundingDate">21 June 1968</span> (about 56 years ago)</dd>
+<dt>Dissolution Date</dt> <dd class="dissolution date"> 6 May 2004</dd>
+<dt>Company Type</dt> <dd class="company_type">Foreign Profit Corporation</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_mt" title="Free And Open Data On Montana (US) Companies">Montana (US)</a></dd>
+<dt><span class="define">Branch</span></dt> <dd class="branch">Branch of <a class="company inactive inactive" href="/companies/us_mn/c3737ddd-a7d4-e011-a886-001ec94ffe7f" title="More Free And Open Company Data On Wells Fargo Services Company (Minnesota (US), c3737ddd-a7d4-e011-a886-001ec94ffe7f)">Wells Fargo Services Company</a> (Minnesota (US))</dd>
+<dt>Previous Names</dt> <dd class="previous_names"><ul class="name_lines"><li class="name_line">NORTHWEST COMPUTER SERVICES, INC.,</li><li class="name_line">NORWEST INFORMATION SERVICES, INC.,</li><li class="name_line">NORWEST SERVICES, INC.,</li><li class="name_line">NORWEST TECHNICAL SERVICES, INC.</li></ul></dd>
+<dt>Business Classification Text</dt> <dd class="business_classification_text">MERCANTILE OR COMMERCIAL-GENERAL</dd>
+<dt><a href="/companies/us_mt/F007307/officers" title="Directors for WELLS FARGO SERVICES COMPANY (Montana (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8 truncated" style="height: 241.875px; padding-bottom: 0px; overflow-y: hidden;"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442011" title="more info on GREGORY A BRENK">GREGORY A BRENK</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442230" title="more info on J S MOORE">J S MOORE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442179" title="more info on JAMES C O'DONNELL">JAMES C O'DONNELL</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442014" title="more info on JAMES GATTMAN">JAMES GATTMAN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442182" title="more info on JAMES M STROTHER">JAMES M STROTHER</a>, director</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442233" title="more info on JAMES W LANSING">JAMES W LANSING</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442017" title="more info on JEFFREY KLINE">JEFFREY KLINE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442020" title="more info on JOHN H TAYLOR">JOHN H TAYLOR</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442023" title="more info on JOHN SCALLY">JOHN SCALLY</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442026" title="more info on JOSEPH A ERVIN">JOSEPH A ERVIN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442107" title="more info on JOSEPH PIETRANGELO">JOSEPH PIETRANGELO</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442029" title="more info on JOYCE CLINTON">JOYCE CLINTON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442236" title="more info on KATHLEEN M DE LUCCA">KATHLEEN M DE LUCCA</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442110" title="more info on KATHRYN DEWIT">KATHRYN DEWIT</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442032" title="more info on KEITH D RODGERS">KEITH D RODGERS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442239" title="more info on KENNETH R CHRISMAN">KENNETH R CHRISMAN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442242" title="more info on KERRI GROSSLIGHT">KERRI GROSSLIGHT</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442185" title="more info on KEVIN B DABNEY">KEVIN B DABNEY</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442113" title="more info on KEVIN MCNAMER">KEVIN MCNAMER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442245" title="more info on KEVIN MITCHELL">KEVIN MITCHELL</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442116" title="more info on KEVIN O'BYRNE">KEVIN O'BYRNE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442035" title="more info on LATSON LI">LATSON LI</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442251" title="more info on LAURA ROSS">LAURA ROSS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442257" title="more info on LINDA J PETTY">LINDA J PETTY</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442260" title="more info on LINDA M TANNER">LINDA M TANNER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442038" title="more info on LOUISE BONADUCE">LOUISE BONADUCE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442188" title="more info on MARGARET M WEBER">MARGARET M WEBER</a>, secretary</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442191" title="more info on MARK ANDERSON">MARK ANDERSON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442263" title="more info on MARK TIGGAS">MARK TIGGAS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442041" title="more info on MARTHA LABADIE">MARTHA LABADIE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442062" title="more info on MARY ELLEN PRESNELL">MARY ELLEN PRESNELL</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442266" title="more info on MARY GUZY">MARY GUZY</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442269" title="more info on MARY LYNN PODOLAK">MARY LYNN PODOLAK</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442272" title="more info on MARY SHELDON">MARY SHELDON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442119" title="more info on MELVIN J REIS">MELVIN J REIS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442140" title="more info on MEREDITH LOW">MEREDITH LOW</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442065" title="more info on MICHAEL CAUGHLIN">MICHAEL CAUGHLIN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442068" title="more info on MICHAEL F RUSSO">MICHAEL F RUSSO</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442071" title="more info on MICHAEL NOBLE">MICHAEL NOBLE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442074" title="more info on MICHAEL S JEFFREYS">MICHAEL S JEFFREYS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442122" title="more info on MITCHELL A CHRISTENSEN">MITCHELL A CHRISTENSEN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442275" title="more info on NEIL JACOBSON">NEIL JACOBSON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442125" title="more info on PHILIP R JOHNSON">PHILIP R JOHNSON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442143" title="more info on RITA BLADOW">RITA BLADOW</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442278" title="more info on ROSEMARY OARE">ROSEMARY OARE</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442281" title="more info on SANDRA SUTTER">SANDRA SUTTER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442284" title="more info on SCOTT A DILLON">SCOTT A DILLON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442146" title="more info on SHERRIE B LITTLEJOHN">SHERRIE B LITTLEJOHN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442287" title="more info on SUSAN BLEW">SUSAN BLEW</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442128" title="more info on SUSAN J KAYSINGER">SUSAN J KAYSINGER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442149" title="more info on SUSAN PALM">SUSAN PALM</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442290" title="more info on SUSAN SCOTT">SUSAN SCOTT</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442293" title="more info on SUSAN WALKER">SUSAN WALKER</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442152" title="more info on TERRE LARSEN">TERRE LARSEN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442077" title="more info on TERRI L MCMILLAN">TERRI L MCMILLAN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442080" title="more info on TERRY ALLEN">TERRY ALLEN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442155" title="more info on TERRY JOHNSON">TERRY JOHNSON</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442131" title="more info on THOMAS BOLAND">THOMAS BOLAND</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442296" title="more info on TIMOTHY FINCH">TIMOTHY FINCH</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442134" title="more info on TOM CLIFFORD">TOM CLIFFORD</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442299" title="more info on VICTOR NICHOLS">VICTOR NICHOLS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442197" title="more info on WALTER L JONES">WALTER L JONES</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442050" title="more info on WAYNE MEKJIAN">WAYNE MEKJIAN</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442158" title="more info on WILLIAM J TOMKO">WILLIAM J TOMKO</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442044" title="more info on WILLIAM MATTHEWS">WILLIAM MATTHEWS</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442200" title="more info on WILLIAM MCCLUNG">WILLIAM MCCLUNG</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442161" title="more info on WILLIAM P SENTENAC">WILLIAM P SENTENAC</a>, other officer</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442164" title="more info on WILLIAM P SENTENAC">WILLIAM P SENTENAC</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442194" title="more info on WILLIAM WOOD">WILLIAM WOOD</a>, vice-president</li><li class="attribute_item"><a class="officer inactive" href="/officers/860442203" title="more info on YUNG LEW">YUNG LEW</a>, vice-president</li></ul><div class="footer"><a href="#">See all</a></div></dd>
+</dl>
+</div>
+</div>
+<div id="filings">
+<div class="rss_feed"><a href="/companies/us_mt/F007307/filings.rss" title="Subscribe to filings for WELLS FARGO SERVICES COMPANY"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"/></a></div>
+<h3><a href="https://opencorporates.com/companies/us_mt/F007307/filings" title="See all filings for WELLS FARGO SERVICES COMPANY">Recent filings for WELLS FARGO SERVICES COMPANY</a></h3>
+<div class="filing" id="filing_329432977"><div class="dateline">20 Aug 2016</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432977" title="more info on Migrated Business Entity Data">Migrated Business Entity Data</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344660"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344660" title="more info on Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)">Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344657"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344657" title="more info on Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)">Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344654"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344654" title="more info on Articles of Dissolution (- VOLUNTARY DISS OR WITHDRAWAL)">Articles of Dissolution (- VOLUNTARY DISS OR WITHDRAWAL)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432978"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432978" title="more info on ARTICLES OF DISSOLUTION ( - VOLUNTARY DISS OR WITHDRAWAL )">ARTICLES OF DISSOLUTION ( - VOLUNTARY DISS OR WITHDRAWAL )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344663"><div class="dateline"> 8 Mar 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344663" title="more info on Annual Report 2004 (- 2004)">Annual Report 2004 (- 2004)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432979"><div class="dateline"> 8 Mar 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432979" title="more info on REPORT ( - 2004 )">REPORT ( - 2004 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344666"><div class="dateline">19 May 2003</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344666" title="more info on Annual Report 2003 (- 2003)">Annual Report 2003 (- 2003)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+<p class="more_info"><a href="https://opencorporates.com/companies/us_mt/F007307/filings">see all filings</a></p>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Montana Secretary of State</span>, <a class="url external" href="https://biz.sosmt.gov/search/business">https://biz.sosmt.gov/search/business</a>, <span class="retrieved"> 5 Dec 2023</span></div>
+<div id="company_data">
+<div id="update_links">
+<form action="/companies/us_mt/F007307" class="button_to" data-remote="true" method="post"><div><input name="_method" type="hidden" value="put"/><input class="btn btn-primary" data-disable-with="Submitting..." id="update_company" type="submit" value="update from registry"/><input name="authenticity_token" type="hidden" value="nsCIGCKMiDfYazPKzbpa55oj9AuCjA5C3p02iVTlNWw="/></div></form>
+</div>
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_38221182"><div class="subhead">
+<a href="/data/38221182">Head Office Address</a>
+</div>
+<p class="description">
+8901 E MOUNTAIN VIEW RD, SCOTTSDALE, AZ, 85258-0000
+</p>
+</div><div class="assertion company_address" id="assertion_44205125"><div class="subhead">
+<a href="/data/44205125">Mailing Address</a>
+</div>
+<p class="description">
+8901 E MOUNTAIN VIEW RD, SCOTTSDALE, AZ, 85258, United States
+</p>
+</div></div></div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="Before 2019-02-05">
+Before 2019-02-05
+</dt>
+<dd><a href="/events/1141520105">Incorporated</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Before 2020-07-30">
+Before 2020-07-30
+</dt>
+<dd><a href="/events/1853682886">Addition of officer CORPORATION SERVICE COMPANY, agent</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_mt/F007307/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=F007307&amp;jurisdiction_code=us_mt" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=WELLS+FARGO+SERVICES+COMPANY" title="Companies named WELLS FARGO SERVICES COMPANY">Similarly named companies</a></h3>
+<p>
+<a href="/companies?q=WELLS+FARGO+SERVICES+COMPANY" title="Companies named WELLS FARGO SERVICES COMPANY">Found 38.</a>
+Showing first 10
+</p>
+<ul class="companies">
+<li>
+<a class="jurisdiction_filter us" href="/companies/us_de" title="Free And Open Data On Delaware (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company" href="/companies/us_de/3790393" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Delaware (US), 3790393)">WELLS FARGO SERVICES COMPANY</a> (Delaware (US), <span class="start_date">14 Apr 2004</span>- )
+</li>
+<li class="inactive inactive">
+<a class="jurisdiction_filter us" href="/companies/us_mn" title="Free And Open Data On Minnesota (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_mn/c3737ddd-a7d4-e011-a886-001ec94ffe7f" title="More Free And Open Company Data On Wells Fargo Services Company (Minnesota (US), c3737ddd-a7d4-e011-a886-001ec94ffe7f)">Wells Fargo Services Company</a> (Minnesota (US), <span class="start_date">18 Apr 1968</span>- )
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_la" title="Free And Open Data On Louisiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_la/35122657F" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Louisiana (US), 35122657F)">WELLS FARGO SERVICES COMPANY</a> (Louisiana (US), <span class="start_date"> 3 Aug 2001</span>- )
+</li>
+<li class="inactive branch withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_ri" title="Free And Open Data On Rhode Island (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_ri/000121136" title="More Free And Open Company Data On Wells Fargo Services Company (Rhode Island (US), 000121136)">Wells Fargo Services Company</a> (Rhode Island (US), <span class="start_date"> 7 Nov 2001</span>-<span class="end_date"> 9 Feb 2005</span>)
+</li>
+<li class="inactive branch withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_in" title="Free And Open Data On Indiana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_in/1996121095" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Indiana (US), 1996121095)">WELLS FARGO SERVICES COMPANY</a> (Indiana (US), <span class="start_date">18 Dec 1996</span>-<span class="end_date">26 Apr 2004</span>)
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_or/3338092" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Oregon (US), 3338092)">WELLS FARGO SERVICES COMPANY</a> (Oregon (US), <span class="start_date"> 2 Aug 2001</span>- )
+</li>
+<li class="inactive branch inactive___withdraw/dissolve/cancel">
+<a class="jurisdiction_filter us" href="/companies/us_wy" title="Free And Open Data On Wyoming (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive___withdraw/dissolve/cancel" href="/companies/us_wy/1980-000103162" title="More Free And Open Company Data On Wells Fargo Services Company (Wyoming (US), 1980-000103162)">Wells Fargo Services Company</a> (Wyoming (US), <span class="start_date">17 Jun 1968</span>-<span class="end_date">29 Apr 2004</span>)
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_fl/F01000004094" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Florida (US), F01000004094)">WELLS FARGO SERVICES COMPANY</a> (Florida (US), <span class="start_date"> 2 Aug 2001</span>- )
+</li>
+<li class="inactive branch terminated">
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch terminated" href="/companies/us_tx/0011161706" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Texas (US), 0011161706)">WELLS FARGO SERVICES COMPANY</a> (Texas (US), <span class="start_date"> 9 Sep 1996</span>-<span class="end_date">28 Apr 2004</span>)
+</li>
+<li class="inactive branch withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_il/CORP_61873732" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Illinois (US), CORP_61873732)">WELLS FARGO SERVICES COMPANY</a> (Illinois (US), <span class="start_date">30 Oct 2001</span>-<span class="end_date"> 6 May 2004</span>)
+</li>
+<li class="inactive branch withdrawal">
+<a class="jurisdiction_filter us" href="/companies/us_wi" title="Free And Open Data On Wisconsin (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawal" href="/companies/us_wi/2N00766" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Wisconsin (US), 2N00766)">WELLS FARGO SERVICES COMPANY</a> (Wisconsin (US), <span class="start_date">17 Jun 1968</span>-<span class="end_date">10 May 2004</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

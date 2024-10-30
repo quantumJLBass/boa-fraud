@@ -1,0 +1,98 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company inactive admin._dissolved" href="/companies/us_nc/1207158" title="More Free And Open Company Data On DPW Services, LLC (North Carolina (US), 1207158)">DPW Services, LLC</a> (North Carolina (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_565008073"><div class="dateline">11 Oct 2019</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/565008073" title="more info on ADM Dissolution">ADM Dissolution</a>
+</div>
+<p class="description">
+ADM Dissolution
+</p>
+</div>
+</div><div class="filing" id="filing_553902701"><div class="dateline">24 Jul 2019</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/553902701" title="more info on ADM Notice">ADM Notice</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_462527990"><div class="dateline">11 Dec 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527990" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527989"><div class="dateline">16 Nov 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527989" title="more info on ADM Notice">ADM Notice</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_462527988"><div class="dateline">21 Apr 2016</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527988" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527987"><div class="dateline">15 Apr 2015</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527987" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527986"><div class="dateline">15 Apr 2014</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527986" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527985"><div class="dateline">15 Apr 2013</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527985" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527984"><div class="dateline">11 Apr 2012</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527984" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527983"><div class="dateline"> 7 Jun 2011</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527983" title="more info on Articles of Organization Limited Liability">Articles of Organization Limited Liability</a>
+</div>
+<p class="description">
+Articles of Organization Limited Liability
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

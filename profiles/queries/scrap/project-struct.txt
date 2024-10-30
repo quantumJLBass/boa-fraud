@@ -1,0 +1,85 @@
+Folder PATH listing for volume sys-extn
+Volume serial number is 46EA-BE80
+E:\_GIT\OBSIDIAN\BOA TIMELINE\PROFILES\QUERIES\SCRAP
+¦---gather.py
+¦---gs.py
+¦---README.md
+¦---__init__.py
+¦
++---db
+¦   ¦---cache-write-bak-2024-09-09.db
+¦   ¦---cache-write.db
+¦   ¦---cache-write.db.docs.md
+¦   ¦---cache.db
+¦   ¦---cache.db.docs.md
+¦   ¦---cache.py
+¦   ¦---dbefclasses.py
+¦   ¦---helpers.py
+¦   ¦---mixins.py
+¦   ¦---__init__.py
+¦
++---gui
+¦   ¦---controllers.py
+¦   ¦---dialogs.py
+¦   ¦---main.py
+¦   ¦---models.py
+¦   ¦---tabs.py
+¦   ¦---utils.py
+¦   ¦---viewmodels.py
+¦   ¦---views.py
+¦
++---prompts
+¦   ¦---CORRECTNESS_PROMPT_TEMPLATE.txt
+¦   ¦---EXAMPLES1.txt
+¦   ¦---EXAMPLES2.txt
+¦   ¦---EXAMPLES3.txt
+¦   ¦---PROMPT_TEMPLATE.txt
+¦   ¦---VALIDATION_PROMPT_TEMPLATE.txt
+¦
++---services
+¦   ¦---applogging.py
+¦   ¦---database_handlers.py
+¦   ¦---notes.py
+¦   ¦---scraper.py
+¦   ¦---signal_handler.py
+¦   ¦---url_handlers.py
+¦   ¦---webdriver.py
+¦   ¦---__init__.py
+¦   ¦
+¦   +---extractors
+¦   ¦   ¦---assertions.py
+¦   ¦   ¦---attributes.py
+¦   ¦   ¦---company_data.py
+¦   ¦   ¦---events.py
+¦   ¦   ¦---filings.py
+¦   ¦   ¦---gazette_notices.py
+¦   ¦   ¦---identifier_delegate.py
+¦   ¦   ¦---industry_codes.py
+¦   ¦   ¦---lei_data.py
+¦   ¦   ¦---links.py
+¦   ¦   ¦---officers.py
+¦   ¦   ¦---relationships.py
+¦   ¦   ¦---total_shares.py
+¦   ¦   ¦---trademarks.py
+¦   ¦   ¦---__init__.py
+¦   ¦
+¦   +---notes
+¦       ¦---render_addresses.py
+¦       ¦---render_assertions.py
+¦       ¦---render_attributes.py
+¦       ¦---render_events.py
+¦       ¦---render_filings.py
+¦       ¦---render_link.py
+¦       ¦---render_links.py
+¦       ¦---render_officers.py
+¦       ¦---render_relationships.py
+¦       ¦---__init__.py
+¦
++---settings
+¦   ¦---settings.py
+¦
++---utils
+¦   ¦---useollama.py
+¦   ¦---utils.py
+¦   ¦---ziptest.py
+¦   ¦---__init__.py

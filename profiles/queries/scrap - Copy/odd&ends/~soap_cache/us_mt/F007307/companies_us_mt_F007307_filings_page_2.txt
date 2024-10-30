@@ -1,0 +1,251 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> (Montana (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_696344702"><div class="dateline">15 Apr 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344702" title="more info on Annual Report 1996 (- 1996)">Annual Report 1996 (- 1996)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432991"><div class="dateline">15 Apr 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432991" title="more info on REPORT ( - 1996 )">REPORT ( - 1996 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344705"><div class="dateline">27 Mar 1995</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344705" title="more info on Annual Report 1995 (- 1995)">Annual Report 1995 (- 1995)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432992"><div class="dateline">27 Mar 1995</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432992" title="more info on REPORT ( - 1995 )">REPORT ( - 1995 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344708"><div class="dateline">21 Apr 1994</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344708" title="more info on Annual Report 1994 (- 1994)">Annual Report 1994 (- 1994)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432993"><div class="dateline">21 Apr 1994</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432993" title="more info on REPORT ( - 1994 )">REPORT ( - 1994 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344711"><div class="dateline">19 Apr 1993</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344711" title="more info on Annual Report 1993 (- 1993)">Annual Report 1993 (- 1993)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432994"><div class="dateline">19 Apr 1993</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432994" title="more info on REPORT ( - 1993 )">REPORT ( - 1993 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344714"><div class="dateline"> 4 May 1992</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344714" title="more info on Annual Report 1992 (- 1992)">Annual Report 1992 (- 1992)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432995"><div class="dateline"> 4 May 1992</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432995" title="more info on REPORT ( - 1992 )">REPORT ( - 1992 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344717"><div class="dateline"> 1 Mar 1991</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344717" title="more info on Annual Report 1991 (- 1991)">Annual Report 1991 (- 1991)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432996"><div class="dateline"> 1 Mar 1991</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432996" title="more info on REPORT ( - 1991 )">REPORT ( - 1991 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344720"><div class="dateline"> 5 Mar 1990</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344720" title="more info on Annual Report 1990 (- 1990)">Annual Report 1990 (- 1990)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432997"><div class="dateline"> 5 Mar 1990</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432997" title="more info on REPORT ( - 1990 )">REPORT ( - 1990 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344723"><div class="dateline">20 Mar 1989</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344723" title="more info on Annual Report 1989 (- 1989)">Annual Report 1989 (- 1989)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432998"><div class="dateline">20 Mar 1989</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432998" title="more info on REPORT ( - 1989 )">REPORT ( - 1989 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344726"><div class="dateline"> 5 Apr 1988</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344726" title="more info on Annual Report 1988 (- 1988)">Annual Report 1988 (- 1988)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432999"><div class="dateline"> 5 Apr 1988</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432999" title="more info on REPORT ( - 1988 )">REPORT ( - 1988 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344729"><div class="dateline"> 5 Jun 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344729" title="more info on Amendment (- CORPORATION NAME)">Amendment (- CORPORATION NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329433000"><div class="dateline"> 5 Jun 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329433000" title="more info on AMENDMENT ( - CORPORATION NAME )">AMENDMENT ( - CORPORATION NAME )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344738"><div class="dateline">25 Mar 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344738" title="more info on Amendment (- REGISTERED AGENT NAME)">Amendment (- REGISTERED AGENT NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344735"><div class="dateline">25 Mar 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344735" title="more info on Annual Report 1987 (- 1987)">Annual Report 1987 (- 1987)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344732"><div class="dateline">25 Mar 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344732" title="more info on Amendment (- REGISTERED AGENT ADDRESS)">Amendment (- REGISTERED AGENT ADDRESS)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329433002"><div class="dateline">25 Mar 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329433002" title="more info on REPORT ( - 1987 )">REPORT ( - 1987 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329433001"><div class="dateline">25 Mar 1987</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329433001" title="more info on AMENDMENT ( - REGISTERED AGENT NAME )">AMENDMENT ( - REGISTERED AGENT NAME )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344741"><div class="dateline">17 Apr 1986</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344741" title="more info on Annual Report 1986 (- 1986)">Annual Report 1986 (- 1986)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329433003"><div class="dateline">17 Apr 1986</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329433003" title="more info on REPORT ( - 1986 )">REPORT ( - 1986 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344744"><div class="dateline">19 Apr 1985</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344744" title="more info on Annual Report 1985 (- 1985)">Annual Report 1985 (- 1985)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329433004"><div class="dateline">19 Apr 1985</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329433004" title="more info on REPORT ( - 1985 )">REPORT ( - 1985 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344747"><div class="dateline">19 Oct 1984</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344747" title="more info on Amendment (- CORPORATION NAME)">Amendment (- CORPORATION NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+<div class="pagination"><ul><li class="prev previous_page"><a href="/companies/us_mt/F007307/filings?page=1" rel="prev nofollow start nofollow">← Previous</a></li> <li class="active"><a href="/companies/us_mt/F007307/filings?page=2" rel="nofollow">2</a></li> <li><a href="/companies/us_mt/F007307/filings?page=3" rel="next nofollow">3</a></li> <li><a href="/companies/us_mt/F007307/filings?page=4" rel="nofollow">4</a></li> <li class="next next_page"><a href="/companies/us_mt/F007307/filings?page=3" rel="next nofollow">Next →</a></li></ul></div>
+</div>
+<div class="span5">
+</div>
+</div>

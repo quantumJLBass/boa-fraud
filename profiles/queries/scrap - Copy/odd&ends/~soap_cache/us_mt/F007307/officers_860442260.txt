@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>LINDA M TANNER</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=LINDA+M+TANNER" title="Company Officers/Directors named LINDA M TANNER">LINDA M TANNER</a></dd>
+<dt>Address</dt> <dd class="address">100 PINE ST, SAN FRANCISCO, CA, 94111, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=LINDA+M+TANNER">Search Google for 'LINDA M TANNER'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=LINDA+M+TANNER">Search LittleSis for 'LINDA M TANNER'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=LINDA+M+TANNER" title="Company Officers/Directors named LINDA M TANNER">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=LINDA+M+TANNER">Found 186.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer">
+<a class="officer" href="/officers/363717383" title="more info on J PAUL LINDA TANNER">J PAUL LINDA TANNER</a>, member,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company in_existence" href="/companies/us_tx/0802423436" title="More Free And Open Company Data On 3C Apartment Holdings, LLC (Texas (US), 0802423436)">3C Apartment Holdings, LLC</a> (Texas (US), <span class="start_date">28 Mar 2016</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/204276285" title="more info on KAREN LINDA TANNER">KAREN LINDA TANNER</a>, director, <span class="start_date"> 1 Mar 2008</span>-<span class="end_date">31 Mar 2008</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/06313199" title="More Free And Open Company Data On GOLF PRO SOLUTIONS LIMITED (United Kingdom, 06313199)">GOLF PRO SOLUTIONS LIMITED</a> (United Kingdom, <span class="start_date">16 Jul 2007</span>-<span class="end_date">12 May 2009</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/184510889" title="more info on KAREN LINDA TANNER">KAREN LINDA TANNER</a>, director, <span class="start_date">11 Nov 1997</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/03449819" title="More Free And Open Company Data On SWANMODE SOFTWARE CONSULTANTS LIMITED (United Kingdom, 03449819)">SWANMODE SOFTWARE CONSULTANTS LIMITED</a> (United Kingdom, <span class="start_date">14 Oct 1997</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/202225719" title="more info on KATIE LINDA TANNER">KATIE LINDA TANNER</a>, secretary, <span class="start_date">23 Oct 2000</span>-<span class="end_date">17 Aug 2001</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/04004311" title="More Free And Open Company Data On BUBBLE-E LIMITED (United Kingdom, 04004311)">BUBBLE-E LIMITED</a> (United Kingdom, <span class="start_date">30 May 2000</span>-<span class="end_date"> 8 Mar 2005</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/194710027" title="more info on KATIE LINDA TANNER">KATIE LINDA TANNER</a>, secretary, <span class="start_date">23 Oct 2000</span>-<span class="end_date">29 Oct 2001</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/04042228" title="More Free And Open Company Data On ALL BUSINESS CONSULTANCY LIMITED (United Kingdom, 04042228)">ALL BUSINESS CONSULTANCY LIMITED</a> (United Kingdom, <span class="start_date">27 Jul 2000</span>-<span class="end_date">19 Jan 2016</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/202225836" title="more info on KATIE LINDA TANNER">KATIE LINDA TANNER</a>, director, <span class="start_date">23 Oct 2000</span>-<span class="end_date">17 Aug 2001</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/04004311" title="More Free And Open Company Data On BUBBLE-E LIMITED (United Kingdom, 04004311)">BUBBLE-E LIMITED</a> (United Kingdom, <span class="start_date">30 May 2000</span>-<span class="end_date"> 8 Mar 2005</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/196370942" title="more info on LINDA ALLISON TANNER">LINDA ALLISON TANNER</a>, director, <span class="start_date">25 Jul 2008</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/06656199" title="More Free And Open Company Data On NEW2MARKET LIMITED (United Kingdom, 06656199)">NEW2MARKET LIMITED</a> (United Kingdom, <span class="start_date">25 Jul 2008</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/255362008" title="more info on LINDA ANN TANNER">LINDA ANN TANNER</a>, secretary, <span class="start_date">17 Mar 1989</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_az" title="Free And Open Data On Arizona (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_az/02134959" title="More Free And Open Company Data On POCKET DIRECTORY, INC. (Arizona (US), 02134959)">POCKET DIRECTORY, INC.</a> (Arizona (US), <span class="start_date">31 Mar 1989</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/275755104" title="more info on LINDA BARBARA TANNER">LINDA BARBARA TANNER</a>, secretary, <span class="start_date">22 Jul 2011</span>-<span class="end_date"> 7 Dec 2017</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/04987957" title="More Free And Open Company Data On TOUCHDOWN DEVELOPMENTS LIMITED (United Kingdom, 04987957)">TOUCHDOWN DEVELOPMENTS LIMITED</a> (United Kingdom, <span class="start_date"> 8 Dec 2003</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/458147555" title="more info on LINDA C TANNER">LINDA C TANNER</a>,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">nonprofit</span> <a class="company inactive inactive" href="/companies/us_fl/N16000007487" title="More Free And Open Company Data On NANCY &amp; HOWARD COBIN CHARITABLE FOUNDATION, INC. (Florida (US), N16000007487)">NANCY &amp; HOWARD COBIN CHARITABLE FOUNDATION, INC.</a> (Florida (US), <span class="start_date">29 Jul 2016</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/261036835" title="more info on LINDA C TANNER">LINDA C TANNER</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_va" title="Free And Open Data On Virginia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_va/03230604" title="More Free And Open Company Data On TANNER IRRIGATION, INC. (Virginia (US), 03230604)">TANNER IRRIGATION, INC.</a> (Virginia (US), <span class="start_date">15 Jun 1988</span>-<span class="end_date"> 1 Jun 2015</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>

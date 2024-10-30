@@ -1,0 +1,594 @@
+Directory and .md files structure for E:\_GIT\obsidian\BoA timeline\
+E:\_GIT\obsidian\BoA timeline\
+  E:\_GIT\obsidian\BoA timeline\Dashboard.md
+  E:\_GIT\obsidian\BoA timeline\Financial Institution Crimes & Fines Database Bankers & Traders  Office of the Special Inspector General for the Troubled Asset Relief Program.md
+  E:\_GIT\obsidian\BoA timeline\SEC.gov  Merrill Lynch Paying $10 Million Penalty for Misleading Investors in Structured Notes.md
+  E:\_GIT\obsidian\BoA timeline\SEC.gov  Merrill Lynch to Pay $415 Million for Misusing Customer Cash and Putting Customer Securities at Risk.md
+  E:\_GIT\obsidian\BoA timeline\SEC.gov  SEC Charges Merrill Lynch and Parent Company for Failing to File Suspicious Activity Reports.md
+  E:\_GIT\obsidian\BoA timeline\Welcome.md
+
+  E:\_GIT\obsidian\BoA timeline\.tts
+  E:\_GIT\obsidian\BoA timeline\Chats
+    E:\_GIT\obsidian\BoA timeline\Chats\Chats.md
+    E:\_GIT\obsidian\BoA timeline\Chats\New Chat.md
+  E:\_GIT\obsidian\BoA timeline\proceedings
+    E:\_GIT\obsidian\BoA timeline\proceedings\proceedings.md
+    E:\_GIT\obsidian\BoA timeline\proceedings\judge-court
+      E:\_GIT\obsidian\BoA timeline\proceedings\judge-court\judge-court.md
+    E:\_GIT\obsidian\BoA timeline\proceedings\parties
+      E:\_GIT\obsidian\BoA timeline\proceedings\parties\parties.md
+      E:\_GIT\obsidian\BoA timeline\proceedings\parties\defendants
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\defendants\defendants.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\defendants\counters
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\defendants\counters\counters.md
+      E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\plaintiff.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\authority correspondence
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\brif-reviews
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\brif-reviews\brif-reviews.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\data
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\data\data.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\docs.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2023-04-07
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2023-04-07\2023-04-07.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2023-04-25
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2023-04-25\2023-04-25.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2024-02-22
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\2024-02-22\2024-02-22.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\active
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\active\active.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\filed-2023-03-30
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\filed-2023-03-30\filed-2023-03-30.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\filed-2023-03-30\bin
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\filed-2023-03-30\bin\bin.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\pre-2023-03-30.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\eval
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\eval\eval.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\first filings
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\first filings\first filings.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\in notice phase
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\in notice phase\in notice phase.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\response to judgment on S&D
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\response to judgment on S&D\response to judgment on S&D.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\responses to strike and dismiss
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\docs\pre-2023-03-30\responses to strike and dismiss\responses to strike and dismiss.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\evidence.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\audio
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\audio\audio.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\audio\op-bak-2024-04-24
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\audio\op-bak-2024-04-24 - Copy
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\audio\sony-bak-2024-04-24
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\BoA
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\BoA\BoA.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\BoA\New folder.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\Exhibit-AU--BoA-provided-proof.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\exhibits.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\_BIN
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\_BIN\_BIN.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\acts and codes adn such
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\acts and codes adn such\acts and codes adn such.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\back-dating-attempts
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\back-dating-attempts\back-dating-attempts.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\bank-id.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\Alliance Title & Escrow
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\Alliance Title & Escrow\Alliance Title & Escrow.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK OF AMERICA NA
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK OF AMERICA NA\BANK OF AMERICA NA.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK-OF-AMERICA-CORPORATION
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK-OF-AMERICA-CORPORATION\BANK-OF-AMERICA-CORPORATION.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK-OF-AMERICA-CORPORATION\ta-1-sec-filing-boa-rap-sheet_files
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\BANK-OF-AMERICA-CORPORATION\ta-1-sec-filing-boa-rap-sheet_files\ta-1-sec-filing-boa-rap-sheet_files.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\C T CORPORATION SYSTEM
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\C T CORPORATION SYSTEM\C T CORPORATION SYSTEM.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CARRINGTON MORTGAGE SERVICES
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CARRINGTON MORTGAGE SERVICES\CARRINGTON MORTGAGE SERVICES.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CORELOGIC SOLUTIONS, LLC
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CORELOGIC SOLUTIONS, LLC\CORELOGIC SOLUTIONS, LLC.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CORPORATION SERVICE COMPANY
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\CORPORATION SERVICE COMPANY\CORPORATION SERVICE COMPANY.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\COUNTRYWIDE HOME LOANS
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\COUNTRYWIDE HOME LOANS\COUNTRYWIDE HOME LOANS.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\IDEA Law Group
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\MERS-
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\MORGAN-STANLEY
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\NATIONAL REGISTERED AGENTS
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\PRENTICE-HALL CORPORATION SYSTEM
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\PRENTICE-HALL CORPORATION SYSTEM\PRENTICE-HALL CORPORATION SYSTEM.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\RECONTRUST COMPANY
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\RECONTRUST COMPANY\RECONTRUST COMPANY.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\RECONTRUST COMPANY NA
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\RECONTRUST COMPANY NA\RECONTRUST COMPANY NA.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\UNITED STATES CORPORATION COMPANY
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\UNITED STATES CORPORATION COMPANY\UNITED STATES CORPORATION COMPANY.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\zions
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\bank-id\zions\zions.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\billing-attemps
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\billing-attemps\billing-attemps.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\carrington-forbearance-notices
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\carrington-forbearance-notices\carrington-forbearance-notices.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\conflicting-notices-while-in-process
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\conflicting-notices-while-in-process\conflicting-notices-while-in-process.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\new-contract-pushed
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\new-contract-pushed\new-contract-pushed.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\notices
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\notices\notices.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\orders-judgments-of-def
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\orders-judgments-of-def\orders-judgments-of-def.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\originals
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\originals\originals.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\patterns
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\patterns\patterns.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\patterns\table.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\patterns\pattern of reckless abandonment in use of fraudulent tactics - THE RAP SHEET_files
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\patterns\pattern of reckless abandonment in use of fraudulent tactics - THE RAP SHEET_files\pattern of reckless abandonment in use of fraudulent tactics - THE RAP SHEET_files.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\pre-filing
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\pre-filing\pre-filing.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\proper transfer
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\proper transfer\proper transfer.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\recorded
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\recorded\recorded.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\servicing-court-paperwork
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AL--trans-to-countrywide-2008-10-01.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AM--hud-trans-notice-2008-08-11.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AN--zion-trans-notice-2008-08-5.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AO--BOA-trans-notice-2009-10-1.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AP--BOA-to-BAC-trans-notice-2009-10-3.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\Exhibit-AQ--BAC-trans-notice-2009-12-1.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\transfer-of-loan\transfer-of-loan.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\using the process to harrass me
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\exhibits\using the process to harrass me\using the process to harrass me.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\from carrington - new 2024
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\from carrington - new 2024\from carrington - new 2024.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\from in court
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\from in court\from in court.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\230602_0285.mp3 transcript.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\chat log.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\issue-rigging of auction.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\The rigged auction
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\The rigged auction\New folder.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\issue-rigging of auction\The rigged auction\The rigged auction.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\1515 21ST AVE, LEWISTON, ID 83501-3926
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\1515 21ST AVE, LEWISTON, ID 83501-3926\1515 21ST AVE, LEWISTON, ID 83501-3926.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\3021 SILVERWOOD ST.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\DEED OF TRUST - 3431012.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\DEED OF TRUST - 3525507.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\RECONVEYANCE - 3527122.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\images
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\Property Details
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\Property Details\Building and Zoning Details.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\Property Details\Property Details.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\3021 SILVERWOOD ST\Property Details\Tax History and Jurisdictional Information.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\5603 HIGHWAY 95,NEW MEADOWS,ID 83654.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\DEED OF RECONVEYANCE - 119343.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\DEED OF TRUST - 107860.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\DEED OF TRUST - 114849.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\images
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\images\images.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\Mortgage and Securities fraud examples\5603 HIGHWAY 95,NEW MEADOWS,ID 83654\images\Sheets-deeds-and-records..md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\screen-shots
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\evidence\screen-shots\screen-shots.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\first filings
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\first filings\first filings.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\in notice phase
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\in notice phase\in notice phase.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\letter to gman
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\letter to gman\letter to gman.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\letter to gman\letter to the Gs.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\letter to gman\New folder.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\amended - complaint - 2023.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\expert-witness-report-2023-03-28.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\Letter to gman part 2.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\Motion for appointment of co-counsel.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\MOTION FOR RECONSIDERATION OF TRO REQUEST OR REQUEST FOR PRELIMINARY INJUNCTION.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\MOTION FOR RECONSIDERATION-2023-03-28.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-any-staturary-concerns-2023-04-25.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-BoA-provided-supporting-evidence-2023-04-25.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\proceedings.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\parties.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\plaintiff.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2\Letter to gman part 2.md
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2\amended - complaint - 2023
+                    E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2\amended - complaint - 2023\amended - complaint - 2023.md
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2\SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-BoA-provided-supporting-evidence-2023-04-25
+                    E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\Letter to gman part 2\proceedings\parties\plaintiff\Letter to gman part 2\SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-BoA-provided-supporting-evidence-2023-04-25\SUPLEMENTAL-AFFIDAVIT-IN-SUPPORT-OF-BoA-provided-supporting-evidence-2023-04-25.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\Laws Prohibiting Dual Tracking in the Foreclosure Context  Nolo.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\research.md
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\from searches
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\judgements
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\notes.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\interesting finds
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\interesting finds\interesting finds.md
+            E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\side cases.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\court crap
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\court crap\court crap.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related\sheet related.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related\New folder
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related\New folder\New folder.md
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related\New folder\New folder
+                    E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\sheet related\New folder\New folder\New folder.md
+              E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231.md
+                E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231.md
+                  E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231\pdf
+                    E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\research\notes\side cases\USCOURTS-idd-1_11-cv-00231\USCOURTS-idd-1_11-cv-00231\pdf\pdf.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\response to judgment on S&D
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\response to judgment on S&D\response to judgment on S&D.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\responses to strike and dismiss
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\responses to strike and dismiss\responses to strike and dismiss.md
+        E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\the big go
+          E:\_GIT\obsidian\BoA timeline\proceedings\parties\plaintiff\the big go\the big go.md
+  E:\_GIT\obsidian\BoA timeline\profiles
+    E:\_GIT\obsidian\BoA timeline\profiles\profiles.md
+    E:\_GIT\obsidian\BoA timeline\profiles\addresses
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\addresses.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1 HOME CAMPUS, DES MOINES, IA, 50328-0001
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1 HOME CAMPUS, DES MOINES, IA, 50328-0001\1 HOME CAMPUS, DES MOINES, IA, 50328-0001.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1006 JAPONICA LANE, SHREVEPORT, LA, 71118-3513
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1006 JAPONICA LANE, SHREVEPORT, LA, 71118-3513\1006 JAPONICA LANE, SHREVEPORT, LA, 71118-3513.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1006 JAPONICA LANE, SHREVEPORT, LA, 71118-3513\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585\files\files.md
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\10540 BLANCHARD FURRH RD, MOORINGSPORT, LA, 71060-8585\files\New folder.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\10770 LOWER COALING ROAD, COTTONDALE, AL 35453
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\10770 LOWER COALING ROAD, COTTONDALE, AL 35453\10770 LOWER COALING ROAD, COTTONDALE, AL 35453.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1200 LANDSDOWNE DR, GASTONIA, NC, 28054-2720
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1200 LANDSDOWNE DR, GASTONIA, NC, 28054-2720\1200 LANDSDOWNE DR, GASTONIA, NC, 28054-2720.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1341 E 2925 N, OGDEN, UTAH, 84414-1821
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1341 E 2925 N, OGDEN, UTAH, 84414-1821\1341 E 2925 N, OGDEN, UTAH, 84414-1821.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1341 E 2925 N, OGDEN, UTAH, 84414-1821\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1493 E RIDGELINE DR, SOUTH OGDEN, UT 84405
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1493 E RIDGELINE DR, SOUTH OGDEN, UT 84405\1493 E RIDGELINE DR, SOUTH OGDEN, UT 84405.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1552 UNION RD SUITE C, GASTONIA, NC, 28054-5523
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1552 UNION RD SUITE C, GASTONIA, NC, 28054-5523\1552 UNION RD SUITE C, GASTONIA, NC, 28054-5523.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\16450 PEAK RUN PLACE, HUGHESVILLE, MD, 20637-2960
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\16450 PEAK RUN PLACE, HUGHESVILLE, MD, 20637-2960\16450 PEAK RUN PLACE, HUGHESVILLE, MD, 20637-2960.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\16450 PEAK RUN PLACE, HUGHESVILLE, MD, 20637-2960\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\1709 N 19TH ST STE 3, BISMARCK, ND 58501-2121
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1709 N 19TH ST STE 3, BISMARCK, ND 58501-2121\1709 N 19TH ST STE 3, BISMARCK, ND 58501-2121.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\1709 N 19TH ST STE 3, BISMARCK, ND 58501-2121\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\18619 GLADVILLE AVE., HOMEWOOD, IL 60430-3813
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\18619 GLADVILLE AVE., HOMEWOOD, IL 60430-3813\18619 GLADVILLE AVE., HOMEWOOD, IL 60430-3813.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\18619 GLADVILLE AVE., HOMEWOOD, IL 60430-3813\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\2 SOUTH SALISBURY STREET, RALEIGH, NC, 27601-2903
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\2 SOUTH SALISBURY STREET, RALEIGH, NC, 27601-2903\2 SOUTH SALISBURY STREET, RALEIGH, NC, 27601-2903.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\2 SOUTH SALISBURY STREET, RALEIGH, NC, 27601-2903\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\2 SOUTH SALISBURY STREET, RALEIGH, NC, 27601-2903\files\files.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\2173 CLEARBROOK ROAD, HOOVER, AL 35226-1566
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\2173 CLEARBROOK ROAD, HOOVER, AL 35226-1566\2173 CLEARBROOK ROAD, HOOVER, AL 35226-1566.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\2300 N LINCOLN BLVD STE 101, OKLAHOMA CITY, OK 73105-4897
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\2300 N LINCOLN BLVD STE 101, OKLAHOMA CITY, OK 73105-4897\2300 N LINCOLN BLVD STE 101, OKLAHOMA CITY, OK 73105-4897.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\24 OFFICE PARK CT STE A, COLUMBIA, SC, 29223-5967
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\24 OFFICE PARK CT STE A, COLUMBIA, SC, 29223-5967\24 OFFICE PARK CT STE A, COLUMBIA, SC, 29223-5967.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\24 OFFICE PARK CT STE A, COLUMBIA, SC, 29223-5967\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\24 OFFICE PARK CT STE A, COLUMBIA, SC, 29223-5967\files\files.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\2637 N WASHINGTON BLVD, #207 NORTH OGDEN, UT 84414
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\2637 N WASHINGTON BLVD, #207 NORTH OGDEN, UT 84414\2637 N WASHINGTON BLVD, #207 NORTH OGDEN, UT 84414.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\3010 BETHEL RD, PORT ORCHARD, WA, 98366-2410
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\3010 BETHEL RD, PORT ORCHARD, WA, 98366-2410\3010 BETHEL RD, PORT ORCHARD, WA, 98366-2410.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\3010 BETHEL RD, PORT ORCHARD, WA, 98366-2410\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]].md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\files
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\fillings-docs
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\fillings-docs\fillings-docs.md
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\fillings-docs\MPH3 LLC--GA
+            E:\_GIT\obsidian\BoA timeline\profiles\addresses\[[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665]]\fillings-docs\MPH3 LLC--GA\MPH3 LLC--GA.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\3415 INDEPENDENCE DRIVE STE 220, BIRMINGHAM, AL 35209
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\3415 INDEPENDENCE DRIVE STE 220, BIRMINGHAM, AL 35209\3415 INDEPENDENCE DRIVE STE 220, BIRMINGHAM, AL 35209.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\3448 W SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\3448 W SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740\3448 W SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\3448 W SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\3448 W SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740\files\files.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\348 COURT STREET, LACONIA, NH, 03246
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\348 COURT STREET, LACONIA, NH, 03246\348 COURT STREET, LACONIA, NH, 03246.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\405 S. W. 5TH STREET, DES MOINES, IA, 50309-0000
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\405 S. W. 5TH STREET, DES MOINES, IA, 50309-0000\405 S. W. 5TH STREET, DES MOINES, IA, 50309-0000.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\4532 U.S. HIGHWAY 19 2ND FL, NEW PORT RICHEY, FL, 34652
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\4532 U.S. HIGHWAY 19 2ND FL, NEW PORT RICHEY, FL, 34652\4532 U.S. HIGHWAY 19 2ND FL, NEW PORT RICHEY, FL, 34652.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\5056 STONE RIDGE DR, GASTONIA, NC, 28056
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\5056 STONE RIDGE DR, GASTONIA, NC, 28056\5056 STONE RIDGE DR, GASTONIA, NC, 28056.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\5500 OLD FARM RD, GASTONIA, NC, 28056-9096
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\5500 OLD FARM RD, GASTONIA, NC, 28056-9096\5500 OLD FARM RD, GASTONIA, NC, 28056-9096.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\641 SOUTH LAWRENCE STREET, MONTGOMERY, AL 36104
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\641 SOUTH LAWRENCE STREET, MONTGOMERY, AL 36104\641 SOUTH LAWRENCE STREET, MONTGOMERY, AL 36104.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\645 SOUTH CAMP BAY RD, SAGLE, ID 83860
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\645 SOUTH CAMP BAY RD, SAGLE, ID 83860\645 SOUTH CAMP BAY RD, SAGLE, ID 83860.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\6605 GRAND MONTECITO PKWY, SUITE 100, LAS VEGAS, NV, 89149-0210
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\6605 GRAND MONTECITO PKWY, SUITE 100, LAS VEGAS, NV, 89149-0210\6605 GRAND MONTECITO PKWY, SUITE 100, LAS VEGAS, NV, 89149-0210.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\6605 GRAND MONTECITO PKWY, SUITE 100, LAS VEGAS, NV, 89149-0210\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\6605 GRAND MONTECITO PKWY, SUITE 100, LAS VEGAS, NV, 89149-0210\files\files.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\6623 OLD STATESVILLE RD, CHARLOTTE, NC, 28269-1749
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\6623 OLD STATESVILLE RD, CHARLOTTE, NC, 28269-1749\6623 OLD STATESVILLE RD, CHARLOTTE, NC, 28269-1749.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\6623 OLD STATESVILLE RD, CHARLOTTE, NC, 28269-1749\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\7916 EVOLUTIONS WAY STE 210, TRINITY, FL, 34655
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\7916 EVOLUTIONS WAY STE 210, TRINITY, FL, 34655\7916 EVOLUTIONS WAY STE 210, TRINITY, FL, 34655.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299\813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\821 GRAND AVE, ST PAUL, MN, 55105-3311
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\821 GRAND AVE, ST PAUL, MN, 55105-3311\821 GRAND AVE, ST PAUL, MN, 55105-3311.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\821 GRAND AVE, ST PAUL, MN, 55105-3311\files
+          E:\_GIT\obsidian\BoA timeline\profiles\addresses\821 GRAND AVE, ST PAUL, MN, 55105-3311\files\files.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\915 N NEW HOPE RD STE E, GASTONIA, NC, 28054-3390
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\915 N NEW HOPE RD STE E, GASTONIA, NC, 28054-3390\915 N NEW HOPE RD STE E, GASTONIA, NC, 28054-3390.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\9340 HELENA ROAD SUITE F 193, BIRMINGHAM, AL 35244-1794
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\9340 HELENA ROAD SUITE F 193, BIRMINGHAM, AL 35244-1794\9340 HELENA ROAD SUITE F 193, BIRMINGHAM, AL 35244-1794.md
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\985 E MAIN STREET, HERMISTON, OR, 97838-2061
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\985 E MAIN STREET, HERMISTON, OR, 97838-2061\985 E MAIN STREET, HERMISTON, OR, 97838-2061.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\985 E MAIN STREET, HERMISTON, OR, 97838-2061\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 160132, CLEARFIELD, UT 84016-0132
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 160132, CLEARFIELD, UT 84016-0132\PO BOX 160132, CLEARFIELD, UT 84016-0132.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 160132, CLEARFIELD, UT 84016-0132\files
+      E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 29622, RALEIGH, NC, 27626-0622
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 29622, RALEIGH, NC, 27626-0622\PO BOX 29622, RALEIGH, NC, 27626-0622.md
+        E:\_GIT\obsidian\BoA timeline\profiles\addresses\PO BOX 29622, RALEIGH, NC, 27626-0622\files
+    E:\_GIT\obsidian\BoA timeline\profiles\corporations
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\2020 PROPERTIES LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\ALL SEASONS REAL ESTATE LLC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\AMERICAN LAND TITLE CO., INC. BRANCH (Alaska).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\COLCHESTER ANTI POVERTY NETWORK SOCIETY (Nova Scotia (Canada)).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CORPORATION SERVICE COMPANY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\corporations.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (Louisiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (Nevada).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (North Carolina).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (South Carolina).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC BRANCH (Delaware).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC BRANCH (New Jersey).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC BRANCH (New York).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC BRANCH (North Dakota).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\CROSS COUNTRY EQUITY LLC BRANCH (Pennsylvania).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\HANKSVILLE STORAGE, LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\HF6 FAMILY LP (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\HF6 FAMILY LP, A UTAH LIMITED PARTNERSHIP.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\IMPACT 30, LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\KELLY NICHOLAS HEITZ INC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\KELLY NICHOLAS HEITZ INC. (Utah-7558223-0142).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\KELLY NICHOLAS HEITZ, INC. (Utah-4858667-0142).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\KELLY NICHOLAS HEITZ, INC. (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\KITSAP PROPERTY MANAGEMENT INC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MCCORMICK SCHOOL OF REAL ESTATE LLC (Indiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2016 LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC (Maryland).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC BRANCH (Minnesota).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC BRANCH (New Jersey).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2017 LLC BRANCH (Oregon).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2018 LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2018 LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2018 LLC BRANCH (Montana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2018 LLC BRANCH (New Jersey).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME 2018 LLC BRANCH (Oregon).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MOUNTAIN PRIME LLC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1 LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1 UT, LLC (Florida).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1 UTAH LLC (Florida).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC (Illinois - 05162963).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC (Illinois - 05211824).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC (Indiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC (Washington).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC BRANCH (Alabama).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC BRANCH (Indiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH1, LLC BRANCH (Washington).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH2 LLC BRANCH (Indiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH2 UTAH LLC BRANCH (Arkansas).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH2, LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH2, LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH2, LLC BRANCH (North Carolina).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3 LLC (North Carolina).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3 LLC BRANCH (North Carolina).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3, LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3, LLC (Indiana).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3, LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH3, LLC BRANCH (Connecticut).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH4 LLC (New Hampshire).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH4 LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH4 LLC BRANCH (Maryland).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\MPH4 LLC BRANCH (New Hampshire).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\NATE MUELLER, PC. (Utah - 5051518-0144).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\NBJM FAMILY LP (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\NBJM FAMILY LP, A UTAH LIMITED PARTNERSHIP.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\Real Property Management Midlands.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\TERRA NORTH LLC (Utah).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\THE CAREY LAW GROUP, LLC (Illinois).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\UNITED STATES CORPORATION AGENTS, INC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\URS AGENTS, LLC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WACHOVIA MORTGAGE CORPORATION BRANCH (Alaska).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WELLS FARGO BANK, NATIONAL ASSOCIATION BRANCH (Nova Scotia (Canada)).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WELLS FARGO BRASIL ESCRITORIO DE REPRESENTACAO LTDA. (Brazil).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WELLS FARGO HOME MORTGAGE, INC. BRANCH (Alaska).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WELLS FARGO INTERNATIONAL SOLUTIONS LLC BRANCH (Alaska).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\Wells Fargo Ventures, LLC BRANCH (Alaska).md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\WYN EQUITY LLC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\Blackstone 81 LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Blackstone 81 LLC\Blackstone 81 LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Blackstone 81 LLC\files
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\DPW ENTERPRISESE LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\DPW ENTERPRISESE LLC\files
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\Fannin & Son Investments, LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Fannin & Son Investments, LLC\Fannin & Son Investments, LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Fannin & Son Investments, LLC\files
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\FANNIN REALTY GROUP, LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\FANNIN REALTY GROUP, LLC\FANNIN REALTY GROUP, LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\FANNIN REALTY GROUP, LLC\files
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\PMI Realty, LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\PMI Realty, LLC\PMI Realty, LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\PMI Realty, LLC\files
+      E:\_GIT\obsidian\BoA timeline\profiles\corporations\Providence Management & Investments, LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Providence Management & Investments, LLC\Providence Management & Investments, LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\corporations\Providence Management & Investments, LLC\files
+    E:\_GIT\obsidian\BoA timeline\profiles\people
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ADAMS, S CRAIG.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ADAMS, STEPHEN W.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\AGENA, JUSTIN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ALLEN, KEVIN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ALVEY, BERNIE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ANDERSON, KRISTOPHER.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\BAKE, KAROLYN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\BANERRJI, ARINDAM.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\BENNET, STEPHEN G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\BRENAY, MARK F.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CALLAGHAN, PATRICIA R.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CAMPBELL, ELAINE P.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CAMPBELL, JON R.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CANTWELL, JAMES CLAIR.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CAREY, PATRICK.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CARLSTON, SCOTT.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CARROLL, DAVID M.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CHAPMAN, ROBERT K.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CODEL, FRANKLIN R.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\COFFIN, MARY C.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\COLLINGS, SANDI.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CROSBY, RILEY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\CUNHA FILHO, ANTONIO FRANCISCO.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\DEROSIERS, NANCY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\DURSTELER, BLAKE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\ELLIS, CAROLYN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\FAHEY, JOHN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\FAHEY, MICHAEL G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\FANNIN, GEORGE W.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\FANNIN, JOSH.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\GARBER, DANIEL A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\GARCIA, MONICA O.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\GAREISS, NEIL.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\GLEESON, ABE J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\GUESS, DON.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HAIRR, LISA M.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HAMBLIN, SCOTT WEALTH.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HARDISON, HOPE A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HARRISON, MARY J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HAYWARD, BRENT H.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HEID, MICHAEL.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HEITZ, KELLY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HEITZ, KENT E.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HENRY, TRISH.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HOLLAND, MONIQUE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\HOLLENBECK, DAVID.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\JEWELL, MICHAEL D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\JOHNSON, EDWARD.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\KELLER, MICHAEL J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\KING-DARBY, SUE C.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\KNOBLOCH, MARK.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\KRUEGER, LIBBY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LEA-KAHLE, DIANA.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LEVY, RICHARD D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LOUGHLIN, MICHAEL J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LUKENBILL, STEVEN A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LUKENBILL, STEVEN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\LYNCH, JAMES D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MACINTYRE, M ANGIE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MALLOY, RICHARD F.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MANESS, CHAD.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MCCLELLAND, STEVEN D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MCCORMICK, JEFF.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MENDEZ, RAFAEL A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MERKLE, GREG.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MILLECAM, KENT.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MILLER, TROY GARY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MITCHELL, NEAL A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOCK, BUNNY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOCK, ERIC.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MODJTABAI, AVID.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOORE, GARY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOORE, NICHOLAS G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOORE, ROB.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MORRISON, STEPHEN D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MOSKOWITZ, DAVID.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MUELLER, BROOKE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MUELLER, NATHAN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\MUNCY, KEITH G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\NAENIFARD, HOSSEIN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\NIELSON, DYLAN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\OLSEN, KRISTINE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\PARDEN, PATTY J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\PARKER, EDWARD R.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\people.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\PRICE, JAY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\RHEIN, KEVIN A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\RICHARDSON, LEEONNAS.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\RINGLER, DIANE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\RUESCH, CHORTNEY B.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SARGETAKIS, PAULA SWANER.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SCALLON, ROBERT.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SCHINDLER, AUSTIN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SCOVEL, JENNIFER JANE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SCOVEL, MATTHEW WADE.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SHREWSBERRY, JOHN R.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SLOAN, TIMOTHY J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SMALL, JEFF.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SOBER, CAROL.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SPARKMAN, KENDALL.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STEELE, JAMES M.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STEPHENS, KELLY D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STEWARD, DARCY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STEWART, FRANK A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STEWART, TIMOTHY A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STOCKING, JAY.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STROTHER, JAMES.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\STUMPF, JOHN G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SULLIVAN, SCOTT.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\SWANER, PAULA M.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\TOLSTEDT, CARRIE L.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\TOWNS, PATRICIA A.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WALLIN, RICHARD D.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WARNER, DEANNA.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WARNER, NATHAN B.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WATKINS, DON N.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WESCOTT, MARTIN.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WHITE, DANIEL P.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WHITE, JON.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WILLIAMS, DANIEL G.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WILSON, PAMELA.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WISSINGER, PETER J.md
+      E:\_GIT\obsidian\BoA timeline\profiles\people\WISSINGER, PETER.md
+    E:\_GIT\obsidian\BoA timeline\profiles\queries
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\3138 N 1250 W, Pleasant View, UT 84414Account View.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Bernie Alvey - OCEAN CITY, MD Real Estate Agent  realtor.com®.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Companies matching '26 W SIXTH AVE, HELENA'  OpenCorporates.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Company officers with names matching 'SANDI COLLINGS'  Page 1  OpenCorporates.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\CrossCountry Mortgage--Real Estate's Online License Renewal System.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Nathan Mueller - Mountain Green, UT Real Estate Agent  realtor.com®.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Pamela Wilson - HERMISTON, OR Real Estate Agent  realtor.com®.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\queries.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\SANDI COLLINGS--Real Estate's Online License Renewal System.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\SANDI R COLLINGS (agent)  OpenCorporates.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\SANDI-r-COLLINGS-alts.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\__pycache__
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\CAREY LAW GROUP - GA
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Cross Country Equity
+        E:\_GIT\obsidian\BoA timeline\profiles\queries\Cross Country Equity\Cross Country Equity.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\CROSS_COUNTRY_EQUITY_LLC
+        E:\_GIT\obsidian\BoA timeline\profiles\queries\CROSS_COUNTRY_EQUITY_LLC\CROSS_COUNTRY_EQUITY_LLC.md
+        E:\_GIT\obsidian\BoA timeline\profiles\queries\CROSS_COUNTRY_EQUITY_LLC\R0082900
+          E:\_GIT\obsidian\BoA timeline\profiles\queries\CROSS_COUNTRY_EQUITY_LLC\R0082900\R0082900.md
+          E:\_GIT\obsidian\BoA timeline\profiles\queries\CROSS_COUNTRY_EQUITY_LLC\R0082900\Tax_Account_Summary.md
+      E:\_GIT\obsidian\BoA timeline\profiles\queries\Fannin, Joshua
+        E:\_GIT\obsidian\BoA timeline\profiles\queries\Fannin, Joshua\FANNIN, JOSHUA.md
+ 

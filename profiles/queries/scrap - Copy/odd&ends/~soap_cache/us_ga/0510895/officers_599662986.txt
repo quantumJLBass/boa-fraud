@@ -1,0 +1,86 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive admin._dissolved" href="/companies/us_ga/0510895" title="More Free And Open Company Data On THE THEODORE WEISS 2005 LLC (Georgia (US), 0510895)">THE THEODORE WEISS 2005 LLC</a> &gt; <a href="https://opencorporates.com/companies/us_ga/0510895/officers" title="All officers/directors for THE THEODORE WEISS 2005 LLC">All officers</a>
+<h1>WELLS FARGO BANK, N.A</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive admin._dissolved" href="/companies/us_ga/0510895" title="More Free And Open Company Data On THE THEODORE WEISS 2005 LLC (Georgia (US), 0510895)">THE THEODORE WEISS 2005 LLC</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=WELLS+FARGO+BANK%2C+N.A" title="Company Officers/Directors named WELLS FARGO BANK, N.A">WELLS FARGO BANK, N.A</a></dd>
+<dt>Address</dt> <dd class="address">400 NORTHRIDGE ROAD STE 600, ATLANTA, GA, 30350</dd>
+<dt>Position</dt> <dd class="position">agent</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=WELLS+FARGO+BANK%2C+N.A">Search Google for 'WELLS FARGO BANK, N.A'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=WELLS+FARGO+BANK%2C+N.A">Search LittleSis for 'WELLS FARGO BANK, N.A'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive admin._dissolved" href="/companies/us_ga/0510895" title="More Free And Open Company Data On THE THEODORE WEISS 2005 LLC (Georgia (US), 0510895)">THE THEODORE WEISS 2005 LLC</a>
+</h3>
+<ul class="officers">
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated March  7 2024, 12.07AM (4 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=WELLS+FARGO+BANK%2C+N.A" title="Company Officers/Directors named WELLS FARGO BANK, N.A">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=WELLS+FARGO+BANK%2C+N.A">Found 432.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/719309961" title="more info on *WELLS FARGO BANK N.A. (TR)">*WELLS FARGO BANK N.A. (TR)</a>, mem, <span class="start_date"> 1 Oct 2007</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_hi" title="Free And Open Data On Hawaii (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive adm._terminated" href="/companies/us_hi/2237C5" title="More Free And Open Company Data On KIHEI SURFSIDE RENTAL LLC (Hawaii (US), 2237C5)">KIHEI SURFSIDE RENTAL LLC</a> (Hawaii (US), <span class="start_date">18 Dec 1998</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/484611368" title="more info on ALEXANDER MAGANA ON BEHALF OF WELLS FARGO BANK N.A., TRUSTEE OF THE JOYCE BRANNING DOHENY DYNASTY TRUST FBO LUCILLE BROWN DOHENY - EXEMPT">ALEXANDER MAGANA ON BEHALF OF WELLS FARGO BANK N.A., TRUSTEE OF THE JOYCE BRANNING DOHENY DYNASTY TRUST FBO LUCILLE BROWN DOHENY - EXEMPT</a>,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch active" href="/companies/us_ca/200408910091" title="More Free And Open Company Data On ELD III, LLC (California (US), 200408910091)">ELD III, LLC</a> (California (US), <span class="start_date">24 Mar 2004</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/431778407" title="more info on ANDREW M NOLL, C/O WELLS FARGO BANK, N.A., EXECUTOR">ANDREW M NOLL, C/O WELLS FARGO BANK, N.A., EXECUTOR</a>, member,
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_nv/LLC21420-2004" title="More Free And Open Company Data On PANAM, LLC (Nevada (US), LLC21420-2004)">PANAM, LLC</a> (Nevada (US), <span class="start_date">17 Sep 2004</span>-<span class="end_date">17 Sep 2504</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/431505833" title="more info on ANDREW M NOLL, VP-WELLS FARGO BANK, N.A., EXECUTOR">ANDREW M NOLL, VP-WELLS FARGO BANK, N.A., EXECUTOR</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_nv/LLC10641-2001" title="More Free And Open Company Data On AMERICAN PROPERTIES, LLC (Nevada (US), LLC10641-2001)">AMERICAN PROPERTIES, LLC</a> (Nevada (US), <span class="start_date">27 Sep 2001</span>-<span class="end_date">27 Sep 2501</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/431502296" title="more info on ANDREW M NOLL, VP-WELLS FARGO BANK, N.A., EXECUTOR OF ESTATE OF R. FRANK MCKOY">ANDREW M NOLL, VP-WELLS FARGO BANK, N.A., EXECUTOR OF ESTATE OF R. FRANK MCKOY</a>, member,
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_nv/LLC10525-2003" title="More Free And Open Company Data On BLACKJACK FIREWORKS LLC (Nevada (US), LLC10525-2003)">BLACKJACK FIREWORKS LLC</a> (Nevada (US), <span class="start_date">16 Jul 2003</span>-<span class="end_date">16 Jul 2503</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/484991720" title="more info on BANK OF AMERICA N.A. SUCCESSOR BY APPOLNTMENT TO WELLS FARGO BANK N.A. AS TRUSTEE">BANK OF AMERICA N.A. SUCCESSOR BY APPOLNTMENT TO WELLS FARGO BANK N.A. AS TRUSTEE</a>, sole member,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive forfeited_existence" href="/companies/us_tx/0801067900" title="More Free And Open Company Data On CSFB Alliance 2007-C2, LLC (Texas (US), 0801067900)">CSFB Alliance 2007-C2, LLC</a> (Texas (US), <span class="start_date">29 Dec 2008</span>-<span class="end_date">10 Feb 2012</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/517392860" title="more info on BANK OF AMERICA, N.A. AS SUCCESSOR TO WELLS FARGO BANK, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF GS MORTGAGE SECURITIES CORPORATION">BANK OF AMERICA, N.A. AS SUCCESSOR TO WELLS FARGO BANK, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF GS MORTGAGE SECURITIES CORPORATION</a>,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch terminated" href="/companies/us_ca/200832610174" title="More Free And Open Company Data On 148 PEABODY ROAD HOLDINGS, LLC (California (US), 200832610174)">148 PEABODY ROAD HOLDINGS, LLC</a> (California (US), <span class="start_date">19 Nov 2008</span>-<span class="end_date">16 Nov 2010</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/735030446" title="more info on BANK OF AMERICA, N.A. AS SUCCESSOR TO WELLS FARGO BANK, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF GS MORTGAGE SECURITIES CORPORATION">BANK OF AMERICA, N.A. AS SUCCESSOR TO WELLS FARGO BANK, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF GS MORTGAGE SECURITIES CORPORATION</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch terminated" href="/companies/us_ca/200832610174" title="More Free And Open Company Data On 148 PEABODY ROAD HOLDINGS, LLC (California (US), 200832610174)">148 PEABODY ROAD HOLDINGS, LLC</a> (California (US), <span class="start_date">19 Nov 2008</span>-<span class="end_date">16 Nov 2010</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/715918737" title="more info on BANK OF AMERICA, N.A. SUCCESSOR TO WELLS FARGO BANK">BANK OF AMERICA, N.A. SUCCESSOR TO WELLS FARGO BANK</a>, manager,
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive withdrawn" href="/companies/us_il/LLC_03527816" title="More Free And Open Company Data On 1 W WASHINGTON STREET HOLDINGS, LLC (Illinois (US), LLC_03527816)">1 W WASHINGTON STREET HOLDINGS, LLC</a> (Illinois (US), <span class="start_date"> 5 Apr 2011</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/528539258" title="more info on Bank of America N.A. as Trustee successor to Wells Fargo Bank, N.A. as Trustee for the registered holders of Wachovia Bank Commercial Mortgage Trust C">Bank of America N.A. as Trustee successor to Wells Fargo Bank, N.A. as Trustee for the registered holders of Wachovia Bank Commercial Mortgage Trust C</a>, general partner,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_tx/0802770928" title="More Free And Open Company Data On 7402-7648 Reindeer Trail Holdings Limited Partnership (Texas (US), 0802770928)">7402-7648 Reindeer Trail Holdings Limited Partnership</a> (Texas (US), <span class="start_date">18 Jul 2017</span>-<span class="end_date">27 Dec 2019</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/528701351" title="more info on Bank of America, N.A. as successor to Wells Fargo Bank, N.A., as Trustee for the registered holders of Wachovia Bank Commercial Mortgage Trust, Comme">Bank of America, N.A. as successor to Wells Fargo Bank, N.A., as Trustee for the registered holders of Wachovia Bank Commercial Mortgage Trust, Comme</a>, governing person,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_tx/0801409570" title="More Free And Open Company Data On 1415 West Airport Freeway General Partner Holdings, LLC (Texas (US), 0801409570)">1415 West Airport Freeway General Partner Holdings, LLC</a> (Texas (US), <span class="start_date"> 8 Apr 2011</span>-<span class="end_date">14 Nov 2011</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>

@@ -1,0 +1,1341 @@
+{
+    "https://opencorporates.com/companies/us_fl/M24000005478": {
+        "Links": [
+            "/officers/898281974",
+            "/officers/898281971",
+            "/officers/898281965",
+            "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+            "/officers/898281956",
+            "/officers/898281962",
+            "/companies/us_nc/0467939",
+            "/officers/898281968"
+        ],
+        "Company Name": "WF AFFORDABLE HOUSING LLC (Florida)",
+        "Attributes": {
+            "Company Number": "M24000005478",
+            "Status": "Active",
+            "Incorporation Date": "29 April 2024 (about 2 months ago)",
+            "Company Type": "Foreign Limited Liability",
+            "Jurisdiction": "Florida",
+            "Agent Name": "CORPORATION SERVICE COMPANY",
+            "Agent Address": "1201 HAYS S , TALLAHASSEE, FL, 32301-2525",
+            "Directors / Officers": "CORPORATION SERVICE COMPANY, agent KRISTINE RUTTER MICHAEL LOOSE RICHARD FRANK VANESSA RODRIGUEZ WELLS FARGO BANK, N.A",
+            "Registry Page": "https://search.sunbiz.org/Inquiry/Cor..."
+        },
+        "Officers": [
+            {
+                "Name": "RICHARD FRANK",
+                "Role": "",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281956",
+                "Address": "401 S TYRON S , CHARLOTTE, N , 28202"
+            },
+            {
+                "Name": "VANESSA RODRIGUEZ",
+                "Role": "",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281962",
+                "Address": "401 S TYRON S , CHARLOTTE, N , 28202"
+            },
+            {
+                "Name": "MICHAEL LOOSE",
+                "Role": "",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281965",
+                "Address": "401 S TYRON S , CHARLOTTE, N , 28202"
+            },
+            {
+                "Name": "KRISTINE RUTTER",
+                "Role": "",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281968",
+                "Address": "401 S TYRON S , CHARLOTTE, N , 28202"
+            },
+            {
+                "Name": "WELLS FARGO BANK, N.A",
+                "Role": "N.A",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281971",
+                "Address": "101 N PHILLIPS AVE , SIOUX FLS , S , 57104"
+            },
+            {
+                "Name": "CORPORATION SERVICE COMPANY",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/898281974",
+                "Address": "1201 HAYS S , TALLAHASSEE, FL, 32301-2525"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_ca/201300910155": {
+        "Links": [
+            "/officers/264056794",
+            "https://opencorporates.com/companies/us_ca/201300910155/filings",
+            "/events/2706998891",
+            "/filings/381590805",
+            "/companies/us_md/W14986830",
+            "/officers/841761629",
+            "/officers/700609179",
+            "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=201300910155-16088081",
+            "/data/163477310",
+            "/officers/700609176",
+            "/filings/342952518",
+            "/officers/492491684",
+            "/events/2706998882",
+            "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=201300910155-15822610",
+            "https://bizfileonline.sos.ca.gov/search/business",
+            "/events/2802765769",
+            "/data/44579893"
+        ],
+        "Company Name": "43460 RIDGE PARK DRIVE HOLDINGS, LLC BRANCH (California)",
+        "Attributes": {
+            "Company Number": "201300910155",
+            "Status": "Forfeited Ftb",
+            "Incorporation Date": "19 December 2012 (over 11 years ago)",
+            "Dissolution Date": "1 November 2016",
+            "Company Type": "Limited Liability Company - Out of State",
+            "Jurisdiction": "California",
+            "Branch": "Branch of 43460 RIDGE PARK DRIVE HOLDINGS, LLC (Maryland)",
+            "Registered Address": "7501 WISCONSIN AVE S 500 W BETHESDA 20814 MD",
+            "Inactive Directors / Officers": "CORPORATION SERVICE COMPANY, agent CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE, agent CSC - LAWYERS INCORPORATING SERVICE, agent WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C, manager",
+            "Registry Page": "https://bizfileonline.sos.ca.gov/sear..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/44579893",
+                    "Description": "7501 WISCONSIN AVE S 500 W, BETHESDA, MD, 20814,"
+                },
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/163477310",
+                    "Description": "CA,"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "43460 RIDGE PARK DRIVE HOLDINGS, LLC",
+                "Jurisdiction": "",
+                "Status": "inactive",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_md/W14986830"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "16 Jan 2013",
+                "Link": "https://opencorporates.com/filings/342952518",
+                "Description": "SI-COMPLETE\n\nview"
+            },
+            {
+                "Date": "19 Dec 2012",
+                "Link": "https://opencorporates.com/filings/381590805",
+                "Description": "REGISTRATION\n\nview"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2012-12-19",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/884398106"
+            },
+            {
+                "Date": "Between 2012-12-19 and 2019-02-17",
+                "Description": "Addition of officer CORPORATION SERVICE COMPANY, agent",
+                "Link": "https://opencorporates.com/events/884398079"
+            },
+            {
+                "Date": "Between 2021-01-12 and 2021-04-30",
+                "Description": "Addition of officer WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C,",
+                "Link": "https://opencorporates.com/events/2068537586"
+            },
+            {
+                "Date": "Between 2021-01-12 and 2021-04-30",
+                "Description": "Change of status from 'Ftb Forfeited' to 'Franchise Tax Board (Ftb) Suspended/Forfeited'",
+                "Link": "https://opencorporates.com/events/2068537607"
+            },
+            {
+                "Date": "Between 2022-07-10 and 2022-10-30",
+                "Description": "Addition of officer CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE, agent",
+                "Link": "https://opencorporates.com/events/2706998891"
+            },
+            {
+                "Date": "Between 2022-07-10 and 2022-10-30",
+                "Description": "Addition of officer WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C, manager",
+                "Link": "https://opencorporates.com/events/2706998882"
+            },
+            {
+                "Date": "On 2022-10-31",
+                "Description": "Change of status from 'Franchise Tax Board (Ftb) Suspended/Forfeited' to 'Forfeited   Ftb'",
+                "Link": "https://opencorporates.com/events/2802765769"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "CORPORATION SERVICE COMPANY",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/264056794"
+            },
+            {
+                "Name": "WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C",
+                "Role": "MORTGAGE PASS-THROUGH C",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/492491684",
+                "Address": "7501 WISCONSIN AVE S 500 W, BETHESDA, MD, 20814"
+            },
+            {
+                "Name": "WELLS FARGO BANK,N.A.,AS TRUSTEE FOR THE REGISTERED HOLDERS OF GMAC COMMERCIAL MORTGAGE CORPORATION,MORTGAGE PASS-THROUGH C",
+                "Role": "manager",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/700609176",
+                "Address": "7501 WISCONSIN AVE S 500 W, BETHESDA, MD, 20814,"
+            },
+            {
+                "Name": "CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/700609179",
+                "Address": "2710 GTWY OAKS DR S 150N SACRAMENTO CA 95833"
+            },
+            {
+                "Name": "CSC - LAWYERS INCORPORATING SERVICE",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/841761629",
+                "Address": "251 LITTLE FLS DR , WILMINGTON, DE, 19808,"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_de/4112674": {
+        "Links": [
+            "/companies/us_ga/0623000",
+            "/events/1168898525",
+            "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx",
+            "/companies/us_va/S1867029",
+            "/companies/us_tn/000536004",
+            "/companies/us_ga/09043250",
+            "http://www.corp.delaware.gov/",
+            "/companies/us_nc/1872481",
+            "/officers/162079350",
+            "/events/1168898534",
+            "/companies/us_co/20061143553"
+        ],
+        "Company Name": "PRIME MOUNTAIN PROPERTIES, LLC (Delaware)",
+        "Attributes": {
+            "Company Number": "4112674",
+            "Incorporation Date": "21 February 2006 (over 18 years ago)",
+            "Company Type": "Limited Liability Company",
+            "Jurisdiction": "Delaware",
+            "Agent Name": "UNASSIGNED AGENT",
+            "Agent Address": "NULLVALUE",
+            "Directors / Officers": "UNASSIGNED AGENT, agent",
+            "Registry Page": "https://icis.corp.delaware.gov/Ecorp/..."
+        },
+        "Events": [
+            {
+                "Date": "On 2006-02-21",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1168898534"
+            },
+            {
+                "Date": "Between 2006-02-21 and 2018-04-13",
+                "Description": "Addition of officer UNASSIGNED AGENT, agent",
+                "Link": "https://opencorporates.com/events/1168898525"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "UNASSIGNED AGENT",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/162079350",
+                "Address": "NULLVALUE"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_co/20121479679": {
+        "Links": [
+            "/companies/us_ct/1372602",
+            "https://www.sos.state.co.us/biz",
+            "/companies/us_ny/5372992",
+            "/officers/905223050",
+            "/companies/us_co/20051378479",
+            "/companies/us_il/LLC_06171591",
+            "/filings/266395907",
+            "/companies/us_mi/802453579",
+            "/companies/us_ms/1205055",
+            "/events/1666101598",
+            "/filings/266395908",
+            "/companies/us_az/23105501",
+            "/companies/us_pa/4046521",
+            "/events/310098173",
+            "/filings/266395909",
+            "/filings/266395910",
+            "/filings/337822601",
+            "https://opencorporates.com/companies/us_co/20121479679/filings",
+            "/data/33702157",
+            "/companies/us_wv/504412",
+            "/companies/us_nd/0000120065"
+        ],
+        "Company Name": "2020 Properties, LLC (Colorado)",
+        "Attributes": {
+            "Company Number": "20121479679",
+            "Status": "Delinquent",
+            "Incorporation Date": "30 August 2012 (almost 12 years ago)",
+            "Company Type": "Limited Liability Company",
+            "Jurisdiction": "Colorado",
+            "Agent Name": "Dustin Randle",
+            "Agent Address": "5680 PECOS S , DENVER, CO, 80221, US",
+            "Directors / Officers": "Dustin Randle, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/33702157",
+                    "Description": "2020 ARAPAHOE S , #LL, DENVER, CO, 80205, US"
+                }
+            ]
+        },
+        "Filings": [
+            {
+                "Date": "27 Jan 2017",
+                "Link": "https://opencorporates.com/filings/337822601",
+                "Description": "Statement of Change Changing the Registered Agent Information"
+            },
+            {
+                "Date": "24 Oct 2014",
+                "Link": "https://opencorporates.com/filings/266395910",
+                "Description": "File Report"
+            },
+            {
+                "Date": "19 Sep 2013",
+                "Link": "https://opencorporates.com/filings/266395909",
+                "Description": "File Report"
+            },
+            {
+                "Date": "5 Apr 2013",
+                "Link": "https://opencorporates.com/filings/266395908",
+                "Description": "Statement of Change Changing the Registered Agent Information"
+            },
+            {
+                "Date": "30 Aug 2012",
+                "Link": "https://opencorporates.com/filings/266395907",
+                "Description": "Form a Limited Liability Company (LLC)"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2012-08-30",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/310098173"
+            },
+            {
+                "Date": "Between 2012-08-30 and 2019-11-12",
+                "Description": "Addition of officer Dustin Randle, agent",
+                "Link": "https://opencorporates.com/events/1666101598"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "Dustin Randle",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/905223050",
+                "Address": "5680 PECOS S , DENVER, CO, 80221, US"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_fl/L20000164834": {
+        "Links": [
+            "/events/1830697505",
+            "/events/1830697502",
+            "/officers/401585264",
+            "/events/1830697496",
+            "/data/82003844",
+            "/officers/401585267",
+            "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+            "/data/82003841"
+        ],
+        "Company Name": "P&S PROPERTIES 2020, LLC (Florida)",
+        "Attributes": {
+            "Company Number": "L20000164834",
+            "Status": "Active",
+            "Incorporation Date": "15 June 2020 (about 4 years ago)",
+            "Company Type": "Florida Limited Liability",
+            "Jurisdiction": "Florida",
+            "Agent Name": "PAMELA S SMITH",
+            "Agent Address": "1028 CORKWOOD DR , OVIEDO, FL, 32765",
+            "Directors / Officers": "PAMELA S SMITH, agent STEPHEN C SMITH",
+            "Registry Page": "https://search.sunbiz.org/Inquiry/Cor..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/82003841",
+                    "Description": "1028 CORKWOOD DR , OVIEDO, FL, 32765"
+                },
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/82003844",
+                    "Description": "1028 CORKWOOD DR , OVIEDO, FL, 32765"
+                }
+            ]
+        },
+        "Events": [
+            {
+                "Date": "On 2020-06-15",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1830697505"
+            },
+            {
+                "Date": "Between 2020-06-15 and 2020-06-30",
+                "Description": "Addition of officer PAMELA S SMITH, agent",
+                "Link": "https://opencorporates.com/events/1830697502"
+            },
+            {
+                "Date": "Between 2020-06-15 and 2020-06-30",
+                "Description": "Addition of officer STEPHEN C SMITH,",
+                "Link": "https://opencorporates.com/events/1830697496"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "STEPHEN C SMITH",
+                "Role": "",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/401585264",
+                "Address": "1028 CORKWOOD DR , OVIEDO, FL, 32765"
+            },
+            {
+                "Name": "PAMELA S SMITH",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/401585267",
+                "Address": "1028 CORKWOOD DR , OVIEDO, FL, 32765"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_wi/2C02655": {
+        "Links": [
+            "/companies/us_ms/710354",
+            "/companies/us_ak/34053F",
+            "/companies/us_nc/0020265",
+            "/companies/us_co/19871530742",
+            "/companies/us_fl/P15000046171",
+            "https://www.wdfi.org/apps/CorpSearch/Results.aspx?type=Simple&q=2C02655",
+            "/companies/us_de/2034708",
+            "/companies/us_sd/FB009768",
+            "/companies/us_ny/324592",
+            "/companies/us_nj/2585001500",
+            "/companies/us_pa/784161",
+            "/officers/219440614",
+            "/companies/us_al/000-851-201",
+            "https://www.wdfi.org/corporations/CorpDataServices.htm"
+        ],
+        "Company Name": "WACHOVIA MORTGAGE CORPORATION BRANCH (Wisconsin)",
+        "Attributes": {
+            "Company Number": "2C02655",
+            "Status": "Withdrawal",
+            "Incorporation Date": "9 May 1984 (about 40 years ago)",
+            "Dissolution Date": "6 February 2012",
+            "Company Type": "Foreign Corporation",
+            "Jurisdiction": "Wisconsin",
+            "Branch": "Branch of out-of-jurisdiction company",
+            "Agent Address": "S PRINCIPAL OFFICE ADDRESS PAN",
+            "Inactive Directors / Officers": "ADDRESS FOR SERVICE OF PROCESS, agent",
+            "Registry Page": "https://www.wdfi.org/apps/CorpSearch/...Website unavailable outside U.S."
+        },
+        "Officers": [
+            {
+                "Name": "ADDRESS FOR SERVICE OF PROCESS",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/219440614",
+                "Address": "S PRINCIPAL OFFICE ADDRESS PANEL ,"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_tx/0161169700": {
+        "Links": [
+            "/filings/890233934",
+            "/officers/510775748",
+            "/filings/890233925",
+            "/officers/510776033",
+            "/filings/890233916",
+            "#",
+            "/officers/510775856",
+            "/filings/890233949",
+            "/officers/510775469",
+            "/officers/510775532",
+            "/officers/510775577",
+            "/officers/510775922",
+            "/officers/510775622",
+            "/officers/510775952",
+            "/officers/510776066",
+            "https://opencorporates.com/companies/us_tx/0161169700/filings",
+            "/events/2080526945",
+            "/officers/510775682",
+            "/officers/510775559",
+            "/officers/510776009",
+            "/officers/510775811",
+            "/events/2080526657",
+            "https://mycpa.cpa.state.tx.us/coa/",
+            "https://direct.sos.state.tx.us/help/help-corp.asp?pg=bulk",
+            "/events/2080526810",
+            "/filings/890233973",
+            "/officers/510775838",
+            "/filings/890233958",
+            "/officers/510775715",
+            "/officers/510775436",
+            "/officers/510775976",
+            "/filings/890233919",
+            "/officers/510775499",
+            "/officers/510775415",
+            "/officers/510775649",
+            "/officers/510775784"
+        ],
+        "Company Name": "FIRST COMMUNITY ADVISORS, INC. (Texas)",
+        "Attributes": {
+            "Company Number": "0161169700",
+            "Status": "Forfeited Existence",
+            "Incorporation Date": "12 January 2001 (over 23 years ago)",
+            "Dissolution Date": "8 February 2008",
+            "Company Type": "Domestic For-Profit Corporation",
+            "Jurisdiction": "Texas",
+            "Registered Address": "90 S 7TH S MINNEAPOLIS 55479 MN USA",
+            "Alternative Names": "FIRST COMMUNITY ADVISORS, INC. (trading name, 2001-01-12 - 2008-02-08)",
+            "Inactive Directors / Officers": "AVID MODJTABAI, executive vp DIANA L LEA-KAHLE, secretary HEIDI M DZIEWECZYNSKI, senior vp HOWARD I ATKINS, executive vp JAMES A HORTON, vice president JAMES E HANSON, vice president JAMES M STROTHER, dividend committee iii JAMES M STROTHER, director JON R CAMPBELL, dividend committee i JON R CAMPBELL, president JON R CAMPBELL, director KAREN B MARTIN, vice president LAUREL A HOLSCHUH, executive vp LISA M BERNARD, vice president MARGARET M WEBER, assistant sec. Nigel J Harrison, agent RACHELLE M GRAHAM, assistant sec. RICHARD D LEVY, dividend committee ii RICHARD D LEVY, executive vp RICHARD D LEVY, treasurer RICHARD D LEVY, director ROGER J SAUCERMAN, vice president",
+            "Registry Page": "https://mycpa.cpa.state.tx.us/coa/"
+        },
+        "Filings": [
+            {
+                "Date": "8 Feb 2008",
+                "Link": "https://opencorporates.com/filings/890233949",
+                "Description": "Tax Forfeiture"
+            },
+            {
+                "Date": "31 Dec 2006",
+                "Link": "https://opencorporates.com/filings/890233925",
+                "Description": "Public Information Report (PIR)"
+            },
+            {
+                "Date": "31 Dec 2005",
+                "Link": "https://opencorporates.com/filings/890233973",
+                "Description": "Public Information Report (PIR)"
+            },
+            {
+                "Date": "31 Dec 2004",
+                "Link": "https://opencorporates.com/filings/890233934",
+                "Description": "Public Information Report (PIR)"
+            },
+            {
+                "Date": "31 Dec 2003",
+                "Link": "https://opencorporates.com/filings/890233916",
+                "Description": "Public Information Report (PIR)"
+            },
+            {
+                "Date": "31 Dec 2002",
+                "Link": "https://opencorporates.com/filings/890233958",
+                "Description": "Public Information Report (PIR)"
+            },
+            {
+                "Date": "12 Jan 2001",
+                "Link": "https://opencorporates.com/filings/890233919",
+                "Description": "Articles Of Incorporation"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2001-01-12",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1076104220"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer AVID MODJTABAI, executive vp",
+                "Link": "https://opencorporates.com/events/2080526594"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer DIANA L LEA-KAHLE, secretary",
+                "Link": "https://opencorporates.com/events/2080526678"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer HEIDI M DZIEWECZYNSKI, senior vp",
+                "Link": "https://opencorporates.com/events/2080526828"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer HOWARD I ATKINS, executive vp",
+                "Link": "https://opencorporates.com/events/2080526846"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JAMES A HORTON, vice president",
+                "Link": "https://opencorporates.com/events/2080526657"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JAMES E HANSON, vice president",
+                "Link": "https://opencorporates.com/events/2080526810"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JAMES M STROTHER, director",
+                "Link": "https://opencorporates.com/events/2080526891"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JAMES M STROTHER, dividend committee iii",
+                "Link": "https://opencorporates.com/events/2080526525"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JON R CAMPBELL, director",
+                "Link": "https://opencorporates.com/events/2080526909"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JON R CAMPBELL, dividend committee i",
+                "Link": "https://opencorporates.com/events/2080526561"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer JON R CAMPBELL, president",
+                "Link": "https://opencorporates.com/events/2080526870"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer KAREN B MARTIN, vice president",
+                "Link": "https://opencorporates.com/events/2080526630"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer LAUREL A HOLSCHUH, executive vp",
+                "Link": "https://opencorporates.com/events/2080526771"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer LISA M BERNARD, vice president",
+                "Link": "https://opencorporates.com/events/2080526753"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer MARGARET M WEBER, assistant sec.",
+                "Link": "https://opencorporates.com/events/2080526579"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer Nigel J Harrison, agent",
+                "Link": "https://opencorporates.com/events/2080526510"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer RACHELLE M GRAHAM, assistant sec.",
+                "Link": "https://opencorporates.com/events/2080526795"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer RICHARD D LEVY, executive vp",
+                "Link": "https://opencorporates.com/events/2080526711"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer RICHARD D LEVY, treasurer",
+                "Link": "https://opencorporates.com/events/2080526729"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Addition of officer ROGER J SAUCERMAN, vice president",
+                "Link": "https://opencorporates.com/events/2080526612"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Change of name from 'FIRST COMMUNITY ADVISORS INC' to 'FIRST COMMUNITY ADVISORS, INC.'",
+                "Link": "https://opencorporates.com/events/2080526489"
+            },
+            {
+                "Date": "Between 2021-03-01 and 2021-04-30",
+                "Description": "Change of status from 'Forfeited Franchise Tax' to 'Forfeited Existence'",
+                "Link": "https://opencorporates.com/events/2080526945"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "Nigel J Harrison",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775415",
+                "Address": "14200 GULF FWY , HOUSTON, TX, 77034, USA"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "dividend committee iii",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775436"
+            },
+            {
+                "Name": "RICHARD D LEVY",
+                "Role": "dividend committee ii",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775469"
+            },
+            {
+                "Name": "JON R CAMPBELL",
+                "Role": "dividend committee i",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775499"
+            },
+            {
+                "Name": "MARGARET M WEBER",
+                "Role": "assistant sec.",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775532"
+            },
+            {
+                "Name": "AVID MODJTABAI",
+                "Role": "executive vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775559"
+            },
+            {
+                "Name": "ROGER J SAUCERMAN",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775577"
+            },
+            {
+                "Name": "KAREN B MARTIN",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775622"
+            },
+            {
+                "Name": "JAMES A HORTON",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775649"
+            },
+            {
+                "Name": "DIANA L LEA-KAHLE",
+                "Role": "secretary",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775682"
+            },
+            {
+                "Name": "RICHARD D LEVY",
+                "Role": "executive vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775715"
+            },
+            {
+                "Name": "RICHARD D LEVY",
+                "Role": "treasurer",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775748"
+            },
+            {
+                "Name": "LISA M BERNARD",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775784"
+            },
+            {
+                "Name": "LAUREL A HOLSCHUH",
+                "Role": "executive vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775811"
+            },
+            {
+                "Name": "RACHELLE M GRAHAM",
+                "Role": "assistant sec.",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775838"
+            },
+            {
+                "Name": "JAMES E HANSON",
+                "Role": "vice president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775856"
+            },
+            {
+                "Name": "HEIDI M DZIEWECZYNSKI",
+                "Role": "senior vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775922"
+            },
+            {
+                "Name": "HOWARD I ATKINS",
+                "Role": "executive vp",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775952"
+            },
+            {
+                "Name": "JON R CAMPBELL",
+                "Role": "president",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510775976"
+            },
+            {
+                "Name": "JAMES M STROTHER",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510776009"
+            },
+            {
+                "Name": "JON R CAMPBELL",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510776033"
+            },
+            {
+                "Name": "RICHARD D LEVY",
+                "Role": "director",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/510776066"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_tn/000036210": {
+        "Links": [
+            "/filings/731712929",
+            "/companies/us_ny/324592",
+            "/companies/us_pa/784161",
+            "/filings/731712920",
+            "/companies/us_nc/0020265",
+            "/companies/us_fl/P15000046171",
+            "/filings/731712923",
+            "/filings/731712911",
+            "https://opencorporates.com/companies/us_tn/000036210/filings",
+            "/companies/us_co/19871530742",
+            "/filings/731712926",
+            "/filings/731712917",
+            "/companies/us_de/2034708",
+            "/events/654099101",
+            "https://sos.tn.gov/business-services",
+            "/data/98926313",
+            "/companies/us_nj/2585001500",
+            "/filings/731712914",
+            "/companies/us_ak/34053F",
+            "/companies/us_ms/710354",
+            "/filings/731712932",
+            "/data/98926316",
+            "/companies/us_sd/FB009768",
+            "https://tnbear.tn.gov/Ecommerce/FilingDetail.aspx?CN=211217184244190147212007004236169218069175095149",
+            "/companies/us_al/000-851-201"
+        ],
+        "Company Name": "WACHOVIA MORTGAGE CORPORATION BRANCH (Tennessee)",
+        "Attributes": {
+            "Company Number": "000036210",
+            "Status": "Inactive Merged",
+            "Incorporation Date": "9 December 1965 (over 58 years ago)",
+            "Dissolution Date": "30 August 2011",
+            "Company Type": "For-profit Corporation",
+            "Jurisdiction": "Tennessee",
+            "Branch": "Branch of Wachovia Mortgage Corporation (North Carolina)",
+            "Registry Page": "https://tnbear.tn.gov/Ecommerce/Filin..."
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/98926313",
+                    "Description": "ONE WACHOVIA CTR , 301 S COLLEGE S , CHARLOTTE, N , USA"
+                },
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/98926316",
+                    "Description": "301 S COLLEGE S , NC0630, CHARLOTTE, N , USA"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "Wachovia Mortgage Corporation",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_nc/0020265"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "28 Mar 2011",
+                "Link": "https://opencorporates.com/filings/731712932",
+                "Description": "2010 Annual Report"
+            },
+            {
+                "Date": "29 Mar 2010",
+                "Link": "https://opencorporates.com/filings/731712929",
+                "Description": "2009 Annual Report"
+            },
+            {
+                "Date": "20 Mar 2009",
+                "Link": "https://opencorporates.com/filings/731712926",
+                "Description": "2008 Annual Report"
+            },
+            {
+                "Date": "1 Apr 2008",
+                "Link": "https://opencorporates.com/filings/731712923",
+                "Description": "2007 Annual Report"
+            },
+            {
+                "Date": "8 Mar 2007",
+                "Link": "https://opencorporates.com/filings/731712920",
+                "Description": "2006 Annual Report"
+            },
+            {
+                "Date": "23 Mar 2006",
+                "Link": "https://opencorporates.com/filings/731712917",
+                "Description": "2005 Annual Report"
+            },
+            {
+                "Date": "17 Feb 2005",
+                "Link": "https://opencorporates.com/filings/731712914",
+                "Description": "2004 Annual Report"
+            },
+            {
+                "Date": "5 Mar 2004",
+                "Link": "https://opencorporates.com/filings/731712911",
+                "Description": "2003 Annual Report"
+            },
+            {
+                "Date": "4 Apr 2003",
+                "Link": "https://opencorporates.com/filings/731712908",
+                "Description": "2002 Annual Report"
+            },
+            {
+                "Date": "27 Mar 2002",
+                "Link": "https://opencorporates.com/filings/731712905",
+                "Description": "2001 Annual Report"
+            },
+            {
+                "Date": "21 Mar 2001",
+                "Link": "https://opencorporates.com/filings/731712902",
+                "Description": "2000 Annual Report"
+            },
+            {
+                "Date": "29 Mar 2000",
+                "Link": "https://opencorporates.com/filings/731712899",
+                "Description": "1999 Annual Report"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 1965-12-09",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/654099101"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_co/20061143553": {
+        "Links": [
+            "/companies/us_ga/0623000",
+            "/companies/us_de/4112674",
+            "https://www.sos.state.co.us/biz",
+            "/companies/us_ga/09043250",
+            "/filings/264468192",
+            "/companies/us_nc/1872481",
+            "/filings/264468189",
+            "/officers/317783325",
+            "/filings/264468188",
+            "/data/32661802",
+            "/data/32661801",
+            "/companies/us_va/S1867029",
+            "/filings/264468190",
+            "/filings/264468194",
+            "/filings/264468193",
+            "/events/1169828876",
+            "/filings/264468187",
+            "/events/1663605355",
+            "/companies/us_tn/000536004",
+            "https://opencorporates.com/companies/us_co/20061143553/filings",
+            "/filings/264468191"
+        ],
+        "Company Name": "Prime Mountain Properties, LLC BRANCH (Colorado)",
+        "Attributes": {
+            "Company Number": "20061143553",
+            "Status": "Delinquent",
+            "Incorporation Date": "3 April 2006 (about 18 years ago)",
+            "Company Type": "Foreign Limited Liability Company",
+            "Jurisdiction": "Colorado",
+            "Branch": "Branch of PRIME MOUNTAIN PROPERTIES, LLC (Delaware)",
+            "Agent Name": "Grant R Walker",
+            "Agent Address": "589 MAXWELL DR, GRAND JCT , CO, 81504, US",
+            "Directors / Officers": "Grant R Walker, agent"
+        },
+        "Assertions": {
+            "Company Addresses": [
+                {
+                    "Title": "Head Office Address",
+                    "Link": "https://opencorporates.com/data/32661801",
+                    "Description": "589 MAXWELL DR, GRAND JCT , CO, 81504, US"
+                },
+                {
+                    "Title": "Mailing Address",
+                    "Link": "https://opencorporates.com/data/32661802",
+                    "Description": "PO BOX 4691, GRAND JCT , CO, 81502, US"
+                }
+            ]
+        },
+        "Branch_relationship": [
+            {
+                "Company": "PRIME MOUNTAIN PROPERTIES, LLC",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_de/4112674"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "9 May 2012",
+                "Link": "https://opencorporates.com/filings/264468194",
+                "Description": "File Report"
+            },
+            {
+                "Date": "1 Aug 2011",
+                "Link": "https://opencorporates.com/filings/264468193",
+                "Description": "Statement of Correction Correcting the Registered Agent Information"
+            },
+            {
+                "Date": "1 Jul 2011",
+                "Link": "https://opencorporates.com/filings/264468192",
+                "Description": "File Report"
+            },
+            {
+                "Date": "12 Apr 2011",
+                "Link": "https://opencorporates.com/filings/264468191",
+                "Description": "Statement of Change Changing the Principal Office Address"
+            },
+            {
+                "Date": "3 May 2010",
+                "Link": "https://opencorporates.com/filings/264468190",
+                "Description": "File Report"
+            },
+            {
+                "Date": "17 May 2009",
+                "Link": "https://opencorporates.com/filings/264468189",
+                "Description": "File Report"
+            },
+            {
+                "Date": "6 Jun 2008",
+                "Link": "https://opencorporates.com/filings/264468188",
+                "Description": "File Report"
+            },
+            {
+                "Date": "22 Jun 2007",
+                "Link": "https://opencorporates.com/filings/264468187",
+                "Description": "File Report"
+            },
+            {
+                "Date": "3 Apr 2006",
+                "Link": "https://opencorporates.com/filings/264468186",
+                "Description": "Apply for Foreign Entity Authority To transact business in Colorado"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2006-04-03",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/1169828876"
+            },
+            {
+                "Date": "Between 2006-04-03 and 2019-11-11",
+                "Description": "Addition of officer Grant R Walker, agent",
+                "Link": "https://opencorporates.com/events/1663605355"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "Grant R Walker",
+                "Role": "agent",
+                "Status": "active",
+                "Link": "https://opencorporates.com/officers/317783325",
+                "Address": "589 MAXWELL DR, GRAND JCT , CO, 81504, US"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_nj/0600054223": {
+        "Links": [
+            "/companies/us_il/LLC_00209422",
+            "/companies/us_al/000-601-012",
+            "/companies/us_ky/0456262",
+            "/companies/us_ny/2311071",
+            "/events/485635982",
+            "/companies/us_tn/000357881",
+            "/companies/us_mn/b7319d95-add4-e011-a886-001ec94ffe7f",
+            "https://www.njportal.com/DOR/businessrecords/EntityDocs/BusinessStatCopies.aspx",
+            "/companies/us_co/19981117011",
+            "/companies/us_wa/601886637",
+            "/companies/us_de/2854969",
+            "/companies/us_ms/659405"
+        ],
+        "Company Name": "EDWARD JONES MORTGAGE, LLC BRANCH (New Jersey)",
+        "Attributes": {
+            "Company Number": "0600054223",
+            "Incorporation Date": "27 July 1998 (almost 26 years ago)",
+            "Company Type": "Foreign Limited Liability Company",
+            "Jurisdiction": "New Jersey",
+            "Branch": "Branch of out-of-jurisdiction company"
+        },
+        "Events": [
+            {
+                "Date": "On 1998-07-27",
+                "Description": "Incorporated",
+                "Link": "https://opencorporates.com/events/485635982"
+            }
+        ]
+    },
+    "https://opencorporates.com/companies/us_oh/416834": {
+        "Links": [
+            "/filings/229669167",
+            "/officers/550410102",
+            "/companies/us_ny/324592",
+            "/companies/us_pa/784161",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/200000701374/true",
+            "/companies/us_nc/0020265",
+            "/filings/229669171",
+            "/filings/229669174",
+            "/companies/us_fl/P15000046171",
+            "/filings/229669169",
+            "/events/2167165136",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/5899_0732/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/200201000290/true",
+            "/filings/229669166",
+            "/companies/us_co/19871530742",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/199825702737/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/200000000003/true",
+            "/filings/229669173",
+            "/companies/us_de/2034708",
+            "/companies/us_nj/2585001500",
+            "/filings/229669168",
+            "/companies/us_ms/710354",
+            "/companies/us_ak/34053F",
+            "https://businesssearch.ohiosos.gov",
+            "https://opencorporates.com/companies/us_oh/416834/filings",
+            "/filings/229669170",
+            "/companies/us_sd/FB009768",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/200423602406/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/AGNTUPDT/true",
+            "https://bizimage.sos.state.oh.us/api/image/pdf/201214300040/true",
+            "/companies/us_al/000-851-201"
+        ],
+        "Company Name": "WACHOVIA MORTGAGE CORPORATION BRANCH (Ohio)",
+        "Attributes": {
+            "Company Number": "416834",
+            "Status": "Dead",
+            "Incorporation Date": "26 October 1971 (over 52 years ago)",
+            "Company Type": "FOREIGN CORPORATION",
+            "Jurisdiction": "Ohio",
+            "Branch": "Branch of Wachovia Mortgage Corporation (North Carolina)",
+            "Registered Address": "301 S COLLEGE S CHARLOTTE 28288 N",
+            "Previous Names": "CAMERON-BROWN COMPANY FIRST UNION MORTGAGE CORPORATION",
+            "Inactive Directors / Officers": "THE PRENTICE-HALL CORPORATION SYSTEM, INC, agent, 23 Aug 2004-",
+            "Registry Page": "https://businesssearch.ohiosos.gov"
+        },
+        "Branch_relationship": [
+            {
+                "Company": "Wachovia Mortgage Corporation",
+                "Jurisdiction": "",
+                "Status": "",
+                "Type": "Branch",
+                "Link": "https://opencorporates.com/companies/us_nc/0020265"
+            }
+        ],
+        "Filings": [
+            {
+                "Date": "18 May 2012",
+                "Link": "https://opencorporates.com/filings/229669174",
+                "Description": "FOREIGN/SURRENDER\n\nview"
+            },
+            {
+                "Date": "23 Aug 2004",
+                "Link": "https://opencorporates.com/filings/229669173",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "9 Jan 2002",
+                "Link": "https://opencorporates.com/filings/229669171",
+                "Description": "FOREIGN/AMENDMENT\n\nview"
+            },
+            {
+                "Date": "1 May 2000",
+                "Link": "https://opencorporates.com/filings/229669170",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "2 Jul 1999",
+                "Link": "https://opencorporates.com/filings/229669169",
+                "Description": "MERGER/DOMESTIC\n\nview"
+            },
+            {
+                "Date": "7 Apr 1999",
+                "Link": "https://opencorporates.com/filings/229669168",
+                "Description": "AGENT NAME/ADDRESS TAX UPDATE\n\nview"
+            },
+            {
+                "Date": "23 Oct 1998",
+                "Link": "https://opencorporates.com/filings/229669167",
+                "Description": "MERGER/FOREIGN\n\nview"
+            },
+            {
+                "Date": "22 Oct 1996",
+                "Link": "https://opencorporates.com/filings/229669166",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "8 Apr 1996",
+                "Link": "https://opencorporates.com/filings/229669165",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "3 Oct 1995",
+                "Link": "https://opencorporates.com/filings/229669164",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "3 Oct 1994",
+                "Link": "https://opencorporates.com/filings/229669163",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "25 Oct 1993",
+                "Link": "https://opencorporates.com/filings/229669162",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "31 Dec 1991",
+                "Link": "https://opencorporates.com/filings/229669161",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "31 Dec 1990",
+                "Link": "https://opencorporates.com/filings/229669160",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "31 Dec 1989",
+                "Link": "https://opencorporates.com/filings/229669159",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "31 Dec 1988",
+                "Link": "https://opencorporates.com/filings/229669158",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "16 May 1988",
+                "Link": "https://opencorporates.com/filings/229669157",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "31 Dec 1987",
+                "Link": "https://opencorporates.com/filings/229669156",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "9 Feb 1987",
+                "Link": "https://opencorporates.com/filings/229669155",
+                "Description": "FOREIGN/AMENDMENT\n\nview"
+            },
+            {
+                "Date": "31 Dec 1986",
+                "Link": "https://opencorporates.com/filings/229669154",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "21 Jul 1986",
+                "Link": "https://opencorporates.com/filings/229669153",
+                "Description": "FOREIGN/AGENT CHANGE OF ADDRESS\n\nview"
+            },
+            {
+                "Date": "31 Dec 1985",
+                "Link": "https://opencorporates.com/filings/229669152",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "31 Dec 1984",
+                "Link": "https://opencorporates.com/filings/229669151",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "17 Jan 1984",
+                "Link": "https://opencorporates.com/filings/229669150",
+                "Description": "FOREIGN/DESIGNATED APPOINTMENT OF AGENT\n\nview"
+            },
+            {
+                "Date": "1 Jan 1984",
+                "Link": "https://opencorporates.com/filings/229669149",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "1 Jan 1979",
+                "Link": "https://opencorporates.com/filings/229669148",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "1 Jan 1978",
+                "Link": "https://opencorporates.com/filings/229669147",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "3 Oct 1977",
+                "Link": "https://opencorporates.com/filings/229669146",
+                "Description": "FORM 7 FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "1 Jan 1976",
+                "Link": "https://opencorporates.com/filings/229669145",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "24 Oct 1975",
+                "Link": "https://opencorporates.com/filings/229669144",
+                "Description": "FORM 7 FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "17 Oct 1974",
+                "Link": "https://opencorporates.com/filings/229669143",
+                "Description": "FORM 7 FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "28 Nov 1973",
+                "Link": "https://opencorporates.com/filings/229669142",
+                "Description": "FORM 7 FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "1 Jan 1972",
+                "Link": "https://opencorporates.com/filings/229669141",
+                "Description": "FORM 7 NO FEE ASSESSED\n\nview"
+            },
+            {
+                "Date": "26 Oct 1971",
+                "Link": "https://opencorporates.com/filings/229669140",
+                "Description": "FOREIGN LICENSE/FOR-PROFIT\n\nview"
+            }
+        ],
+        "Events": [
+            {
+                "Date": "On 2004-08-23",
+                "Description": "Addition of officer THE PRENTICE-HALL CORPORATION SYSTEM, INC, agent",
+                "Link": "https://opencorporates.com/events/2167165136"
+            }
+        ],
+        "Officers": [
+            {
+                "Name": "THE PRENTICE-HALL CORPORATION SYSTEM, INC",
+                "Role": "agent",
+                "Status": "inactive",
+                "Link": "https://opencorporates.com/officers/550410102",
+                "Address": "50 W BROAD S , SUITE 1800, COLUMBUS, OH, 43215"
+            }
+        ]
+    }
+}

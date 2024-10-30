@@ -1,0 +1,30 @@
+<div class="row content main_content">
+<div class="span7">
+<h2><a class="company inactive expired___voluntarily_dissolved" href="/companies/us_ut/5760410-0160" title="More Free And Open Company Data On HES INVESTMENTS, LLC (Utah (US), 5760410-0160)">HES INVESTMENTS, LLC</a></h2>
+<div class="row">
+<div class="span12">
+<div id="data-table-branch_relationship_object">
+<h3>
+Home company
+<span class="heading-help">
+<a class="data-type-description" data-content="A branch company is an out-of-jurisdiction registration of a company (in the US it is often referred to as a 'Foreign Corporation')" data-html="true" data-original-title="Home company" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<a href="/companies/us_ut/5760410-0160/statements/branch_relationship_object?exclude_inactive=true">Hide historic records</a>
+</div>
+<div class="span5">
+</div>
+</div>

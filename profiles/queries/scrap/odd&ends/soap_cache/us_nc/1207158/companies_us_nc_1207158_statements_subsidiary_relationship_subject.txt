@@ -1,0 +1,30 @@
+<div class="row content main_content">
+<div class="span7">
+<h2><a class="company inactive admin._dissolved" href="/companies/us_nc/1207158" title="More Free And Open Company Data On DPW Services, LLC (North Carolina (US), 1207158)">DPW Services, LLC</a></h2>
+<div class="row">
+<div class="span12">
+<div id="data-table-subsidiary_relationship_subject">
+<h3>
+Subsidiaries
+<span class="heading-help">
+<a class="data-type-description" data-content="A subsidiary is a company that is controlled by another company. Often the control is exerted via a majority shareholding, but can be via other mechanisms. It can also be exerted via shareholdings in other companies. When this happens, we call it an indirect subsidiary. Subsidiary information often comes from official annual reports. Companies are only obliged to report 'significant' subsidiaries, and the definition of 'significant' is not consistent." data-html="true" data-original-title="Subsidiaries" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<a href="/companies/us_nc/1207158/statements/subsidiary_relationship_subject?exclude_inactive=true">Hide historic records</a>
+</div>
+<div class="span5">
+</div>
+</div>

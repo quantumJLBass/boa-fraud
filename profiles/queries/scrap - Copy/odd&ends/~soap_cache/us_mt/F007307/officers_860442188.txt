@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>MARGARET M WEBER</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=MARGARET+M+WEBER" title="Company Officers/Directors named MARGARET M WEBER">MARGARET M WEBER</a></dd>
+<dt>Address</dt> <dd class="address">SIXTH AND MARQUETTE, MINNEAPOLIS, MN, 55479, United States</dd>
+<dt>Position</dt> <dd class="position">secretary</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=MARGARET+M+WEBER">Search Google for 'MARGARET M WEBER'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=MARGARET+M+WEBER">Search LittleSis for 'MARGARET M WEBER'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=MARGARET+M+WEBER" title="Company Officers/Directors named MARGARET M WEBER">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=MARGARET+M+WEBER">Found 204.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer">
+<a class="officer" href="/officers/888120506" title="more info on Carolyn Margaret Weber">Carolyn Margaret Weber</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_az" title="Free And Open Data On Arizona (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">nonprofit</span> <a class="company active" href="/companies/us_az/23192107" title="More Free And Open Company Data On Mormon Lake Charities (Arizona (US), 23192107)">Mormon Lake Charities</a> (Arizona (US), <span class="start_date"> 3 Jul 2021</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/837090659" title="more info on DEVIN MARGARET WEBER">DEVIN MARGARET WEBER</a>, secretary,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">nonprofit</span> <a class="company inactive suspended___ftb" href="/companies/us_ca/4069450" title="More Free And Open Company Data On FIRST TRY FOUNDATION, INC, (California (US), 4069450)">FIRST TRY FOUNDATION, INC,</a> (California (US), <span class="start_date">27 Sep 2017</span>-<span class="end_date"> 1 Jun 2021</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/837090662" title="more info on DEVIN MARGARET WEBER">DEVIN MARGARET WEBER</a>, chief financial officer,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">nonprofit</span> <a class="company inactive suspended___ftb" href="/companies/us_ca/4069450" title="More Free And Open Company Data On FIRST TRY FOUNDATION, INC, (California (US), 4069450)">FIRST TRY FOUNDATION, INC,</a> (California (US), <span class="start_date">27 Sep 2017</span>-<span class="end_date"> 1 Jun 2021</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/31161905" title="more info on Kathryn Margaret WOOD-WEBER">Kathryn Margaret WOOD-WEBER</a>, director, <span class="start_date">12 Jan 2010</span>- ,
+<a class="jurisdiction_filter nz" href="/companies/nz" title="Free And Open Data On New Zealand Companies"><img alt="New Zealand flag" class="flag" src="/assets/flags/nz-a5dc6ee1a28d7274a7791b374a6931d4.gif"/></a> <span class="status label">branch</span> <a class="company branch registered" href="/companies/nz/2386249" title="More Free And Open Company Data On POWERFLO SOLUTIONS (NZ) PTY LTD (New Zealand, 2386249)">POWERFLO SOLUTIONS (NZ) PTY LTD</a> (New Zealand, <span class="start_date">12 Jan 2010</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/269245084" title="more info on LINDA MARGARET WEBER">LINDA MARGARET WEBER</a>, director, <span class="start_date"> 5 Jun 2017</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">nonprofit</span> <a class="company active" href="/companies/gb/04547590" title="More Free And Open Company Data On LEAGUE OF JEWISH WOMEN (United Kingdom, 04547590)">LEAGUE OF JEWISH WOMEN</a> (United Kingdom, <span class="start_date">27 Sep 2002</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/28403693" title="more info on MARGARET A WEBER">MARGARET A WEBER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/L04000005979" title="More Free And Open Company Data On MY LIL CYBER CAFE, LLC (Florida (US), L04000005979)">MY LIL CYBER CAFE, LLC</a> (Florida (US), <span class="start_date">22 Jan 2004</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/28403692" title="more info on MARGARET A WEBER">MARGARET A WEBER</a>,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/L04000005979" title="More Free And Open Company Data On MY LIL CYBER CAFE, LLC (Florida (US), L04000005979)">MY LIL CYBER CAFE, LLC</a> (Florida (US), <span class="start_date">22 Jan 2004</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/380857315" title="more info on MARGARET A. WEBER">MARGARET A. WEBER</a>, agent, <span class="start_date">21 Jan 2020</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_oh/4427495" title="More Free And Open Company Data On BUTTERBRIDGE STABLES, LLC (Ohio (US), 4427495)">BUTTERBRIDGE STABLES, LLC</a> (Ohio (US), <span class="start_date">21 Jan 2020</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/380857318" title="more info on MARGARET A. WEBER">MARGARET A. WEBER</a>, incorporator,
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_oh/4427495" title="More Free And Open Company Data On BUTTERBRIDGE STABLES, LLC (Ohio (US), 4427495)">BUTTERBRIDGE STABLES, LLC</a> (Ohio (US), <span class="start_date">21 Jan 2020</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/742697282" title="more info on MARGARET A. WEBER">MARGARET A. WEBER</a>, officer,
+<a class="jurisdiction_filter us" href="/companies/us_ct" title="Free And Open Data On Connecticut (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_ct/1200036" title="More Free And Open Company Data On MAWEBER, LLC (Connecticut (US), 1200036)">MAWEBER, LLC</a> (Connecticut (US), <span class="start_date"> 2 Mar 2016</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/747109437" title="more info on MARGARET ANN WEBER">MARGARET ANN WEBER</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_wi" title="Free And Open Data On Wisconsin (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company organized" href="/companies/us_wi/P087453" title="More Free And Open Company Data On P E G S LLC (Wisconsin (US), P087453)">P E G S LLC</a> (Wisconsin (US), <span class="start_date">14 Feb 2023</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

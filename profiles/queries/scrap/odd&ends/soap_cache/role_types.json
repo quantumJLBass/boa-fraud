@@ -1,0 +1,140 @@
+[
+    {
+        "code": "ceo",
+        "name": "Chief Executive Officer",
+        "description": "Top executive responsible for overall management",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "cfo",
+        "name": "Chief Financial Officer",
+        "description": "Top executive responsible for financial operations",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "director",
+        "name": "Director",
+        "description": "Member of the board of directors",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "manager",
+        "name": "Manager",
+        "description": "Individual responsible for managing the company's operations",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "registered_agent",
+        "name": "Registered Agent",
+        "description": "Agent responsible for receiving legal documents",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "president",
+        "name": "President",
+        "description": "Top executive in charge of the company's operations",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "secretary",
+        "name": "Secretary",
+        "description": "Officer responsible for administrative tasks",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "treasurer",
+        "name": "Treasurer",
+        "description": "Officer responsible for financial management",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "partner",
+        "name": "Partner",
+        "description": "Co-owner of the company",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "general_partner",
+        "name": "General Partner",
+        "description": "Partner with full liability in a partnership",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "limited_partner",
+        "name": "Limited Partner",
+        "description": "Partner with limited liability",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "member",
+        "name": "Member",
+        "description": "Owner in an LLC",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "organizer",
+        "name": "Organizer",
+        "description": "organizer of the company",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "executive_vice_president",
+        "name": "Executive Vice President",
+        "description": "High-level executive overseeing company operations",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "chief_acctg_officer",
+        "name": "Chief Accounting Officer",
+        "description": "Officer responsible for accounting and financial reporting",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "executive_committee_ii",
+        "name": "Executive Committee II",
+        "description": "Member of the second tier of executive committee",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "assistant_secretary",
+        "name": "Assistant Secretary",
+        "description": "Officer responsible for assisting the Secretary with administrative tasks",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "sole_member",
+        "name": "Sole Member",
+        "description": "The only member in an LLC, with ownership and control responsibilities",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "shareholder",
+        "name": "Shareholder",
+        "description": "Individual or entity owning shares in a company",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "vice_president",
+        "name": "Vice President",
+        "description": "Executive responsible for assisting the President and overseeing specific operations",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "principal_executive_office",
+        "name": "Principal Executive Office",
+        "description": "The primary executive office responsible for overall management",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "general_manager",
+        "name": "General Manager",
+        "description": "Manager responsible for overseeing daily operations at a high level",
+        "asof": "2024-08-25"
+    },
+    {
+        "code": "managing_member",
+        "name": "Managing Member",
+        "description": "Member responsible for managing the operations of an LLC",
+        "asof": "2024-08-25"
+    }
+]

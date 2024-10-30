@@ -1,0 +1,190 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+DPW Services, LLC
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">1207158</dd>
+<dt>Status</dt> <dd class="status">Admin. Dissolved</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="2011-06-07" itemprop="foundingDate"> 7 June 2011</span> (about 13 years ago)</dd>
+<dt>Company Type</dt> <dd class="company_type">Limited Liability Company - Domestic</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_nc" title="Free And Open Data On North Carolina (US) Companies">North Carolina (US)</a></dd>
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">525 Country Club Dr.</li><li class="address_line">Burlington</li><li class="address_line">27215-4927</li><li class="address_line">NC</li><li class="address_line">United States</li></ul></dd>
+<dt><a href="/companies/us_nc/1207158/officers" title="Directors for DPW Services, LLC (North Carolina (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/107759837" title="more info on Williamson, Doris P">Williamson, Doris P</a>, agent</li><li class="attribute_item"><a class="officer inactive" href="/officers/687379707" title="more info on Williamson, Doris P">Williamson, Doris P</a>, manager</li></ul></dd>
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://www.sosnc.gov/online_services/Search/Business_Registration_profile?Id=9749677" title="Registry entry for DPW Services, LLC">https://www.sosnc.gov/online_services...</a></dd>
+</dl>
+</div>
+</div>
+<div id="filings">
+<div class="rss_feed"><a href="/companies/us_nc/1207158/filings.rss" title="Subscribe to filings for DPW Services, LLC"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"/></a></div>
+<h3><a href="https://opencorporates.com/companies/us_nc/1207158/filings" title="See all filings for DPW Services, LLC">Recent filings for DPW Services, LLC</a></h3>
+<div class="filing" id="filing_565008073"><div class="dateline">11 Oct 2019</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/565008073" title="more info on ADM Dissolution">ADM Dissolution</a>
+</div>
+<p class="description">
+ADM Dissolution
+</p>
+</div>
+</div><div class="filing" id="filing_553902701"><div class="dateline">24 Jul 2019</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/553902701" title="more info on ADM Notice">ADM Notice</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_462527990"><div class="dateline">11 Dec 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527990" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527989"><div class="dateline">16 Nov 2017</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527989" title="more info on ADM Notice">ADM Notice</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_462527988"><div class="dateline">21 Apr 2016</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527988" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527987"><div class="dateline">15 Apr 2015</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527987" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527986"><div class="dateline">15 Apr 2014</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527986" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div><div class="filing" id="filing_462527985"><div class="dateline">15 Apr 2013</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/462527985" title="more info on Annual Report LLC">Annual Report LLC</a>
+</div>
+<p class="description">
+Annual Report LLC
+</p>
+</div>
+</div>
+<p class="more_info"><a href="https://opencorporates.com/companies/us_nc/1207158/filings">see all filings</a></p>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">North Carolina Secretary of State, Business Registration Division</span>, <a class="url external" href="https://www.sosnc.gov/divisions/business_registration/">https://www.sosnc.gov/divisions/busin...</a>, <span class="retrieved">29 Jun 2024</span></div>
+<div id="company_data">
+<div id="update_links">
+<form action="/companies/us_nc/1207158" class="button_to" data-remote="true" method="post"><div><input name="_method" type="hidden" value="put"/><input class="btn btn-primary" data-disable-with="Submitting..." id="update_company" type="submit" value="update from registry"/><input name="authenticity_token" type="hidden" value="JASG91n39AFBrN2PdxtZG9mRBvvYXURoXKM3LFJC+NQ="/></div></form>
+</div>
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_62348997"><div class="subhead">
+<a href="/data/62348997">Head Office Address</a>
+</div>
+<p class="description">
+525 Country Club Dr., Burlington, NC, 27215-4927, United States
+</p>
+</div><div class="assertion company_address" id="assertion_62348998"><div class="subhead">
+<a href="/data/62348998">Mailing Address</a>
+</div>
+<p class="description">
+525 Country Club Dr., Burlington, NC, 27215-4927, United States
+</p>
+</div></div></div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="Between 2022-08-27 and 2022-09-02">
+2022-08-27 - 2022-09-02
+</dt>
+<dd><a href="/events/2606622848">Addition of officer Williamson, Doris P, manager</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2022-08-27 and 2022-09-02">
+2022-08-27 - 2022-09-02
+</dt>
+<dd><a href="/events/2606622830">Change of name from 'DPW Services LLC' to 'DPW Services, LLC'</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2022-09-03 and 2022-09-09">
+2022-09-03 - 2022-09-09
+</dt>
+<dd><a href="/events/2617475726">Removal of officer Williamson Doris P, manager</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_nc/1207158/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=1207158&amp;jurisdiction_code=us_nc" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=DPW+Services%2C+LLC" title="Companies named DPW Services, LLC">Similarly named companies</a></h3>
+<ul class="companies">
+<li>
+<a class="jurisdiction_filter us" href="/companies/us_mi" title="Free And Open Data On Michigan (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company" href="/companies/us_mi/802973441" title="More Free And Open Company Data On DPW SERVICES LLC (Michigan (US), 802973441)">DPW SERVICES LLC</a> (Michigan (US), <span class="start_date">18 Jan 2023</span>- )
+</li>
+<li class="active/compliance">
+<a class="jurisdiction_filter us" href="/companies/us_ga" title="Free And Open Data On Georgia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active/compliance" href="/companies/us_ga/14029732" title="More Free And Open Company Data On DPW Lock Services LLC (Georgia (US), 14029732)">DPW Lock Services LLC</a> (Georgia (US), <span class="start_date">21 Mar 2014</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_md" title="Free And Open Data On Maryland (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_md/W17652306" title="More Free And Open Company Data On DPW LAND SERVICES, LLC (Maryland (US), W17652306)">DPW LAND SERVICES, LLC</a> (Maryland (US), <span class="start_date"> 7 Dec 2016</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_oh" title="Free And Open Data On Ohio (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_oh/5091708" title="More Free And Open Company Data On DPW NOTARY SERVICES LLC (Ohio (US), 5091708)">DPW NOTARY SERVICES LLC</a> (Ohio (US), <span class="start_date"> 5 Aug 2023</span>- )
+</li>
+<li class="organized">
+<a class="jurisdiction_filter us" href="/companies/us_wi" title="Free And Open Data On Wisconsin (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company organized" href="/companies/us_wi/D076847" title="More Free And Open Company Data On DPW CORRUGATED SERVICES LLC (Wisconsin (US), D076847)">DPW CORRUGATED SERVICES LLC</a> (Wisconsin (US), <span class="start_date">20 Jul 2023</span>- )
+</li>
+<li class="inactive dissolved">
+<a class="jurisdiction_filter us" href="/companies/us_sd" title="Free And Open Data On South Dakota (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/us_sd/DL149757" title="More Free And Open Company Data On DPW Independent Services LLC (South Dakota (US), DL149757)">DPW Independent Services LLC</a> (South Dakota (US), <span class="start_date">18 Jun 2018</span>- )
+</li>
+<li class="inactive terminated">
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive terminated" href="/companies/us_ca/199811010030" title="More Free And Open Company Data On DPW INSURANCE SERVICES LLC (California (US), 199811010030)">DPW INSURANCE SERVICES LLC</a> (California (US), <span class="start_date">20 Apr 1998</span>- )
+</li>
+<li class="inactive inactive">
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/L07000124629" title="More Free And Open Company Data On DPW PROTECTIVE SERVICES, LLC (Florida (US), L07000124629)">DPW PROTECTIVE SERVICES, LLC</a> (Florida (US), <span class="start_date">14 Dec 2007</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

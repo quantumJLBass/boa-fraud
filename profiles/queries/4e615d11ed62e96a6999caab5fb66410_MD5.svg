@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>B1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="B1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F7F7F7" x="0" y="0" width="110" height="110"></rect>
+        <g id="Group-2" transform="translate(24.289551, 21.000000)" stroke="#95B7E2" stroke-width="2">
+            <path d="M-4.26325641e-14,66 C-1.53811129e-13,54.7167969 8.30908203,31.6264648 30.7104492,31.6264648 C53.1118164,31.6264648 61.40625,55.0649414 61.40625,66" id="Path" stroke-linecap="round"></path>
+            <g id="Group" transform="translate(12.710449, 0.000000)" fill="#F7F7F7">
+                <path d="M18,39 C26.7378281,39 35,28.201365 35,18 C35,8.61115925 27.3888407,1 18,1 C8.61115925,1 1,8.61115925 1,18 C1,28.201365 9.26217185,39 18,39 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>

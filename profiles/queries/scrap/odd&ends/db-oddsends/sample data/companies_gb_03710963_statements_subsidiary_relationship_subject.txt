@@ -1,0 +1,78 @@
+<div class="row content main_content">
+<div class="span7">
+<h2><a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a></h2>
+<div class="row">
+<div class="span12">
+<div id="data-table-subsidiary_relationship_subject">
+<h3>
+Subsidiaries
+<span class="heading-help">
+<a class="data-type-description" data-content="A subsidiary is a company that is controlled by another company. Often the control is exerted via a majority shareholding, but can be via other mechanisms. It can also be exerted via shareholdings in other companies. When this happens, we call it an indirect subsidiary. Subsidiary information often comes from official annual reports. Companies are only obliged to report 'significant' subsidiaries, and the definition of 'significant' is not consistent." data-html="true" data-placement="right" data-toggle="popover" data-trigger="hover" href="" rel="popover" data-original-title="Subsidiaries">
+<i class="icon-question-sign"></i>
+</a>
+</span>
+</h3>
+<div class="table-wrapper">
+<table class="table table-condensed table-striped company-data-object">
+<thead>
+</thead>
+<tbody>
+<tr>
+<td>
+<a class="jurisdiction_filter lu" href="/companies/lu" title="Free And Open Data On Luxembourg Companies"><img alt="Luxembourg flag" class="flag" src="/assets/flags/lu-85bb2615be94fff0b675f4ce196d8d99.gif"></a>  <a class="company" href="/companies/lu/B174935" title="More Free And Open Company Data On ECM Special Situations (Luxembourg) GP sàrl (Luxembourg, B174935)">ECM Special Situations (Luxembourg) GP sàrl</a> (Luxembourg, <span class="start_date"> 6 Feb 2013</span>- )
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/13029223">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"></a> <span class="status label">inactive</span>  <a class="company inactive dissolved" href="/companies/gb/06010433" title="More Free And Open Company Data On ECM HOLDINGS LIMITED (United Kingdom, 06010433)">ECM HOLDINGS LIMITED</a> (United Kingdom, <span class="start_date">27 Nov 2006</span>-<span class="end_date"> 2 Feb 2020</span>)
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739628">details</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="jurisdiction_filter nl" href="/companies/nl" title="Free And Open Data On Netherlands Companies"><img alt="Netherlands flag" class="flag" src="/assets/flags/nl-4017f6fa6aed2b72c8484bda8a2593a6.gif"></a> <span class="status label">inactive</span>  <a class="company inactive inactive" href="/companies/nl/34261228" title="More Free And Open Company Data On Evergreen ECM Holdings B.V. (Netherlands, 34261228)">Evergreen ECM Holdings B.V.</a> (Netherlands)
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739627">details</a>
+</td>
+</tr>
+<tr>
+<td>
+NECKAR FINANCIAL, LLC (California (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/10739630">details</a>
+</td>
+</tr>
+<tr>
+<td>
+EUROPEAN CREDIT MANAGEMENT, INC. (Illinois (US))
+</td>
+<td><span class="status label">historic</span> </td>
+<td>
+<a href="/statements/13079460">details</a>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+
+</div>
+</div>
+<a href="/companies/gb/03710963/statements/subsidiary_relationship_subject?exclude_inactive=true">Hide historic records</a>
+
+</div>
+<div class="span5">
+</div>
+</div>

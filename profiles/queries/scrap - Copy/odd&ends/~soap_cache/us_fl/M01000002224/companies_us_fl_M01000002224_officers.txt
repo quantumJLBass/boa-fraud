@@ -1,0 +1,12 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Officers for <a class="company inactive branch inactive" href="/companies/us_fl/M01000002224" title="More Free And Open Company Data On WACHOVIA OPERATIONAL SERVICES, LLC (Florida (US), M01000002224)">WACHOVIA OPERATIONAL SERVICES, LLC</a> (Florida (US))</h1>
+<div id="results">
+<ul id="officers">
+<li><a class="officer inactive" href="/officers/15939508" title="more info on WELLS FARGO BANK, N.A">WELLS FARGO BANK, N.A</a></li>
+</ul>
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

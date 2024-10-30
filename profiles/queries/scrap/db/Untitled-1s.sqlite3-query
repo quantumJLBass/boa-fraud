@@ -1,0 +1,242 @@
+-- database: e:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\db\cache-write.db
+
+SELECT * FROM url_catalog
+WHERE `html_content` LIKE '%Mass Agent Change%'
+ORDER BY `cached_on` DESC;
+
+SELECT * FROM url_catalog
+WHERE `url` LIKE '%605305';
+
+SELECT * FROM url_catalog
+WHERE `company_number` = '2300610226';
+
+
+
+
+
+
+
+DELETE FROM url_catalog
+WHERE asof >= '2024-09-22';
+
+
+
+
+
+
+
+
+
+
+SELECT * FROM url_catalog
+WHERE completed = FALSE AND NOT (html_content IS NULL OR html_content = '');
+PRAGMA foreign_keys = OFF;
+
+PRAGMA foreign_keys = ON;
+
+DELETE FROM attributes;
+VACUUM;
+
+PRAGMA function_list;
+
+
+
+SELECT  *
+     FROM url_catalog
+     WHERE (html_content IS NULL OR html_content = '')
+     AND url LIKE 'https://opencorporates.com/companies/%/%'
+     AND LENGTH(url) - LENGTH(REPLACE(url, '/', '')) = 5;
+
+
+
+
+
+SELECT uc.*
+FROM url_catalog uc
+WHERE uc.completed = FALSE
+  AND uc.html_content IS NOT NULL
+  AND uc.html_content != ''
+  AND EXISTS (
+    SELECT 1
+    FROM companies c
+    WHERE c.company_number = uc.company_number
+  );
+
+
+
+SELECT *
+FROM url_catalog
+WHERE  completed = FALSE AND html_content IS NOT NULL AND html_content != '' AND NOT EXISTS ( SELECT 1 FROM companies c WHERE c.company_number = url_catalog.company_number );
+
+
+
+SELECT url_catalog.id, url_catalog.url, url_catalog.company_number, url_catalog.jurisdiction, url_catalog.completed, url_catalog.html_content,
+url_catalog.parent_id, url_catalog.cached_on, url_catalog.asof
+FROM url_catalog
+WHERE  completed = FALSE AND (html_content IS NOT NULL AND html_content != '' AND url LIKE 'https://opencorporates.com/companies/%/%' AND LENGTH(url) - LENGTH(REPLACE(url, '/', '')) = 5) AND NOT EXISTS ( SELECT 1 FROM companies c WHERE c.company_number = url_catalog.company_number );
+
+
+
+DROP TRIGGER IF EXISTS trig_companies_insert;
+DROP TRIGGER IF EXISTS trig_companies_update;
+-- Combined trigger for insert events
+CREATE TRIGGER trig_companies_insert
+AFTER INSERT ON companies
+BEGIN
+    UPDATE companies
+    SET asof = date('now')
+    WHERE rowid = NEW.rowid;
+
+    UPDATE companies
+    SET jurisdiction = (SELECT name FROM jurisdiction WHERE id = NEW.jurisdiction_id)
+    WHERE NEW.jurisdiction_id IS NOT NULL AND NEW.jurisdiction IS NULL AND rowid = NEW.rowid;
+END;
+
+-- Combined trigger for update events
+CREATE TRIGGER trig_companies_update
+AFTER UPDATE ON companies
+BEGIN
+    UPDATE companies
+    SET asof = date('now')
+    WHERE rowid = NEW.rowid;
+
+    UPDATE companies
+    SET jurisdiction = (SELECT name FROM jurisdiction WHERE id = NEW.jurisdiction_id)
+    WHERE NEW.jurisdiction_id IS NOT NULL AND NEW.jurisdiction IS NULL AND rowid = NEW.rowid;
+END;
+
+PRAGMA foreign_keys = OFF;
+
+PRAGMA foreign_keys = ON;
+
+
+DROP TRIGGER IF EXISTS trig_links_insert;
+DROP TRIGGER IF EXISTS trig_links_update;
+
+-- Trigger for INSERT operations
+DROP TRIGGER IF EXISTS trig_links_insert;
+CREATE TRIGGER trig_links_insert
+AFTER INSERT ON links
+BEGIN
+    -- Update the 'asof' field to the current date
+    UPDATE links SET asof = date('now') WHERE rowid = NEW.rowid;
+
+    -- Insert into url_catalog for various URL formats
+    INSERT OR IGNORE INTO url_catalog (company_number, jurisdiction, url, parent_id)
+    SELECT
+        CASE
+            -- Handling company number for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN
+                -- Extracting company_number after the jurisdiction code
+                SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/') + INSTR(SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/') + 1), '/') + 1)
+            ELSE NEW.company_number
+        END AS company_number,
+
+        CASE
+            -- Extracting jurisdiction for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN (
+                -- Extracting jurisdiction code and looking it up in jurisdiction table
+                SELECT j.name
+                FROM jurisdiction j
+                WHERE j.code = SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/'),
+                                      INSTR(SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/')), '/') - 1)
+                LIMIT 1
+            )
+            ELSE
+                -- Fallback to existing jurisdiction in url_catalog for non-company URLs
+                (SELECT uc.jurisdiction
+                 FROM url_catalog uc
+                 WHERE uc.company_number = NEW.company_number AND uc.parent_id IS NULL
+                 LIMIT 1)
+        END AS jurisdiction,
+
+        NEW.link AS url,
+
+        CASE
+            -- Set parent_id to NULL for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN NULL
+            ELSE (
+                -- Lookup parent_id from url_catalog for other URLs
+                SELECT uc.id
+                FROM url_catalog uc
+                WHERE uc.company_number = NEW.company_number AND uc.parent_id IS NULL
+                LIMIT 1
+            )
+        END AS parent_id
+    WHERE
+        -- Match all necessary URL formats
+        (NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%')
+        OR NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+        OR NEW.link LIKE 'https://opencorporates.com/officers/%'
+        OR NEW.link LIKE 'https://opencorporates.com/filings/%'
+        OR NEW.link LIKE 'https://opencorporates.com/statements/%'
+        OR NEW.link LIKE 'https://opencorporates.com/data/%'
+        OR NEW.link LIKE 'https://opencorporates.com/events/%';
+END;
+
+-- Trigger for UPDATE operations
+DROP TRIGGER IF EXISTS trig_links_update;
+CREATE TRIGGER trig_links_update
+AFTER UPDATE ON links
+BEGIN
+    -- Update the 'asof' field to the current date
+    UPDATE links SET asof = date('now') WHERE rowid = NEW.rowid;
+
+    -- Update or insert into url_catalog for various URL formats
+    INSERT OR REPLACE INTO url_catalog (company_number, jurisdiction, url, parent_id)
+    SELECT
+        CASE
+            -- Handling company number for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN
+                -- Extracting company_number after the jurisdiction code
+                SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/') + INSTR(SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/') + 1), '/') + 1)
+            ELSE NEW.company_number
+        END AS company_number,
+
+        CASE
+            -- Extracting jurisdiction for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN (
+                -- Extracting jurisdiction code and looking it up in jurisdiction table
+                SELECT j.name
+                FROM jurisdiction j
+                WHERE j.code = SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/'),
+                                      INSTR(SUBSTR(NEW.link, INSTR(NEW.link, '/companies/') + LENGTH('/companies/')), '/') - 1)
+                LIMIT 1
+            )
+            ELSE
+                -- Fallback to existing jurisdiction in url_catalog for non-company URLs
+                (SELECT uc.jurisdiction
+                 FROM url_catalog uc
+                 WHERE uc.company_number = NEW.company_number AND uc.parent_id IS NULL
+                 LIMIT 1)
+        END AS jurisdiction,
+
+        NEW.link AS url,
+
+        CASE
+            -- Set parent_id to NULL for base company URLs
+            WHEN NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+            THEN NULL
+            ELSE (
+                -- Lookup parent_id from url_catalog for other URLs
+                SELECT uc.id
+                FROM url_catalog uc
+                WHERE uc.company_number = NEW.company_number AND uc.parent_id IS NULL
+                LIMIT 1
+            )
+        END AS parent_id
+    WHERE
+        -- Match all necessary URL formats
+        (NEW.link LIKE 'https://opencorporates.com/companies/%/%' AND NOT NEW.link LIKE 'https://opencorporates.com/companies/%/%/%')
+        OR NEW.link LIKE 'https://opencorporates.com/companies/%/%/%'
+        OR NEW.link LIKE 'https://opencorporates.com/officers/%'
+        OR NEW.link LIKE 'https://opencorporates.com/filings/%'
+        OR NEW.link LIKE 'https://opencorporates.com/statements/%'
+        OR NEW.link LIKE 'https://opencorporates.com/data/%'
+        OR NEW.link LIKE 'https://opencorporates.com/events/%';
+END;

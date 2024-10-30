@@ -1,0 +1,8 @@
+assertion_group
+  - official_register_entries
+    - UK Data Protection Register entry
+
+  - company_addresses (Company Addresses)
+    - HEAD OFFICE ADDRESS
+    - Company Addresses
+    - MAILING ADDRESS

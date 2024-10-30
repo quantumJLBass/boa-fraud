@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Sqlite" database="Sqlite" id="Sqlite-1c38" >
+	<schema name="Default" >
+		<table name="address_types" spec="" >
+			<column name="code" type="TEXT" jt="-1" mandatory="y" />
+			<column name="name" type="TEXT" jt="-1" mandatory="y" />
+			<column name="description" type="TEXT" jt="-1" />
+			<index name="pk_address_types" unique="PRIMARY_KEY" >
+				<column name="code" />
+			</index>
+		</table>
+		<table name="addresses" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="normalized_address" type="TEXT" jt="-1" mandatory="y" />
+			<column name="street" type="TEXT" jt="-1" mandatory="y" />
+			<column name="street_2" type="TEXT" jt="-1" />
+			<column name="city" type="TEXT" jt="-1" mandatory="y" />
+			<column name="state" type="TEXT" jt="-1" mandatory="y" />
+			<column name="postal_code" type="TEXT" jt="-1" mandatory="y" />
+			<column name="country" type="TEXT" jt="-1" mandatory="y" />
+			<column name="raw_data" type="TEXT" jt="-1" mandatory="y" />
+			<index name="pk_addresses" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_addresses_normalized_address" unique="UNIQUE_KEY" >
+				<column name="normalized_address" />
+			</index>
+		</table>
+		<table name="assertions" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="title" type="TEXT" jt="-1" mandatory="y" />
+			<column name="description" type="TEXT" jt="-1" mandatory="y" />
+			<column name="link" type="TEXT" jt="-1" />
+			<index name="pk_assertions" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="uix_assertions_company_title_description" unique="UNIQUE_INDEX" >
+				<column name="company_number" />
+				<column name="title" />
+				<column name="description" />
+			</index>
+			<fk name="FK_assertions companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="attributes" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="name" type="TEXT" jt="-1" mandatory="y" />
+			<column name="value" type="TEXT" jt="-1" mandatory="y" />
+			<index name="pk_attributes" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_attributes companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="classifications" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="classification" type="TEXT" jt="-1" />
+			<index name="pk_classifications" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_classifications_classification" unique="UNIQUE_KEY" >
+				<column name="classification" />
+			</index>
+		</table>
+		<table name="companies" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="company_name" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="jurisdiction" type="TEXT" jt="-1" />
+			<column name="jurisdiction_id" type="INTEGER" jt="4" />
+			<column name="incorporation_date" type="NUMERIC" jt="2" />
+			<column name="company_type" type="TEXT" jt="-1" />
+			<column name="registered_address" type="TEXT" jt="-1" />
+			<column name="agent_name" type="TEXT" jt="-1" />
+			<column name="agent_address" type="TEXT" jt="-1" />
+			<column name="parent_company_name" type="TEXT" jt="-1" />
+			<column name="parent_company_url" type="TEXT" jt="-1" />
+			<index name="pk_companies" unique="PRIMARY_KEY" >
+				<column name="company_number" />
+			</index>
+			<constraint name="Cns_companies_incorporation_date" >
+				<string><![CDATA[incorporation_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_companies jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_id" pk="id" />
+			</fk>
+		</table>
+		<table name="company_addresses" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="address_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="type" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_company_addresses" unique="PRIMARY_KEY" >
+				<column name="company_number" />
+				<column name="address_id" />
+			</index>
+			<constraint name="Cns_company_addresses_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_company_addresses_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_company_addresses companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_company_addresses addresses" to_schema="Default" to_table="addresses" options="" >
+				<fk_column name="address_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="address_types" options="DEFAULT NULL" >
+				<fk_column name="type" pk="code" />
+			</fk>
+		</table>
+		<table name="company_akas" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="aka" type="TEXT" jt="-1" mandatory="y" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="type" type="TEXT" length="12" jt="-1" />
+			<column name="language" type="TEXT" length="2" jt="-1" >
+				<defo><![CDATA['en']]></defo>
+			</column>
+			<index name="pk_company_akas" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_company_akas_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_company_akas_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_company_akas_type" >
+				<string><![CDATA[type IN ('trading', 'abbreviation', 'legal', 'published', 'dba', 'aka', 'alias')]]></string>
+			</constraint>
+			<fk name="FK_company_akas companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="company_industry_codes" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="industry_code_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="statement_link" type="TEXT" jt="-1" />
+			<index name="pk_company_industry_codes" unique="PRIMARY_KEY" >
+				<column name="company_number" />
+				<column name="industry_code_id" />
+			</index>
+			<fk name="FK_company_industry_codes companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_company_industry_codes industry_codes" to_schema="Default" to_table="industry_codes" options="" >
+				<fk_column name="industry_code_id" pk="id" />
+			</fk>
+		</table>
+		<table name="company_officers" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="officer_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="role" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_company_officers" unique="PRIMARY_KEY" >
+				<column name="company_number" />
+				<column name="officer_id" />
+			</index>
+			<constraint name="Cns_company_officers_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_company_officers_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_company_officers companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_company_officers officers" to_schema="Default" to_table="officers" options="" >
+				<fk_column name="officer_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="role_types" options="DEFAULT NULL" >
+				<fk_column name="role" pk="code" />
+			</fk>
+		</table>
+		<table name="company_people" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="person_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="role" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_company_people" unique="PRIMARY_KEY" >
+				<column name="company_number" />
+				<column name="person_id" />
+			</index>
+			<constraint name="Cns_company_people_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_company_people_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_company_people companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_company_people people" to_schema="Default" to_table="people" options="" >
+				<fk_column name="person_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="role_types" options="DEFAULT NULL" >
+				<fk_column name="role" pk="code" />
+			</fk>
+		</table>
+		<table name="control_mechanisms" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="mechanism" type="TEXT" jt="-1" />
+			<index name="pk_control_mechanisms" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+		</table>
+		<table name="control_statement_mechanisms" spec="" >
+			<column name="control_statement_id" type="INTEGER" jt="4" />
+			<column name="mechanism_id" type="INTEGER" jt="4" />
+			<index name="pk_control_statement_mechanisms" unique="UNIQUE_KEY" >
+				<column name="control_statement_id" />
+				<column name="mechanism_id" />
+			</index>
+			<fk name="FK_control_statement_mechanisms control_statements" to_schema="Default" to_table="control_statements" options="" >
+				<fk_column name="control_statement_id" pk="id" />
+			</fk>
+			<fk name="FK_control_statement_mechanisms control_mechanisms" to_schema="Default" to_table="control_mechanisms" options="" >
+				<fk_column name="mechanism_id" pk="id" />
+			</fk>
+		</table>
+		<table name="control_statements" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="controlled_company_name" type="TEXT" jt="-1" />
+			<column name="controlled_company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="controlled_company_jurisdiction" type="TEXT" jt="-1" />
+			<column name="controlling_company_name" type="TEXT" jt="-1" />
+			<column name="controlling_company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="controlling_company_jurisdiction" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="mechanisms" type="TEXT" jt="-1" />
+			<column name="statement_link" type="TEXT" jt="-1" />
+			<column name="raw_data" type="TEXT" jt="-1" />
+			<index name="pk_control_statements" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_control_statements_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_control_statements_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_control_statements companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_control_statements companies_001" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="controlled_company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_control_statements jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="controlled_company_jurisdiction" pk="code" />
+			</fk>
+			<fk name="FK_control_statements companies_002" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="controlling_company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_control_statements jurisdiction_001" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="controlling_company_jurisdiction" pk="code" />
+			</fk>
+		</table>
+		<table name="events" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="description" type="TEXT" jt="-1" />
+			<column name="link" type="TEXT" jt="-1" />
+			<index name="pk_events" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_events_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_events_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_events companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="filings" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="date" type="NUMERIC" jt="2" />
+			<column name="description" type="TEXT" jt="-1" />
+			<column name="link" type="TEXT" jt="-1" />
+			<index name="pk_filings" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_filings_date" >
+				<string><![CDATA[date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_filings companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="gazette_notices" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="date" type="NUMERIC" jt="2" />
+			<column name="link" type="TEXT" jt="-1" />
+			<column name="publication_id" type="INTEGER" jt="4" />
+			<column name="notice" type="TEXT" jt="-1" />
+			<column name="classification_id" type="INTEGER" jt="4" />
+			<index name="pk_gazette_notices" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_gazette_notices_date" >
+				<string><![CDATA[date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_gazette_notices companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_gazette_notices publications" to_schema="Default" to_table="publications" options="" >
+				<fk_column name="publication_id" pk="id" />
+			</fk>
+			<fk name="FK_gazette_notices classifications" to_schema="Default" to_table="classifications" options="" >
+				<fk_column name="classification_id" pk="id" />
+			</fk>
+		</table>
+		<table name="identifier_delegate" spec="" >
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="identifier_system" type="TEXT" jt="-1" />
+			<column name="identifier" type="TEXT" jt="-1" />
+			<column name="categories" type="TEXT" jt="-1" />
+			<index name="pk_identifier_delegate" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_identifier_delegate companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="industry_codes" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="code" type="TEXT" jt="-1" />
+			<column name="description" type="TEXT" jt="-1" />
+			<column name="code_scheme" type="TEXT" jt="-1" />
+			<index name="pk_industry_codes" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_industry_codes_code" unique="UNIQUE_KEY" >
+				<column name="code" />
+			</index>
+		</table>
+		<table name="jurisdiction" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="code" type="TEXT" jt="-1" />
+			<column name="name" type="TEXT" jt="-1" />
+			<column name="country" type="TEXT" jt="-1" />
+			<column name="full_name" type="TEXT" jt="-1" />
+			<column name="state_abv" type="TEXT" jt="-1" />
+			<column name="county" type="TEXT" jt="-1" />
+			<column name="city" type="TEXT" jt="-1" />
+			<column name="longitude" type="REAL" jt="8" />
+			<column name="latitude" type="REAL" jt="8" />
+			<column name="zip_code" type="TEXT" jt="-1" />
+			<column name="area_code" type="TEXT" jt="-1" />
+			<column name="parent_jurisdiction" type="INTEGER" jt="4" />
+			<index name="pk_jurisdiction" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_jurisdiction_code" unique="UNIQUE_KEY" >
+				<column name="code" />
+			</index>
+			<fk name="FK_jurisdiction jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="parent_jurisdiction" pk="id" />
+			</fk>
+		</table>
+		<table name="lei_address" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="address_type" type="TEXT" jt="-1" />
+			<column name="language" type="TEXT" jt="-1" />
+			<column name="address_lines" type="TEXT" jt="-1" />
+			<column name="city" type="TEXT" jt="-1" />
+			<column name="region" type="TEXT" jt="-1" />
+			<column name="country" type="TEXT" jt="-1" />
+			<column name="postal_code" type="TEXT" jt="-1" />
+			<index name="pk_lei_address" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_address lei_data" to_schema="Default" to_table="lei_data" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="lei_data" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="creation_date" type="TEXT" jt="-1" />
+			<column name="registered_as" type="TEXT" jt="-1" />
+			<column name="jurisdiction_id" type="INTEGER" jt="4" />
+			<column name="category" type="TEXT" jt="-1" />
+			<column name="legal_form_id" type="TEXT" jt="-1" />
+			<column name="legal_form_other" type="TEXT" jt="-1" />
+			<column name="associated_lei" type="TEXT" jt="-1" />
+			<column name="associated_name" type="TEXT" jt="-1" />
+			<column name="expiration_date" type="TEXT" jt="-1" />
+			<column name="expiration_reason" type="TEXT" jt="-1" />
+			<column name="successor_lei" type="TEXT" jt="-1" />
+			<column name="successor_name" type="TEXT" jt="-1" />
+			<column name="sub_category" type="TEXT" jt="-1" />
+			<index name="pk_lei_data" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_data jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_id" pk="id" />
+			</fk>
+		</table>
+		<table name="lei_entities" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="entity_name" type="TEXT" jt="-1" />
+			<column name="country" type="TEXT" jt="-1" />
+			<column name="entity_type" type="TEXT" jt="-1" />
+			<index name="pk_lei_entities" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_entities lei_records" to_schema="Default" to_table="lei_records" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="lei_entity" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="legal_name" type="TEXT" jt="-1" />
+			<column name="language" type="TEXT" jt="-1" />
+			<index name="pk_lei_entity" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_entity lei_data" to_schema="Default" to_table="lei_data" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="lei_links" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="self_link" type="TEXT" jt="-1" />
+			<column name="managing_lou_link" type="TEXT" jt="-1" />
+			<column name="lei_issuer_link" type="TEXT" jt="-1" />
+			<column name="field_modifications_link" type="TEXT" jt="-1" />
+			<column name="direct_parent_link" type="TEXT" jt="-1" />
+			<column name="ultimate_parent_link" type="TEXT" jt="-1" />
+			<column name="direct_children_link" type="TEXT" jt="-1" />
+			<column name="ultimate_children_link" type="TEXT" jt="-1" />
+			<index name="pk_lei_links" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_links lei_data" to_schema="Default" to_table="lei_data" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="lei_records" spec="" >
+			<column name="lei" type="TEXT" jt="-1" mandatory="y" />
+			<column name="entity_legal_name" type="TEXT" jt="-1" mandatory="y" />
+			<column name="registration_status" type="TEXT" jt="-1" mandatory="y" />
+			<column name="entity_status" type="TEXT" jt="-1" mandatory="y" />
+			<column name="jurisdiction_id" type="INTEGER" jt="4" />
+			<column name="registered_address" type="TEXT" jt="-1" />
+			<column name="headquarters_address" type="TEXT" jt="-1" />
+			<column name="registration_date" type="TEXT" jt="-1" />
+			<column name="next_renewal_date" type="TEXT" jt="-1" />
+			<column name="managing_lou" type="TEXT" jt="-1" />
+			<column name="validated_at" type="TEXT" jt="-1" />
+			<index name="pk_lei_records" unique="PRIMARY_KEY" >
+				<column name="lei" />
+			</index>
+			<fk name="FK_lei_records jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_id" pk="id" />
+			</fk>
+		</table>
+		<table name="lei_registration" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="initial_registration_date" type="TEXT" jt="-1" />
+			<column name="last_update_date" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="next_renewal_date" type="TEXT" jt="-1" />
+			<column name="managing_lou" type="TEXT" jt="-1" />
+			<column name="corroboration_level" type="TEXT" jt="-1" />
+			<column name="validated_at_id" type="TEXT" jt="-1" />
+			<column name="validated_as" type="TEXT" jt="-1" />
+			<index name="pk_lei_registration" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_registration lei_data" to_schema="Default" to_table="lei_data" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="lei_relationships" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="lei" type="TEXT" jt="-1" />
+			<column name="relationship_type" type="TEXT" jt="-1" />
+			<column name="related_link" type="TEXT" jt="-1" />
+			<index name="pk_lei_relationships" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_lei_relationships lei_data" to_schema="Default" to_table="lei_data" options="" >
+				<fk_column name="lei" pk="lei" />
+			</fk>
+		</table>
+		<table name="links" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="link" type="TEXT" jt="-1" mandatory="y" />
+			<index name="pk_links" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="uix_links_company_link" unique="UNIQUE_INDEX" >
+				<column name="company_number" />
+				<column name="link" />
+			</index>
+			<fk name="FK_links companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="mergers" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="merged_company_name" type="TEXT" jt="-1" />
+			<column name="merged_company_id" type="TEXT" jt="-1" />
+			<column name="surviving_company_name" type="TEXT" jt="-1" />
+			<column name="surviving_company_id" type="TEXT" jt="-1" />
+			<column name="jurisdiction_id" type="INTEGER" jt="4" />
+			<column name="statement_link" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="raw_data" type="TEXT" jt="-1" />
+			<index name="pk_mergers" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_mergers_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_mergers_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_mergers companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_mergers companies_001" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="merged_company_id" pk="company_number" />
+			</fk>
+			<fk name="FK_mergers companies_002" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="surviving_company_id" pk="company_number" />
+			</fk>
+			<fk name="FK_mergers jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_id" pk="id" />
+			</fk>
+		</table>
+		<table name="officer_addresses" spec="" >
+			<column name="officer_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="address_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="type" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_officer_addresses" unique="PRIMARY_KEY" >
+				<column name="officer_id" />
+				<column name="address_id" />
+			</index>
+			<constraint name="Cns_officer_addresses_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_officer_addresses_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="Fk" to_schema="Default" to_table="address_types" delete_action="setNull" >
+				<fk_column name="type" pk="code" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="officers" delete_action="cascade" options="" >
+				<fk_column name="officer_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="addresses" delete_action="cascade" options="" >
+				<fk_column name="address_id" pk="id" />
+			</fk>
+		</table>
+		<table name="officers" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="occurrence_number" type="TEXT" jt="-1" />
+			<column name="name" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="link" type="TEXT" jt="-1" />
+			<column name="address" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_officers" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_officers_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_officers_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_officers companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="people" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="full_name" type="TEXT" jt="-1" mandatory="y" />
+			<column name="raw_data" type="TEXT" jt="-1" mandatory="y" />
+			<column name="GivenName" type="TEXT" jt="-1" />
+			<column name="MiddleName" type="TEXT" jt="-1" />
+			<column name="Surname" type="TEXT" jt="-1" />
+			<column name="PrefixMarital" type="TEXT" jt="-1" />
+			<column name="PrefixOther" type="TEXT" jt="-1" />
+			<column name="FirstInitial" type="TEXT" jt="-1" />
+			<column name="MiddleInitial" type="TEXT" jt="-1" />
+			<column name="LastInitial" type="TEXT" jt="-1" />
+			<column name="SuffixGenerational" type="TEXT" jt="-1" />
+			<column name="SuffixOther" type="TEXT" jt="-1" />
+			<column name="Nickname" type="TEXT" jt="-1" />
+			<index name="pk_people" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+		</table>
+		<table name="people_addresses" spec="" >
+			<column name="person_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="address_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="type" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_people_addresses" unique="PRIMARY_KEY" >
+				<column name="person_id" />
+				<column name="address_id" />
+			</index>
+			<constraint name="Cns_people_addresses_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_people_addresses_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_people_addresses people" to_schema="Default" to_table="people" options="" >
+				<fk_column name="person_id" pk="id" />
+			</fk>
+			<fk name="FK_people_addresses addresses" to_schema="Default" to_table="addresses" options="" >
+				<fk_column name="address_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="address_types" options="DEFAULT NULL" >
+				<fk_column name="type" pk="code" />
+			</fk>
+		</table>
+		<table name="person_akas" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="person_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="aka" type="TEXT" jt="-1" mandatory="y" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="type" type="TEXT" length="12" jt="-1" />
+			<column name="language" type="TEXT" length="2" jt="-1" >
+				<defo><![CDATA['en']]></defo>
+			</column>
+			<index name="pk_person_akas" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_person_akas_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_person_akas_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_person_akas_type" >
+				<string><![CDATA[type IN ('trading', 'abbreviation', 'legal', 'published', 'dba', 'aka', 'alias')]]></string>
+			</constraint>
+			<fk name="FK_person_akas people" to_schema="Default" to_table="people" options="" >
+				<fk_column name="person_id" pk="id" />
+			</fk>
+		</table>
+		<table name="person_officers" spec="" >
+			<column name="person_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="officer_id" type="INTEGER" jt="4" mandatory="y" />
+			<column name="role" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<index name="pk_person_officers" unique="PRIMARY_KEY" >
+				<column name="person_id" />
+				<column name="officer_id" />
+			</index>
+			<constraint name="Cns_person_officers_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_person_officers_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_person_officers people" to_schema="Default" to_table="people" options="" >
+				<fk_column name="person_id" pk="id" />
+			</fk>
+			<fk name="FK_person_officers officers" to_schema="Default" to_table="officers" options="" >
+				<fk_column name="officer_id" pk="id" />
+			</fk>
+			<fk name="Fk" to_schema="Default" to_table="role_types" options="DEFAULT NULL" >
+				<fk_column name="role" pk="code" />
+			</fk>
+		</table>
+		<table name="publications" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="name" type="TEXT" jt="-1" />
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<index name="pk_publications" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_publications_name" unique="UNIQUE_KEY" >
+				<column name="name" />
+			</index>
+			<fk name="FK_publications companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="related_relationships" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="related_company" type="TEXT" jt="-1" />
+			<column name="related_company_id" type="TEXT" jt="-1" />
+			<column name="jurisdiction_code" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="type" type="TEXT" jt="-1" />
+			<column name="link" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="statement_link" type="TEXT" jt="-1" />
+			<index name="pk_related_relationships" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_related_relationships_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_related_relationships_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_related_relationships companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_related_relationships companies_001" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="related_company_id" pk="company_number" />
+			</fk>
+			<fk name="FK_related_relationships jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_code" pk="code" />
+			</fk>
+		</table>
+		<table name="role_types" spec="" >
+			<column name="code" type="TEXT" jt="-1" mandatory="y" />
+			<column name="name" type="TEXT" jt="-1" mandatory="y" />
+			<column name="description" type="TEXT" jt="-1" />
+			<index name="pk_role_types" unique="PRIMARY_KEY" >
+				<column name="code" />
+			</index>
+		</table>
+		<table name="share_parcel" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="shareholder_id_person" type="INTEGER" jt="4" />
+			<column name="shareholder_id_company" type="TEXT" jt="-1" />
+			<column name="shareholder" type="TEXT" jt="-1" />
+			<column name="number_of_shares" type="TEXT" jt="-1" />
+			<column name="voting_percentage" type="TEXT" jt="-1" />
+			<index name="pk_share_parcel" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_share_parcel companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_share_parcel people" to_schema="Default" to_table="people" options="" >
+				<fk_column name="shareholder_id_person" pk="id" />
+			</fk>
+			<fk name="FK_share_parcel companies_001" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="shareholder_id_company" pk="company_number" />
+			</fk>
+		</table>
+		<table name="subsidiary_relationships" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="subsidiary_company" type="TEXT" jt="-1" />
+			<column name="subsidiary_company_id" type="TEXT" jt="-1" />
+			<column name="jurisdiction_code" type="TEXT" jt="-1" />
+			<column name="status" type="TEXT" jt="-1" />
+			<column name="type" type="TEXT" jt="-1" />
+			<column name="link" type="TEXT" jt="-1" />
+			<column name="start_date" type="NUMERIC" jt="2" />
+			<column name="end_date" type="NUMERIC" jt="2" />
+			<column name="statement_link" type="TEXT" jt="-1" />
+			<index name="pk_subsidiary_relationships" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_subsidiary_relationships_start_date" >
+				<string><![CDATA[start_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<constraint name="Cns_subsidiary_relationships_end_date" >
+				<string><![CDATA[end_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_subsidiary_relationships companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+			<fk name="FK_subsidiary_relationships companies_001" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="subsidiary_company_id" pk="company_number" />
+			</fk>
+			<fk name="FK_subsidiary_relationships jurisdiction" to_schema="Default" to_table="jurisdiction" options="" >
+				<fk_column name="jurisdiction_code" pk="code" />
+			</fk>
+		</table>
+		<table name="total_shares" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="number" type="INTEGER" jt="4" />
+			<column name="share_class" type="TEXT" jt="-1" />
+			<index name="pk_total_shares" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="FK_total_shares companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="trademark_registrations" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="company_number" type="TEXT" jt="-1" mandatory="y" />
+			<column name="trademark" type="TEXT" jt="-1" />
+			<column name="registration_date" type="NUMERIC" jt="2" />
+			<column name="status" type="TEXT" jt="-1" />
+			<index name="pk_trademark_registrations" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<constraint name="Cns_trademark_registrations_registration_date" >
+				<string><![CDATA[registration_date GLOB '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]']]></string>
+			</constraint>
+			<fk name="FK_trademark_registrations companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+		<table name="url_catalog" spec="" >
+			<column name="id" type="INTEGER" jt="4" mandatory="y" >
+				<identity><![CDATA[AUTOINCREMENT]]></identity>
+			</column>
+			<column name="parent_id" type="INTEGER" jt="4" />
+			<column name="company_number" type="TEXT" jt="-1" />
+			<column name="jurisdiction" type="TEXT" jt="-1" />
+			<column name="url" type="TEXT" jt="-1" />
+			<column name="html_content" type="TEXT" jt="-1" />
+			<column name="cached_on" type="NUMERIC" jt="2" />
+			<column name="completed" type="NUMERIC" jt="2" >
+				<defo><![CDATA[FALSE]]></defo>
+			</column>
+			<index name="pk_url_catalog" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_url_catalog_url" unique="UNIQUE_KEY" >
+				<column name="url" />
+			</index>
+			<fk name="FK_url_catalog url_catalog" to_schema="Default" to_table="url_catalog" options="" >
+				<fk_column name="parent_id" pk="id" />
+			</fk>
+			<fk name="FK_url_catalog companies" to_schema="Default" to_table="companies" options="" >
+				<fk_column name="company_number" pk="company_number" />
+			</fk>
+		</table>
+	</schema>
+	<layout name="Main Layout" id="Layout-2059" joined_routing="y" show_column_type="y" show_schema_name="y" show_page_borders="y" show_relation="cascade" >
+		<entity schema="Default" name="address_types" color="3986C1" x="512" y="1952" />
+		<entity schema="Default" name="addresses" color="BED3F4" x="272" y="1936" />
+		<entity schema="Default" name="assertions" color="BED3F4" x="528" y="992" />
+		<entity schema="Default" name="attributes" color="BED3F4" x="1088" y="864" />
+		<entity schema="Default" name="classifications" color="C7F4BE" x="816" y="576" />
+		<entity schema="Default" name="companies" color="BED3F4" x="928" y="1200" />
+		<entity schema="Default" name="company_addresses" color="BED3F4" x="624" y="1760" />
+		<entity schema="Default" name="company_akas" color="BED3F4" x="800" y="880" />
+		<entity schema="Default" name="company_industry_codes" color="BED3F4" x="1280" y="672" />
+		<entity schema="Default" name="company_officers" color="BED3F4" x="976" y="1744" />
+		<entity schema="Default" name="company_people" color="BED3F4" x="592" y="1456" />
+		<entity schema="Default" name="control_mechanisms" color="F4DDBE" x="2160" y="1040" />
+		<entity schema="Default" name="control_statement_mechanisms" color="F4DDBE" x="2096" y="1152" />
+		<entity schema="Default" name="control_statements" color="F4DDBE" x="1728" y="976" />
+		<entity schema="Default" name="events" color="BED3F4" x="576" y="688" />
+		<entity schema="Default" name="filings" color="BEBEF4" x="576" y="848" />
+		<entity schema="Default" name="gazette_notices" color="C7F4BE" x="816" y="672" />
+		<entity schema="Default" name="identifier_delegate" color="D1BEF4" x="1152" y="992" />
+		<entity schema="Default" name="industry_codes" color="BED3F4" x="1312" y="544" />
+		<entity schema="Default" name="jurisdiction" color="F4DDBE" x="1584" y="1392" />
+		<entity schema="Default" name="lei_address" color="C7F4BE" x="2368" y="1696" />
+		<entity schema="Default" name="lei_data" color="C7F4BE" x="1856" y="1744" />
+		<entity schema="Default" name="lei_entities" color="C7F4BE" x="1856" y="1360" />
+		<entity schema="Default" name="lei_entity" color="C7F4BE" x="2128" y="1520" />
+		<entity schema="Default" name="lei_links" color="C7F4BE" x="2336" y="1472" />
+		<entity schema="Default" name="lei_records" color="C7F4BE" x="1856" y="1504" />
+		<entity schema="Default" name="lei_registration" color="C7F4BE" x="2112" y="1840" />
+		<entity schema="Default" name="lei_relationships" color="C7F4BE" x="2112" y="1648" />
+		<entity schema="Default" name="links" color="F4DDBE" x="800" y="1072" />
+		<entity schema="Default" name="mergers" color="BED3F4" x="1232" y="1376" />
+		<entity schema="Default" name="officer_addresses" color="3986C1" x="736" y="2000" />
+		<entity schema="Default" name="officers" color="BED3F4" x="1056" y="1904" />
+		<entity schema="Default" name="people" color="BED3F4" x="272" y="1360" />
+		<entity schema="Default" name="people_addresses" color="BED3F4" x="240" y="1664" />
+		<entity schema="Default" name="person_akas" color="BED3F4" x="48" y="1360" />
+		<entity schema="Default" name="person_officers" color="BED3F4" x="448" y="1648" />
+		<entity schema="Default" name="publications" color="C7F4BE" x="1040" y="672" />
+		<entity schema="Default" name="related_relationships" color="F4DDBE" x="1232" y="1632" />
+		<entity schema="Default" name="role_types" color="3986C1" x="672" y="1632" />
+		<entity schema="Default" name="share_parcel" color="BED3F4" x="528" y="1280" />
+		<entity schema="Default" name="subsidiary_relationships" color="BED3F4" x="944" y="1472" />
+		<entity schema="Default" name="total_shares" color="BEBEF4" x="1216" y="1136" />
+		<entity schema="Default" name="trademark_registrations" color="D1BEF4" x="496" y="1136" />
+		<entity schema="Default" name="url_catalog" color="C7F4BE" x="1184" y="80" />
+		<group name="url_catalog" color="EEF7EC" >
+			<entity schema="Default" name="url_catalog" />
+		</group>
+		<group name="addresses" color="ECF0F7" >
+			<entity schema="Default" name="addresses" />
+			<entity schema="Default" name="people_addresses" />
+			<entity schema="Default" name="company_addresses" />
+			<entity schema="Default" name="address_types" />
+		</group>
+		<group name="gazette_notices" color="EEF7EC" >
+			<entity schema="Default" name="publications" />
+			<entity schema="Default" name="gazette_notices" />
+			<entity schema="Default" name="classifications" />
+		</group>
+		<group name="lei_data" color="EEF7EC" >
+			<entity schema="Default" name="lei_address" />
+			<entity schema="Default" name="lei_records" />
+			<entity schema="Default" name="lei_entities" />
+			<entity schema="Default" name="lei_data" />
+			<entity schema="Default" name="lei_registration" />
+			<entity schema="Default" name="lei_relationships" />
+			<entity schema="Default" name="lei_entity" />
+			<entity schema="Default" name="lei_links" />
+		</group>
+		<group name="people" color="ECF0F7" >
+			<entity schema="Default" name="company_people" />
+			<entity schema="Default" name="people" />
+			<entity schema="Default" name="person_akas" />
+			<entity schema="Default" name="person_officers" />
+		</group>
+		<group name="jurisdiction" color="F7F2EC" >
+			<entity schema="Default" name="jurisdiction" />
+		</group>
+		<group name="companies" color="ECF0F7" >
+			<entity schema="Default" name="companies" />
+			<entity schema="Default" name="mergers" />
+			<entity schema="Default" name="subsidiary_relationships" />
+			<entity schema="Default" name="assertions" />
+			<entity schema="Default" name="filings" />
+			<entity schema="Default" name="links" />
+			<entity schema="Default" name="company_akas" />
+			<entity schema="Default" name="total_shares" />
+			<entity schema="Default" name="identifier_delegate" />
+			<entity schema="Default" name="attributes" />
+			<entity schema="Default" name="related_relationships" />
+			<entity schema="Default" name="trademark_registrations" />
+			<entity schema="Default" name="share_parcel" />
+			<entity schema="Default" name="events" />
+		</group>
+		<group name="industries" color="C4E0F9" >
+			<entity schema="Default" name="company_industry_codes" />
+			<entity schema="Default" name="industry_codes" />
+		</group>
+		<group name="Control Statements" color="C4E0F9" >
+			<entity schema="Default" name="control_statements" />
+			<entity schema="Default" name="control_statement_mechanisms" />
+			<entity schema="Default" name="control_mechanisms" />
+		</group>
+		<group name="officers" color="C4E0F9" >
+			<entity schema="Default" name="role_types" />
+			<entity schema="Default" name="officer_addresses" />
+			<entity schema="Default" name="company_officers" />
+			<entity schema="Default" name="officers" />
+		</group>
+	</layout>
+	<layout name="~Layout with Sample Tools" id="Layout-15aa" confirmed="y" show_column_type="y" show_relation="columns" >
+		<entity schema="Default" name="addresses" color="BED3F4" x="2096" y="1328" />
+		<entity schema="Default" name="assertions" color="BED3F4" x="352" y="336" />
+		<entity schema="Default" name="attributes" color="BED3F4" x="640" y="352" />
+		<entity schema="Default" name="classifications" color="C7F4BE" x="608" y="1584" />
+		<entity schema="Default" name="companies" color="BED3F4" x="640" y="592" />
+		<entity schema="Default" name="company_addresses" color="BED3F4" x="2368" y="1328" />
+		<entity schema="Default" name="company_akas" color="BED3F4" x="1808" y="1696" />
+		<entity schema="Default" name="company_industry_codes" color="BED3F4" x="1552" y="1328" />
+		<entity schema="Default" name="company_officers" color="BED3F4" x="352" y="752" />
+		<entity schema="Default" name="company_people" color="BED3F4" x="1552" y="1696" />
+		<entity schema="Default" name="control_mechanisms" color="F4DDBE" x="2304" y="320" />
+		<entity schema="Default" name="control_statement_mechanisms" color="F4DDBE" x="1984" y="320" />
+		<entity schema="Default" name="control_statements" color="F4DDBE" x="1616" y="320" />
+		<entity schema="Default" name="events" color="BED3F4" x="960" y="320" />
+		<entity schema="Default" name="filings" color="BEBEF4" x="48" y="1328" />
+		<entity schema="Default" name="gazette_notices" color="C7F4BE" x="336" y="1328" />
+		<entity schema="Default" name="identifier_delegate" color="D1BEF4" x="48" y="1056" />
+		<entity schema="Default" name="industry_codes" color="BED3F4" x="1824" y="1328" />
+		<entity schema="Default" name="jurisdiction" color="F4DDBE" x="1296" y="320" />
+		<entity schema="Default" name="lei_address" color="C7F4BE" x="3104" y="928" />
+		<entity schema="Default" name="lei_data" color="C7F4BE" x="2848" y="528" />
+		<entity schema="Default" name="lei_entities" color="C7F4BE" x="3376" y="528" />
+		<entity schema="Default" name="lei_entity" color="C7F4BE" x="2624" y="320" />
+		<entity schema="Default" name="lei_links" color="C7F4BE" x="2816" y="928" />
+		<entity schema="Default" name="lei_records" color="C7F4BE" x="3104" y="528" />
+		<entity schema="Default" name="lei_registration" color="C7F4BE" x="2560" y="624" />
+		<entity schema="Default" name="lei_relationships" color="C7F4BE" x="2848" y="320" />
+		<entity schema="Default" name="links" color="F4DDBE" x="1296" y="1088" />
+		<entity schema="Default" name="mergers" color="BED3F4" x="960" y="592" />
+		<entity schema="Default" name="officers" color="BED3F4" x="336" y="960" />
+		<entity schema="Default" name="people" color="BED3F4" x="1296" y="1328" />
+		<entity schema="Default" name="people_addresses" color="BED3F4" x="2368" y="1616" />
+		<entity schema="Default" name="person_akas" color="BED3F4" x="1296" y="1696" />
+		<entity schema="Default" name="person_officers" color="BED3F4" x="1552" y="1520" />
+		<entity schema="Default" name="publications" color="C7F4BE" x="608" y="1328" />
+		<entity schema="Default" name="related_relationships" color="F4DDBE" x="1616" y="704" />
+		<entity schema="Default" name="share_parcel" color="BED3F4" x="960" y="960" />
+		<entity schema="Default" name="subsidiary_relationships" color="BED3F4" x="640" y="960" />
+		<entity schema="Default" name="total_shares" color="BEBEF4" x="48" y="320" />
+		<entity schema="Default" name="trademark_registrations" color="D1BEF4" x="48" y="48" />
+		<entity schema="Default" name="url_catalog" color="C7F4BE" x="1008" y="1328" />
+		<script name="SQL Editor" id="Editor-fca" language="SQL" >
+			<string><![CDATA[SELECT
+	company_number, company_name, status, jurisdiction, jurisdiction_id, incorporation_date, company_type, registered_address, 
+	agent_name, agent_address, parent_company_name, parent_company_url
+FROM
+	companies s;]]></string>
+		</script>
+		<browser id="Browse-23a6" name="Relational Data Explorer" confirm_updates="y" >
+			<browse_table schema="Default" entity="companies" x="18" y="11" width="471" height="360" >
+				<browse_table schema="Default" entity="assertions" fk="FK_assertions companies" x="1523" y="26" width="500" height="350" />
+				<browse_table schema="Default" entity="company_officers" fk="FK_company_officers companies" x="7" y="736" width="500" height="350" >
+					<browse_table schema="Default" entity="officers" fk="FK_company_officers officers" x="656" y="735" width="500" height="350" record_view="y" >
+						<browse_table schema="Default" entity="person_officers" fk="FK_person_officers officers" x="1808" y="648" width="500" height="350" />
+					</browse_table>
+				</browse_table>
+				<browse_table schema="Default" entity="jurisdiction" fk="FK_companies jurisdiction" x="363" y="383" width="744" height="287" record_view="y" />
+				<browse_table schema="Default" entity="attributes" fk="FK_attributes companies" x="523" y="4" width="500" height="350" />
+			</browse_table>
+		</browser>
+	</layout>
+</project>

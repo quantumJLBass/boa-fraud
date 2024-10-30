@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>DAVID EVERETT</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=DAVID+EVERETT" title="Company Officers/Directors named DAVID EVERETT">DAVID EVERETT</a></dd>
+<dt>Address</dt> <dd class="address">7001 WESTOWN PARKWAY, WEST DES MOINES, IA, 50266, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=DAVID+EVERETT">Search Google for 'DAVID EVERETT'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=DAVID+EVERETT">Search LittleSis for 'DAVID EVERETT'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442011" title="more info on GREGORY A BRENK">GREGORY A BRENK</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=DAVID+EVERETT" title="Company Officers/Directors named DAVID EVERETT">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=DAVID+EVERETT">Found 907.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/201170114" title="more info on ADRIAN DAVID EVERETT">ADRIAN DAVID EVERETT</a>, director, <span class="start_date">25 Jul 2005</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/05517749" title="More Free And Open Company Data On PLUS AE LTD (United Kingdom, 05517749)">PLUS AE LTD</a> (United Kingdom, <span class="start_date">25 Jul 2005</span>-<span class="end_date"> 8 Aug 2017</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/259467930" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date">25 Jan 2017</span>-<span class="end_date">21 Dec 2018</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/10582678" title="More Free And Open Company Data On KNOWLES LAND LIMITED (United Kingdom, 10582678)">KNOWLES LAND LIMITED</a> (United Kingdom, <span class="start_date">25 Jan 2017</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/343103743" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date"> 6 Apr 2019</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/11631376" title="More Free And Open Company Data On WWW.EVERYTHINGUNI.COM LIMITED (United Kingdom, 11631376)">WWW.EVERYTHINGUNI.COM LIMITED</a> (United Kingdom, <span class="start_date">19 Oct 2018</span>-<span class="end_date"> 1 Feb 2022</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/212179253" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date">13 Apr 1993</span>-<span class="end_date"> 6 Jun 1996</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/02149279" title="More Free And Open Company Data On EBBGATE HOLDINGS LIMITED (United Kingdom, 02149279)">EBBGATE HOLDINGS LIMITED</a> (United Kingdom, <span class="start_date">22 Jul 1987</span>-<span class="end_date"> 7 Mar 2012</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/343103746" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, secretary, <span class="start_date"> 6 Apr 2019</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/11631376" title="More Free And Open Company Data On WWW.EVERYTHINGUNI.COM LIMITED (United Kingdom, 11631376)">WWW.EVERYTHINGUNI.COM LIMITED</a> (United Kingdom, <span class="start_date">19 Oct 2018</span>-<span class="end_date"> 1 Feb 2022</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/203870830" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date"> 1 Nov 2013</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/08758093" title="More Free And Open Company Data On AMRP LIMITED (United Kingdom, 08758093)">AMRP LIMITED</a> (United Kingdom, <span class="start_date"> 1 Nov 2013</span>-<span class="end_date">20 Dec 2016</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/201621424" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date"> 1 Apr 2011</span>-<span class="end_date">21 Dec 2018</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/07398848" title="More Free And Open Company Data On KNOWLES CONSTRUCTION LTD (United Kingdom, 07398848)">KNOWLES CONSTRUCTION LTD</a> (United Kingdom, <span class="start_date"> 6 Oct 2010</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/213038149" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date">13 Apr 1993</span>-<span class="end_date"> 6 Jun 1996</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/01991432" title="More Free And Open Company Data On EXSHELFCO (BCCM) LIMITED (United Kingdom, 01991432)">EXSHELFCO (BCCM) LIMITED</a> (United Kingdom, <span class="start_date">20 Feb 1986</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/203870809" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, secretary, <span class="start_date"> 1 Nov 2013</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/08758093" title="More Free And Open Company Data On AMRP LIMITED (United Kingdom, 08758093)">AMRP LIMITED</a> (United Kingdom, <span class="start_date"> 1 Nov 2013</span>-<span class="end_date">20 Dec 2016</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/211861027" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date">16 Nov 1998</span>-<span class="end_date"> 7 Sep 1999</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/01781948" title="More Free And Open Company Data On BOYDEN INTERNATIONAL LIMITED (United Kingdom, 01781948)">BOYDEN INTERNATIONAL LIMITED</a> (United Kingdom, <span class="start_date">10 Jan 1984</span>-<span class="end_date">24 Jan 2009</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/221375230" title="more info on ALAN DAVID EVERETT">ALAN DAVID EVERETT</a>, director, <span class="start_date"> 5 Feb 2016</span>-<span class="end_date">21 Dec 2018</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/09990961" title="More Free And Open Company Data On HENLEYROAD LIMITED (United Kingdom, 09990961)">HENLEYROAD LIMITED</a> (United Kingdom, <span class="start_date"> 5 Feb 2016</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

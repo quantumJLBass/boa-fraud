@@ -1,0 +1,4 @@
+---
+aka:
+- JOHN R. SHREWSBERRY
+---

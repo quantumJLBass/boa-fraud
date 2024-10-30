@@ -1,0 +1,375 @@
+https://opencorporates.com/companies/us_id/0003949850
+
+2020 Properties, LLC
+Company Number
+0003949850
+Status
+Active Existing
+Incorporation Date
+29 July 2020 (almost 4 years ago)
+Company Type
+Limited Liability Company (D)
+Jurisdiction
+Idaho (US)
+Registered Address
+BRIAN JORDAN
+3200 W SELTICE WAY
+POST FALLS, ID 83854
+United States
+Agent Name
+Cindy M Jordan
+Agent Address
+3907 MOCCASIN RD, COEUR D ALENE, ID 83815
+Directors / Officers
+Cindy M Jordan, agent
+RSS feed icon
+Recent filings for 2020 Properties, LLC
+19 Jun 2023
+ANNUAL REPORT view
+13 Jun 2022
+ANNUAL REPORT view
+11 Jun 2021
+ANNUAL REPORT view
+29 Jul 2020
+INITIAL FILING view
+Source Idaho Secretary of State, https://sosbiz.idaho.gov/search/business, 4 May 2024
+Company Addresses
+MAILING ADDRESS
+BRIAN JORDAN 715 N PLEASANT VIEW RD POST FALLS, ID 83854-5223
+--------------------------------------------------------------
+.main_containt html for the page
+
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+2020 Properties, LLC
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">0003949850</dd>
+
+
+
+<dt>Status</dt> <dd class="status">Active Existing</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span itemprop="foundingDate" datetime="2020-07-29">29 July 2020</span> (almost 4 years ago)</dd>
+
+<dt>Company Type</dt> <dd class="company_type">Limited Liability Company (D)</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_id" title="Free And Open Data On Idaho (US) Companies">Idaho (US)</a></dd>
+
+
+
+
+
+
+
+
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">BRIAN JORDAN<br>3200 W SELTICE WAY<br>POST FALLS, ID 83854</li><li class="address_line">United States</li></ul></dd>
+
+
+
+
+
+
+
+
+<dt>Agent Name</dt> <dd class="agent_name">Cindy M Jordan</dd>
+<dt>Agent Address</dt> <dd class="agent_address">3907 MOCCASIN RD, COEUR D ALENE, ID  83815</dd>
+<dt><a href="/companies/us_id/0003949850/officers" title="Directors for 2020 Properties, LLC (Idaho (US))">Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer" href="/officers/680046148" title="more info on Cindy M Jordan">Cindy M Jordan</a>, agent</li></ul></dd>
+
+
+
+</dl>
+</div>
+</div>
+
+
+<div id="filings">
+<div class="rss_feed"><a href="/companies/us_id/0003949850/filings.rss" title="Subscribe to filings for 2020 Properties, LLC"><img alt="RSS feed icon" src="/assets/feed_icon-c52f34321d9d3c4685b3fc8b8505ba1d.gif"></a></div>
+<h3><a href="https://opencorporates.com/companies/us_id/0003949850/filings" title="See all filings for 2020 Properties, LLC">Recent filings for 2020 Properties, LLC</a></h3>
+<div class="filing" id="filing_1240679175"><div class="dateline">19 Jun 2023</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1240679175" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/036222080126189187249023108074126168073196038231" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_1136529934"><div class="dateline">13 Jun 2022</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1136529934" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/097013113154105234143009255224061054169126101120" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_980179128"><div class="dateline">11 Jun 2021</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/980179128" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/049119228205125092209063213033166068077164192102" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_642946438"><div class="dateline">29 Jul 2020</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/642946438" title="more info on Initial Filing">Initial Filing</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/176082079192239090228139066177228138242162002220" title="View Initial Filing for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Idaho Secretary of State</span>, <a class="url external" href="https://sosbiz.idaho.gov/search/business">https://sosbiz.idaho.gov/search/business</a>, <span class="retrieved"> 4 May 2024</span></div>
+<div id="company_data">
+<div id="update_links">
+
+</div>
+<div id="assertions"><div class="assertion_group" id="company_addresses"><h3>Company Addresses</h3><div class="assertion company_address" id="assertion_87063355"><div class="subhead">
+<a href="/data/87063355">Mailing Address</a>
+</div>
+<p class="description">
+BRIAN JORDAN
+715 N PLEASANT VIEW RD
+POST FALLS, ID 83854-5223
+</p>
+</div></div></div>
+</div>
+
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="On 2020-07-29">
+2020-07-29
+</dt>
+<dd><a href="/events/1880807869">Incorporated</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2022-02-19 and 2022-08-25">
+2022-02-19 - 2022-08-25
+</dt>
+<dd><a href="/events/2582547043">Addition of officer Cindy M Jordan, agent</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_id/0003949850/events">See all events</a>
+</div>
+</div>
+
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a href="/legal/glossary#user-contributed-data" rel="tooltip" data-placement="top" data-original-title="This data has been user contributed">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=0003949850&amp;jurisdiction_code=us_id" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=2020+Properties%2C+LLC" title="Companies named 2020 Properties, LLC">Similarly named companies</a></h3>
+<p>
+<a href="/companies?q=2020+Properties%2C+LLC" title="Companies named 2020 Properties, LLC">Found 194.</a>
+Showing first 10
+</p>
+<ul class="companies">
+<li class="in_existence_but_not_in_good_standing">
+<a class="jurisdiction_filter us" href="/companies/us_mi" title="Free And Open Data On Michigan (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company in_existence_but_not_in_good_standing" href="/companies/us_mi/802453579" title="More Free And Open Company Data On 2020 PROPERTIES, LLC (Michigan (US), 802453579)">2020 PROPERTIES, LLC</a> (Michigan (US), <span class="start_date"> 4 Jun 2020</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_az" title="Free And Open Data On Arizona (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company active" href="/companies/us_az/23105501" title="More Free And Open Company Data On 2020 Properties llc (Arizona (US), 23105501)">2020 Properties llc</a> (Arizona (US), <span class="start_date">10 Jul 2020</span>- )
+</li>
+<li class="goodstanding">
+<a class="jurisdiction_filter us" href="/companies/us_il" title="Free And Open Data On Illinois (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company goodstanding" href="/companies/us_il/LLC_06171591" title="More Free And Open Company Data On 2020 PROPERTIES LLC (Illinois (US), LLC_06171591)">2020 PROPERTIES LLC</a> (Illinois (US), <span class="start_date"> 6 Mar 2017</span>- )
+</li>
+<li>
+<a class="jurisdiction_filter us" href="/companies/us_wv" title="Free And Open Data On West Virginia (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company" href="/companies/us_wv/504412" title="More Free And Open Company Data On 2020 PROPERTIES LLC (West Virginia (US), 504412)">2020 PROPERTIES LLC</a> (West Virginia (US), <span class="start_date">17 Dec 2020</span>- )
+</li>
+<li class="delinquent">
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company delinquent" href="/companies/us_co/20051378479" title="More Free And Open Company Data On 2020 Properties, LLC (Colorado (US), 20051378479)">2020 Properties, LLC</a> (Colorado (US), <span class="start_date">12 Oct 2005</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_pa" title="Free And Open Data On Pennsylvania (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company active" href="/companies/us_pa/4046521" title="More Free And Open Company Data On 2020 Properties, LLC (Pennsylvania (US), 4046521)">2020 Properties, LLC</a> (Pennsylvania (US), <span class="start_date">28 Jul 2011</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_nd" title="Free And Open Data On North Dakota (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company active" href="/companies/us_nd/0000120065" title="More Free And Open Company Data On 2020 PROPERTIES, LLC (North Dakota (US), 0000120065)">2020 PROPERTIES, LLC</a> (North Dakota (US), <span class="start_date"> 7 Aug 2012</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_ny" title="Free And Open Data On New York (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company active" href="/companies/us_ny/5372992" title="More Free And Open Company Data On 2020 PROPERTIES LLC (New York (US), 5372992)">2020 PROPERTIES LLC</a> (New York (US), <span class="start_date">10 Jul 2018</span>- )
+</li>
+<li class="delinquent">
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company delinquent" href="/companies/us_co/20121479679" title="More Free And Open Company Data On 2020 Properties, LLC (Colorado (US), 20121479679)">2020 Properties, LLC</a> (Colorado (US), <span class="start_date">30 Aug 2012</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_ct" title="Free And Open Data On Connecticut (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"></a>  <a class="company active" href="/companies/us_ct/1372602" title="More Free And Open Company Data On 2020 PROPERTIES LLC (Connecticut (US), 1372602)">2020 PROPERTIES LLC</a> (Connecticut (US), <span class="start_date"> 8 Jan 2021</span>- )
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+-----------------------------------------------------------------------------------------------------
+https://opencorporates.com/companies/us_id/0003949850/events
+
+Events for 2020 Properties, LLC
+On 2020-07-29
+Incorporated
+Between 2022-02-19 and 2022-08-25
+Addition of officer Cindy M Jordan, agent
+--------------------------------------------------------------
+.main_containt html for the page
+
+<div class="row content main_content">
+<div class="span7">
+<h1>Events for <a class="company active_existing" href="/companies/us_id/0003949850" title="More Free And Open Company Data On 2020 Properties, LLC (Idaho (US), 0003949850)">2020 Properties, LLC</a></h1>
+<div id="events">
+<div class="oc-events-timeline">
+<dl>
+<dt>On 2020-07-29</dt>
+<dd><a href="/events/1880807869">Incorporated</a></dd>
+<dt>Between 2022-02-19 and 2022-08-25</dt>
+<dd><a href="/events/2582547043">Addition of officer Cindy M Jordan, agent</a></dd>
+
+</dl>
+</div>
+</div>
+<div class="pagination_tools">
+
+</div>
+
+</div>
+<div class="span5">
+</div>
+</div>
+
+
+
+-----------------------------------------------------------------------------------------------------
+https://opencorporates.com/companies/us_id/0003949850/filings
+
+
+Filings for 2020 Properties, LLC (Idaho (US))
+19 Jun 2023
+ANNUAL REPORT view
+13 Jun 2022
+ANNUAL REPORT view
+11 Jun 2021
+ANNUAL REPORT view
+29 Jul 2020
+INITIAL FILING view
+--------------------------------------------------------------
+.main_containt html for the page
+
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company active_existing" href="/companies/us_id/0003949850" title="More Free And Open Company Data On 2020 Properties, LLC (Idaho (US), 0003949850)">2020 Properties, LLC</a> (Idaho (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_1240679175"><div class="dateline">19 Jun 2023</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1240679175" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/036222080126189187249023108074126168073196038231" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_1136529934"><div class="dateline">13 Jun 2022</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/1136529934" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/097013113154105234143009255224061054169126101120" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_980179128"><div class="dateline">11 Jun 2021</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/980179128" title="more info on Annual Report">Annual Report</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/049119228205125092209063213033166068077164192102" title="View Annual Report for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div><div class="filing" id="filing_642946438"><div class="dateline">29 Jul 2020</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/642946438" title="more info on Initial Filing">Initial Filing</a>
+<span class="filing_link">
+<a class="external filing_url" href="https://sosbiz.idaho.gov/api/report/GetImageByNum/176082079192239090228139066177228138242162002220" title="View Initial Filing for 2020 Properties, LLC">view</a>
+</span>
+</div>
+<p class="description">
+
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+<div class="span5">
+</div>
+</div>
+
+-----------------------------------------------------------------------------------------------------
+https://opencorporates.com/companies/us_id/0003949850/officers
+
+Officers for 2020 Properties, LLC (Idaho (US))
+Cindy M Jordan, agent
+--------------------------------------------------------------
+.main_contant html
+<div class="row content main_content">
+<div class="span7">
+<h1>Officers for <a class="company active_existing" href="/companies/us_id/0003949850" title="More Free And Open Company Data On 2020 Properties, LLC (Idaho (US), 0003949850)">2020 Properties, LLC</a> (Idaho (US))</h1>
+<div id="results">
+<ul id="officers">
+<li><a class="officer" href="/officers/680046148" title="more info on Cindy M Jordan">Cindy M Jordan</a>, agent</li>
+</ul>
+</div>
+
+
+</div>
+<div class="span5">
+</div>
+</div>
+

@@ -1,0 +1,111 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+DPW INVESTMENTS, LLC
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">S3181841</dd>
+<dt>Status</dt> <dd class="status">Inactive</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="2010-02-24" itemprop="foundingDate">24 February 2010</span> (over 14 years ago)</dd>
+<dt>Dissolution Date</dt> <dd class="dissolution date">31 May 2023</dd>
+<dt>Company Type</dt> <dd class="company_type">Limited Liability Company</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_va" title="Free And Open Data On Virginia (US) Companies">Virginia (US)</a></dd>
+<dt>Registered Address</dt> <dd class="registered_address adr"><ul class="address_lines"><li class="address_line">5134 NEWBYS BRIDGE RD</li><li class="address_line">CHESTERFIELD</li><li class="address_line">23832-0000</li><li class="address_line">Virginia</li><li class="address_line">United States</li></ul></dd>
+<dt>Business Classification Text</dt> <dd class="business_classification_text">GENERAL</dd>
+<dt><a href="/companies/us_va/S3181841/officers" title="Directors for DPW INVESTMENTS, LLC (Virginia (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/354222281" title="more info on PHYLLIS B. WOODFIN">PHYLLIS B. WOODFIN</a>, agent</li></ul></dd>
+</dl>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Commonwealth of Virginia State Corporation Commission</span>, <a class="url external" href="https://cis.scc.virginia.gov/">https://cis.scc.virginia.gov/</a>, <span class="retrieved">30 Jun 2024</span></div>
+<div id="company_data">
+<div id="update_links">
+</div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="Between 2019-07-02 and 2019-07-09">
+2019-07-02 - 2019-07-09
+</dt>
+<dd><a href="/events/1548969791">Removal of officer DAVID M WOODFIN, agent</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2021-05-02 and 2021-05-08">
+2021-05-02 - 2021-05-08
+</dt>
+<dd><a href="/events/2026640723">Change of name from 'DPW INVESTMENTS LLC' to 'DPW INVESTMENTS, LLC'</a></dd>
+</div>
+<div class="event-timeline-row">
+<dt title="Between 2023-02-26 and 2023-03-18">
+2023-02-26 - 2023-03-18
+</dt>
+<dd><a href="/events/2904354695">Change of status from 'Active' to 'Pendinact'</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_va/S3181841/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=S3181841&amp;jurisdiction_code=us_va" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=DPW+INVESTMENTS%2C+LLC" title="Companies named DPW INVESTMENTS, LLC">Similarly named companies</a></h3>
+<p>
+<a href="/companies?q=DPW+INVESTMENTS%2C+LLC" title="Companies named DPW INVESTMENTS, LLC">Found 16.</a>
+Showing first 10
+</p>
+<ul class="companies">
+<li class="in_existence">
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company in_existence" href="/companies/us_tx/0802771616" title="More Free And Open Company Data On DPW Investments, LLC (Texas (US), 0802771616)">DPW Investments, LLC</a> (Texas (US), <span class="start_date">19 Jul 2017</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_pa" title="Free And Open Data On Pennsylvania (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_pa/3743576" title="More Free And Open Company Data On DPW INVESTMENTS, LLC (Pennsylvania (US), 3743576)">DPW INVESTMENTS, LLC</a> (Pennsylvania (US), <span class="start_date">18 Jul 2007</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_nm" title="Free And Open Data On New Mexico (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_nm/4040374" title="More Free And Open Company Data On DPW INVESTMENTS LLC (New Mexico (US), 4040374)">DPW INVESTMENTS LLC</a> (New Mexico (US), <span class="start_date">21 May 2008</span>- )
+</li>
+<li class="delinquent">
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company delinquent" href="/companies/us_co/20151152764" title="More Free And Open Company Data On DPW Investments LLC (Colorado (US), 20151152764)">DPW Investments LLC</a> (Colorado (US), <span class="start_date"> 1 Mar 2015</span>- )
+</li>
+<li class="active___current">
+<a class="jurisdiction_filter us" href="/companies/us_ut" title="Free And Open Data On Utah (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active___current" href="/companies/us_ut/11797373-0160" title="More Free And Open Company Data On DPW INVESTMENTS, LLC (Utah (US), 11797373-0160)">DPW INVESTMENTS, LLC</a> (Utah (US), <span class="start_date"> 1 Jun 2020</span>- )
+</li>
+<li class="restored_to_good_standing">
+<a class="jurisdiction_filter us" href="/companies/us_wi" title="Free And Open Data On Wisconsin (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company restored_to_good_standing" href="/companies/us_wi/D056132" title="More Free And Open Company Data On DPW INVESTMENTS LLC (Wisconsin (US), D056132)">DPW INVESTMENTS LLC</a> (Wisconsin (US), <span class="start_date">13 Nov 2015</span>- )
+</li>
+<li class="inactive inactive___administratively_dissolved_(tax)">
+<a class="jurisdiction_filter us" href="/companies/us_wy" title="Free And Open Data On Wyoming (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive___administratively_dissolved_(tax)" href="/companies/us_wy/2016-000718892" title="More Free And Open Company Data On DPW INVESTMENTS, LLC (Wyoming (US), 2016-000718892)">DPW INVESTMENTS, LLC</a> (Wyoming (US), <span class="start_date">30 Jun 2016</span>-<span class="end_date"> 9 Aug 2019</span>)
+</li>
+<li class="inactive involuntary_dissolution">
+<a class="jurisdiction_filter us" href="/companies/us_mt" title="Free And Open Data On Montana (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive involuntary_dissolution" href="/companies/us_mt/C187173" title="More Free And Open Company Data On DPW INVESTMENTS LLC (Montana (US), C187173)">DPW INVESTMENTS LLC</a> (Montana (US), <span class="start_date"> 4 Aug 2008</span>-<span class="end_date"> 1 Dec 2019</span>)
+</li>
+<li class="inactive inactive">
+<a class="jurisdiction_filter us" href="/companies/us_wa" title="Free And Open Data On Washington (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_wa/602249259" title="More Free And Open Company Data On DPW INVESTMENTS, LLC (Washington (US), 602249259)">DPW INVESTMENTS, LLC</a> (Washington (US), <span class="start_date">15 Nov 2002</span>-<span class="end_date"> 1 Mar 2005</span>)
+</li>
+<li class="inactive inactive">
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_or/138980792" title="More Free And Open Company Data On DPW INVESTMENTS, LLC (Oregon (US), 138980792)">DPW INVESTMENTS, LLC</a> (Oregon (US), <span class="start_date">20 Dec 2017</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

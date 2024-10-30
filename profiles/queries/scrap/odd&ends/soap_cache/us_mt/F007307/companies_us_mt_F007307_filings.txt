@@ -1,0 +1,251 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Filings for <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> (Montana (US))</h1>
+<div id="filings">
+<div class="filing" id="filing_329432977"><div class="dateline">20 Aug 2016</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432977" title="more info on Migrated Business Entity Data">Migrated Business Entity Data</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344660"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344660" title="more info on Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)">Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344657"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344657" title="more info on Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)">Comment (SERV OF PROC: 6TH &amp; MARQUETTE, N9305-173, MINNEAPOLIS MN, 55479)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344654"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344654" title="more info on Articles of Dissolution (- VOLUNTARY DISS OR WITHDRAWAL)">Articles of Dissolution (- VOLUNTARY DISS OR WITHDRAWAL)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432978"><div class="dateline"> 6 May 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432978" title="more info on ARTICLES OF DISSOLUTION ( - VOLUNTARY DISS OR WITHDRAWAL )">ARTICLES OF DISSOLUTION ( - VOLUNTARY DISS OR WITHDRAWAL )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344663"><div class="dateline"> 8 Mar 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344663" title="more info on Annual Report 2004 (- 2004)">Annual Report 2004 (- 2004)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432979"><div class="dateline"> 8 Mar 2004</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432979" title="more info on REPORT ( - 2004 )">REPORT ( - 2004 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344666"><div class="dateline">19 May 2003</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344666" title="more info on Annual Report 2003 (- 2003)">Annual Report 2003 (- 2003)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432980"><div class="dateline">19 May 2003</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432980" title="more info on REPORT ( - 2003 )">REPORT ( - 2003 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344669"><div class="dateline"> 7 Feb 2002</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344669" title="more info on Annual Report 2002 (- 2002)">Annual Report 2002 (- 2002)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432981"><div class="dateline"> 7 Feb 2002</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432981" title="more info on REPORT ( - 2002 )">REPORT ( - 2002 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344672"><div class="dateline">12 Mar 2001</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344672" title="more info on Annual Report 2001 (- 2001)">Annual Report 2001 (- 2001)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432982"><div class="dateline">12 Mar 2001</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432982" title="more info on REPORT ( - 2001 )">REPORT ( - 2001 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344675"><div class="dateline">19 Apr 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344675" title="more info on Annual Report 2000 (- 2000)">Annual Report 2000 (- 2000)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432983"><div class="dateline">19 Apr 2000</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432983" title="more info on REPORT ( - 2000 )">REPORT ( - 2000 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344678"><div class="dateline">31 Aug 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344678" title="more info on Amendment (- CORPORATION NAME)">Amendment (- CORPORATION NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432984"><div class="dateline">31 Aug 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432984" title="more info on AMENDMENT ( - CORPORATION NAME )">AMENDMENT ( - CORPORATION NAME )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344684"><div class="dateline">21 May 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344684" title="more info on Amendment (- REGISTERED AGENT ADDRESS)">Amendment (- REGISTERED AGENT ADDRESS)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344681"><div class="dateline">21 May 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344681" title="more info on Amendment (- REGISTERED AGENT NAME)">Amendment (- REGISTERED AGENT NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432985"><div class="dateline">21 May 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432985" title="more info on AMENDMENT ( - REGISTERED AGENT ADDRESS )">AMENDMENT ( - REGISTERED AGENT ADDRESS )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344687"><div class="dateline">12 Mar 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344687" title="more info on Annual Report 1999 (- 1999)">Annual Report 1999 (- 1999)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432986"><div class="dateline">12 Mar 1999</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432986" title="more info on REPORT ( - 1999 )">REPORT ( - 1999 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344690"><div class="dateline"> 6 Apr 1998</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344690" title="more info on Annual Report 1998 (- 1998)">Annual Report 1998 (- 1998)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432987"><div class="dateline"> 6 Apr 1998</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432987" title="more info on REPORT ( - 1998 )">REPORT ( - 1998 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344693"><div class="dateline">15 Dec 1997</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344693" title="more info on Amendment (- REGISTERED AGENT ADDRESS)">Amendment (- REGISTERED AGENT ADDRESS)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432988"><div class="dateline">15 Dec 1997</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432988" title="more info on AMENDMENT ( - REGISTERED AGENT ADDRESS )">AMENDMENT ( - REGISTERED AGENT ADDRESS )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344696"><div class="dateline">21 Mar 1997</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344696" title="more info on Annual Report 1997 (- 1997)">Annual Report 1997 (- 1997)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432989"><div class="dateline">21 Mar 1997</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432989" title="more info on REPORT ( - 1997 )">REPORT ( - 1997 )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_696344699"><div class="dateline">31 Oct 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/696344699" title="more info on Amendment (- CORPORATION NAME)">Amendment (- CORPORATION NAME)</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div><div class="filing" id="filing_329432990"><div class="dateline">31 Oct 1996</div>
+<div class="info">
+<div class="subhead">
+<a class="filing" href="/filings/329432990" title="more info on AMENDMENT ( - CORPORATION NAME )">AMENDMENT ( - CORPORATION NAME )</a>
+</div>
+<p class="description">
+</p>
+</div>
+</div>
+</div>
+<div class="pagination"><ul><li class="prev previous_page disabled"><a href="#">← Previous</a></li> <li class="active"><a href="/companies/us_mt/F007307/filings?page=1" rel="start nofollow">1</a></li> <li><a href="/companies/us_mt/F007307/filings?page=2" rel="next nofollow">2</a></li> <li><a href="/companies/us_mt/F007307/filings?page=3" rel="nofollow">3</a></li> <li><a href="/companies/us_mt/F007307/filings?page=4" rel="nofollow">4</a></li> <li class="next next_page"><a href="/companies/us_mt/F007307/filings?page=2" rel="next nofollow">Next →</a></li></ul></div>
+</div>
+<div class="span5">
+</div>
+</div>

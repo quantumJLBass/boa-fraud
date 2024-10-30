@@ -1,0 +1,12 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Officers for <a class="company inactive branch ousted" href="/companies/us_ok/2300409361" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Oklahoma (US), 2300409361)">WACHOVIA MORTGAGE CORPORATION</a> (Oklahoma (US))</h1>
+<div id="results">
+<ul id="officers">
+<li><a class="officer inactive" href="/officers/168970611" title="more info on THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC">THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC</a>, agent</li>
+</ul>
+</div>
+</div>
+<div class="span5">
+</div>
+</div>

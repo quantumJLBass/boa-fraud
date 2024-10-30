@@ -1,0 +1,177 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>DALE PEARCE</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=DALE+PEARCE" title="Company Officers/Directors named DALE PEARCE">DALE PEARCE</a></dd>
+<dt>Address</dt> <dd class="address">100 PINE ST, SAN FRANCISCO, CA, 94111, United States</dd>
+<dt>Position</dt> <dd class="position">director</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=DALE+PEARCE">Search Google for 'DALE PEARCE'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=DALE+PEARCE">Search LittleSis for 'DALE PEARCE'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442011" title="more info on GREGORY A BRENK">GREGORY A BRENK</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=DALE+PEARCE" title="Company Officers/Directors named DALE PEARCE">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=DALE+PEARCE">Found 76.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/148991197" title="more info on CHARLES DALE PEARCE">CHARLES DALE PEARCE</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive admin_diss/cancel___repor" href="/companies/us_mo/00247573" title="More Free And Open Company Data On PEARCE REALTY, LTD. (Missouri (US), 00247573)">PEARCE REALTY, LTD.</a> (Missouri (US), <span class="start_date">22 Dec 1982</span>-<span class="end_date">22 Dec 1982</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/196556186" title="more info on DALE ANDREW PEARCE">DALE ANDREW PEARCE</a>, director, <span class="start_date">21 Mar 2014</span>-<span class="end_date">10 Nov 2014</span>,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/06080649" title="More Free And Open Company Data On GAAC 176 LIMITED (United Kingdom, 06080649)">GAAC 176 LIMITED</a> (United Kingdom, <span class="start_date"> 2 Feb 2007</span>-<span class="end_date"> 8 Mar 2022</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/208688850" title="more info on DALE ELLIOT PEARCE">DALE ELLIOT PEARCE</a>, director, <span class="start_date"> 6 Dec 2002</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/04606115" title="More Free And Open Company Data On D P PROPERTY DEVELOPMENTS LIMITED (United Kingdom, 04606115)">D P PROPERTY DEVELOPMENTS LIMITED</a> (United Kingdom, <span class="start_date"> 2 Dec 2002</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/809870793" title="more info on DALE ELLIOT PEARCE">DALE ELLIOT PEARCE</a>, director, <span class="start_date">21 Oct 2023</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/04606053" title="More Free And Open Company Data On G. &amp; S. PROPERTIES GATCOMBE LIMITED (United Kingdom, 04606053)">G. &amp; S. PROPERTIES GATCOMBE LIMITED</a> (United Kingdom, <span class="start_date"> 2 Dec 2002</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/673128744" title="more info on DALE GARRY JOHN PEARCE">DALE GARRY JOHN PEARCE</a>, director, <span class="start_date">16 Jun 2022</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <a class="company active" href="/companies/gb/14178303" title="More Free And Open Company Data On ROADSIDETYRES24/7 LTD (United Kingdom, 14178303)">ROADSIDETYRES24/7 LTD</a> (United Kingdom, <span class="start_date">16 Jun 2022</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/309978047" title="more info on DALE MARTIN PEARCE">DALE MARTIN PEARCE</a>, director, <span class="start_date">14 Aug 2018</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/11516318" title="More Free And Open Company Data On EIP ENGINEERING LTD (United Kingdom, 11516318)">EIP ENGINEERING LTD</a> (United Kingdom, <span class="start_date">14 Aug 2018</span>-<span class="end_date">10 Aug 2021</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/456812366" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary,
+<a class="jurisdiction_filter us" href="/companies/us_ia" title="Free And Open Data On Iowa (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_ia/49272" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Iowa (US), 49272)">WELLS FARGO SERVICES COMPANY</a> (Iowa (US), <span class="start_date">17 Jun 1968</span>-<span class="end_date">26 Apr 2004</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/256777191" title="more info on DALE PEARCE">DALE PEARCE</a>, governor,
+<a class="jurisdiction_filter us" href="/companies/us_wa" title="Free And Open Data On Washington (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch terminated" href="/companies/us_wa/601996266" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Washington (US), 601996266)">WELLS FARGO SERVICES COMPANY</a> (Washington (US), <span class="start_date"> 7 Aug 2001</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/320429719" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary, <span class="start_date">25 Oct 2018</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/11642321" title="More Free And Open Company Data On APEX RESOURCING PARTNERSHIP LIMITED (United Kingdom, 11642321)">APEX RESOURCING PARTNERSHIP LIMITED</a> (United Kingdom, <span class="start_date">25 Oct 2018</span>-<span class="end_date">27 Aug 2019</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/155415180" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary,
+<a class="jurisdiction_filter us" href="/companies/us_nv" title="Free And Open Data On Nevada (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch withdrawn" href="/companies/us_nv/C21142-2001" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Nevada (US), C21142-2001)">WELLS FARGO SERVICES COMPANY</a> (Nevada (US), <span class="start_date"> 2 Aug 2001</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/193395714" title="more info on DALE PEARCE">DALE PEARCE</a>, director, <span class="start_date">15 Jul 2014</span>- ,
+<a class="jurisdiction_filter gb" href="/companies/gb" title="Free And Open Data On United Kingdom Companies"><img alt="United Kingdom flag" class="flag" src="/assets/flags/gb-62cbef93f4dcb3c007cabc199db52059.gif"/></a> <span class="status label">inactive</span> <a class="company inactive dissolved" href="/companies/gb/09130993" title="More Free And Open Company Data On ELITE DEMOLITION LTD (United Kingdom, 09130993)">ELITE DEMOLITION LTD</a> (United Kingdom, <span class="start_date">15 Jul 2014</span>-<span class="end_date">23 Feb 2016</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>

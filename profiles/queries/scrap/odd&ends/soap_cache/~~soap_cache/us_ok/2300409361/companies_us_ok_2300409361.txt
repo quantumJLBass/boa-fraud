@@ -1,0 +1,102 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="vcard" itemscope="" itemtype="http://schema.org/Corporation">
+<h1 class="wrapping_heading fn org" itemprop="name">
+WACHOVIA MORTGAGE CORPORATION
+<span class="badge"><a data-original-title="branch" data-placement="top" href="/legal/glossary#branch" rel="tooltip">branch</a></span>
+</h1>
+<div id="attributes">
+<dl class="attributes dl-horizontal">
+<dt>Company Number</dt> <dd class="company_number">2300409361</dd>
+<dt>Status</dt> <dd class="status">Ousted</dd>
+<dt>Incorporation Date</dt> <dd class="incorporation_date"><span datetime="1983-09-06" itemprop="foundingDate"> 6 September 1983</span> (almost 41 years ago)</dd>
+<dt>Company Type</dt> <dd class="company_type">Foreign For Profit Business Corporation</dd>
+<dt>Jurisdiction</dt> <dd class="jurisdiction"><a class="jurisdiction_filter us" href="/companies/us_ok" title="Free And Open Data On Oklahoma (US) Companies">Oklahoma (US)</a></dd>
+<dt><span class="define">Branch</span></dt> <dd class="branch">Branch of <a class="company merged" href="/companies/us_nc/0020265" title="More Free And Open Company Data On Wachovia Mortgage Corporation (North Carolina (US), 0020265)">Wachovia Mortgage Corporation</a> (North Carolina (US))</dd>
+<dt><a href="/companies/us_ok/2300409361/officers" title="Directors for WACHOVIA MORTGAGE CORPORATION (Oklahoma (US))">Inactive Directors / Officers</a></dt> <dd class="officers trunc8"><ul class="attribute_list"><li class="attribute_item"><a class="officer inactive" href="/officers/168970611" title="more info on THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC">THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC</a>, agent</li></ul></dd>
+<dt>Registry Page</dt> <dd class="registry_page"><a class="url external" href="https://www.sos.ok.gov/corp/corpInformation.aspx?id=2300409361" title="Registry entry for WACHOVIA MORTGAGE CORPORATION">https://www.sos.ok.gov/corp/corpInfor...</a></dd>
+</dl>
+</div>
+</div>
+<div id="source"><a name="source"></a><strong>Source </strong><span class="publisher">Oklahoma Secretary Of State</span>, <a class="url external" href="https://www.sos.ok.gov/corp/corpInformation.aspx?id=2300409361">https://www.sos.ok.gov/corp/corpInfor...</a>, <span class="retrieved"> 8 Sep 2018</span></div>
+<div id="company_data">
+<div id="update_links">
+</div>
+</div>
+</div>
+<div class="span5">
+<div class="sidebar">
+<div class="sidebar-item" id="events">
+<h3>Latest Events</h3>
+<div class="oc-events-timeline">
+<dl>
+<div class="event-timeline-row">
+<dt title="Between 1983-09-06 and 2018-09-08">
+1983-09-06 - 2018-09-08
+</dt>
+<dd><a href="/events/163281872">Addition of officer THE PRENTICE-HALL CORPORATION SYSTEM, OKLAHOMA, INC, agent</a></dd>
+</div>
+</dl>
+<div class="see-more">
+<a href="/companies/us_ok/2300409361/events">See all events</a>
+</div>
+</div>
+</div>
+<div class="sidebar-item" id="groupings">
+<h4>
+<span class="define">Corporate Grouping</span>
+<span class="badge badge-info user_contributed small"><a data-original-title="This data has been user contributed" data-placement="top" href="/legal/glossary#user-contributed-data" rel="tooltip">User Contributed</a></span>
+</h4>
+<div class="tags">
+<div class="add_block">
+None known.
+<a class="new_corporate_grouping_membership add label label-important" data-remote="true" href="/corporate_grouping_memberships/new?company_number=2300409361&amp;jurisdiction_code=us_ok" rel="nofollow">Add one now?</a>
+</div>
+</div>
+<a href="/corporate_groupings" title="See all Corporate Groupings">See all corporate groupings</a>
+</div>
+<div class="sidebar-item" id="similarly_named">
+<h3><a href="/companies?q=WACHOVIA+MORTGAGE+CORPORATION" title="Companies named WACHOVIA MORTGAGE CORPORATION">Similarly named companies</a></h3>
+<p>
+<a href="/companies?q=WACHOVIA+MORTGAGE+CORPORATION" title="Companies named WACHOVIA MORTGAGE CORPORATION">Found 53.</a>
+Showing first 10
+</p>
+<ul class="companies">
+<li class="merged">
+<a class="jurisdiction_filter us" href="/companies/us_nc" title="Free And Open Data On North Carolina (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company merged" href="/companies/us_nc/0020265" title="More Free And Open Company Data On Wachovia Mortgage Corporation (North Carolina (US), 0020265)">Wachovia Mortgage Corporation</a> (North Carolina (US), <span class="start_date"> 1 May 1964</span>- )
+</li>
+<li class="branch active">
+<a class="jurisdiction_filter us" href="/companies/us_pa" title="Free And Open Data On Pennsylvania (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch active" href="/companies/us_pa/784161" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Pennsylvania (US), 784161)">WACHOVIA MORTGAGE CORPORATION</a> (Pennsylvania (US), <span class="start_date"> 7 Oct 1983</span>- )
+</li>
+<li class="branch exists">
+<a class="jurisdiction_filter us" href="/companies/us_al" title="Free And Open Data On Alabama (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch exists" href="/companies/us_al/000-851-201" title="More Free And Open Company Data On Wachovia Mortgage Corporation (Alabama (US), 000-851-201)">Wachovia Mortgage Corporation</a> (Alabama (US), <span class="start_date"> 9 Aug 1963</span>- )
+</li>
+<li class="branch">
+<a class="jurisdiction_filter us" href="/companies/us_nj" title="Free And Open Data On New Jersey (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch" href="/companies/us_nj/2585001500" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (New Jersey (US), 2585001500)">WACHOVIA MORTGAGE CORPORATION</a> (New Jersey (US), <span class="start_date"> 9 Aug 1971</span>- )
+</li>
+<li class="branch">
+<a class="jurisdiction_filter us" href="/companies/us_de" title="Free And Open Data On Delaware (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch" href="/companies/us_de/2034708" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Delaware (US), 2034708)">WACHOVIA MORTGAGE CORPORATION</a> (Delaware (US), <span class="start_date"> 7 May 1984</span>- )
+</li>
+<li class="branch withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_co" title="Free And Open Data On Colorado (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">branch</span> <a class="company branch withdrawn" href="/companies/us_co/19871530742" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Colorado (US), 19871530742)">WACHOVIA MORTGAGE CORPORATION</a> (Colorado (US), <span class="start_date">18 Jul 1983</span>- )
+</li>
+<li class="inactive branch inactive">
+<a class="jurisdiction_filter us" href="/companies/us_sd" title="Free And Open Data On South Dakota (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive" href="/companies/us_sd/FB009768" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (South Dakota (US), FB009768)">WACHOVIA MORTGAGE CORPORATION</a> (South Dakota (US), <span class="start_date">14 Sep 1984</span>- )
+</li>
+<li class="inactive branch removed">
+<a class="jurisdiction_filter us" href="/companies/us_ak" title="Free And Open Data On Alaska (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch removed" href="/companies/us_ak/34053F" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Alaska (US), 34053F)">WACHOVIA MORTGAGE CORPORATION</a> (Alaska (US), <span class="start_date">15 Oct 1984</span>- )
+</li>
+<li class="inactive branch canceled">
+<a class="jurisdiction_filter us" href="/companies/us_ms" title="Free And Open Data On Mississippi (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch canceled" href="/companies/us_ms/710354" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Mississippi (US), 710354)">WACHOVIA MORTGAGE CORPORATION</a> (Mississippi (US), <span class="start_date">21 Jan 1972</span>- )
+</li>
+<li class="active">
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_fl/P15000046171" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORP. (Florida (US), P15000046171)">WACHOVIA MORTGAGE CORP.</a> (Florida (US), <span class="start_date">22 May 2015</span>- )
+</li>
+<li class="inactive branch inactive_withdrawn">
+<a class="jurisdiction_filter us" href="/companies/us_id" title="Free And Open Data On Idaho (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch inactive_withdrawn" href="/companies/us_id/0000235022" title="More Free And Open Company Data On WACHOVIA MORTGAGE CORPORATION (Idaho (US), 0000235022)">WACHOVIA MORTGAGE CORPORATION</a> (Idaho (US), <span class="start_date">27 Jan 1984</span>-<span class="end_date">21 May 2012</span>)
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>

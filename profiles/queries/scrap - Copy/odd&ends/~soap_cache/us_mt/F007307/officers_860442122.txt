@@ -1,0 +1,173 @@
+<div class="row content main_content">
+<div class="span7">
+<div class="breadcrumbs"></div>
+<a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a> &gt; <a href="https://opencorporates.com/companies/us_mt/F007307/officers" title="All officers/directors for WELLS FARGO SERVICES COMPANY">All officers</a>
+<h1>MITCHELL A CHRISTENSEN</h1>
+<div id="attributes">
+<dl class="attributes">
+<dt>Company</dt> <dd class="company"><span class="status label">inactive</span> <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a></dd>
+<dt>Name</dt> <dd class="name"><a href="https://opencorporates.com/officers?q=MITCHELL+A+CHRISTENSEN" title="Company Officers/Directors named MITCHELL A CHRISTENSEN">MITCHELL A CHRISTENSEN</a></dd>
+<dt>Address</dt> <dd class="address">8901 E MOUNTAIN VIEW RD, SCOTTSDALE, AZ, 85258, United States</dd>
+<dt>Position</dt> <dd class="position">vice-president</dd>
+</dl>
+<div class="other_resources">
+<h3>Other resources</h3>
+<ul>
+<li><a class="external google" href="http://google.com/search?q=MITCHELL+A+CHRISTENSEN">Search Google for 'MITCHELL A CHRISTENSEN'</a></li>
+<li><a class="littlesis external" href="http://littlesis.org/search?q=MITCHELL+A+CHRISTENSEN">Search LittleSis for 'MITCHELL A CHRISTENSEN'</a></li>
+</ul>
+</div>
+</div>
+<div id="other_officers">
+<h3>
+Other officers in <a class="company inactive branch voluntary_withdrawal" href="/companies/us_mt/F007307" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Montana (US), F007307)">WELLS FARGO SERVICES COMPANY</a>
+<small>Showing first 30 (<a href="/companies/us_mt/F007307/officers">see all</a>)</small>
+</h3>
+<ul class="officers">
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442206" title="more info on AARON MECKLER">AARON MECKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442047" title="more info on AMY P YAN">AMY P YAN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442209" title="more info on ANDREA HEISS">ANDREA HEISS</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442083" title="more info on ANTHONY M PADINHA">ANTHONY M PADINHA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442053" title="more info on ASHOK MOORTHY">ASHOK MOORTHY</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441996" title="more info on BEV SCHWALBACH">BEV SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442086" title="more info on BEVERLY J SCHWALBACH">BEVERLY J SCHWALBACH</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442056" title="more info on BRAD GOEDKEN">BRAD GOEDKEN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442212" title="more info on BRIAN GILPIN">BRIAN GILPIN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860441999" title="more info on BRUCE E WALLACE">BRUCE E WALLACE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442089" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442092" title="more info on C WEBB EDWARDS">C WEBB EDWARDS</a>, president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442059" title="more info on CHARLES T HUGHES">CHARLES T HUGHES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/234241628" title="more info on CORPORATION SERVICE COMPANY">CORPORATION SERVICE COMPANY</a>, agent
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442215" title="more info on DALE PEARCE">DALE PEARCE</a>, director
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442224" title="more info on DALE PEARCE">DALE PEARCE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442227" title="more info on DALE PEARCE">DALE PEARCE</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442002" title="more info on DALE PEARCE">DALE PEARCE</a>, other officer
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442005" title="more info on DANE MEDINA">DANE MEDINA</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442008" title="more info on DANIEL W DIXON">DANIEL W DIXON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442218" title="more info on DAVID EVERETT">DAVID EVERETT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442095" title="more info on DAVID S HAHN">DAVID S HAHN</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442221" title="more info on DEREK T HAYES">DEREK T HAYES</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442098" title="more info on DIANA L LEA KAHLE">DIANA L LEA KAHLE</a>, secretary
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442167" title="more info on DIANA STARCHER">DIANA STARCHER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442101" title="more info on DOROTHY DURRSCHMIDT">DOROTHY DURRSCHMIDT</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442170" title="more info on EDWARD MERKLER">EDWARD MERKLER</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442173" title="more info on ELIZABETH M SOLOMON">ELIZABETH M SOLOMON</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442176" title="more info on FRANCIS C CAMPBELL">FRANCIS C CAMPBELL</a>, vice-president
+</li>
+<li class="inactive">
+<a class="officer inactive" href="/officers/860442104" title="more info on GEORGE L DIGGLES">GEORGE L DIGGLES</a>, vice-president
+</li>
+</ul>
+<h3>See all</h3>
+</div>
+<p class="last_update">Last updated December 23 2023,  3.43PM (7 months ago)</p>
+</div>
+<div class="span5">
+<div class="sidebar">
+<h3><a href="https://opencorporates.com/officers?q=MITCHELL+A+CHRISTENSEN" title="Company Officers/Directors named MITCHELL A CHRISTENSEN">Similarly named officers</a></h3>
+<p>
+<a href="https://opencorporates.com/officers?q=MITCHELL+A+CHRISTENSEN">Found 57.</a>
+Showing first 30
+</p>
+<ul class="officers">
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/512531483" title="more info on CHRISTENSEN MITCHELL SCOTT">CHRISTENSEN MITCHELL SCOTT</a>, chief executive officer,
+<a class="jurisdiction_filter us" href="/companies/us_ca" title="Free And Open Data On California (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive suspended___ftb" href="/companies/us_ca/3301839" title="More Free And Open Company Data On YOUCAN2, INC (California (US), 3301839)">YOUCAN2, INC</a> (California (US), <span class="start_date"> 3 Jun 2010</span>-<span class="end_date"> 2 Apr 2013</span>)
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/25030663" title="more info on CHRISTENSEN, MITCHELL S">CHRISTENSEN, MITCHELL S</a>, director,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S45488" title="More Free And Open Company Data On PARADISE FOUND ENTERPRISES, INC. (Florida (US), S45488)">PARADISE FOUND ENTERPRISES, INC.</a> (Florida (US), <span class="start_date">16 Apr 1991</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/25030665" title="more info on CHRISTENSEN, MITCHELL S">CHRISTENSEN, MITCHELL S</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/S45488" title="More Free And Open Company Data On PARADISE FOUND ENTERPRISES, INC. (Florida (US), S45488)">PARADISE FOUND ENTERPRISES, INC.</a> (Florida (US), <span class="start_date">16 Apr 1991</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/6584142" title="more info on CHRISTENSEN,MITCHELL">CHRISTENSEN,MITCHELL</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_fl" title="Free And Open Data On Florida (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_fl/H09041" title="More Free And Open Company Data On MEYERS MARINE, INC. (Florida (US), H09041)">MEYERS MARINE, INC.</a> (Florida (US), <span class="start_date">20 Jun 1984</span>- )
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/149498435" title="more info on Christensen, Mitchell T">Christensen, Mitchell T</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_mo" title="Free And Open Data On Missouri (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_mo/LC001429718" title="More Free And Open Company Data On M AND J ACRES, LLC (Missouri (US), LC001429718)">M AND J ACRES, LLC</a> (Missouri (US), <span class="start_date">29 Dec 2014</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/503294858" title="more info on MITCHELL A CHRISTENSEN">MITCHELL A CHRISTENSEN</a>, senior vice president,
+<a class="jurisdiction_filter us" href="/companies/us_tx" title="Free And Open Data On Texas (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <span class="status label">branch</span> <a class="company inactive branch terminated" href="/companies/us_tx/0011161706" title="More Free And Open Company Data On WELLS FARGO SERVICES COMPANY (Texas (US), 0011161706)">WELLS FARGO SERVICES COMPANY</a> (Texas (US), <span class="start_date"> 9 Sep 1996</span>-<span class="end_date">28 Apr 2004</span>)
+</li>
+<li class="search-result officer">
+<a class="officer" href="/officers/226101874" title="more info on MITCHELL A CHRISTENSEN &amp; JODI">MITCHELL A CHRISTENSEN &amp; JODI</a>, member, <span class="start_date"> 4 Mar 2015</span>- ,
+<a class="jurisdiction_filter us" href="/companies/us_az" title="Free And Open Data On Arizona (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <a class="company active" href="/companies/us_az/L18615694" title="More Free And Open Company Data On GRAN LIMON APARTMENTS, LLC (Arizona (US), L18615694)">GRAN LIMON APARTMENTS, LLC</a> (Arizona (US), <span class="start_date">23 Jul 2013</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/473653394" title="more info on MITCHELL C CHRISTENSEN">MITCHELL C CHRISTENSEN</a>, agent,
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_or/64734180" title="More Free And Open Company Data On CRESCENT MOON CONSTRUCTION COMPANY (Oregon (US), 64734180)">CRESCENT MOON CONSTRUCTION COMPANY</a> (Oregon (US), <span class="start_date">10 Aug 1998</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/473653391" title="more info on MITCHELL C CHRISTENSEN">MITCHELL C CHRISTENSEN</a>, secretary,
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_or/64734180" title="More Free And Open Company Data On CRESCENT MOON CONSTRUCTION COMPANY (Oregon (US), 64734180)">CRESCENT MOON CONSTRUCTION COMPANY</a> (Oregon (US), <span class="start_date">10 Aug 1998</span>- )
+</li>
+<li class="search-result officer inactive">
+<a class="officer inactive" href="/officers/473653397" title="more info on MITCHELL C CHRISTENSEN">MITCHELL C CHRISTENSEN</a>, president,
+<a class="jurisdiction_filter us" href="/companies/us_or" title="Free And Open Data On Oregon (US) Companies"><img alt="United States flag" class="flag" src="/assets/flags/us-e3c5ed45fb55b63dd70daf40e20f1d6c.gif"/></a> <span class="status label">inactive</span> <a class="company inactive inactive" href="/companies/us_or/64734180" title="More Free And Open Company Data On CRESCENT MOON CONSTRUCTION COMPANY (Oregon (US), 64734180)">CRESCENT MOON CONSTRUCTION COMPANY</a> (Oregon (US), <span class="start_date">10 Aug 1998</span>- )
+</li>
+</ul>
+</div>
+</div>
+</div>

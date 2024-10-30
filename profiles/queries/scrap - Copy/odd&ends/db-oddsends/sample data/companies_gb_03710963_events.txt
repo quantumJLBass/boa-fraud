@@ -1,0 +1,78 @@
+<div class="row content main_content">
+<div class="span7">
+<h1>Events for <a class="company active" href="/companies/gb/03710963" title="More Free And Open Company Data On ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED (United Kingdom, 03710963)">ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED</a></h1>
+<div id="events">
+<div class="oc-events-timeline">
+<dl>
+<dt>On 2015-09-14</dt>
+<dd><a href="/events/938829767">Removal of officer MICHAEL JOHN NIEDERMEYER, director</a></dd>
+<dt>On 2015-09-16</dt>
+<dd><a href="/events/1220550368">Addition of officer DEIRDRE ELIZABETH FLOOD, director</a></dd>
+<dt>On 2015-11-30</dt>
+<dd><a href="/events/938825540">Removal of officer JAMES CRAIG JOHNSTON, director</a></dd>
+<dt>On 2015-11-30</dt>
+<dd><a href="/events/938809829">Removal of officer JULIAN VINCENT CAMPBELL, secretary</a></dd>
+<dt>On 2015-12-01</dt>
+<dd><a href="/events/1220557391">Addition of officer JONATHAN RHYS HILL, secretary</a></dd>
+<dt>On 2015-12-24</dt>
+<dd><a href="/events/1220556284">Addition of officer FRANCIS ANTHONY PIZZO, director</a></dd>
+<dt>On 2017-03-17</dt>
+<dd><a href="/events/938840735">Removal of officer KARLA MARIE RABUSCH, director</a></dd>
+<dt>On 2017-06-13</dt>
+<dd><a href="/events/1220556683">Addition of officer DAVID GARLAND BULLOCK, director</a></dd>
+<dt>On 2017-09-19</dt>
+<dd><a href="/events/1220557784">Addition of officer PATRICIA MCGUINNESS, secretary</a></dd>
+<dt>On 2017-09-19</dt>
+<dd><a href="/events/938841926">Removal of officer JONATHAN RHYS HILL, secretary</a></dd>
+<dt>On 2017-11-17</dt>
+<dd><a href="/events/1220558174">Addition of officer NANCY WISER, director</a></dd>
+<dt>On 2017-11-22</dt>
+<dd><a href="/events/1220558033">Addition of officer JONATHAN HILL, director</a></dd>
+<dt>On 2017-12-31</dt>
+<dd><a href="/events/938838305">Removal of officer FRANCIS ANTHONY PIZZO, director</a></dd>
+<dt>On 2018-05-31</dt>
+<dd><a href="/events/938839580">Removal of officer DAVID GARLAND BULLOCK, director</a></dd>
+<dt>On 2019-06-20</dt>
+<dd><a href="/events/1553010986">Removal of officer JONATHAN HILL, director</a></dd>
+<dt>On 2019-08-30</dt>
+<dd><a href="/events/1611383195">Addition of officer DANIEL MORRIS, director</a></dd>
+<dt>On 2019-10-08</dt>
+<dd><a href="/events/1746441400">Addition of officer PAULA HEGARTY, secretary</a></dd>
+<dt>On 2019-10-08</dt>
+<dd><a href="/events/1746441391">Removal of officer PATRICIA MCGUINNESS, secretary</a></dd>
+<dt>On 2020-03-17</dt>
+<dd><a href="/events/1809567010">Removal of officer ANDREW JOHN HUNT, director</a></dd>
+<dt>On 2020-08-19</dt>
+<dd><a href="/events/1846606877">Removal of officer ROSS ALGER PAMPHILON, director</a></dd>
+<dt>On 2021-03-10</dt>
+<dd><a href="/events/1964541431">Removal of officer NANCY WISER, director</a></dd>
+<dt>Between 2021-09-28 and 2021-11-21</dt>
+<dd><a href="/events/2355742877">Change of name from 'WELLS FARGO ASSET MANAGEMENT (INTERNATIONAL) LIMITED' to 'ALLSPRING GLOBAL INVESTMENTS (UK) LIMITED'</a></dd>
+<dt>On 2021-10-29</dt>
+<dd><a href="/events/2355742880">Removal of officer PAULA HEGARTY, secretary</a></dd>
+<dt>On 2021-11-01</dt>
+<dd><a href="/events/2355742883">Addition of officer ANGELA ABENA ROBERTS, secretary</a></dd>
+<dt>On 2021-12-20</dt>
+<dd><a href="/events/2405219912">Addition of officer HENRIETTE LOUISE PACQUEMENT, director</a></dd>
+<dt>On 2022-04-05</dt>
+<dd><a href="/events/2446812830">Removal of officer DEIRDRE ELIZABETH FLOOD, director</a></dd>
+<dt>On 2022-12-01</dt>
+<dd><a href="/events/2799216475">Addition of officer CHARLES ADRIAN SPUNGIN, director</a></dd>
+<dt>On 2023-01-03</dt>
+<dd><a href="/events/2857266761">Removal of officer CARLA FULLER, director</a></dd>
+<dt>On 2023-02-24</dt>
+<dd><a href="/events/2890627349">Removal of officer JILL PATRICIA GRIFFIN, director</a></dd>
+<dt>On 2023-03-10</dt>
+<dd><a href="/events/2902685462">Addition of officer ANDREW SOWERBY, director</a></dd>
+
+</dl>
+</div>
+</div>
+<div class="pagination_tools">
+<div class="pagination"><ul><li class="prev previous_page disabled"><a href="#">← Previous</a></li> <li class="active"><a rel="start nofollow" href="/companies/gb/03710963/events?page=1">1</a></li> <li><a rel="next nofollow" href="/companies/gb/03710963/events?page=2">2</a></li> <li><a rel="nofollow" href="/companies/gb/03710963/events?page=3">3</a></li> <li class="next next_page "><a rel="next nofollow" href="/companies/gb/03710963/events?page=2">Next →</a></li></ul></div>
+</div>
+
+</div>
+<div class="span5">
+</div>
+</div>
