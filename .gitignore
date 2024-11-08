@@ -11,7 +11,9 @@
 **/.tts/
 **/.vscode/
 **/.genaiscript/
+**/__pycache__/
 node_modules/
+__pycache__/
 .trash/
 .tts/
 .vscode/
