@@ -2,6 +2,89 @@
 
 This is not just a project but a social experiment aimed at creating access to legal help when there are no other choices. We are attempting to crowd-source legal action for the good of the country.
 
+## Current Case Update and Objectives
+
+### Background and Key Developments
+This case, **DPW Enterprises LLC and Mountain Prime 2018 LLC v. Jeremy L. Bass, et al.**, centers on the foreclosure and trustee sale of Jeremy L. Bass's property at 1515 21st Ave, Lewiston, Idaho. Bass contends the sale was conducted through collusion, procedural failures, and a lack of lawful authority, rendering it void. Plaintiffs assert they are lawful purchasers entitled to possession, while Bass disputes the validity of the sale on grounds including alleged bid manipulation, fraudulent documentation, and statutory violations that invalidate the plaintiffs' claim.
+
+Bass has faced repeated challenges from the plaintiffs, who have pursued summary judgment to gain possession, supported by claims of their status as bona fide purchasers. The court granted summary judgment against Bass but acknowledged factual disputes concerning co-defendant Pike's lease. A stay on eviction was filed to halt enforcement until a reconsideration or appeal could be pursued.
+
+### Primary Issues and Current Legal Strategy
+1. **Auction Fixing and Collusion**: Bass argues that the foreclosure sale involved collusion, infringing on federal antitrust laws and statutory requirements for a fair, competitive auction. The auction purportedly involved pre-printed checks for specific amounts, indicating a predetermined bid, which undermines the sale's integrity and the plaintiff's claim to bona fide purchaser status.
+
+2. **Breach of Agreement and Contract**: Bass alleges that Carrington Mortgage Services, the loan servicer, breached a verbal agreement to allow a payoff rather than proceed with the sale. Bass states that he maintained payments on property taxes and insurance, evidencing an understanding that foreclosure would be paused. Despite this, Carrington abruptly moved forward with foreclosure, leading to substantial damages and breach of contract claims.
+
+3. **Fraudulent Instruments and Title Dispute**: The sale was based on documents Bass alleges were fraudulent, including a trustee deed derived from a forged or invalid instrument, which he argues nullifies the foreclosure's legitimacy. He asserts that Carrington misrepresented their authority over the property post-reconveyance, and Bass's recording of a Letter of Full Reconveyance substantiates that all prior debts were resolved.
+
+4. **Protecting Tenant Rights**: Bass and tenant Pike also contend with Protecting Tenants at Foreclosure Act (PTFA) rights, which complicate the eviction claims. Pike, under a subsidized lease arrangement, argues he is entitled to occupancy protections, which plaintiffs have contested due to Pike's failure to pay rent to the new owners.
+
+### Goals, Challenges, and Preventive Measures
+1. **Preventing Premature Eviction**: The immediate goal is to prevent an eviction until the appeal and reconsideration are fully addressed. A stay was requested to prevent irrevocable harm, such as property loss, pending a full legal review.
+
+2. **Securing Co-Counsel and Legal Support**: Bass filed a motion for appointment of co-counsel, emphasizing the disparity in resources and legal experience. This motion, grounded in due process rights, was denied, presenting a significant challenge in maintaining effective self-representation against corporate-backed plaintiffs.
+
+3. **Establishing Rightful Ownership and Invalidating the Trustee Sale**: To reverse the current ruling, Bass aims to prove that procedural deficiencies, fraud, and collusion invalidate the sale. A favorable outcome would set a precedent, emphasizing the need for transparent, lawful foreclosure practices and protecting property rights from abuse.
+
+4. **Exposing Collusion in Foreclosure Practices**: By highlighting bid manipulation, trustee conflicts of interest, and documented breaches, Bass aims to bring attention to broader systemic issues within foreclosure practices. A successful case could support regulatory reforms, providing additional protections for homeowners nationwide.
+
+### Ideal Outcome and Expected Proceedings
+**Ideal Outcome**: The ideal outcome would be a court ruling that invalidates the trustee sale based on procedural and statutory violations. Bass would retain ownership, and the court would mandate reforms in foreclosure practices to curb collusion and protect homeowners. This case could set a national precedent, emphasizing stricter standards for auction processes and addressing conflicts of interest.
+
+**Next Steps and What's Expected**:
+- **Reconsideration Hearing**: The motion for reconsideration will be critical. Success here could potentially reverse the summary judgment order or allow for a more thorough examination of Bass's claims.
+- **Appeal**: If reconsideration fails, a full appeal may be pursued. This process will involve a detailed review of case law, procedural integrity, and plaintiff conduct, which could further delay enforcement actions and maintain occupancy.
+- **Ongoing Documentation**: As evidence of procedural and statutory violations continues to mount, Bass may introduce additional claims or counterclaims addressing damages from the wrongful foreclosure.
+
+**What's Needed**:
+1. **Legal and Research Support**: Access to co-counsel or legal assistance could be vital to navigate procedural complexities, given the court's dismissal of Bass's co-counsel request.
+2. **Community and Financial Backing**: Community and financial support for Bass's legal efforts could sustain his challenge, especially as appeals and procedural requirements mount.
+3. **Media and Public Awareness**: Increased awareness can bolster the case's impact, drawing attention to potentially abusive practices in foreclosure and trustee sale processes.
+
+---
+
+### Timeline of Key Events
+
+
+| Recording Date | Event Date     | Event Description                                                                                                    |
+| -------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **2008-09-05** |                | Warranty Deed recorded (Inst. No. 760924 Exhibit W)                                                                  |
+| **2008-09-05** |                | Quitclaim Deed recorded (Inst. No. 760925 Exhibit V)                                                                 |
+| **2008-09-05** |                | Deed of Trust recorded for Zions Bank loan on the property (Inst. No. 760926 Exhibit U)                              |
+| **2008-08-05** |                | Notice of transfer from Zions to Countrywide                                                                         |
+| **2008-08-11** |                | HUD issues "Don't Commit Loan Fraud" warning                                                                         |
+| **2008-10-01** |                | Transfer notice from Zions to Countrywide                                                                            |
+| **2009-10-01** |                | Countrywide transfers loan to Bank of America                                                                        |
+| **2009-10-03** |                | Transfer from Bank of America to BAC Home Loans                                                                      |
+| **2009-10-16** |                | Deed of Trust in question recorded (Inst. No. 774964 Exhibit T)                                                      |
+| **2009-11-02** |                | Substitution of Trustee recorded (Inst. No. 775251 Exhibit S)                                                        |
+| **2009-11-02** |                | Letter of Full Reconveyance recorded, indicating the loan was fully satisfied (Inst. No. 775252 Exhibit R)           |
+| **2012-03-12** |                | Assignment of Deed of Trust recorded, transferring interests (Inst. No. 799540 Exhibit Q)                            |
+| **2022-08-02** | **2022-08-09** | Appointment of Successor Trustee recorded (Inst. No. 902078 Exhibit P)                                               |
+| **2022-08-16** | **2022-08-17** | Notice of Default recorded (Inst. No. 902262 Exhibit O)                                                              |
+| **2022-11-16** | **2022-08-17** | Affidavit of Mailing recorded (Inst. No. 904186 Exhibit N)                                                           |
+| **2022-11-16** | **2022-08-19** | Affidavit of Compliance recorded (Inst. No. 904187 Exhibit M)                                                        |
+| **2022-11-16** | **2022-08-23** | Affidavit of Compliance recorded (Inst. No. 904188 Exhibit L)                                                        |
+| **2022-11-16** | **2022-08-24** | Affidavit of Publication recorded (Inst. No. 904190 Exhibit J)                                                       |
+| **2022-11-16** | **2022-08-31** | Affidavit of Service recorded (Inst. No. 904189 Exhibit K)                                                           |
+| **2023-01-06** | **2023-01-06** | Affidavit of Mailing recorded, confirming notice to affected parties (Inst. No. 905033 Exhibit I)                    |
+| **2023-01-31** | **2023-01-30** | Affidavit of Mailing recorded (Inst. No. 905449 Exhibit H)                                                           |
+| **2023-02-17** |                | Court denies Bass's temporary restraining order request to stop the foreclosure sale                                 |
+| **2024-01-29** |                | Affidavit of Mailing confirming postponed Trustee's Sale                                                             |
+| **2024-02-29** |                | Trustee sale conducted; DPW Enterprises LLC purchases property for $165,346.71                                       |
+| **2024-03-01** |                | Trustee's Deed issued to DPW Enterprises LLC, recorded on March 4, 2024                                              |
+| **2024-03-21** |                | Notice to Vacate sent to Bass and tenant Pike                                                                        |
+| **2024-03-25** |                | Notice to Vacate received by Bass and Pike                                                                           |
+| **2024-07-09** |                | Plaintiffs file a post-foreclosure complaint for ejectment and restitution of property                               |
+| **2024-08-13** |                | Bass files a Motion for Appointment of Co-Counsel, citing challenges of self-representation                          |
+| **2024-09-16** |                | Plaintiffs file their Motion for Summary Judgment                                                                    |
+| **2024-10-15** |                | Bass submits Response to Plaintiffs' Motion for Summary Judgment, contesting auction validity and procedural defects |
+| **2024-10-18** |                | Plaintiffs file a reply memorandum in support of their Motion for Summary Judgment                                   |
+| **2024-11-05** |                | Court grants summary judgment in part, ruling against Bass but denying summary judgment against Pike                 |
+| **2024-11-06** |                | Bass files a Motion for Reconsideration and Motion for Stay to prevent eviction until appeals are resolved           |
+| **2024-12-10** |                | Scheduled hearing for reconsideration of the case                                                                    |
+
+
+
 ## The Case
 
 In 2008, the financial world was shaken by a crisis that exposed the shady deals made by banks. These institutions cheated and forced the risk onto everyone else and then had the audacity to ask to be saved.
