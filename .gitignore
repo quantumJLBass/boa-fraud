@@ -3,6 +3,7 @@
 *.mp4
 *.wma
 *.wav
+*.edtz
 .trash/
 .tts/
 .vscode/
