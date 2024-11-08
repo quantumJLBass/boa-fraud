@@ -5,7 +5,7 @@ url/uri:
 date: 1980-09-30
 tags:
   - Company-Details/General-Information
-company-number: 0546232
+company-number: 546232
 status: Inactive
 incorporation-date: 1980-09-30
 company-type: Domestic Corp
@@ -13,7 +13,8 @@ jurisdiction: Nebraska
 inactive-directors-/-officers: JOHN FAHEY, agent
 registry-page: https://www.nebraska.gov/sos/corp/cor...
 entry-collaborators:
-  - [[FAHEY, JOHN|JOHN FAHEY]]
+  - - - FAHEY
+      - JOHN|JOHN FAHEY
 ---
 
 ## General Information

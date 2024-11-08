@@ -11,18 +11,24 @@ incorporation-date: 2015-04-10
 dissolution-date: 2016-05-16
 company-type: Limited Liability Company - Out of State
 jurisdiction: California
-parent-name: [[BACM 2004-5 DOMINGUEZ PLAZA HOTEL LLC (Delaware - 5724911)]]
+parent-name:
+  - - BACM 2004-5 DOMINGUEZ PLAZA HOTEL LLC (Delaware - 5724911)
 parent-url: /companies/us_de/5724911
-registered-address: [[475 5TH AVE, NEW YORK, NY, 10017]]
+registered-address:
+  - - 475 5TH AVE
+    - NEW YORK
+    - NY
+    - 10017
 inactive-directors-/-officers: CORPORATION SERVICE COMPANY, agent CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE, agent CSC - LAWYERS INCORPORATING SERVICE, agent WELLS FARGO BANK, N.A. AS TRUSTEE WELLS FARGO BANK, N.A. AS TRUSTEE, manager
 registry-page: https://bizfileonline.sos.ca.gov/sear...
 entry-home:
-  - [[BACM 2004-5 DOMINGUEZ PLAZA HOTEL LLC (Delaware - 5724911) (Delaware)]]
+  - - - BACM 2004-5 DOMINGUEZ PLAZA HOTEL LLC (Delaware - 5724911) (Delaware)
 entry-collaborators:
-  - [[WELLS FARGO BANK, N.A. AS TRUSTEE]]
-  - [[CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE]]
-  - [[CSC - LAWYERS INCORPORATING SERVICE]]
-  - [[CORPORATION SERVICE COMPANY]]
+  - - - WELLS FARGO BANK
+      - N.A. AS TRUSTEE
+  - - - CORPORATION SERVICE COMPANY WHICH WILL DO BUSINESS IN CALIFORNIA AS CSC - LAWYERS INCORPORATING SERVICE
+  - - - CSC - LAWYERS INCORPORATING SERVICE
+  - - - CORPORATION SERVICE COMPANY
 ---
 
 ## General Information

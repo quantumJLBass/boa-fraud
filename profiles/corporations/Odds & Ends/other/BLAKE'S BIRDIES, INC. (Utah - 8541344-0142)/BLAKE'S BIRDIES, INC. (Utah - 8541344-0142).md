@@ -10,15 +10,21 @@ status: Active Current
 incorporation-date: 2013-01-10
 company-type: Corporation - Domestic - Profit
 jurisdiction: Utah
-registered-address: [[2859 S CALLE DEL SOL, SAINT GEORGE, 847900000, UT]]
+registered-address:
+  - - 2859 S CALLE DEL SOL
+    - SAINT GEORGE
+    - 847900000
+    - UT
 previous-names: BLAKE'S BIRDIES
 directors-/-officers: JAY DON BLAKE, president MARCI BLAKE, treasurer MARCI BLAKE, secretary SNOW & NELSON, LLP, registered agent
 inactive-directors-/-officers: SNOW & NELSON, LLP, agent
 registry-page: https://secure.utah.gov/bes/index.html
 entry-collaborators:
-  - [[MARCI BLAKE]]
-  - [[SNOW & NELSON, LLP]]
-  - [[BLAKE, JAY D|JAY DON BLAKE]]
+  - - - MARCI BLAKE
+  - - - SNOW & NELSON
+      - LLP
+  - - - BLAKE
+      - JAY D|JAY DON BLAKE
 ---
 
 ## General Information

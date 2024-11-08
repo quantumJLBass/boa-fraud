@@ -15,11 +15,16 @@ branch: Branch of Nebraska company
 inactive-directors-/-officers: JAMES M. STROTHER, secretary RICHARD F. MALLOY, president ROBERT CHAPMAN, treasurer STEVE D. MCCLELLAND, vice-president STEVE D. MCCLELLAND, agent
 registry-page: http://apps.sos.wv.gov/business/corpo...
 entry-collaborators:
-  - [[MALLOY, RICHARD F|RICHARD F. MALLOY]]
-  - [[STROTHER, JAMES|JAMES M. STROTHER]]
-  - [[CHAPMAN, ROBERT K|ROBERT CHAPMAN]]
-  - [[MCCLELLAND, STEVEN D|STEVE D. MCCLELLAND]]
-  - [[MCCLELLAND, STEVEN D|STEVE D. MCCLELLAND]]
+  - - - MALLOY
+      - RICHARD F|RICHARD F. MALLOY
+  - - - STROTHER
+      - JAMES|JAMES M. STROTHER
+  - - - CHAPMAN
+      - ROBERT K|ROBERT CHAPMAN
+  - - - MCCLELLAND
+      - STEVEN D|STEVE D. MCCLELLAND
+  - - - MCCLELLAND
+      - STEVEN D|STEVE D. MCCLELLAND
 ---
 
 ## General Information

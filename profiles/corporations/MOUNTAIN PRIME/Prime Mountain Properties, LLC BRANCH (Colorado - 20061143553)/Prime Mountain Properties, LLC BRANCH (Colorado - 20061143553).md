@@ -15,9 +15,11 @@ agent-name: Grant R Walker
 agent-address: 589 MAXWELL DR, GRAND JCT , CO, 81504, US
 directors-/-officers: Grant R Walker, agent
 entry-branches:
-  - [[PRIME MOUNTAIN PROPERTIES, LLC (DELAWARE)]]
+  - - - PRIME MOUNTAIN PROPERTIES
+      - LLC (DELAWARE)
 entry-collaborators:
-  - [[Walker, Grant R]]
+  - - - Walker
+      - Grant R
 entry-family: Mountain Prime
 ---
 

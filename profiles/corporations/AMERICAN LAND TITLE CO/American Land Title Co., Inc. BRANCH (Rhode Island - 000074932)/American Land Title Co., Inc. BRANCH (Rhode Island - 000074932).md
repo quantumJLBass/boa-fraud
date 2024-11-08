@@ -5,7 +5,7 @@ url/uri:
 date: 1993-12-14
 tags:
   - Company-Details/General-Information
-company-number: 000074932
+company-number: 74932
 status: Withdrawn
 incorporation-date: 1993-12-14
 dissolution-date: 2000-08-02
@@ -18,8 +18,9 @@ business-classification-text: BUSINESS OF ABSTRACTING AND ABSTRACTING REAL ESTAT
 inactive-directors-/-officers: CT CORPORATION SYSTEM, agent RICHARD F MALLOY, president
 registry-page: http://business.sos.ri.gov/CorpWeb/Co...
 entry-collaborators:
-  - [[CT CORPORATION SYSTEM]]
-  - [[MALLOY, RICHARD F|RICHARD F MALLOY]]
+  - - - CT CORPORATION SYSTEM
+  - - - MALLOY
+      - RICHARD F|RICHARD F MALLOY
 ---
 
 ## General Information

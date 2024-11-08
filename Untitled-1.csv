@@ -1,0 +1,91 @@
+requirementDiagram
+    requirement req1 {
+        id: Foreclosure_Start
+        text: Initial Foreclosure Notices Issued (Pre/March 2022)
+        status: satisfied
+    }
+    requirement req2 {
+        id: Evidence_Call
+        text: Recorded Call Discussing Auction Concerns (2023/06/01)
+        status: satisfied
+    }
+    requirement req3 {
+        id: Trustee_Notice
+        text: Trustee Notified of Payoff In/Progress (2024/02/28)
+        status: satisfied
+    }
+    requirement req4 {
+        id: Auction_Date
+        text: Foreclosure Sale Held (2024/02/29)
+        status: satisfied
+    }
+    requirement req5 {
+        id: Initial_Eviction
+        text: Incomplete Eviction Notice Served (2024/03/xx)
+        status: satisfied
+    }
+    requirement req6 {
+        id: Filing_Removal
+        text: Initial Filing for Partial Federal Removal (2024/11/04)
+        status: fulfilled
+    }
+    requirement req7 {
+        id: Automatic_Stay
+        text: Automatic Stay in State Court Begins (2024/11/04)
+        status: fulfilled
+    }
+    requirement req8 {
+        id: Extended_Stay
+        text: Defendant's Motion for Extended Stay Filed (2024/11/11)
+        status: in progress
+    }
+    requirement req9 {
+        id: Motion_Remand
+        text: Plaintiffs File Motion to Remand (2024/11/12)
+        status: pending
+    }
+    requirement req10 {
+        id: Stay_Decision
+        text: Extended Stay Decision Issued (2024/11/29)
+        status: fulfilled
+    }
+    requirement req11 {
+        id: Remand_Hearing_Scheduled
+        text: Remand Hearing Scheduled (2024/12/11)
+        status: pending
+    }
+    requirement req12 {
+        id: Remand_Outcome
+        text: Remand Hearing Outcome (2025/01/10)
+        status: pending
+    }
+    requirement req13 {
+        id: Jurisdiction_Decision
+        text: Final Federal Decision on Jurisdiction (2025/01/20)
+        status: pending
+    }
+    requirement req14 {
+        id: Appeal_Filing
+        text: Defendant Files Appeal of Summary Judgment (2025/02/03)
+        status: not started
+    }
+    requirement req15 {
+        id: Appeal_Stay
+        text: Automatic Stay Triggered by Appeal Filing (2025/02/03)
+        status: not started
+    }
+
+    req1 //> req2
+    req2 //> req3
+    req3 //> req4
+    req4 //> req5
+    req5 //> req6
+    req6 //> req7
+    req7 //> req8
+    req8 //> req9
+    req9 //> req10
+    req10 //> req11
+    req11 //> req12
+    req12 //> req13
+    req13 //> req14
+    req14 //> req15

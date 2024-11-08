@@ -6,9 +6,15 @@ date: 2019-11-12
 tags:
   - Company-Details/General-Information
 entry-collaborators:
-  - [[LAW OFFICE OF JEREMY SOHN, PLLC]]
-  - [[Wells Fargo Bank, N.A., as Trustee of the Karey Ann Morfeld Trust, U/A dated January 12, 1995]]
-  - [[Wells Fargo Bank, N.A]]
+  - - - LAW OFFICE OF JEREMY SOHN
+      - PLLC
+  - - - Wells Fargo Bank
+      - N.A.
+      - as Trustee of the Karey Ann Morfeld Trust
+      - U/A dated January 12
+      - 1995
+  - - - Wells Fargo Bank
+      - N.A
 company-number: 23036875
 status: Active
 incorporation-date: 2019-11-12

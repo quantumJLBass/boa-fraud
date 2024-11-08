@@ -23,7 +23,7 @@ status: Active Current
 incorporation-date: 2002-01-17
 company-type: Corporation - Professional
 jurisdiction: Utah
-registered-address:  [[3448 SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740]]
+registered-address:  3448 SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740
 industry-codes: 8139: Business, Professional, Labor, Political, and Similar Organizations (North American Industry Classification System 2007)
 directors-/-officers: [[MUELLER, NATHAN W]], secretary [[MUELLER, NATHAN W]], registered agent [[MUELLER, NATHAN W]], president
 inactive-directors-/-officers: [[MUELLER, NATHAN W]], agent

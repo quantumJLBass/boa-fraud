@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "path:profiles -file:/.*\\.edtz/",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -46,6 +46,6 @@
   "repelStrength": 15.78125,
   "linkStrength": 0.658854166666667,
   "linkDistance": 198,
-  "scale": 0.02152872062272498,
+  "scale": 0.16348371319793803,
   "close": false
 }

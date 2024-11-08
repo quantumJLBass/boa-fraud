@@ -17,15 +17,22 @@ alternative-names: ATI TITLE COMPANY (trading name)
 inactive-directors-/-officers: CT CORPORATION SYSTEM, agent CT CORPORATION SYSTEM, registered agent GREG MERKLE, vice president JAMES M STROTHER, director JAMES M STROTHER, secretary RICHARD MALLOY, director RICHARD MALLOY, president ROBERT K CHAPMAN, treasurer STEPHEN D MORRISON, director
 registry-page: https://secure.utah.gov/bes/index.html
 entry-collaborators:
-  - [[CT CORPORATION SYSTEM]]
-  - [[MALLOY, RICHARD F|RICHARD MALLOY]]
-  - [[MORRISON, STEPHEN D|STEPHEN D MORRISON]]
-  - [[CT CORPORATION SYSTEM]]
-  - [[STROTHER, JAMES|JAMES M STROTHER]]
-  - [[STROTHER, JAMES|JAMES M STROTHER]]
-  - [[MALLOY, RICHARD F|RICHARD MALLOY]]
-  - [[MERKLE, GREG|GREG MERKLE]]
-  - [[CHAPMAN, ROBERT K|ROBERT K CHAPMAN]]
+  - - - CT CORPORATION SYSTEM
+  - - - MALLOY
+      - RICHARD F|RICHARD MALLOY
+  - - - MORRISON
+      - STEPHEN D|STEPHEN D MORRISON
+  - - - CT CORPORATION SYSTEM
+  - - - STROTHER
+      - JAMES|JAMES M STROTHER
+  - - - STROTHER
+      - JAMES|JAMES M STROTHER
+  - - - MALLOY
+      - RICHARD F|RICHARD MALLOY
+  - - - MERKLE
+      - GREG|GREG MERKLE
+  - - - CHAPMAN
+      - ROBERT K|ROBERT K CHAPMAN
 ---
 
 ## General Information

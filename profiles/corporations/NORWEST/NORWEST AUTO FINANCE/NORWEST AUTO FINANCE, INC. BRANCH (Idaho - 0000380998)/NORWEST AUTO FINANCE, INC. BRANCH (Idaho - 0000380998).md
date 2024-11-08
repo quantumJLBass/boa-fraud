@@ -5,20 +5,28 @@ url/uri:
 date: 1998-06-04
 tags:
   - Company-Details/General-Information
-company-number: 0000380998
+company-number: 380998
 previous-company-numbers: C124291
 status: Inactive Revoked (Administrative)
 incorporation-date: 1998-06-04
 dissolution-date: 2000-02-17
 company-type: Foreign Business Corporation
 jurisdiction: Idaho
-parent-name: [[Norwest Auto Finance, Inc. (Minnesota - 76f39824-b6d4-e011-a886-001ec94ffe7f)]]
+parent-name:
+  - - Norwest Auto Finance
+    - Inc. (Minnesota - 76f39824-b6d4-e011-a886-001ec94ffe7f)
 parent-url: /companies/us_mn/76f39824-b6d4-e011-a886-001ec94ffe7f
-registered-address: [[90 S SIXTH ST, MINNEAPOLIS, MN, 55402]]
+registered-address:
+  - - 90 S SIXTH ST
+    - MINNEAPOLIS
+    - MN
+    - 55402
 inactive-directors-/-officers: CORPORATION SERVICE COMPANY, agent
-entry-home: [[NORWEST AUTO FINANCE, INC. (MINNESOTA - 76F39824-B6D4-E011-A886-001EC94FFE7F)]]
+entry-home:
+  - - NORWEST AUTO FINANCE
+    - INC. (MINNESOTA - 76F39824-B6D4-E011-A886-001EC94FFE7F)
 entry-collaborators:
-  - [[CORPORATION SERVICE COMPANY]]
+  - - - CORPORATION SERVICE COMPANY
 ---
 
 ## General Information

@@ -11,13 +11,18 @@ incorporation-date: 2002-01-03
 dissolution-date: 2019-01-31
 company-type: LLC - Domestic
 jurisdiction: Utah
-registered-address: [[1605 E LAKEVIEW WAY, OGDEN, 84403, UT]]
+registered-address:
+  - - 1605 E LAKEVIEW WAY
+    - OGDEN
+    - 84403
+    - UT
 previous-names: FREEDOM UTAH PROPERTIES LIMITED LIABILITY COMPANY
 inactive-directors-/-officers: KELLY N HEITZ, member KENT E HEITZ, agent KENT E HEITZ, manager KENT E HEITZ, member KENT E HEITZ, registered agent
 registry-page: https://secure.utah.gov/bes/index.html
 entry-collaborators:
-  - [[KELLY N HEITZ]]
-  - [[HEITZ, KENT E|KENT E HEITZ]]
+  - - - KELLY N HEITZ
+  - - - HEITZ
+      - KENT E|KENT E HEITZ
 ---
 
 ## General Information

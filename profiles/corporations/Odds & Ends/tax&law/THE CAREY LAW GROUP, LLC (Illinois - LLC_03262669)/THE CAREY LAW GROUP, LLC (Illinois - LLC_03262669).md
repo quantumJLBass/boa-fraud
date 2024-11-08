@@ -11,7 +11,9 @@ incorporation-date: 15 April 2010
 company-type: Limited Liability Company
 jurisdiction: Illinois (US)
 registered-address: 18619 GLADVILLE AVE, HOMEWOOD, IL, 60430-3813
-agent-name: [[CAREY, PATRICK]]
+agent-name:
+  - - CAREY
+    - PATRICK
 agent-address: 18619 GLADVILLE AVE, HOMEWOOD, IL, 60430-3813
 registry-page: https://apps.ilsos.gov/corporatellc/
 source: https://www.ilsos.gov/data/bus_serv_h

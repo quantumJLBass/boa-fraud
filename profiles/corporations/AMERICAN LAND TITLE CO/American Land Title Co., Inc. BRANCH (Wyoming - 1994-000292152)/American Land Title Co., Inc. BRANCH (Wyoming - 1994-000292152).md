@@ -16,9 +16,11 @@ registered-address: 405 SW FIFTH STMS 122481DES MOINES, IA 50328USA
 inactive-directors-/-officers: C T Corporation System, agent See Ar, director See Fiche, president
 registry-page: https://wyobiz.wyo.gov/Business/Filin...
 entry-collaborators:
-  - [[C T Corporation System]]
-  - [[Ar, See|See Ar]]
-  - [[Fiche, See|See Fiche]]
+  - - - C T Corporation System
+  - - - Ar
+      - See|See Ar
+  - - - Fiche
+      - See|See Fiche
 ---
 
 ## General Information
@@ -58,7 +60,7 @@ entry-collaborators:
 ## Directors / Officers
 | Name                 | Role            | Status     | Type        | Link |
 |----------------------|-----------------|------------|-------------|------|
-| [[C T Corporation System]] | agent           | inactive   | Corporation | [Link](https://opencorporates.com/officers/99292400) |
+| [[C T Corporation System](../../../../proceedings/parties/plaintiff/evidence/exhibits/bank-id/C%20T%20CORPORATION%20SYSTEM/C%20T%20CORPORATION%20SYSTEM.md) | agent           | inactive   | Corporation | [Link](https://opencorporates.com/officers/99292400) |
 | [[Ar, See\|See Ar]]  | director        | inactive   | Person      | [Link](https://opencorporates.com/officers/99292401) |
 | [[Fiche, See\|See Fiche]] | president       | inactive   | Person      | [Link](https://opencorporates.com/officers/99292402) |
 

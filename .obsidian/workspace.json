@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc33458052ef1297",
+        "id": "7ff4e667160ad894",
         "type": "tabs",
         "children": [
           {
-            "id": "daf618b3686a7fad",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-local",
-              "state": {},
-              "icon": "orbit",
-              "title": "Local 3D Graph"
-            }
-          },
-          {
-            "id": "bf279aaa75361456",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proceedings/parties/after sale/defendant/2024-09-23/brief notes/case law.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "case law"
-            }
-          },
-          {
-            "id": "2caaf7f3e982cfb6",
+            "id": "7c3bdadac41e139b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MUELLER, NATHAN W"
-            }
-          },
-          {
-            "id": "7968a83215557b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "profiles/corporations/NATE MUELLER, PC. (Utah - 5051518-0144)/NATE MUELLER, PC. (Utah - 5051518-0144).md",
+                "file": "proceedings/before sale/before sale.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NATE MUELLER, PC. (Utah - 5051518-0144)"
-            }
-          },
-          {
-            "id": "12477bc7903da46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "profiles/people/HEITZ, KELLY N/HEITZ, KELLY N.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HEITZ, KELLY N"
+              "title": "before sale"
             }
           }
         ]
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:/profiles/addresses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 729.5119018554688
+    "width": 450.51190185546875
   },
   "right": {
     "id": "086d646853fe6f07",
@@ -251,16 +194,6 @@
             }
           },
           {
-            "id": "a5acf46753abb6c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
             "id": "b1a4cd2411e2df14",
             "type": "leaf",
             "state": {
@@ -311,26 +244,6 @@
             }
           },
           {
-            "id": "3d0e0d31c6848416",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "9469ee3b00b8e283",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
             "id": "ad3fcfc5d340269e",
             "type": "leaf",
             "state": {
@@ -340,8 +253,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "bf617ce085f72a94",
@@ -364,10 +276,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "profiles/people/HEITZ, KELLY N/HEITZ, KELLY N.md"
+                "file": "proceedings/before sale/before sale.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HEITZ, KELLY N"
+              "title": "Outline of before sale"
             }
           },
           {
@@ -390,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "profiles/people/HEITZ, KELLY N/HEITZ, KELLY N.md",
+                "file": "proceedings/before sale/before sale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HEITZ, KELLY N"
+              "title": "Backlinks for before sale"
             }
           }
         ],
@@ -408,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 728.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,78 +336,74 @@
       "obsidian-rich-links:Rich Links": false,
       "templates:Insert template": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian42-brat:BRAT": false,
       "workspaces:Manage workspace layouts": false,
       "media-extended:Open media": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "adjacency-matrix-maker:Adjacency Matrix": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "link-tree:Link Tree": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-to-notion:Share to notion": false,
       "reference-map:Reference Map": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "juggl:Juggl global graph": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "bearings:Open the navigator": false,
       "bearings:Create relationship": false,
       "3d-graph-new:Global 3D Graph": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "map-of-content:Update Map of Content": false,
+      "obsidian42-brat:BRAT": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "daf618b3686a7fad",
+  "active": "7c3bdadac41e139b",
   "lastOpenFiles": [
-    "proceedings/parties/after sale/defendant/2024-09-23/Backup of MOTION FOR LEAVE TO SUBMIT SUPPLEMENTAL AUTHORITY.wbk",
-    "proceedings/parties/after sale/defendant/2024-09-23/~WRD0935.tmp",
-    "proceedings/parties/after sale/defendant/2024-09-23/~$TION FOR LEAVE TO SUBMIT SUPPLEMENTAL AUTHORITY.docx",
-    "proceedings/parties/after sale/defendant/2024-09-23/MOTION FOR LEAVE TO SUBMIT SUPPLEMENTAL AUTHORITY.docx",
-    "proceedings/parties/after sale/defendant/2024-09-23/DEFENDANT JEREMY L. BASS’ SUBMISSION OF SUPPLEMENTAL AUTHORITY IN SUPPORT OF OPPOSITION TO PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT - Copy.docx",
-    "proceedings/parties/after sale/defendant/2024-09-23/~WRL1747.tmp",
-    "proceedings/parties/after sale/defendant/2024-09-23/Backup of DEFENDANT JEREMY L. BASS’ SUBMISSION OF SUPPLEMENTAL AUTHORITY IN SUPPORT OF OPPOSITION TO PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT.wbk",
-    "proceedings/parties/after sale/defendant/2024-09-23/~WRD3634.tmp",
-    "proceedings/parties/after sale/defendant/2024-09-23/~$FENDANT JEREMY L. BASS’ SUBMISSION OF SUPPLEMENTAL AUTHORITY IN SUPPORT OF OPPOSITION TO PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT.docx",
-    "proceedings/parties/after sale/defendant/2024-09-23/DEFENDANT JEREMY L. BASS’ SUBMISSION OF SUPPLEMENTAL AUTHORITY IN SUPPORT OF OPPOSITION TO PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT.docx",
-    "proceedings/parties/after sale/defendant/2024-09-23/DEFENDANT'S RESPONSE TO PLAINTIFF'S ALLEGATIONS IN SECTION E - Copy.docx",
-    "profiles/corporations/NATE MUELLER, PC. (Utah - 5051518-0144)/NATE MUELLER, PC. (Utah - 5051518-0144).md",
-    "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W.md",
-    "profiles/people/people.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/case law.md",
-    "profiles/people/MORLAN, GLENDA/Morlans file claim over fire - 1999-05-07.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/~$at log.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/~$0602_0285.mp3 transcript.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/bin/bin.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/bin/New folder.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/New folder/New folder.md",
-    "proceedings/parties/plaintiff/evidence/exhibits/_BIN - Copy/_BIN - Copy.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015126.png",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015115.png",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015104.png",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015040.png",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 014504.png",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/chat log - Copy.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/230602_0285.mp3 transcript - Copy.md",
-    "profiles/people/MORLAN, GLENDA/files/12-14-2022-320042773_726062372194093_3879232796861895141_n.jpg",
-    "profiles/people/MORLAN, GLENDA/files/08-18-2024-456144532_7974261669275955_867179840048086155_n.jpg",
-    "profiles/people/MORLAN, GLENDA/files/08-28-2024-457333356_8034905813211540_3213293817270098468_n.jpg",
-    "profiles/people/MORLAN, GLENDA/files/08-28-2024457333356_8034905813211540_3213293817270098468_n.jpg",
-    "profiles/people/MORLAN, GLENDA/files/files.md",
-    "profiles/people/MORLAN, GLENDA/files/New folder.md",
-    "profiles/people/MORLAN, GLENDA/New folder/New folder.md",
-    "profiles/people/MORLAN, GLENDA/MORLAN, GLENDA.md",
-    "profiles/corporations/MOUNTAIN PRIME/MOUNTAIN PRIME HOMES/MOUNTAIN PRIME HOMES.md",
-    "profiles/corporations/MOUNTAIN PRIME/MOUNTAIN PRIME HOMES/New folder.md",
-    "profiles/corporations/MOUNTAIN PRIME/New folder/New folder.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/The rigged auction.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/The rigged auction/20240229_110007.jpg",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/chat log.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/230602_0285.mp3 transcript.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/packets.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/evidence/evidence.md",
+    "proceedings/before sale/before sale.md",
+    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/notes.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-05-p24.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-05-p23.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-04-p19.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-04-p17.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-03-p17.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-03-p18.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-02-p18.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-31-p35.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-30-p18.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-29-p24.pdf",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Shepardized Reports/Shepards_Report_Breckenridge Prop. Fund 2016, LLC v. Wally Enter._170 Idaho 649.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Shepardized Reports/Shepardized Reports.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015126.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/The rigged auction.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015115.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015104.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 014504.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015040.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/New folder.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/20240229_110007.jpg",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/New folder.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/20240229_110006.jpg",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/bin.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/moving to federal.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/chats.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat-20241104011641598.png",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Case Law.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/brief checks/New folder.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/brief checks/brief checks.md",
+    "proceedings/after sale/defendant/2024-09-23/pdf output/pdf output.md",
+    "proceedings/after sale/defendant/2024-09-23/pdf output/New folder.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/evidence.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/chat log.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/230602_0285.mp3 transcript.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/packets.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/notes.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/case law.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/brief notes.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/appeal - reconsideration.md",
+    "proceedings/after sale/defendant/2024-09-23/2024-09-23.md",
+    "proceedings/after sale/defendant/2024-08-12/2024-08-12.md",
+    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat-20241104011641598.png",
+    "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W-20241103125437034.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "MUELLER, NATHAN.canvas",

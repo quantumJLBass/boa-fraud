@@ -12,12 +12,19 @@ incorporation-date: 2016-03-15
 dissolution-date: 2017-09-10
 company-type: Limited Liability Company
 jurisdiction: District of Columbia
-registered-address: [[1015 15TH NW ST, STE 1000, WASHINGTON, DC, 20005]]
+registered-address:
+  - - 1015 15TH NW ST
+    - STE 1000
+    - WASHINGTON
+    - DC
+    - 20005
 inactive-directors-/-officers: C T CORPORATION SYSTEM, agent Krueger, Libby, governor
 registry-page: https://corponline.dcra.dc.gov/BizEnt...
 entry-collaborators:
-  - [[C T CORPORATION SYSTEM]]
-  - [[KRUEGER, LIBBY|Krueger, Libby]]
+  - - - C T CORPORATION SYSTEM
+  - - - KRUEGER
+      - LIBBY|Krueger
+      - Libby
 ---
 
 ## General Information
