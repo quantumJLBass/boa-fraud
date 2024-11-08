@@ -4,6 +4,14 @@
 *.wma
 *.wav
 *.edtz
+**/node_modules/
+**/.history/
+**/.idea/
+**/.trash/
+**/.tts/
+**/.vscode/
+**/.genaiscript/
+node_modules/
 .trash/
 .tts/
 .vscode/
@@ -16,10 +24,10 @@
 .obsidian/icons/
 .obsidian/plugins/
 .obsidian/.history/
-.genaiscript
-.fileorganizer2000
-.reference-map
-.smart-connections
-_FileOrganizer2000
-Chats
+.genaiscript/
+.fileorganizer2000/
+.reference-map/
+.smart-connections/
+_FileOrganizer2000/
+Chats/
 proceedings/before sale/plaintiff/evidence/screen-shots/signature-review.pdf
