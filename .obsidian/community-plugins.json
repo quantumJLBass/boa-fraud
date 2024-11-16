@@ -73,8 +73,6 @@
   "link-tree",
   "md-image-caption",
   "merge-notes",
-  "mermaid-themes",
-  "mermaid-tools",
   "obsidian-mind-map",
   "multi-properties",
   "multi-state-checkbox-switcher",
@@ -93,5 +91,12 @@
   "iconic",
   "tags-routes",
   "replace-all",
-  "ollama-chat"
+  "ollama-chat",
+  "cursor-bridge",
+  "moc-link-helper",
+  "hierarchical-backlinks",
+  "mermaid-tools",
+  "mehrmaid",
+  "alias-management",
+  "markdown-timeline"
 ]

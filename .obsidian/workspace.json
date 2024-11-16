@@ -4,25 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff4e667160ad894",
+        "id": "326c24f2392b89d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3bdadac41e139b",
+            "id": "293ed740851b009e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proceedings/before sale/before sale.md",
+                "file": "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "before sale"
+              "title": "version one"
+            }
+          },
+          {
+            "id": "a11203f28f49edde",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timeline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "profiles/people/MORLAN, GLENDA/Morlans file claim over fire - 1999-05-07.md",
+                "file": "timeline.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,12 +175,12 @@
                   "repelStrength": 13.6281951975213,
                   "linkStrength": 0.364136328427576,
                   "linkDistance": 313,
-                  "scale": 1.4019828282551545,
+                  "scale": 0.7132754403866691,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Morlans file claim over fire - 1999-05-07"
+              "title": "Graph of timeline"
             }
           },
           {
@@ -171,16 +191,6 @@
               "state": {},
               "icon": "ReferenceMapIconScroll",
               "title": "Reference Map"
-            }
-          },
-          {
-            "id": "e40a72d18ce95d24",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
             }
           },
           {
@@ -252,8 +262,29 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "f960981e5d28885f",
+            "type": "leaf",
+            "state": {
+              "type": "hierarchical-backlinks",
+              "state": {},
+              "icon": "links-coming-in",
+              "title": "Hierarchical backlinks"
+            }
+          },
+          {
+            "id": "c90e45fdfc4f9f8a",
+            "type": "leaf",
+            "state": {
+              "type": "moc-link-helper-view",
+              "state": {},
+              "icon": "cable",
+              "title": "MOC Link Helper"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bf617ce085f72a94",
@@ -276,10 +307,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proceedings/before sale/before sale.md"
+                "file": "timeline.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of before sale"
+              "title": "Outline of timeline"
             }
           },
           {
@@ -302,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proceedings/before sale/before sale.md",
+                "file": "timeline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +343,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for before sale"
+              "title": "Backlinks for timeline"
             }
           }
         ],
@@ -320,10 +351,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 908.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "alias-management:ListAliasesView": false,
+      "alias-management:DuplicateAliasesView": false,
       "edit-history:Open edit history": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -351,59 +384,61 @@
       "bearings:Create relationship": false,
       "3d-graph-new:Global 3D Graph": false,
       "obsidian-trash-explorer:Open trash explorer": false,
+      "cursor-bridge:Open in Cursor": false,
+      "moc-link-helper:Open MOC Link Helper View": false,
       "map-of-content:Update Map of Content": false,
       "obsidian42-brat:BRAT": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "7c3bdadac41e139b",
+  "active": "a11203f28f49edde",
   "lastOpenFiles": [
-    "proceedings/before sale/before sale.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/notes.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-05-p24.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-05-p23.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-04-p19.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-04-p17.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-03-p17.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-03-p18.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2024-01-02-p18.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-31-p35.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-30-p18.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/trustees-lack-of-notice/2023-12-29-p24.pdf",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Shepardized Reports/Shepards_Report_Breckenridge Prop. Fund 2016, LLC v. Wally Enter._170 Idaho 649.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Shepardized Reports/Shepardized Reports.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015126.png",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/The rigged auction.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015115.png",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015104.png",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 014504.png",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/Screenshot 2024-05-20 015040.png",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/New folder.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/20240229_110007.jpg",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/New folder.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/The rigged auction/20240229_110006.jpg",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/bin.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/moving to federal.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/chats.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat-20241104011641598.png",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/Case Law.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/brief checks/New folder.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/brief checks/brief checks.md",
-    "proceedings/after sale/defendant/2024-09-23/pdf output/pdf output.md",
-    "proceedings/after sale/defendant/2024-09-23/pdf output/New folder.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/evidence.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/chat log.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/230602_0285.mp3 transcript.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/packets.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
+    "timeline.md",
     "proceedings/after sale/defendant/2024-09-23/brief notes/notes.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/case law.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/brief notes.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/appeal - reconsideration.md",
-    "proceedings/after sale/defendant/2024-09-23/2024-09-23.md",
-    "proceedings/after sale/defendant/2024-08-12/2024-08-12.md",
-    "proceedings/parties/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat-20241104011641598.png",
-    "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W-20241103125437034.png",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-NOTICE-OF-INTENT-TO-FORCLOSE-2022-06-18.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-forced-loan-mod-2022-16-03.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-letter-conclusion-notice-2022-18-06.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-letter-2020-07-01.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-LOAN-MODIFICATION-AGREEMENT-2012-09-01-unrecorded.pdf",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/notes.md.edtz",
+    "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version two.md",
+    "profiles/addresses/US/STATES/STATES.md",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-Deed-of-Trust-note-2012-09-01-unrecorded.pdf",
+    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-Subordinate-note-2012-09-01-unrecorded.pdf",
+    "profiles/addresses/US/US.md",
+    "profiles/addresses/US",
+    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/files/files.md",
+    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/files",
+    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/1015 15TH ST NW, WASHINGTON, DC, 20005-2617.md",
+    "profiles/addresses/STATES/DC/DC.md",
+    "profiles/addresses/STATES/NEW MEXICO/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197/files/files.md",
+    "profiles/addresses/STATES/NEW MEXICO/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197.md",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/files.md",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071358.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071149.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071133.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071104.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071034.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071024.png",
+    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/348 COURT ST, LACONIA, NH, 03246-3602.md",
+    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/files/files.md",
+    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/files/Screenshot 2024-06-25 035920.png",
+    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897.md",
+    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/files.md",
+    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/sat-2024.png",
+    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/10-2015--2.png",
+    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/10-2015--1.png",
+    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299.md",
+    "profiles/addresses/STATES/INDIANA/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940/files/files.md",
+    "profiles/addresses/STATES/INDIANA/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940.md",
+    "profiles/addresses/STATES/MARYLAND/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960/files/files.md",
+    "profiles/addresses/STATES/MARYLAND/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960.md",
+    "profiles/addresses/STATES/CONNECTICUT/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624/files/files.md",
+    "profiles/addresses/STATES/CONNECTICUT/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624.md",
+    "profiles/addresses/STATES/WEST VIRGINIA/4516 EOFF ST, WHEELING, WV, 26003-1812/files/files.md",
+    "profiles/addresses/STATES/WEST VIRGINIA/4516 EOFF ST, WHEELING, WV, 26003-1812/4516 EOFF ST, WHEELING, WV, 26003-1812.md",
+    "profiles/addresses/STATES/WEST VIRGINIA/209 WASHINGTON ST W, CHARLESTON, WV, 25302-2348/files/files.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "MUELLER, NATHAN.canvas",
