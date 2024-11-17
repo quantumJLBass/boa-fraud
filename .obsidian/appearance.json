@@ -1,9 +1,9 @@
 {
   "accentColor": "#fff824",
-  "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "CaskaydiaCove NF,Cascadia Code,Fira Code",
-  "textFontFamily": "CaskaydiaCove NF,Cascadia Code,Fira Code",
-  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono,Cascadia Mono,Fira Code",
+  "cssTheme": "OneNice",
+  "interfaceFontFamily": "FiraCode NFM,Fira Code",
+  "textFontFamily": "FiraCode NFM,Fira Code",
+  "monospaceFontFamily": "FiraCode NFM,Fira Code",
   "nativeMenus": true,
   "translucency": true,
   "baseFontSize": 18,

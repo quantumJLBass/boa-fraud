@@ -351,7 +351,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 908.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -390,6 +390,46 @@
       "obsidian42-brat:BRAT": false,
       "tags-routes:Open tags routes": false
     }
+  },
+  "floating": {
+    "id": "875af7e09dbcc9dd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c04c130f08d48327",
+        "type": "window",
+        "children": [
+          {
+            "id": "b2d8fed16d197144",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7340e2d0367e251a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "version one"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 579,
+        "y": 136,
+        "width": 2071,
+        "height": 1200,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "a11203f28f49edde",
   "lastOpenFiles": [
