@@ -1,0 +1,231 @@
+-- database: e:\_GIT\obsidian\BoA timeline\profiles\queries\scrap\db\cache-write.db
+
+-- PRAGMA foreign_keys = OFF;
+-- DELETE FROM url_catalog
+-- WHERE url LIKE '%/statements%statements/%'
+-- OR url LIKE '%/officers%statements/%'
+-- OR url LIKE '%/filings%statements/%'
+-- OR url LIKE '%/events%statements/%'
+-- OR url LIKE '%/placeholders/%'
+-- OR url LIKE '%/corporate_groupings/%'
+-- OR url LIKE '%/corporate_grouping_memberships/%'
+-- OR url LIKE '%/users/%';
+-- PRAGMA foreign_keys = ON;
+
+
+SELECT * FROM url_catalog
+WHERE cached_on = '';
+
+SELECT * FROM url_catalog
+WHERE url LIKE '%/us_nv/C12276-1994%';
+
+
+SELECT url_catalog.id, url_catalog.url, url_catalog.company_number, url_catalog.jurisdiction, url_catalog.completed, url_catalog.html_content,
+url_catalog.parent_id, url_catalog.cached_on, url_catalog.asof
+FROM url_catalog
+WHERE (html_content IS NULL OR html_content = '') AND url LIKE 'https://opencorporates.com/companies/%/%' AND LENGTH(url) - LENGTH(REPLACE(url, '/', '')) = 5;
+
+SELECT * FROM url_catalog
+WHERE html_content LIKE '%</h3></div></div></div></div></div></div>%';
+
+UPDATE url_catalog
+SET html_content = '<h1>NO DATA</h1>'
+WHERE html_content LIKE '%</h3></div></div></div></div></div></div>%';
+
+UPDATE url_catalog
+SET html_content = Null, cached_on = Null
+WHERE cached_on >= '2024-09-11 20:48:15.309687';
+
+
+SELECT count(id) FROM url_catalog
+WHERE cached_on >= '2024-09-15 00:00:00.309687';
+--  AND html_content = '<h1>NO DATA</h1>';
+
+SELECT COUNT(id) FROM url_catalog
+WHERE html_content != '<h1>NO DATA</h1>'
+AND html_content IS NOT NULL;
+
+
+
+SELECT * FROM url_catalog
+WHERE html_content != '<h1>NO DATA</h1>'
+AND html_content IS NOT NULL
+AND url LIKE '%/officers%';
+
+
+
+
+SELECT * FROM url_catalog
+WHERE html_content != '<h1>NO DATA</h1>'
+AND html_content IS NOT NULL
+AND url NOT LIKE '%/officers%';
+
+SELECT * FROM url_catalog
+WHERE url LIKE 'https://opencorporates.com/companies/us_hi/10848D1/events?page=3%';
+
+
+SELECT * FROM url_catalog
+WHERE url LIKE '%/officers?%';
+
+
+PRAGMA foreign_keys = OFF;
+DELETE FROM url_catalog
+WHERE (url LIKE '%/officers?%occupation%'
+OR url LIKE '%/officers?%position'
+OR url LIKE '%/officers?%nationality'
+OR url LIKE '%/officers?%q=%')
+AND url NOT LIKE '%/officers?%page%';
+PRAGMA foreign_keys = ON;
+
+
+SELECT * FROM url_catalog
+WHERE
+url NOT LIKE '%?%page%'
+AND (url LIKE '%officers?%occupation%'
+OR url LIKE '%officers%?%position'
+OR url LIKE '%officers%?%nationality'
+OR url LIKE '%officers%?%q=%'
+OR url LIKE '%filings%?%'
+OR url LIKE '%officers%?%events%'
+OR url LIKE '%officers%?%filings%'
+OR url LIKE '%officers%?%officers%'
+OR url LIKE '%officers%?%statements%');
+
+PRAGMA foreign_keys = OFF;
+DELETE FROM url_catalog
+WHERE
+url NOT LIKE '%?%page%'
+AND (url LIKE '%officers?%occupation%'
+OR url LIKE '%officers%?%position'
+OR url LIKE '%officers%?%nationality'
+OR url LIKE '%officers%?%q=%'
+OR url LIKE '%filings%?%'
+OR url LIKE '%officers%?%events%'
+OR url LIKE '%officers%?%filings%'
+OR url LIKE '%officers%?%officers%'
+OR url LIKE '%officers%?%statements%');
+PRAGMA foreign_keys = ON;
+
+
+SELECT * FROM url_catalog
+WHERE url NOT LIKE '%opencorporates.com%';
+
+PRAGMA foreign_keys = OFF;
+DELETE FROM url_catalog
+WHERE url NOT LIKE '%opencorporates.com%';
+PRAGMA foreign_keys = ON;
+
+
+
+
+
+
+
+
+SELECT * FROM url_catalog
+WHERE url LIKE '%.nz%statements%'
+OR url LIKE '%.nz%events%'
+OR url LIKE '%.nz%officers%'
+OR url LIKE '%.nz%filings%';
+
+PRAGMA foreign_keys = OFF;
+DELETE FROM url_catalog
+WHERE url LIKE '%.nz%statements%'
+OR url LIKE '%.nz%events%'
+OR url LIKE '%.nz%officers%'
+OR url LIKE '%.nz%filings%';
+PRAGMA foreign_keys = ON;
+
+
+PRAGMA foreign_keys = OFF;
+DELETE FROM url_catalog
+WHERE url LIKE '%/officers%statements%';
+PRAGMA foreign_keys = ON;
+
+
+SELECT * FROM url_catalog
+WHERE asof >= '2024-09-13';
+
+SELECT * FROM url_catalog
+WHERE url LIKE '%/officers%'
+AND (html_content IS NULL OR html_content = '');
+
+
+
+SELECT url_catalog.id, url_catalog.url, url_catalog.company_number, url_catalog.jurisdiction, url_catalog.completed, url_catalog.html_content,
+url_catalog.parent_id, url_catalog.cached_on, url_catalog.asof
+FROM url_catalog
+WHERE (html_content IS NULL OR html_content = '') AND  url LIKE '%/officers%';
+
+
+
+
+SELECT * FROM url_catalog
+WHERE (html_content IS NULL OR html_content = '')
+AND url LIKE 'https://opencorporates.com/companies/%/%'
+AND LENGTH(url) - LENGTH(REPLACE(url, '/', '')) = 5
+AND jurisdiction != 'United Kingdom';
+
+
+
+
+
+SELECT * FROM url_catalog
+WHERE company_number IS NULL;
+
+
+-- Combined preview for extracting company_number and corresponding jurisdiction name
+-- Combined preview for extracting company_number and corresponding jurisdiction name
+SELECT
+    u.id,
+    u.url,
+    -- Extract the company number, considering it comes after the jurisdiction code
+    CASE
+        -- If there is a slash after the company number, extract it before the next slash
+        WHEN INSTR(SUBSTR(u.url, INSTR(u.url, '/companies/') + 14), '/') > 0
+        THEN SUBSTR(u.url, INSTR(u.url, '/companies/') + 14,
+             INSTR(SUBSTR(u.url, INSTR(u.url, '/companies/') + 14), '/') - 1)
+        -- If there is no slash, take the remainder as the company number
+        ELSE SUBSTR(u.url, INSTR(u.url, '/companies/') + 14)
+    END AS extracted_company_number,
+
+    -- Extract the jurisdiction code (2 characters after '/companies/')
+    (SELECT j.name FROM jurisdiction j
+     WHERE j.code = SUBSTR(u.url, INSTR(u.url, '/companies/') + 11, 2)
+    ) AS extracted_jurisdiction
+FROM url_catalog u
+WHERE u.company_number IS NULL;
+
+
+
+
+PRAGMA foreign_keys = OFF;
+UPDATE url_catalog
+SET
+    company_number = CASE
+        -- If there's a slash after the company number, extract the part before the slash
+        WHEN INSTR(SUBSTR(url, INSTR(url, '/companies/') + 14), '/') > 0
+        THEN SUBSTR(url, INSTR(url, '/companies/') + 14,
+             INSTR(SUBSTR(url, INSTR(url, '/companies/') + 14), '/') - 1)
+        -- If there is no slash, take the remainder as the company number
+        ELSE SUBSTR(url, INSTR(url, '/companies/') + 14)
+    END,
+
+    jurisdiction = (SELECT j.name FROM jurisdiction j
+                    WHERE j.code = SUBSTR(url, INSTR(url, '/companies/') + 11, 2))
+
+WHERE company_number IS NULL;
+
+
+PRAGMA foreign_keys = ON;
+
+
+
+
+
+
+INSERT OR IGNORE INTO url_catalog (url)
+VALUES
+('https://opencorporates.com/officers/855882041'),
+('https://opencorporates.com/officers/856468157'),
+('https://opencorporates.com/officers/906460850');

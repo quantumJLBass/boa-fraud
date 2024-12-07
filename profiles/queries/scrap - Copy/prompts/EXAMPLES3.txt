@@ -1,0 +1,50 @@
+
+----------------------------------------------------------------------------------------------
+Example #1
+Original Address: 376 EAST 400 SOUTH, SUITE 300, SALT LAKE CITY, 84111, UT, USA
+Reformatted Address: 376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #2
+Original Address: CW CAPITAL ASSET MANAGEMENT LLC, 7501 Wisconsin Ave Suite 500W Bethesda 20814 MD United States
+Reformatted Address: 7501 WISCONSIN AVE, STE 500W, BETHESDA, MD, 20814
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #3
+Original Address: Joe Smith 1234 West 2nd Ave Suite 234 Bethesda, MD, 20814-5342 United States
+Reformatted Address: 1234 W 2ND AVE, STE 234, BETHESDA, MD, 20814-5342
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #4
+Original Address: 7501 Wisconsin Ave Suite 500W Bethesda 20814 MD United States
+Reformatted Address: 7501 WISCONSIN AVE, STE 500W, BETHESDA, MD, 20814
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #5
+Original Address: Joe Smith 1234 West 2nd Ave Suite 234 Bethesda, MD, 20814-5342 United States
+Reformatted Address: 1234 W 2ND AVE, STE 234, BETHESDA, MD, 20814-5342
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #6
+Original Address: 123 Main Street Apt 4B, Anytown, NY 12345, USA
+Reformatted Address: 123 MAIN ST, APT 4B, ANYTOWN, NY, 12345
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #7
+Original Address: 456 Elm Blvd, Springfield, IL 62701, USA
+Reformatted Address: 456 ELM BLVD, SPRINGFIELD, IL, 62701
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------
+Example #8
+Original Address: 376 EAST 400 SOUTH, SUITE 300, SALT LAKE CITY, 84111, UT, USA
+Reformatted Address: 376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111
+Correctness: Correct
+
+----------------------------------------------------------------------------------------------

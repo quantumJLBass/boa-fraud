@@ -1,0 +1,99 @@
+
+----------------------------------------------------------------------------------------------
+Example #1
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([ ('AddressNumber', '376'), ('StreetNamePreDirectional', 'EAST'), ('StreetName', '400'), ('StreetNamePostDirectional', 'SOUTH'), ('OccupancyType', 'SUITE'), ('OccupancyIdentifier', '300'), ('PlaceName', 'SALT LAKE CITY'), ('StateName', 'UT'), ('ZipCode', '84111'), ('CountryName', 'USA')])
+    person type:
+    persons pre parsed:
+address: 376 EAST 400 SOUTH, SUITE 300, SALT LAKE CITY, 84111, UT, USA
+
+REFORMATTED ADDRESS:
+376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111
+
+----------------------------------------------------------------------------------------------
+Example #2
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([ ('Recipient','CW CAPITAL ASSET MANAGEMENT LLC') ('AddressNumber', '7501'), ('StreetName', 'Wisconsin'), ('StreetNamePostType','Ave'), ('OccupancyType', 'Suite'), ('OccupancyIdentifier', '500W'), ('PlaceName', 'Bethesda'), ('StateName', 'MD'), ('ZipCode', '20814'), ('CountryName', 'United States')])
+    person type: Corporation
+    persons pre parsed:  OrderedDict([('CorporationName', 'CW CAPITAL ASSET MANAGEMENT'), ('CorporationLegalType', 'LLC')])
+address: CW CAPITAL ASSET MANAGEMENT LLC, 7501 Wisconsin Ave Suite 500W Bethesda 20814 MD United States
+
+REFORMATTED ADDRESS:
+7501 WISCONSIN AVE, STE 500W, BETHESDA, MD, 20814
+CW CAPITAL ASSET MANAGEMENT LLC
+
+----------------------------------------------------------------------------------------------
+Example #3
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('Recipient', 'Joe Smith'), ('AddressNumber', '1234'), ('StreetNamePreDirectional', 'West'), ('StreetName', '2nd'), ('StreetNamePostType', 'Ave'), ('OccupancyType', 'Suite'), ('OccupancyIdentifier', '234'), ('PlaceName', 'Bethesda'), ('StateName', 'MD'), ('ZipCode', '20814-5342'), ('CountryName', 'United States')])
+    person type: Person
+    persons pre parsed:  OrderedDict([('GivenName', 'Joe'), ('Surname', 'Smith')])
+address: Joe Smith 1234 West 2nd Ave Suite 234 Bethesda, MD, 20814-5342 United States
+
+REFORMATTED ADDRESS:
+1234 W 2ND AVE, STE 234, BETHESDA, MD, 20814-5342
+Joe Smith
+
+----------------------------------------------------------------------------------------------
+Example #4
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('AddressNumber', '7501'), ('StreetName', 'Wisconsin'), ('StreetNamePostType', 'Ave'), ('OccupancyType', 'Suite'), ('OccupancyIdentifier', '500W'), ('PlaceName', 'Bethesda'), ('StateName', 'MD'), ('ZipCode', '20814')])
+    person type:
+    persons pre parsed:
+address: 7501 Wisconsin Ave Suite 500W Bethesda 20814 MD
+
+REFORMATTED ADDRESS:
+7501 WISCONSIN AVE, STE 500W, BETHESDA, MD, 20814
+
+----------------------------------------------------------------------------------------------
+Example #5
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('Recipient', 'John Boy'), ('AddressNumber', '1234'), ('StreetNamePreDirectional', 'West'), ('StreetName', '2nd'), ('StreetNamePostType', 'Ave'), ('OccupancyType', 'Suite'), ('OccupancyIdentifier', '234'), ('PlaceName', 'Bethesda'), ('StateName', 'MD'), ('ZipCode', '20814-5342'), ('CountryName', 'United States')])
+    person type: Person
+    persons pre parsed:  OrderedDict([('GivenName', 'John'), ('Surname', 'Boy')])
+address: John Boy 1234 West 2nd Ave Suite 234 Bethesda, MD, 20814-5342 United States
+
+REFORMATTED ADDRESS:
+1234 W 2ND AVE, STE 234, BETHESDA, MD, 20814-5342
+John Boy
+
+----------------------------------------------------------------------------------------------
+Example #6
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('AddressNumber', '123'), ('StreetName', 'Main'), ('StreetNamePostType', 'Street'), ('OccupancyType', 'Apt'), ('OccupancyIdentifier', '4B'), ('PlaceName', 'Anytown'), ('StateName', 'NY'), ('ZipCode', '12345'), ('CountryName', 'USA')])
+    person type:
+    persons pre parsed:
+address: 123 Main Street Apt 4B, Anytown, NY 12345, USA
+
+REFORMATTED ADDRESS:
+123 MAIN ST, APT 4B, ANYTOWN, NY, 12345
+
+----------------------------------------------------------------------------------------------
+Example #7
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('AddressNumber', '456'), ('StreetName', 'Elm'), ('StreetNamePostType', 'Blvd'), ('PlaceName', 'Springfield'), ('StateName', 'IL'), ('ZipCode', '62701'), ('CountryName', 'USA')])
+    person type:
+    persons pre parsed:
+address: 456 Elm Blvd, Springfield, IL 62701, USA
+
+REFORMATTED ADDRESS:
+456 ELM BLVD, SPRINGFIELD, IL, 62701
+
+----------------------------------------------------------------------------------------------
+Example #8
+INPUT ADDRESS DATA:
+    address type: Street Address
+    address pre parsed:  OrderedDict([('AddressNumber', '376'), ('StreetNamePreDirectional', 'EAST'), ('StreetName', '400'), ('StreetNamePostDirectional', 'SOUTH'), ('OccupancyType', 'SUITE'), ('OccupancyIdentifier', '300'), ('PlaceName', 'SALT LAKE CITY'), ('StateName', 'UT'), ('ZipCode', '84111'), ('CountryName', 'USA')])
+    person type:
+    persons pre parsed:
+address: 376 EAST 400 SOUTH, SUITE 300, SALT LAKE CITY, 84111, UT, USA
+
+REFORMATTED ADDRESS:
+376 E 400 S, STE 300, SALT LAKE CITY, UT, 84111

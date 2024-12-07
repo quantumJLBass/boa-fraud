@@ -570,3 +570,8 @@ settings:
 .img-adj-list :is(ul, ol) {
   display: flow-root;
 }
+
+
+.branchLabel tspan {
+    fill: black !important;
+}

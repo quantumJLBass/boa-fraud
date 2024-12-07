@@ -1,3 +1,20 @@
+---
+page-title: NEWELL, MICHAEL J
+url/uri: 
+date: 2024-05-22
+tags:
+  - Company-Details/Officer-Information
+  - Person-Details/General-Information
+name: NEWELL, MICHAEL J
+aka: Michael John Newell
+aliases:
+  - MJN
+position: agent
+---
+
+
+
+
 NEWELL, MICHAEL J
 
 

@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "326c24f2392b89d4",
+        "id": "d092ba29d2ca44ae",
         "type": "tabs",
         "children": [
           {
-            "id": "293ed740851b009e",
+            "id": "e1b3f0d9e7ae01f3",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "version one"
-            }
-          },
-          {
-            "id": "a11203f28f49edde",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timeline.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "timeline"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.51190185546875
+    "width": 522.5019836425781
   },
   "right": {
     "id": "086d646853fe6f07",
@@ -152,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "timeline.md",
+                "file": "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust/Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,12 +150,12 @@
                   "repelStrength": 13.6281951975213,
                   "linkStrength": 0.364136328427576,
                   "linkDistance": 313,
-                  "scale": 0.7132754403866691,
+                  "scale": 0.18462326330219225,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of timeline"
+              "title": "Graph of Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust"
             }
           },
           {
@@ -282,9 +257,39 @@
               "icon": "cable",
               "title": "MOC Link Helper"
             }
+          },
+          {
+            "id": "17217f506a5f5616",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "5567e08686600dce",
+            "type": "leaf",
+            "state": {
+              "type": "alias-management_list-aliases-view",
+              "state": {},
+              "icon": "bullet-list",
+              "title": "ListAliasesView"
+            }
+          },
+          {
+            "id": "a8465f68e296fc1c",
+            "type": "leaf",
+            "state": {
+              "type": "alias-management_duplicate-aliases-view",
+              "state": {},
+              "icon": "languages",
+              "title": "DuplicateAliasesView"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       },
       {
         "id": "bf617ce085f72a94",
@@ -306,11 +311,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "timeline.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of timeline"
+              "title": "Outline"
             }
           },
           {
@@ -333,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timeline.md",
+                "file": "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust/Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,15 +346,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for timeline"
+              "title": "Backlinks for Exhibit-T-2009-10-16-inst-774964-recording-of-deed-of-trust"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,99 +388,59 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "cursor-bridge:Open in Cursor": false,
       "moc-link-helper:Open MOC Link Helper View": false,
-      "map-of-content:Update Map of Content": false,
       "obsidian42-brat:BRAT": false,
+      "map-of-content:Update Map of Content": false,
       "tags-routes:Open tags routes": false
     }
   },
-  "floating": {
-    "id": "875af7e09dbcc9dd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c04c130f08d48327",
-        "type": "window",
-        "children": [
-          {
-            "id": "b2d8fed16d197144",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7340e2d0367e251a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "version one"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 579,
-        "y": 136,
-        "width": 2071,
-        "height": 1200,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a11203f28f49edde",
+  "active": "e1b3f0d9e7ae01f3",
   "lastOpenFiles": [
-    "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version one.md",
     "timeline.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/notes.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-NOTICE-OF-INTENT-TO-FORCLOSE-2022-06-18.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-forced-loan-mod-2022-16-03.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-letter-conclusion-notice-2022-18-06.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-covid-19-forbearance-letter-2020-07-01.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-LOAN-MODIFICATION-AGREEMENT-2012-09-01-unrecorded.pdf",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/notes.md.edtz",
-    "proceedings/after sale/defendant/2024-09-23/evidence/timelines/version two.md",
-    "profiles/addresses/US/STATES/STATES.md",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-Deed-of-Trust-note-2012-09-01-unrecorded.pdf",
-    "proceedings/after sale/defendant/2024-09-23/evidence/bin/Exhibit-XX-CMS-provided-Subordinate-note-2012-09-01-unrecorded.pdf",
-    "profiles/addresses/US/US.md",
-    "profiles/addresses/US",
-    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/files/files.md",
-    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/files",
-    "profiles/addresses/STATES/DC/1015 15TH ST NW, WASHINGTON, DC, 20005-2617/1015 15TH ST NW, WASHINGTON, DC, 20005-2617.md",
-    "profiles/addresses/STATES/DC/DC.md",
-    "profiles/addresses/STATES/NEW MEXICO/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197/files/files.md",
-    "profiles/addresses/STATES/NEW MEXICO/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197/2501 SAN PEDRO DR NE, STE 102, ALBUQUERQUE, NM, 87110-4197.md",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/files.md",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071358.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071149.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071133.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071104.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071034.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/files/Screenshot 2024-06-22 071024.png",
-    "profiles/addresses/STATES/NEW HAMPSHIRE/348 COURT ST, LACONIA, NH, 03246-3602/348 COURT ST, LACONIA, NH, 03246-3602.md",
-    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/files/files.md",
-    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/files/Screenshot 2024-06-25 035920.png",
-    "profiles/addresses/STATES/OKLAHOMA/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897/2300 N LINCOLN BLVD, STE 101, OKLAHOMA CITY, OK, 73105-4897.md",
-    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/files.md",
-    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/sat-2024.png",
-    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/10-2015--2.png",
-    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/files/10-2015--1.png",
-    "profiles/addresses/STATES/INDIANA/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299/813 N SUPERIOR DR, CROWN POINT, IN, 46307-8299.md",
-    "profiles/addresses/STATES/INDIANA/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940/files/files.md",
-    "profiles/addresses/STATES/INDIANA/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940/4199 GATEWAY BLVD, STE 2000, NEWBURGH, IN, 47630-8940.md",
-    "profiles/addresses/STATES/MARYLAND/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960/files/files.md",
-    "profiles/addresses/STATES/MARYLAND/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960/16450 PEAK RUN PL, HUGHESVILLE, MD, 20637-2960.md",
-    "profiles/addresses/STATES/CONNECTICUT/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624/files/files.md",
-    "profiles/addresses/STATES/CONNECTICUT/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624/190 MAPLERIDGE DR, WATERBURY, CT, 06705-3624.md",
-    "profiles/addresses/STATES/WEST VIRGINIA/4516 EOFF ST, WHEELING, WV, 26003-1812/files/files.md",
-    "profiles/addresses/STATES/WEST VIRGINIA/4516 EOFF ST, WHEELING, WV, 26003-1812/4516 EOFF ST, WHEELING, WV, 26003-1812.md",
-    "profiles/addresses/STATES/WEST VIRGINIA/209 WASHINGTON ST W, CHARLESTON, WV, 25302-2348/files/files.md",
+    "proceedings/before sale/plaintiff/evidence/exhibits/_BIN/_BIN.md",
+    "profiles/corporations/MOUNTAIN PRIME/MOUNTAIN PRIME LLC/MOUNTAIN PRIME LLC.md",
+    "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W.md",
+    "proceedings/laws-statutes/usc/usc-1-27-2024-11-23-p1.pdf",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p2.pdf",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p1.pdf",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p4.pdf",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p3.pdf",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2.pdf",
+    "proceedings/laws-statutes/cfr/AD$DFE0.tmp",
+    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-REC-INST-760924-WD/EX-XX-2008-09-05-REC-INST-760924-WD.md",
+    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p1.pdf",
+    "proceedings/laws-statutes/cfr/AD$34F3.tmp",
+    "profiles/corporations/SOUTHWEST PARTNERS/SOUTHWEST PARTNERS.md",
+    "profiles/corporations/PMI/PMI.md",
+    "profiles/corporations/AMERICAN LAND TITLE CO/AMERICAN LAND TITLE CO.md",
+    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-REC-INST-760924-WD/EX-XX-2008-09-05-REC-INST-760924-WD.md.edtz",
+    "profiles/people/TUTTY, PATRICIA A/TUTTY, PATRICIA A.md",
+    "profiles/people/TUTTY, ROGER H/TUTTY, ROGER H.md",
+    "profiles/people/STENE, CARL/STENE, CARL.md",
+    "profiles/people/BASS, JEREMY L/BASS, JEREMY L.md",
+    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-DOC-ORGINIAL-PW-FROM-ZIONS/EX-XX-2008-09-05-DOC-ORGINIAL-PW-FROM-ZIONS.md",
+    "proceedings/case-evidence - Copy/EX-XX-2008-08-11-NTC-HUD-DON'T-COMMIT-LOAN-FRAUD/EX-XX-2008-08-11-NTC-HUD-DON'T-COMMIT-LOAN-FRAUD.md",
+    "proceedings/case-evidence - Copy/EX-XX-2008-08-05-ZFNB-SERVICING-DISCLOSURE-STATEMENT/EX-XX-2008-08-05-ZFNB-SERVICING-DISCLOSURE-STATEMENT.md",
+    "proceedings/after sale/after sale.md",
+    "proceedings/case overview/Comprehensive Summary of Material Facts.md",
+    "proceedings/case-evidence/EX-XX-NTC-SIGNATURE-REVIEW/EX-XX-NTC-SIGNATURE-REVIEW.md",
+    "proceedings/case-evidence/EX-XX-NTC-SHOWING PATTERN/EX-XX-NTC-SHOWING PATTERN.md",
+    "proceedings/case-evidence/EX-XX-NTC-CONSUMERFINANCE.GOV-EXTEND YOUR FRBC/EX-XX-NTC-CONSUMERFINANCE.GOV-EXTEND YOUR FRBC.md",
+    "proceedings/case-evidence/EX-XX-NTC-CMS-STILL-BILLING/EX-XX-NTC-CMS-STILL-BILLING.md",
+    "proceedings/case-evidence/EX-XX-NTC-BOA-PROVIDED-PROOF/EX-XX-NTC-BOA-PROVIDED-PROOF.md",
+    "proceedings/case-evidence/EX-XX-NTC-AMORTIZATION-SCHEDULE/EX-XX-NTC-AMORTIZATION-SCHEDULE.md",
+    "proceedings/case-evidence/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB/EXHIBIT-AF-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB.md",
+    "proceedings/case-evidence/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB.md",
+    "proceedings/case-evidence/EX-XX-NAMES-TO-BE-SEEN/EX-XX-NAMES-TO-BE-SEEN.md",
+    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015115.png",
+    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015126.png",
+    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015104.png",
+    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015040.png",
+    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 014504.png",
+    "proceedings/case-evidence/to-process/The rigged auction/20240229_110007.jpg",
+    "proceedings/case-evidence/to-process/The rigged auction/20240229_110006.jpg",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/961337107cecf640de219308c0368c32_MD5.jpg",
+    "profiles/queries/scrap - Copy/odd&ends/db-oddsends/schema/as-of-2024-08-25.png",
+    "profiles/addresses/US/STATES/ARIZONA/PIMA/TUCSON/2195 E RIVER RD, TUCSON, AZ, 85718-6586/files/Screenshot 2024-06-25 035729.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "MUELLER, NATHAN.canvas",

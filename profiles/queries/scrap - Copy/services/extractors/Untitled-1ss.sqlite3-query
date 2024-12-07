@@ -1,0 +1,4 @@
+-- database: ../../db/cache-write.db
+
+SELECT * FROM url_catalog
+WHERE url = 'https://opencorporates.com/officers/264556325';

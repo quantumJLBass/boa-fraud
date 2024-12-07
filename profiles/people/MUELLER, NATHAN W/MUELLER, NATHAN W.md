@@ -1,9 +1,9 @@
 ---
-tags: MOCs
-aka:
-  - NATHAN MUELLER
-  - NATE MUELLER
-  - NATE WILLIAM MUELLER
+tags:
+  - MOCs
+aka: NATHAN MUELLER,NATE MUELLER,NATE WILLIAM MUELLER
+aliases:
+  - NWM
 ---
 ```folder-overview
 id: dcc89ed9-5546-401c-a092-2b006bda3753

@@ -1,12 +1,12 @@
 {
-  "accentColor": "#fff824",
-  "cssTheme": "OneNice",
+  "accentColor": "#2478ff",
+  "cssTheme": "Simply Colorful",
   "interfaceFontFamily": "FiraCode NFM,Fira Code",
   "textFontFamily": "FiraCode NFM,Fira Code",
   "monospaceFontFamily": "FiraCode NFM,Fira Code",
   "nativeMenus": true,
   "translucency": true,
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "metadata-icon-auto-gen",

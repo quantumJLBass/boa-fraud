@@ -18,13 +18,13 @@ registry-page: https://wyobiz.wyo.gov/Business/Filin...
 entry-branches:
   - [[IDEA LAW GROUP, LLC BRANCH (IDAHO - 0005337959)]]
   - [[IDEA LAW GROUP LLC BRANCH (MONTANA - E1309174)]]
-  - [[IDEA Law Group, LLC (Nevada - E13687982021-0) (Nevada)]]
+  - [[IDEA Law Group, LLC BRANCH (Nevada - E13687982021-0)]]
   - [[IDEA LAW GROUP, LLC BRANCH (OREGON - 189080899)]]
-  - [[IDEA Law Group, LLC (New Mexico - 6460305) (New Mexico)]]
-  - [[Idea Law Group, LLC (Colorado - 20211025392) (Colorado)]]
+  - [[IDEA Law Group, LLC BRANCH (New Mexico - 6460305)]]
+  - [[Idea Law Group, LLC BRANCH (Colorado - 20211025392)]]
   - [[IDEA LAW GROUP LLC BRANCH (SOUTH DAKOTA - FL234331)]]
   - [[IDEA LAW GROUP, LLC BRANCH (WASHINGTON - 604733362)]]
-  - [[IDEA Law Group, LLC (Idaho - 0004246771) (Idaho)]]
+  - [[IDEA Law Group, LLC BRANCH (Idaho - 0004246771)]]
   - [[IDEA LAW GROUP LLC BRANCH (ARIZONA - 23423468)]]
 entry-collaborators:
   - [[Cloud Peak Law, LLC]]
@@ -79,16 +79,16 @@ entry-collaborators:
 ## Branch Relationships
 | Company                       | Company ID            | Jurisdiction         | Status   | Type       | Link                                | Start Date   | End Date     | Statement Link                      |
 |--------------------------------|----------------------|----------------------|----------|------------|-------------------------------------|--------------|--------------|-------------------------------------|
-| [[IDEA Law Group, LLC (Idaho - 0005337959)]] | 0005337959           | Idaho                | Active   | Branch     | [Link](https://opencorporates.com/companies/us_id/0005337959) | 2 Aug 2023   | N/A          | [Statement](https://opencorporates.com/statements/1590808041) |
-| [[IDEA Law Group LLC (South Dakota - FL234331)]] | FL234331             | South Dakota         | Active   | Branch     | [Link](https://opencorporates.com/companies/us_sd/FL234331) | 9 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1320772092) |
-| [[IDEA Law Group LLC (Montana - E1309174)]] | E1309174             | Montana              | Active   | Branch     | [Link](https://opencorporates.com/companies/us_mt/E1309174) | 8 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1312689018) |
-| [[IDEA Law Group LLC (Arizona - 23423468)]] | 23423468             | Arizona              | Active   | Branch     | [Link](https://opencorporates.com/companies/us_az/23423468) | 7 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1770525695) |
-| [[IDEA LAW GROUP, LLC (Oregon - 189080899)]] | 189080899            | Oregon               | Active   | Branch     | [Link](https://opencorporates.com/companies/us_or/189080899) | 9 Nov 2021   | N/A          | [Statement](https://opencorporates.com/statements/1172882013) |
-| [[IDEA Law Group, LLC (New Mexico - 6460305)]] | 6460305              | New Mexico           | Active   | Branch     | [Link](https://opencorporates.com/companies/us_nm/6460305) | 4 May 2021   | N/A          | [Statement](https://opencorporates.com/statements/1068468074) |
-| [[IDEA Law Group, LLC (Idaho - 0004246771)]] | 0004246771           | Idaho                | Inactive | Branch     | [Link](https://opencorporates.com/companies/us_id/0004246771) | 15 Apr 2021  | 13 Jul 2023  | [Statement](https://opencorporates.com/statements/1671905920) |
-| [[IDEA LAW GROUP, LLC (Washington - 604733362)]] | 604733362            | Washington           | Active   | Branch     | [Link](https://opencorporates.com/companies/us_wa/604733362) | 12 Apr 2021  | N/A          | [Statement](https://opencorporates.com/statements/1033776716) |
-| [[IDEA Law Group, LLC (Nevada - E13687982021-0)]] | E13687982021-0       | Nevada               | Active   | Branch     | [Link](https://opencorporates.com/companies/us_nv/E13687982021-0) | 7 Apr 2021   | N/A          | [Statement](https://opencorporates.com/statements/1033736381) |
-| [[Idea Law Group, LLC (Colorado - 20211025392)]] | 20211025392          | Colorado             | Active   | Branch     | [Link](https://opencorporates.com/companies/us_co/20211025392) | 8 Jan 2021   | N/A          | [Statement](https://opencorporates.com/statements/984853541) |
+| [[IDEA Law Group, LLC BRANCH (Idaho - 0005337959)]] | 0005337959           | Idaho                | Active   | Branch     | [Link](https://opencorporates.com/companies/us_id/0005337959) | 2 Aug 2023   | N/A          | [Statement](https://opencorporates.com/statements/1590808041) |
+| [[IDEA Law Group, LLC BRANCH (South Dakota - FL234331)]] | FL234331             | South Dakota         | Active   | Branch     | [Link](https://opencorporates.com/companies/us_sd/FL234331) | 9 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1320772092) |
+| [[IDEA Law Group LLC BRANCH (Montana - E1309174)]] | E1309174             | Montana              | Active   | Branch     | [Link](https://opencorporates.com/companies/us_mt/E1309174) | 8 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1312689018) |
+| [[IDEA Law Group LLC BRANCH (Arizona - 23423468)]] | 23423468             | Arizona              | Active   | Branch     | [Link](https://opencorporates.com/companies/us_az/23423468) | 7 Sep 2022   | N/A          | [Statement](https://opencorporates.com/statements/1770525695) |
+| [[IDEA LAW GROUP, LLC BRANCH (Oregon - 189080899)]] | 189080899            | Oregon               | Active   | Branch     | [Link](https://opencorporates.com/companies/us_or/189080899) | 9 Nov 2021   | N/A          | [Statement](https://opencorporates.com/statements/1172882013) |
+| [[IDEA Law Group, LLC BRANCH (New Mexico - 6460305)]] | 6460305              | New Mexico           | Active   | Branch     | [Link](https://opencorporates.com/companies/us_nm/6460305) | 4 May 2021   | N/A          | [Statement](https://opencorporates.com/statements/1068468074) |
+| [[IDEA Law Group, LLC BRANCH (Idaho - 0004246771)]] | 0004246771           | Idaho                | Inactive | Branch     | [Link](https://opencorporates.com/companies/us_id/0004246771) | 15 Apr 2021  | 13 Jul 2023  | [Statement](https://opencorporates.com/statements/1671905920) |
+| [[IDEA LAW GROUP, LLC BRANCH (Washington - 604733362)]] | 604733362            | Washington           | Active   | Branch     | [Link](https://opencorporates.com/companies/us_wa/604733362) | 12 Apr 2021  | N/A          | [Statement](https://opencorporates.com/statements/1033776716) |
+| [[IDEA Law Group, LLC BRANCH (Nevada - E13687982021-0)]] | E13687982021-0       | Nevada               | Active   | Branch     | [Link](https://opencorporates.com/companies/us_nv/E13687982021-0) | 7 Apr 2021   | N/A          | [Statement](https://opencorporates.com/statements/1033736381) |
+| [[Idea Law Group, LLC BRANCH (Colorado - 20211025392)]] | 20211025392          | Colorado             | Active   | Branch     | [Link](https://opencorporates.com/companies/us_co/20211025392) | 8 Jan 2021   | N/A          | [Statement](https://opencorporates.com/statements/984853541) |
 
 ## Links
 | Link   | url                            
