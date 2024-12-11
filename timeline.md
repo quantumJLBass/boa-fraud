@@ -105,7 +105,7 @@
 | **2012-09-28** | **2012-09-14** | **2014-06-09** |                   | LOAN MODIFICATION AGREEMENT prodived by CMS - unrecorded -- $142709.46 @4.375%         |
 |                | **2012-09-14** | **2012-09-28** |                   | A subordinate Note prodived by CMS - unrecorded                                        |
 |                | **2012-09-14** | **2012-09-28** |                   | A subordinate Note prodived by CMS - unrecorded                                        |
-nts after transfer of servicing to CMS
+
 | Recording Date | Event Date     | OTHER Date     | Instrument Number | Event Description                                                                      |
 | -------------- | -------------- | -------------- | ----------------- | -------------------------------------------------------------------------------------- |
 |                | **2017-20-07** | **2017-10-07** |                   | Transfer of servicing of loan from Bank of America N.A. to Carrington                  |
@@ -135,7 +135,7 @@ nts after transfer of servicing to CMS
 |                | **2023-03-09** |                | **CV35-22-1875**  | Court denies Reconsideration                                                           |
 | **2024-01-29** |                |                | **912340**        | Affidavit of Mailing confirming postponed Trustee's Sale                               |
 |                |                | **2023-02-28** |                   | DP AND JLB entered into a 2 year lease for renting a room in his basement              |
-nts from the the point the sale was ATTEMPTED
+
 | Recording Date | Event Date     | OTHER Date     | Instrument Number | Event Description                                                                      |
 | -------------- | -------------- | -------------- | ----------------- | -------------------------------------------------------------------------------------- |
 | **2024-02-29** |                |                |                   | Trustee sale conducted; DPW,MP "purchases" property                                    |

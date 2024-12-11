@@ -372,10 +372,34 @@ subsidiary, BAC Home Loans."
         2. DEFENDANT - IDEA Law Group LLC
         3. ACTION - Denies Jeremy L. Bass's motion for reconsideration
 
+1. September 12ᵗʰ, 2023:
+    1. Insurance call with Al Rygan
+        1. FILE - EX-XX-2023-09-12-0343--INSURENCE-CALL-AL-RYGAN
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 3:43 AM PSD
+        5. ACTION - Insurance-related call involving Al Rygan
+
+2. December 1ᵗʰ, 2023:
+    1. Updated payoff information
+        1. FILE - EX-XX-2023-12-01-0368--UPDATED-PAYOFF-ON-2023-12-01
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 3:68 AM PSD (Invalid time format, possibly a file naming error)
+        5. ACTION - Updated payoff details recorded on December 1, 2023
+
 49. January 29ᵗʰ, 2024:
     1. (912340) - AFFIDAVIT OF MAILING
         1. RELATED EVENT - Postponed Trustee's Sale
         2. ACTION - Confirms required mailing for postponed sale completed
+
+3. February 14ᵗʰ, 2024:
+    1. Interaction with CMS (Carrington Mortgage Services)
+        1. FILE - EX-XX-2024-02-14-0404-JLB-CMS
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 4:04 AM PSD
+        5. ACTION - JLB & CMS related call/interaction
 
 50. February 28ᵗʰ, 2024:
     1. (No ID) - LEASE
@@ -404,6 +428,38 @@ subsidiary, BAC Home Loans."
         1. RECORDED IN - Nez Perce County
         2. ACTION - Officially records the Trustee's Deed, confirming title transfer
 
+1. March 8ᵗʰ, 2024:
+    1. Jeremy L. Bass Called the Prosecutor's Office of Nez Perce Idaho
+        1. FILE - 240308_1245-jlb-calling-the -pa-office.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 12:45 PM PSD
+        5. ACTION - JLB calling the Prosecutor's Office (PA office)
+
+
+2. March 12ᵗʰ, 2024:
+    1. Jeremy L. Bass calls back Governor Little's Office of Idaho
+        1. FILE - 240312_0853--jlb-calls-back-gov-litl-of-id.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 8:53 AM PSD
+        5. ACTION - JLB returning call to Governor Little's Office of Idaho
+    2. Jeremy L. Bass takes a call from Ryan at Governor Little's Office of Idaho
+        1. FILE - 240312_1035--jlb-take-call-from-ryan-gov-litl-office-of-idaho.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 10:35 AM PSD
+        5. ACTION - JLB takes call from Ryan of Governor Little's Office of Idaho
+
+3. March 19ᵗʰ, 2024:
+    1. Jeremy L. Bass receives a call from FHFA OIG
+        1. FILE - 240319_1003--fhfa-oig-call-from.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 10:03 AM PSD
+        5. ACTION - Call from Federal Housing Finance Agency Office of Inspector General
+
+
 54. March 21ˢᵗ, 2024:
     1. (No ID) - NOTICE TO VACATE
         1. SENDER - Attorney Lewis N. Stoddard on behalf of DPW Enterprises LLC & Mountain Prime 2018 LLC
@@ -415,6 +471,18 @@ subsidiary, BAC Home Loans."
     1. (No ID) - RECEIPT OF NOTICE TO VACATE
         1. RECEIVED BY - Jeremy L. Bass & Dwayne Pike
         2. ACTION - Confirms they received the notice to vacate
+    2. Idaho Legal Aid conflict of interest recording
+        1. FILE - EX-XX-2024-03-25-0411--IDAHO-LEGAL-AID-CONFLICT-OF-INTEREST.WMA
+        2. MODE - AUDIO
+        3. FORMAT - WMA
+        4. TIME - 4:11 PM PSD
+        5. ACTION - Discussion/Recording about Idaho Legal Aid conflict of interest
+    3. Jeremy L. Bass calls ISLA for help getting a lawyer
+        1. FILE - 240325_0906--call-to-isla-for-help-getting-lawyer.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 9:06 AM PSD
+        5. ACTION - JLB calling ISLA seeking legal assistance
 
 56. March 26ᵗʰ, 2024:
     1. (No ID) - REQUEST FOR PTFA EXTENSION
@@ -428,20 +496,62 @@ subsidiary, BAC Home Loans."
         2. RECIPIENT - Attorney Lewis N. Stoddard
         3. ACTION - Asserts 90-day PTFA requirement before eviction
 
-58. May 2ⁿᵈ, 2024:
+58. March 29ᵗʰ, 2024:
+    1. Contacting or receiving information from Prosecutor's Office again
+        1. FILE - EX-XX-2024-03-29-0413-PROSECUTOR'S-OFFICE.WMA
+        2. MODE - AUDIO
+        3. FORMAT - WMA
+        4. TIME - 4:13 PM PSD
+        5. ACTION - JLB related interaction with the Prosecutor's Office
+
+59. April 3ʳᵈ, 2024:
+    1. In-person meeting with Idaho Housing & Dwyan
+        1. FILE - EX-XX-2024-04-03-1222--IN-PERSON-MEET-IDAHO-HOUSING-W-DWYAN.mp3
+        2. MODE - AUDIO
+        3. FORMAT - MP3
+        4. TIME - 12:22 PM PSD
+        5. ACTION - JLB meets Idaho Housing representatives with Dwyan
+
+60. April 18ᵗʰ, 2024:
+    1. Cops visit property event
+        1. FILE - EX-XX-2024-04-18-0415--COPS-VISIT.WMA
+        2. MODE - AUDIO
+        3. FORMAT - WMA
+        4. TIME - 4:15 PM PSD
+        5. ACTION - Recording of police officers visiting JLB's property
+
+61. April 24ᵗʰ, 2024:
+    1. (No ID) - LPD OFFICERS VISIT TO PROPERTY
+        1. CIVILIAN - Jeremy L. Bass
+        2. LOCATION - 1515 21st Street, Lewiston, Idaho 83501-3926
+        3. OFFICER1 - Woman - blonde
+        4. OFFICER2 - Man
+        5. OFFICER3 - younger smaller Man
+        6. RECORDING - Audio Recording from moment of arrival to departure starting just after being asked to come off the property
+        7. FILE - 240418_0415--cops-visit.WMA
+
+62. May 2ⁿᵈ, 2024:
     1. (No ID) - FOLLOW-UP EMAIL
         1. SENDER - Jeremy L. Bass
         2. RECIPIENTS - Authorities (unspecified)
         3. SUBJECT - Potential legal violations related to foreclosure and eviction
         4. ACTION - Requests official review or intervention
 
-59. July 8ᵗʰ, 2024:
+11. May 9ᵗʰ, 2024:
+    1. Paying property tax event
+        1. FILE - EX-XX-2024-05-09-1340-PAYING-PROP-TAX
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 1:40 PM PSD
+        5. ACTION - Recording related to paying property tax
+
+63. July 8ᵗʰ, 2024:
     1. (No ID) - DRAFT COMPLAINT
         1. PREPARED BY - Attorney Lewis N. Stoddard (for future plaintiffs)
         2. SUBJECT - Ejectment & Restitution of Property
         3. ACTION - Preparing a new lawsuit, not yet filed
 
-60. July 9ᵗʰ, 2024:
+64. July 9ᵗʰ, 2024:
     1. (CV35-24-1063) - COMPLAINT FOR EJECTMENT & RESTITUTION
         1. FILED BY - DPW Enterprises LLC & Mountain Prime 2018 LLC (Plaintiffs)
         2. DEFENDANT - Jeremy L. Bass (and any occupants)
@@ -449,7 +559,7 @@ subsidiary, BAC Home Loans."
         4. COURT - Nez Perce County Court
         5. ACTION - Seeks to remove Jeremy L. Bass and occupants and regain property
 
-61. August 13ᵗʰ, 2024:
+65. August 13ᵗʰ, 2024:
     1. (CV35-24-1063) - MOTION FOR APPOINTMENT OF CO-COUNSEL
         1. FILED BY - Jeremy L. Bass (Defendant)
         2. PLAINTIFFS - DPW Enterprises LLC & Mountain Prime 2018 LLC
@@ -457,37 +567,70 @@ subsidiary, BAC Home Loans."
         4. COURT - Nez Perce County Court
         5. ACTION - Defendant requests co-counsel assistance
 
-62. September 16ᵗʰ, 2024:
-    1. (CV35-24-1063) - MOTION FOR SUMMARY JUDGMENT
+66. September 16ᵗʰ, 2024:
+    1. (CV35-24-1063) - MOTION FOR SUMMARY JUDGMENT - FILED
         1. FILED BY - DPW Enterprises LLC & Mountain Prime 2018 LLC (Plaintiffs)
         2. PLAINTIFFS' ATTORNEY - Lewis N. Stoddard
         3. DEFENDANT - Jeremy L. Bass (and occupants)
         4. COURT - Nez Perce County Court
         5. ACTION - Plaintiffs seek judgment without trial
 
-63. October 22ⁿᵈ, 2024:
+12. September 17ᵗʰ, 2024:
+    1. (CV35-24-1063) - Status conference in court - HELD
+        1. FILE - EX-XX-2024-09-17-0847--STATUS-CONFRENCE-IN-COURT
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 8:47 AM PSD
+        5. ACTION - Status conference held in court
+
+13. October 8ᵗʰ, 2024:
+    1. Hearing status conference
+        1. FILE - EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 7:53 AM PSD
+        5. ACTION - Hearing related to status conference on this date
+
+14. October 16ᵗʰ, 2024:
+    1. Call Lewiston On/Off Water service
+        1. FILE - EX-XX-2024-10-16-1351--CALL-LEWISTON-ON-OFF-WATER
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 1:51 PM PSD
+        5. ACTION - JLB calling Lewiston water services to turn on/off water
+
+67. October 22ⁿᵈ, 2024:
     1. (CV35-24-1063) - HEARING ON PLAINTIFFS' MOTION FOR SUMMARY JUDGMENT
         1. CASE - CV35-24-1063
         2. PLAINTIFFS - DPW Enterprises LLC & Mountain Prime 2018 LLC
         3. DEFENDANT - Jeremy L. Bass (and any occupants)
         4. JUDGE - Judge Michelle M. Evans
         5. ACTION - Court hears arguments on summary judgment request
+        6. MODE - ZOOM
+        7. FILE - EX-XX-2024-10-22-0853-HEARING-IN-COURT
+        8. TIME - 8:53 AM PSD
+    2. Discussion with Mr. Naggy on why no lawyer
+        1. FILE - EX-XX-2024-10-22-1245-TALKED-WITH-MR-NAGGY-ON-WHY-NO-LAWYER
+        2. MODE - AUDIO
+        3. FORMAT - (Unknown)
+        4. TIME - 12:45 PM PSD
+        5. ACTION - JLB talking with Mr. Naggy regarding absence of legal counsel later after the hearing
 
-64. November 5ᵗʰ, 2024:
+68. November 5ᵗʰ, 2024:
     1. (CV35-24-1063) - ORDER
         1. ISSUED BY - Judge Michelle M. Evans
         2. PLAINTIFFS - DPW Enterprises LLC & Mountain Prime 2018 LLC
         3. DEFENDANT - Jeremy L. Bass (and any occupants)
         4. ACTION - Grants Plaintiffs' Motion for Summary Judgment in their favor
 
-65. November 6ᵗʰ, 2024:
+69. November 6ᵗʰ, 2024:
     1. (CV35-24-1063) - MOTION FOR RECONSIDERATION & STAY
         1. FILED BY - Jeremy L. Bass (Defendant)
         2. PLAINTIFFS - DPW Enterprises LLC & Mountain Prime 2018 LLC
         3. DEFENDANT - Jeremy L. Bass
         4. ACTION - Requests reconsideration of summary judgment and a stay
 
-66. December 6ᵗʰ, 2024:
+70. December 6ᵗʰ, 2024:
     1. (CV35-24-1063) - HEARING SCHEDULED ON MOTION FOR RECONSIDERATION
         1. PLAINTIFFS - DPW Enterprises LLC & Mountain Prime 2018 LLC
         2. DEFENDANT - Jeremy L. Bass

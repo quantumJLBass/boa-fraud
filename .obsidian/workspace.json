@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d092ba29d2ca44ae",
+        "id": "b084219eaeb78835",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b3f0d9e7ae01f3",
+            "id": "915aa630b1516358",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "proceedings/to-process/timelines/chronos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "chronos"
             }
           }
         ]
@@ -393,12 +400,78 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "e1b3f0d9e7ae01f3",
+  "floating": {
+    "id": "8866ffdbb29e075d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dcba4eb52ca94363",
+        "type": "window",
+        "children": [
+          {
+            "id": "f7173d05d696fc75",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb7fdeec1c8a04f4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "proceedings/to-process/timelines/chronos.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "chronos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -734,
+        "y": -1221,
+        "width": 4471,
+        "height": 1133,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "fb7fdeec1c8a04f4",
   "lastOpenFiles": [
-    "timeline.md",
-    "proceedings/before sale/plaintiff/evidence/exhibits/_BIN/_BIN.md",
-    "profiles/corporations/MOUNTAIN PRIME/MOUNTAIN PRIME LLC/MOUNTAIN PRIME LLC.md",
-    "profiles/people/MUELLER, NATHAN W/MUELLER, NATHAN W.md",
+    "proceedings/to-process/timelines/chronos.md.edtz",
+    "proceedings/to-process/timelines/version two.md",
+    "proceedings/to-process/timelines/chronos.md",
+    "proceedings/to-process/timelines/version one.md",
+    "proceedings/to-process/timelines/note on cells... cells.md",
+    "proceedings/to-process/timelines/flow.md",
+    "proceedings/to-process/timelines/timelines.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE.mp3",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-22-1245-TALKED-WITH-MR-NAGGY-ON-WHY-NO-LAWYER/EX-XX-2024-10-22-1245-TALKED-WITH-MR-NAGGY-ON-WHY-NO-LAWYER.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-12-0853--JLB-CALLS-BACK-GOV-LITL-OF-ID/EX-XX-2024-03-12-0853--JLB-CALLS-BACK-GOV-LITL-OF-ID.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-29-0413-PROSECUTOR'S-OFFICE/EX-XX-2024-03-29-0413-PROSECUTOR'S-OFFICE.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-04-18-0415--COPS-VISIT/EX-XX-2024-04-18-0415--COPS-VISIT.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-05-09-1340-PAYING-PROP-TAX/EX-XX-2024-05-09-1340-PAYING-PROP-TAX.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-09-17-0847--STATUS-CONFRENCE-IN-COURT/EX-XX-2024-09-17-0847--STATUS-CONFRENCE-IN-COURT.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-16-1351--CALL-LEWISTON-ON-OFF-WATER/EX-XX-2024-10-16-1351--CALL-LEWISTON-ON-OFF-WATER.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-22-0853-HEARING-IN-COURT/EX-XX-2024-10-22-0853-HEARING-IN-COURT.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-08-1245-JLB-CALLING-THE -PA-OFFICE/EX-XX-2024-03-08-1245-JLB-CALLING-THE -PA-OFFICE.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-04-03-1222--IN-PERSON-MEET-IDAHO-HOUSING-W-DWYAN/EX-XX-2024-04-03-1222--IN-PERSON-MEET-IDAHO-HOUSING-W-DWYAN.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-19-1003--FHFA-OIG-CALL-FROM/EX-XX-2024-03-19-1003--FHFA-OIG-CALL-FROM.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-25-0411--IDAHO-LEGAL-AID-CONFLICT-OF-INTEREST/EX-XX-2024-03-25-0411--IDAHO-LEGAL-AID-CONFLICT-OF-INTEREST.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-12-1035--JLB-TAKE-CALL-FROM-RYAN-GOV-LITL-OFFICE-OF-IDAHO/EX-XX-2024-03-12-1035--JLB-TAKE-CALL-FROM-RYAN-GOV-LITL-OFFICE-OF-IDAHO.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2023-09-12-0343--INSURENCE-CALL-AL-RYGAN/EX-XX-2023-09-12-0343--INSURENCE-CALL-AL-RYGAN.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-02-14-0404-JLB-CMS/EX-XX-2024-02-14-0404-JLB-CMS.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2023-12-01-0368--UPDATED-PAYOFF-ON-2023-12-01/EX-XX-2023-12-01-0368--UPDATED-PAYOFF-ON-2023-12-01.md",
+    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-EVENTS-AUDIO.md",
+    "proceedings/case-evidence - Copy/case-evidence - Copy.md",
+    "proceedings/case-evidence - Copy/EX-XX-2023-05-19-GM-JLB-FB-CHAT-LOG-SCRNSHT/timeline-chrono.md.edtz",
     "proceedings/laws-statutes/usc/usc-1-27-2024-11-23-p1.pdf",
     "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p2.pdf",
     "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p1.pdf",
@@ -406,31 +479,7 @@
     "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p3.pdf",
     "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2.pdf",
     "proceedings/laws-statutes/cfr/AD$DFE0.tmp",
-    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-REC-INST-760924-WD/EX-XX-2008-09-05-REC-INST-760924-WD.md",
     "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p1.pdf",
-    "proceedings/laws-statutes/cfr/AD$34F3.tmp",
-    "profiles/corporations/SOUTHWEST PARTNERS/SOUTHWEST PARTNERS.md",
-    "profiles/corporations/PMI/PMI.md",
-    "profiles/corporations/AMERICAN LAND TITLE CO/AMERICAN LAND TITLE CO.md",
-    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-REC-INST-760924-WD/EX-XX-2008-09-05-REC-INST-760924-WD.md.edtz",
-    "profiles/people/TUTTY, PATRICIA A/TUTTY, PATRICIA A.md",
-    "profiles/people/TUTTY, ROGER H/TUTTY, ROGER H.md",
-    "profiles/people/STENE, CARL/STENE, CARL.md",
-    "profiles/people/BASS, JEREMY L/BASS, JEREMY L.md",
-    "proceedings/case-evidence - Copy/EX-XX-2008-09-05-DOC-ORGINIAL-PW-FROM-ZIONS/EX-XX-2008-09-05-DOC-ORGINIAL-PW-FROM-ZIONS.md",
-    "proceedings/case-evidence - Copy/EX-XX-2008-08-11-NTC-HUD-DON'T-COMMIT-LOAN-FRAUD/EX-XX-2008-08-11-NTC-HUD-DON'T-COMMIT-LOAN-FRAUD.md",
-    "proceedings/case-evidence - Copy/EX-XX-2008-08-05-ZFNB-SERVICING-DISCLOSURE-STATEMENT/EX-XX-2008-08-05-ZFNB-SERVICING-DISCLOSURE-STATEMENT.md",
-    "proceedings/after sale/after sale.md",
-    "proceedings/case overview/Comprehensive Summary of Material Facts.md",
-    "proceedings/case-evidence/EX-XX-NTC-SIGNATURE-REVIEW/EX-XX-NTC-SIGNATURE-REVIEW.md",
-    "proceedings/case-evidence/EX-XX-NTC-SHOWING PATTERN/EX-XX-NTC-SHOWING PATTERN.md",
-    "proceedings/case-evidence/EX-XX-NTC-CONSUMERFINANCE.GOV-EXTEND YOUR FRBC/EX-XX-NTC-CONSUMERFINANCE.GOV-EXTEND YOUR FRBC.md",
-    "proceedings/case-evidence/EX-XX-NTC-CMS-STILL-BILLING/EX-XX-NTC-CMS-STILL-BILLING.md",
-    "proceedings/case-evidence/EX-XX-NTC-BOA-PROVIDED-PROOF/EX-XX-NTC-BOA-PROVIDED-PROOF.md",
-    "proceedings/case-evidence/EX-XX-NTC-AMORTIZATION-SCHEDULE/EX-XX-NTC-AMORTIZATION-SCHEDULE.md",
-    "proceedings/case-evidence/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB/EXHIBIT-AF-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB.md",
-    "proceedings/case-evidence/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB/EX-XX-NTC-ACCOUNT-HISTORY-REPORTED-ON-JLB.md",
-    "proceedings/case-evidence/EX-XX-NAMES-TO-BE-SEEN/EX-XX-NAMES-TO-BE-SEEN.md",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015115.png",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015126.png",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015104.png",
