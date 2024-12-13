@@ -88,52 +88,47 @@
 # - Carrington Mortgage Services (CMS) from July 11, 2017 until February 29, 2024
 # - Post-Foreclosure Owners (DPW & MP) from February 29, 2024 onward
 
-@ [2017-07-11~2024-02-29] #cyan {Carrington Mortgage Services (CMS)} CMS Control
-@ [2024-02-29~2025-01-01] #yellow {Post-Foreclosure Owners (DPW & MP)} Post-Foreclosure Control
-@ [2008-09-04~2009-10-16] #yellow {760926} original 760926 FOR $146,418.00
-@ [2009-10-16~2009-11-10] #yellow {760926} active loan 1
-@ [2009-10-16~2009-11-10] #yellow {760926} 
-@ [2009-10-16~2009-11-10] #blue {badloan} active loan 2 FOR A VALUE OF $293,213.45
-@ [2009-11-10~2025-01-01] #orange {badloan} Adjuct NOTE forgeting 760926 FOR $148,614.00
-@ [2009-10-16~2009-11-10] #yellow {badloan} 
+@ [2022-12-12~2023-03-09] #cyan {CV35-22-1875} case CV35-22-1875
+@ [2024-02-29~2025-01-01] #yellow {CV35-24-1063} case CV35-24-1063
 
 
-- [2022-12-12] #red {Carrington Mortgage Services (CMS)} ✋ Cease & Desist | (JLB->IDEA,MJN) Legal cease-and-desist letter sent.
-- [2022-12-27] {Carrington Mortgage Services (CMS)} ⚖️ Complaint | (CV35-22-1875) JLB v IDEA Legal action initiated by JLB.
-- [2023-01-17] {Carrington Mortgage Services (CMS)} ⚖️ Motion to Dismiss & Strike | (CV35-22-1875) (IDEA) Motion filed to challenge proceedings.
-- [2023-01-26] {Carrington Mortgage Services (CMS)} ⚖️ Hearing | (CV35-22-1875) on Dismiss & Strike Court hearing scheduled.
-- [2023-02-17] #red {Carrington Mortgage Services (CMS)} ⚖️ Order: Granted | (CV35-22-1875)  Dismiss Denied, Strike Granted | Court decision on motion issued.
-- [2023-03-09] #red {Carrington Mortgage Services (CMS)} ⚖️ Order: Denied Reconsideration | (CV35-22-1875) For inactivity the reconsideration request denied and case closed
 
-- [2024-02-29] #red {Carrington Mortgage Services (CMS)} 🪙 Auction Held | Trustee’s Sale Conducted (IDEA->DPW&MP) Property sold at trustee sale.
+- [2022-12-12] #red {CV35-22-1875} ✋ Cease & Desist | (JLB->IDEA,MJN) Legal cease-and-desist letter sent.
+- [2022-12-27] {CV35-22-1875} ⚖️ Complaint | (CV35-22-1875) JLB v IDEA Legal action initiated by JLB.
+- [2023-01-17] {CV35-22-1875} ⚖️ Motion to Dismiss & Strike | (CV35-22-1875) (IDEA) Motion filed to challenge proceedings.
+- [2023-01-26] {CV35-22-1875} ⚖️ Hearing | (CV35-22-1875) on Dismiss & Strike Court hearing scheduled.
+- [2023-02-17] #red {CV35-22-1875} ⚖️ Order: Granted | (CV35-22-1875)  Dismiss Denied, Strike Granted | Court decision on motion issued.
+- [2023-03-09] #red {CV35-22-1875} ⚖️ Order: Denied Reconsideration | (CV35-22-1875) For inactivity the reconsideration request denied and case closed
+
+- [2024-02-29] #red {CV35-22-1875} 🪙 Auction Held | Trustee’s Sale Conducted (IDEA->DPW&MP) Property sold at trustee sale.
 
 = [2024-02-29] Trustee Sale: DPW & MP Control Begins | New ownership created.
 
 # EVENTS UNDER POST-FORECLOSURE OWNERS (After Feb 29, 2024)
-- [2024-03-08] #orange {Post-Foreclosure Owners (DPW & MP)} ☎️ JLB calls Prosecutor’s Office | Communication with legal authorities initiated.
-- [2024-03-12] #orange {Post-Foreclosure Owners (DPW & MP)} ☎️ Gov Little’s Office calls | (8:53 & 10:35 AM) Inquiry with government office.
-- [2024-03-19] #orange {Post-Foreclosure Owners (DPW & MP)} ☎️ FHFA OIG Call | Discussion with FHFA Office of Inspector General.
-- [2024-03-21] {Post-Foreclosure Owners (DPW & MP)} 📋 NB to Vacate | Tenant notified to vacate premises.
-- [2024-03-25] {Post-Foreclosure Owners (DPW & MP)} 📋 NB Vacate Received, Idaho Legal Aid Conflict, ISLA Call | Legal support sought for tenant rights.
-- [2024-03-26] {Post-Foreclosure Owners (DPW & MP)} 📋 Req PTFA Ext | Request to extend tenant protection period.
-- [2024-03-28] {Post-Foreclosure Owners (DPW & MP)} 📋 Assert PTFA Rights | Legal rights under PTFA asserted.
-- [2024-03-29] #orange {Post-Foreclosure Owners (DPW & MP)} ☎️ Cont PA’s Off Again | Contact Prosecutor’s Office Again Follow-up communication with legal authorities.
-- [2024-04-03] #orange {Post-Foreclosure Owners (DPW & MP)} ID Housing In-Person Mtin | In-Person Meeting w/ Idaho Housing & Dwyan Discussion of housing situation and options.
-- [2024-04-18] #orange {Post-Foreclosure Owners (DPW & MP)} 👮‍♂️ Cops Visit | Law enforcement visit recorded.
-- [2024-04-24] #orange {Post-Foreclosure Owners (DPW & MP)} 👮‍♂️ LPD Officers Visit | Follow-up by local law enforcement.
-- [2024-05-02] #orange {Post-Foreclosure Owners (DPW & MP)} 📨 Follow-Up Email (JLB->Authorities) | Communication update sent to authorities.
-- [2024-05-09] {Post-Foreclosure Owners (DPW & MP)} 💸💰Paying Property Tax | Payment of taxes by new owners recorded.
-- [2024-07-08] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Complaint | (CV35-24-1063) Draft Complaint (Ejectment) | Draft prepared for ejectment case.
-- [2024-07-09] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Complaint | (CV35-24-1063) Ejectment & Restitution DPW&MP v JLB Legal case filed against JLB.
-- [2024-08-13] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Motion Appointment Co-Counsel | (CV35-24-1063) (JLB) Motion for additional legal representation.
-- [2024-09-16] {Post-Foreclosure Owners (DPW & MP)} ⚖️ MSJ Filed | (CV35-24-1063) (DPW&MP) Motion for summary judgment filed.
-- [2024-09-17] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Status Conference | (CV35-24-1063) Case progress discussed.
-- [2024-10-08] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Hearing Status Conference | (CV35-24-1063) Hearing for case updates.
-- [2024-10-16] #orange {Post-Foreclosure Owners (DPW & MP)} 🫗 Call Lewiston On/Off Water | Utility services discussion.
-- [2024-10-22] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Hearing on MSJ, Discussion w/Mr. Naggy | (CV35-24-1063) Summary judgment hearing.
-- [2024-11-05] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Order Granting MSJ to Plaintiffs | (CV35-24-1063) Court ruling on summary judgment.
-- [2024-11-06] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Motion Reconsideration & Stay | (CV35-24-1063) (JLB) Request to reconsider judgment filed.
-- [2024-12-06] {Post-Foreclosure Owners (DPW & MP)} ⚖️ Hearing on Reconsideration | (CV35-24-1063) Court hearing for reconsideration motion.
+- [2024-03-08] #orange {CV35-24-1063} ☎️ JLB calls Prosecutor’s Office | Communication with legal authorities initiated.
+- [2024-03-12] #orange {CV35-24-1063} ☎️ Gov Little’s Office calls | (8:53 & 10:35 AM) Inquiry with government office.
+- [2024-03-19] #orange {CV35-24-1063} ☎️ FHFA OIG Call | Discussion with FHFA Office of Inspector General.
+- [2024-03-21] {CV35-24-1063} 📋 NB to Vacate | Tenant notified to vacate premises.
+- [2024-03-25] {CV35-24-1063} 📋 NB Vacate Received, Idaho Legal Aid Conflict, ISLA Call | Legal support sought for tenant rights.
+- [2024-03-26] {CV35-24-1063} 📋 Req PTFA Ext | Request to extend tenant protection period.
+- [2024-03-28] {CV35-24-1063} 📋 Assert PTFA Rights | Legal rights under PTFA asserted.
+- [2024-03-29] #orange {CV35-24-1063} ☎️ Cont PA’s Off Again | Contact Prosecutor’s Office Again Follow-up communication with legal authorities.
+- [2024-04-03] #orange {CV35-24-1063} ID Housing In-Person Mtin | In-Person Meeting w/ Idaho Housing & Dwyan Discussion of housing situation and options.
+- [2024-04-18] #orange {CV35-24-1063} 👮‍♂️ Cops Visit | Law enforcement visit recorded.
+- [2024-04-24] #orange {CV35-24-1063} 👮‍♂️ LPD Officers Visit | Follow-up by local law enforcement.
+- [2024-05-02] #orange {CV35-24-1063} 📨 Follow-Up Email (JLB->Authorities) | Communication update sent to authorities.
+- [2024-05-09] {CV35-24-1063} 💸💰Paying Property Tax | Payment of taxes by new owners recorded.
+- [2024-07-08] {CV35-24-1063} ⚖️ Complaint | (CV35-24-1063) Draft Complaint (Ejectment) | Draft prepared for ejectment case.
+- [2024-07-09] {CV35-24-1063} ⚖️ Complaint | (CV35-24-1063) Ejectment & Restitution DPW&MP v JLB Legal case filed against JLB.
+- [2024-08-13] {CV35-24-1063} ⚖️ Motion Appointment Co-Counsel | (CV35-24-1063) (JLB) Motion for additional legal representation.
+- [2024-09-16] {CV35-24-1063} ⚖️ MSJ Filed | (CV35-24-1063) (DPW&MP) Motion for summary judgment filed.
+- [2024-09-17] {CV35-24-1063} ⚖️ Status Conference | (CV35-24-1063) Case progress discussed.
+- [2024-10-08] {CV35-24-1063} ⚖️ Hearing Status Conference | (CV35-24-1063) Hearing for case updates.
+- [2024-10-16] #orange {CV35-24-1063} 🫗 Call Lewiston On/Off Water | Utility services discussion.
+- [2024-10-22] {CV35-24-1063} ⚖️ Hearing on MSJ, Discussion w/Mr. Naggy | (CV35-24-1063) Summary judgment hearing.
+- [2024-11-05] {CV35-24-1063} ⚖️ Order Granting MSJ to Plaintiffs | (CV35-24-1063) Court ruling on summary judgment.
+- [2024-11-06] {CV35-24-1063} ⚖️ Motion Reconsideration & Stay | (CV35-24-1063) (JLB) Request to reconsider judgment filed.
+- [2024-12-06] {CV35-24-1063} ⚖️ Hearing on Reconsideration | (CV35-24-1063) Court hearing for reconsideration motion.
 
 
 ```

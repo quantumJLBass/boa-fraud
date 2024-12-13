@@ -8,20 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "915aa630b1516358",
+            "id": "0eba88b0e022d637",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proceedings/to-process/timelines/chronos.md",
+                "file": "proceedings/case-evidence - Copy/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "chronos"
+              "title": "EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE"
             }
           }
         ]
@@ -400,86 +398,44 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "floating": {
-    "id": "8866ffdbb29e075d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dcba4eb52ca94363",
-        "type": "window",
-        "children": [
-          {
-            "id": "f7173d05d696fc75",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fb7fdeec1c8a04f4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "proceedings/to-process/timelines/chronos.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "chronos"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -734,
-        "y": -1221,
-        "width": 4471,
-        "height": 1133,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "fb7fdeec1c8a04f4",
+  "active": "0eba88b0e022d637",
   "lastOpenFiles": [
-    "proceedings/to-process/timelines/chronos.md.edtz",
-    "proceedings/to-process/timelines/version two.md",
-    "proceedings/to-process/timelines/chronos.md",
-    "proceedings/to-process/timelines/version one.md",
-    "proceedings/to-process/timelines/note on cells... cells.md",
-    "proceedings/to-process/timelines/flow.md",
-    "proceedings/to-process/timelines/timelines.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE.mp3",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE/EX-XX-2024-10-08-0753--HEARING-2024-10-08-STATUS-CONFRENCE.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-22-1245-TALKED-WITH-MR-NAGGY-ON-WHY-NO-LAWYER/EX-XX-2024-10-22-1245-TALKED-WITH-MR-NAGGY-ON-WHY-NO-LAWYER.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-12-0853--JLB-CALLS-BACK-GOV-LITL-OF-ID/EX-XX-2024-03-12-0853--JLB-CALLS-BACK-GOV-LITL-OF-ID.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-29-0413-PROSECUTOR'S-OFFICE/EX-XX-2024-03-29-0413-PROSECUTOR'S-OFFICE.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-04-18-0415--COPS-VISIT/EX-XX-2024-04-18-0415--COPS-VISIT.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-05-09-1340-PAYING-PROP-TAX/EX-XX-2024-05-09-1340-PAYING-PROP-TAX.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-09-17-0847--STATUS-CONFRENCE-IN-COURT/EX-XX-2024-09-17-0847--STATUS-CONFRENCE-IN-COURT.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-16-1351--CALL-LEWISTON-ON-OFF-WATER/EX-XX-2024-10-16-1351--CALL-LEWISTON-ON-OFF-WATER.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-10-22-0853-HEARING-IN-COURT/EX-XX-2024-10-22-0853-HEARING-IN-COURT.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-08-1245-JLB-CALLING-THE -PA-OFFICE/EX-XX-2024-03-08-1245-JLB-CALLING-THE -PA-OFFICE.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-04-03-1222--IN-PERSON-MEET-IDAHO-HOUSING-W-DWYAN/EX-XX-2024-04-03-1222--IN-PERSON-MEET-IDAHO-HOUSING-W-DWYAN.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-19-1003--FHFA-OIG-CALL-FROM/EX-XX-2024-03-19-1003--FHFA-OIG-CALL-FROM.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-25-0411--IDAHO-LEGAL-AID-CONFLICT-OF-INTEREST/EX-XX-2024-03-25-0411--IDAHO-LEGAL-AID-CONFLICT-OF-INTEREST.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-03-12-1035--JLB-TAKE-CALL-FROM-RYAN-GOV-LITL-OFFICE-OF-IDAHO/EX-XX-2024-03-12-1035--JLB-TAKE-CALL-FROM-RYAN-GOV-LITL-OFFICE-OF-IDAHO.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2023-09-12-0343--INSURENCE-CALL-AL-RYGAN/EX-XX-2023-09-12-0343--INSURENCE-CALL-AL-RYGAN.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2024-02-14-0404-JLB-CMS/EX-XX-2024-02-14-0404-JLB-CMS.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-2023-12-01-0368--UPDATED-PAYOFF-ON-2023-12-01/EX-XX-2023-12-01-0368--UPDATED-PAYOFF-ON-2023-12-01.md",
-    "proceedings/case-evidence - Copy/EX-XX-EVENTS-AUDIO/EX-XX-EVENTS-AUDIO.md",
-    "proceedings/case-evidence - Copy/case-evidence - Copy.md",
-    "proceedings/case-evidence - Copy/EX-XX-2023-05-19-GM-JLB-FB-CHAT-LOG-SCRNSHT/timeline-chrono.md.edtz",
-    "proceedings/laws-statutes/usc/usc-1-27-2024-11-23-p1.pdf",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p2.pdf",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2-p1.pdf",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p4.pdf",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p3.pdf",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p2.pdf",
-    "proceedings/laws-statutes/cfr/AD$DFE0.tmp",
-    "proceedings/laws-statutes/cfr/CFR-2024-title12-vol9-p1.pdf",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-902262-NOD/EX-XX-2022-08-17-REC-INST-902262-NOD.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-902262-NOD/EX-XX-2022-08-17-REC-INST-902262-NOD.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-08-02-REC-INST-902078-APPT-SUC-TRST/EX-XX-2022-08-02-REC-INST-902078-APPT-SUC-TRST.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-06-18-CMS-PROVIDED-NOI-TO-FCL/EX-XX-2022-06-18-CMS-PROVIDED-NOI-TO-FCL.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-06-18-CMS-COVID-19-FRBC-LET-CONCLUSION-NB/EX-XX-2022-06-18-CMS-COVID-19-FRBC-LET-CONCLUSION-NB.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS.md",
+    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-CMS-COVID-19-FRBC-FORCED-LOAN-MOD/EX-XX-2022-03-16-CMS-COVID-19-FRBC-FORCED-LOAN-MOD.md",
+    "proceedings/case-evidence - Copy/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE.md",
+    "proceedings/case-evidence - Copy/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2020-07-01-CMS-COVID-19-FRBC-LET/EX-XX-2020-07-01-CMS-COVID-19-FRBC-LET.md",
+    "proceedings/case-evidence - Copy/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR.md",
+    "proceedings/case-evidence - Copy/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-SUBOR-NT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-SUBOR-NT-UNREC.md",
+    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-LOAN-MOD-AGREEMENT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-LOAN-MOD-AGREEMENT-UNREC.md",
+    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC.md",
+    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC.md.edtz",
+    "proceedings/case-evidence - Copy/EX-XX-2012-03-20-REC-INST-799540-ASSIGNMENT-OF-DOT/EX-XX-2012-03-20-REC-INST-799540-ASSIGNMENT-OF-DOT.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-12-01-NTC-BAC-TRANS-NB-_REDACTED/EX-XX-2009-12-01-NTC-BAC-TRANS-NB-_REDACTED.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-11-02-REC-INST-775252-FULL-RECONVEYANCE/EX-XX-2009-11-02-REC-INST-775252-FULL-RECONVEYANCE.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-11-02-REC-INST-775251-SUB-TRST/EX-XX-2009-11-02-REC-INST-775251-SUB-TRST.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-10-16-REC-INST-774964-DOT/EX-XX-2009-10-16-REC-INST-774964-DOT.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-10-16-CMS-PROVIDED-FALSE-NOTE-TO-BOA-UNREC-NOT-NOTER/EX-XX-2009-10-16-CMS-PROVIDED-FALSE-NOTE-TO-BOA-UNREC-NOT-NOTER.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-10-03-NTC-BOA-TO-BAC-TRANS-NB-_REDACTED/EX-XX-2009-10-03-NTC-BOA-TO-BAC-TRANS-NB-_REDACTED.md",
+    "proceedings/case-evidence - Copy/EX-XX-2009-10-01-NTC-BOA-TRANS-NB-_REDACTED/EX-XX-2009-10-01-NTC-BOA-TRANS-NB-_REDACTED.md",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015115.png",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015126.png",
     "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015104.png",
