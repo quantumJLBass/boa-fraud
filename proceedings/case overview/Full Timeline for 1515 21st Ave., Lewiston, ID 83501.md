@@ -171,7 +171,7 @@ The BoA Transfer Notice to **BAC Home Loans Servicing, LP** is effective.
 
 **October 15, 2024**: **Jeremy Bass** submits a Response to Plaintiffs' Motion for Summary Judgment.13
 
-**October 18, 2024**: **Lewis N. Stoddard** files a Reply Memorandum in Support of Motion for Summary Judgment on behalf of **DPW Enterprises LLC** and **Mountain Prime 2018 LLC**. This memorandum calls into question **Jeremy Bass**'s legal citations, stating, "Defendant’s citation to case authority and the accuracy thereof is questionable, either because the cases being cited do not stand for the proposition asserted in the motion or do not exist at all."1319
+**October 18, 2024**: **Lewis N. Stoddard** files a Reply Memorandum in Support of Motion for Summary Judgment on behalf of **DPW Enterprises LLC** and **Mountain Prime 2018 LLC**. This memorandum calls into question **Jeremy Bass**'s legal citations, stating, "Defendant's citation to case authority and the accuracy thereof is questionable, either because the cases being cited do not stand for the proposition asserted in the motion or do not exist at all."1319
 
 **October 21, 2024**: **Jeremy Bass** files a response to the Plaintiffs' Reply Memorandum in Support of Motion for Summary Judgment, addressing the accuracy of his legal citations. In this response, Bass acknowledges that some of his citations were incorrect but argues that both he and the Plaintiffs have made similar errors. Bass provides a Shepard's Citations report analyzing the accuracy of citations in various court documents.1320
 

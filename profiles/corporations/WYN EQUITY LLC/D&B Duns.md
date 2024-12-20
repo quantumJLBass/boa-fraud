@@ -9,24 +9,24 @@ May 19, 2024
 Morgan, Utah 84050-6740  
 United States  
   
-BUSINESS ADDRESS: [[3448 SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740]], United States  
-County: Morgan  
-Other Locations:   
+BUSINESS ADDRESS: [[3448 SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740]], United States  
+County: Morgan  
+Other Locations:   
 CONGRESSIONAL DISTRICT: 1st Congressional District - block face level  
   
 
 ## Company Identifiers
 
   
-DUNS NUMBER: 05-454-6553  
+DUNS NUMBER: 05-454-6553  
   
 
 ## Company Information
 
   
-Founded: 2016  
-Organization Type: Single Location, Small Business  
-Employees:   
+Founded: 2016  
+Organization Type: Single Location, Small Business  
+Employees:   
 Employee Total: 2  
 Employees At This Location: 2 - Estimate  
   
@@ -46,15 +46,15 @@ Principal:
 ## Description
 
   
-Industry Type: Finance, Insurance, And Real Estate; Open-End Management Investment  
+Industry Type: Finance, Insurance, And Real Estate; Open-End Management Investment  
   
 
 ## Market And Industry
 
   
-NAICS Codes:   
+NAICS Codes:   
 525910 - Open-End Investment Funds  
-SIC Codes:   
+SIC Codes:   
 6722 - Management investment, open-end, nsk  
 67220000 - Management investment, open-end, nsk  
   

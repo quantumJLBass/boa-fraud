@@ -144,9 +144,9 @@ Employees
 
 Company TypePrivate - Parent
 
-Street Address [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States
+Street Address [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States
 
-Mailing Address [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States
+Mailing Address [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States
 
 Dossier ID710517850
 
@@ -174,26 +174,26 @@ Cross Country Equity, LLC
 Ogden, Utah 84414-1665  
 United States  
   
-BUSINESS ADDRESS: [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States  
-Metropolitan Statistical Area: Salt Lake City-Ogden, UT - 7160  
-County: Weber  
-Other Locations:   
+BUSINESS ADDRESS: [[3138 N 1250 W, PLEASANT VIEW, UT, 84414-1665|3138 N 1250 W, Ogden, UT 84414-1665]], United States  
+Metropolitan Statistical Area: Salt Lake City-Ogden, UT - 7160  
+County: Weber  
+Other Locations:   
 CONGRESSIONAL DISTRICT: 1st Congressional District - block face level  
   
 
 ## Company Identifiers
 
   
-DUNS NUMBER: 10-893-1090  
+DUNS NUMBER: 10-893-1090  
   
 
 ## Company Information
 
   
-Founded: 2015  
-Legal Status: Corporation  
-Organization Type: Single Location, Small Business  
-Employees:   
+Founded: 2015  
+Legal Status: Corporation  
+Organization Type: Single Location, Small Business  
+Employees:   
 Employee Total: 3  
 Employees At This Location: 3 - Estimate  
   
@@ -219,15 +219,15 @@ Member:
 ## Description
 
   
-Industry Type: Services: Professional; Management Consulting Services  
+Industry Type: Services: Professional; Management Consulting Services  
   
 
 ## Market And Industry
 
   
-NAICS Codes:   
+NAICS Codes:   
 541611 - Administrative Management and General Management Consulting Services  
-SIC Codes:   
+SIC Codes:   
 8742 - Management consulting services  
 87420000 - Management consulting services, nsk  
   

@@ -1,34 +1,34 @@
-In exercising its discretion with regard to the amendment of pleadings, “a court
+In exercising its discretion with regard to the amendment of pleadings, "a court
 must be guided by the underlying purpose of Rule 15--to facilitate a decision on the
-merits rather than on the pleadings or technicalities.” United States v. Webb, 655 F.2d
-977, 979 (9th Cir. 1981). Indeed, the “Supreme Court has instructed the lower federal
+merits rather than on the pleadings or technicalities." United States v. Webb, 655 F.2d
+977, 979 (9th Cir. 1981). Indeed, the "Supreme Court has instructed the lower federal
 courts to heed carefully the command of Rule 15(a), Fed.R.Civ.P., by freely granting
-leave to amend when justice so requires.’” Gabrielson v. Montgomery Ward & Co., 785
+leave to amend when justice so requires.'" Gabrielson v. Montgomery Ward & Co., 785
 F.2d 762, 765 (9th Cir. 1986) (quoting Howey v. United States, 481 F.2d 1187, 1190 (9th
 Cir. 1973)).
 Leave to amend should be granted even more liberally to pro se plaintiffs. Lira v.
 Herrera, 427 F.3d 1164, 1176 (9th Cir. 2005) (quoting Ramirez v. Galaza, 334 F.3d 850,
 861 (9th Cir. 2003)). Pro se plaintiffs should be given the opportunity to amend their
 complaints if they have stated a plausible cause of action. See for example, Akao v.
-Shimoda, 832 F.2d 119, 120 (9th Cir. 1987) (“It is true that the prisoners’ allegations are
+Shimoda, 832 F.2d 119, 120 (9th Cir. 1987) ("It is true that the prisoners' allegations are
 not sufficiently specific and do not allege that they personally have suffered cruel or
-inhuman punishment, but we cannot hold that it is ‘beyond doubt’ that they could not do
+inhuman punishment, but we cannot hold that it is 'beyond doubt' that they could not do
 so. Therefore, we reverse and remand for the district court to allow the prisoners to file
-an amendment”). Accordingly, leave to amend should be granted to pro se plaintiffs
-“unless the pleading ‘could not possibly be cured by the allegation of other facts.’” Lira
+an amendment"). Accordingly, leave to amend should be granted to pro se plaintiffs
+"unless the pleading 'could not possibly be cured by the allegation of other facts.'" Lira
 v. Herrera, 427 F.3d at 1176 (quoting Ramirez v. Galaza, 334 F.3d at 861).
-Nonetheless, a complaint must contain “a short and plaint statement of the claim
-showing that the pleader is entitled to relief . . . .” Fed.R.Civ.P. 8(a)(2). Detailed factual
-allegations are not required, but “[t]hreadbare recitals of the elements of a cause of action,
-supported by mere conclusory statements, do not suffice.” Ashcroft v. Iqbal, 556 U.S.
+Nonetheless, a complaint must contain "a short and plaint statement of the claim
+showing that the pleader is entitled to relief . . . ." Fed.R.Civ.P. 8(a)(2). Detailed factual
+allegations are not required, but "[t]hreadbare recitals of the elements of a cause of action,
+supported by mere conclusory statements, do not suffice." Ashcroft v. Iqbal, 556 U.S.
 662, __, 129 S.Ct. 1937, 1949 (2009) (citing Bell Atlantic Corp. v. Twombly, 550 U.S.
-544, 555 (2007)). Plaintiff must set forth “sufficient factual matter, accepted as true, to
-‘state a claim that is plausible on its face.’” Id. Facial plausibility demands more than the
+544, 555 (2007)). Plaintiff must set forth "sufficient factual matter, accepted as true, to
+'state a claim that is plausible on its face.'" Id. Facial plausibility demands more than the
 mere possibility that a defendant committed misconduct and, while factual allegations are accepted as true, legal
 conclusions are not. Id. at 1949-50.
 
 In each of the claims Plaintiff sets forth in his request for leave to amend, Plaintiff
-makes certain allegations against “known and unknown parties.” Plaintiff appears to be
+makes certain allegations against "known and unknown parties." Plaintiff appears to be
 trying to add Doe Defendants. The use of Doe Defendants is not favored in the Ninth Circuit.
  See Gillespie v. Civiletti, 629 F.2d 637, 642 (9thCir. 1980). However, where the
 identity of alleged defendants cannot be known prior to the filing of a complaint the

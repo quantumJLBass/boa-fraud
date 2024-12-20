@@ -9,7 +9,7 @@ Another relevant case is Edwards v. Mortgage Elec. Registration Sys. , where the
 
 
 
-I.C. § 45-1510 (1). "[S]tatus as a bona fide purchaser or a purchaser in good faith, at least in the context of a nonjudicial foreclosure sale, is generally not available where a purchaser is on inquiry notice of a potential defect of statutory notice [*23]  provisions. Federal Home Loan Mortg. Corp. v. Appel, 143 Idaho 42, 47, 137 P.3d 429, 434 (2006).
+I.C. § 45-1510 (1). "[S]tatus as a bona fide purchaser or a purchaser in good faith, at least in the context of a nonjudicial foreclosure sale, is generally not available where a purchaser is on inquiry notice of a potential defect of statutory notice [*23]  provisions. Federal Home Loan Mortg. Corp. v. Appel, 143 Idaho 42, 47, 137 P.3d 429, 434 (2006).
 
   
 [Fannie Mae v. Ormesher, 2014 Ida. Dist. LEXIS 31, *22-23](https://plus.lexis.com/api/document/collection/cases/id/5H1Y-94D1-JD0R-M09P-00000-00?cite=2014%20Ida.%20Dist.%20LEXIS%2031&context=1530671)
@@ -21,12 +21,12 @@ I.C. § 45-1510 (1). "[S]tatus as a bona fide purchaser or a purchaser in good f
 
 ## Definition & Citations:
 
-A purchaser for a [valuable consideration](https://thelawdictionary.org/valuable-consideration/) paid or parted with in the belief that the vendor had a right to sell, and without any suspicious [circumstances](https://thelawdictionary.org/circumstances/) to put him on inquiry. Merritt v. Railroad Co., 12 Barb. (N. Y.) 005. One who acts without covin, fraud, or collusion; one who, in the [commission](https://thelawdictionary.org/commission/) of or [connivance](https://thelawdictionary.org/connivance/) at no fraud, pays full price for the property, and in good faith, honestly, and in fair dealing buys and goes into [possession](https://thelawdictionary.org/possession/). Sanders v. McAffee, 42 Ga. 250. A bona fide purchaser is one who buys property of another [without notice](https://thelawdictionary.org/without-notice/) that some [third person](https://thelawdictionary.org/third-person/) has a right to, or interest in, such property, and pays a full and fair price for the same, at the time of such purchase, or before he has notice of the claim or interest of such other in the property. Spicer v. Waters, 05 Barb. (N. Y.) 231.
+A purchaser for a [valuable consideration](https://thelawdictionary.org/valuable-consideration/) paid or parted with in the belief that the vendor had a right to sell, and without any suspicious [circumstances](https://thelawdictionary.org/circumstances/) to put him on inquiry. Merritt v. Railroad Co., 12 Barb. (N. Y.) 005. One who acts without covin, fraud, or collusion; one who, in the [commission](https://thelawdictionary.org/commission/) of or [connivance](https://thelawdictionary.org/connivance/) at no fraud, pays full price for the property, and in good faith, honestly, and in fair dealing buys and goes into [possession](https://thelawdictionary.org/possession/). Sanders v. McAffee, 42 Ga. 250. A bona fide purchaser is one who buys property of another [without notice](https://thelawdictionary.org/without-notice/) that some [third person](https://thelawdictionary.org/third-person/) has a right to, or interest in, such property, and pays a full and fair price for the same, at the time of such purchase, or before he has notice of the claim or interest of such other in the property. Spicer v. Waters, 05 Barb. (N. Y.) 231.
 
 
-Good Faith Purchaser. 
+Good Faith Purchaser. 
 
-Bidder was not a good faith purchaser because the foreclosure sale was void for failure to comply with § 45-1505(2); and the bidder was not a good faith purchaser for value because he did not acquire title to the real property. Taylor v. Just, 138 Idaho 137, 59 P.3d 308, 2002 Ida. LEXIS 178 (2002).
+Bidder was not a good faith purchaser because the foreclosure sale was void for failure to comply with § 45-1505(2); and the bidder was not a good faith purchaser for value because he did not acquire title to the real property. Taylor v. Just, 138 Idaho 137, 59 P.3d 308, 2002 Ida. LEXIS 178 (2002).
 
   
 Idaho Code § 45-1508

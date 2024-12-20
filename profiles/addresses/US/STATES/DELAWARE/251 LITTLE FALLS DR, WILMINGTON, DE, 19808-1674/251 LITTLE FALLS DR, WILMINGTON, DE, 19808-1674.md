@@ -88,7 +88,7 @@ Local Guide · 98 reviews · 51 photos
 
 
 3 months ago
-Don’t use this company. They never sent me my mail. They allowed my corporation to forfeit its right to conduct business. I have been sending emails for several different reasons. One of the emails received a response 11 months later. The other concerns have not been responded to. I’ve called and left voicemails. No response.
+Don't use this company. They never sent me my mail. They allowed my corporation to forfeit its right to conduct business. I have been sending emails for several different reasons. One of the emails received a response 11 months later. The other concerns have not been responded to. I've called and left voicemails. No response.
 
 
 1
@@ -124,9 +124,9 @@ Local Guide · 108 reviews · 80 photos
 
 
 5 months ago
-I want to know why I’m not getting employed here. I’ve interviewed at this company 4-6 times in the last 3 years. I’m smart and learn fast. At least I’m someone that actually wants to work and not be on unemployment. Unbelievable 👎🏻
+I want to know why I'm not getting employed here. I've interviewed at this company 4-6 times in the last 3 years. I'm smart and learn fast. At least I'm someone that actually wants to work and not be on unemployment. Unbelievable 👎🏻
 
-Edit: November 2023- I had two interviews with them and still didn’t get the position, which was still strange to me because they said my resume was very impressive and one of the interviewers stated the same thing. But the one thing I did notice in the interview was that the one of them (2 interviewers) questioned my resume a lot and asked who I was and what my hobbies were. He then stated: well, if you want to be part of this company, you have to have to be a team player and come to happy hours, and really be apart of everyone’s life and it can’t just be about you all the time. It was very strange because he automatically assumed I would be a certain way while HE asked me about my background. I’m SO glad I didn’t get this job. I found another job where I’m happy, get treated with respect, and get spoiled with gifts around Christmas and everyone is incredibly nice and not fake, and my hours are amazing.From other reviews I’ve seen for CSC, I probably would have hated this job and the schedule. There’s a lot of negative reviews for this company. So thank you for not hiring me. I’m better off!
+Edit: November 2023- I had two interviews with them and still didn't get the position, which was still strange to me because they said my resume was very impressive and one of the interviewers stated the same thing. But the one thing I did notice in the interview was that the one of them (2 interviewers) questioned my resume a lot and asked who I was and what my hobbies were. He then stated: well, if you want to be part of this company, you have to have to be a team player and come to happy hours, and really be apart of everyone's life and it can't just be about you all the time. It was very strange because he automatically assumed I would be a certain way while HE asked me about my background. I'm SO glad I didn't get this job. I found another job where I'm happy, get treated with respect, and get spoiled with gifts around Christmas and everyone is incredibly nice and not fake, and my hours are amazing.From other reviews I've seen for CSC, I probably would have hated this job and the schedule. There's a lot of negative reviews for this company. So thank you for not hiring me. I'm better off!
 
 
 11
@@ -180,7 +180,7 @@ Local Guide · 25 reviews · 23 photos
 
 
 3 months ago
-Man this company has really fallen off! I used them for nearly 8 years for two of my entities. Haven’t received my mail. Just horrible
+Man this company has really fallen off! I used them for nearly 8 years for two of my entities. Haven't received my mail. Just horrible
 
 
 1
@@ -235,7 +235,7 @@ Nina Callahan
 
 
 2 years ago
-I have been  employed since 2011 through 2017 with this company. I have made a lot of money for them , consistently pulling numbers doubling and tripling performance of others. Besides being severely underpaid and overworked, it was OK job but I would like to share my experience AFTER  I left the company. Almost 2 years after me leaving CSC To my very big surprise I have received W-2 form for  something like $300-$350. I called and inquired about this income that I have not actually received . They explained to me, That this was due to a gift I have received from CSC  while I worked there. You see, if you happen to save the company a lot of money by coming up with some interesting thing, they would throw you a few bucks or a prize as a reward. Since I came up with several of such projects, one of those for example was  automated pricing tool which saved hours by numerous employees daily. I have earned about $300 and  ordered myself a north face jacket which to be honest did not fit.So basically they sent me invoice for that jacket. They also told me no taxes were withheld by them. Well , it doesn’t mean I don’t have to pay taxes , it  just doesn’t come out of their pocket !! I had to pay  taxes on top of money that I have not received! what a gift huh . It was not worth the hustle,  so I just paid and moved on. What I’m trying to say, this company will nickel and dime you. The nickel and dimed me while I worked there, and they found a way to take advantage  of me when I stopped. I’m posting my review publicly as I have nothing to hide , this is all truth and there’s a lot more to it .
+I have been  employed since 2011 through 2017 with this company. I have made a lot of money for them , consistently pulling numbers doubling and tripling performance of others. Besides being severely underpaid and overworked, it was OK job but I would like to share my experience AFTER  I left the company. Almost 2 years after me leaving CSC To my very big surprise I have received W-2 form for  something like $300-$350. I called and inquired about this income that I have not actually received . They explained to me, That this was due to a gift I have received from CSC  while I worked there. You see, if you happen to save the company a lot of money by coming up with some interesting thing, they would throw you a few bucks or a prize as a reward. Since I came up with several of such projects, one of those for example was  automated pricing tool which saved hours by numerous employees daily. I have earned about $300 and  ordered myself a north face jacket which to be honest did not fit.So basically they sent me invoice for that jacket. They also told me no taxes were withheld by them. Well , it doesn't mean I don't have to pay taxes , it  just doesn't come out of their pocket !! I had to pay  taxes on top of money that I have not received! what a gift huh . It was not worth the hustle,  so I just paid and moved on. What I'm trying to say, this company will nickel and dime you. The nickel and dimed me while I worked there, and they found a way to take advantage  of me when I stopped. I'm posting my review publicly as I have nothing to hide , this is all truth and there's a lot more to it .
 
 
 12
@@ -327,7 +327,7 @@ Miriam Carbajal
 
 
 a year ago
-I’ve been applying here and they never try to consider me at all I have all the qualifications and for some
+I've been applying here and they never try to consider me at all I have all the qualifications and for some
 Reason I always get denied for a simple job they always posting they are hiring but never actually take anyone that actually wants to work !!
 
 
@@ -366,7 +366,7 @@ M M
 
 
 4 years ago
-I was terminated from CSC on the two month anniversary of my father committing suicide. And this was after nearly 3 years of consistently above average service with no  history of major issues / prior errors. I made a couple of procedural errors within the first couple of weeks back from my bereavement and was fired for that. They gave me a “severance package” of sorts, just one month of pay and a couple months of sub-par health insurance. I think they knew deep down that this termination was not morally correct. I’ve been waiting for over a year to write this in order to let the initial shock and anger pass, but I must say, it still feels as though I was unfairly terminated due to the stigma associated with not only my father having committed suicide, but also they had no apparent training or overall interest in understanding my own mental health as a result. My manager (and former teammate) was both very new at her job and was under tons of stress since she was late into her first pregnancy. So I try to keep this in mind when I think of CSC and the decision she made to proceed with terminating me. However, at the end of the day, when you look at the situation, it begs the question if CSC has ever truly taken a stance of solidarity with their employees suffering from mental illness and things of the like. I recall my manager as well as the head of CSC’s entire HR department admittedly “not understanding how it felt” in regards to returning to work after one of your parents has committed suicide, which in my opinion is unacceptable for a company of that size and scope. As a result, I would not recommend CSC to my friends, family, or otherwise as a workplace worth working at.
+I was terminated from CSC on the two month anniversary of my father committing suicide. And this was after nearly 3 years of consistently above average service with no  history of major issues / prior errors. I made a couple of procedural errors within the first couple of weeks back from my bereavement and was fired for that. They gave me a "severance package" of sorts, just one month of pay and a couple months of sub-par health insurance. I think they knew deep down that this termination was not morally correct. I've been waiting for over a year to write this in order to let the initial shock and anger pass, but I must say, it still feels as though I was unfairly terminated due to the stigma associated with not only my father having committed suicide, but also they had no apparent training or overall interest in understanding my own mental health as a result. My manager (and former teammate) was both very new at her job and was under tons of stress since she was late into her first pregnancy. So I try to keep this in mind when I think of CSC and the decision she made to proceed with terminating me. However, at the end of the day, when you look at the situation, it begs the question if CSC has ever truly taken a stance of solidarity with their employees suffering from mental illness and things of the like. I recall my manager as well as the head of CSC's entire HR department admittedly "not understanding how it felt" in regards to returning to work after one of your parents has committed suicide, which in my opinion is unacceptable for a company of that size and scope. As a result, I would not recommend CSC to my friends, family, or otherwise as a workplace worth working at.
 
 
 17
@@ -411,7 +411,7 @@ Charlatans and Swindlers.  They do NOTHING.  Do not use!  Seriously, register di
 Share
 
 
-Donna “Grammy” Spoor
+Donna "Grammy" Spoor
 5 reviews
 
 

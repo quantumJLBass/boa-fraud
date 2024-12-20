@@ -6,29 +6,29 @@ May 18, 2024
 [[WYN EQUITY LLC]]  
 [[3448 SPRING CIR, MOUNTAIN GREEN, UT, 84050-6740]]  
 USA  
-County: MORGAN  
-Other Locations:   
+County: MORGAN  
+Other Locations:   
 REGION: NORTH AMERICA  
   
 
 ## Communications
 
   
-Other Communications Information:   
+Other Communications Information:   
 CABLE TELEX: 222NNNNANP  
   
 
 ## Company Identifiers
 
   
-DUNS: 05-454-6553  
+DUNS: 05-454-6553  
   
 
 ## Company Information
 
   
-Founded: 2016  
-Employees:   
+Founded: 2016  
+Employees:   
   
 EMPLOYEES HERE: 5 - Modeled  
 EMPLOYEES TOTAL: 5 - Modeled  
@@ -55,7 +55,7 @@ MGMT INVST OPEN-EN
 ## Market And Industry
 
   
-SIC Codes:   
+SIC Codes:   
 6722 - Open-end management investment  
   
 
@@ -70,11 +70,11 @@ SIC Codes: 
   
 FINANCIAL FIGURE DATE (not available)
 
- 
+ 
 
 US DOLLARS
 
- 
+ 
 
 ANNUAL SALES
 

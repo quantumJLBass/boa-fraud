@@ -14,12 +14,12 @@ tags:
 
 # Account Summary
 Summary
-Account Id	R0082900
-Parcel Number	032360022
+Account Id	R0082900
+Parcel Number	032360022
 Owners	CROSS COUNTRY EQUITY LLC
 Address	3138 N 1250 W
 PLEASANT VIEW, UT 84414
-Situs Address	1069 S 1600 W
+Situs Address	1069 S 1600 W
 Legal	LOT 04, AMENDED LOTS 03 & 04 OF A PORTION OF POINTE PERRY SUBDIVISION, PH 01, SPECIAL PUD, PCS.
 
 ## Summary Values

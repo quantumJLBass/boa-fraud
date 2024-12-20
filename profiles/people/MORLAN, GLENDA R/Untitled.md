@@ -2149,7 +2149,7 @@ We refresh our database every 24 hours in order to provide the most accurate and
 
 ### Financial Information
 
-This section may shed light on the person’s financial situation. Here you will find possible bankruptcies, liens, judgements, foreclosures, UCC filings and evictions.
+This section may shed light on the person's financial situation. Here you will find possible bankruptcies, liens, judgements, foreclosures, UCC filings and evictions.
 
 #### Bankruptcies
 

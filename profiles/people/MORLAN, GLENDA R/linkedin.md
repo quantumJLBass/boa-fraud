@@ -20,7 +20,7 @@ More
 ActivityActivity
 0 followers0 followers
 
-Glenda hasn’t posted yet
+Glenda hasn't posted yet
 Recent posts Glenda shares will be displayed here.
 Show all activity
 ExperienceExperience
@@ -51,7 +51,7 @@ More
 ActivityActivity
 0 followers0 followers
 
-Glenda hasn’t posted yet
+Glenda hasn't posted yet
 Recent posts Glenda shares will be displayed here.
 Show all activity
 ExperienceExperience

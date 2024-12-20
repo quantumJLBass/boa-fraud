@@ -1,5 +1,9 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+aliases:
+  - JLB
+  - Jeremy Bass
 ---
 ```folder-overview
 id: dcc89ed9-5546-401c-a092-2b006bda3753

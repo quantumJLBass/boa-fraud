@@ -14,4 +14,4 @@ The memorandum provides detailed analysis:
 
 The memorandum alleges collusion between plaintiffs, the trustee, and others, violating fair bidding principles and tainting the sale. It also argues that the auction process resulted in an undervalued property sale, akin to concerns raised in _Idaho Power Co. v. Benj. Houseman Co._
 
-Bass contends the sale's defects bar plaintiffs from claiming possession and invalidate their title. The memorandum concludes by requesting denial of Plaintiffs’ motion for summary judgment and invalidation of the trustee’s sale, emphasizing the significance of strict statutory compliance and fair auction processes under Idaho law.
+Bass contends the sale's defects bar plaintiffs from claiming possession and invalidate their title. The memorandum concludes by requesting denial of Plaintiffs' motion for summary judgment and invalidation of the trustee's sale, emphasizing the significance of strict statutory compliance and fair auction processes under Idaho law.

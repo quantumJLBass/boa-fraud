@@ -33,7 +33,7 @@ disableCollapseIcon: true
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID 83501]]
+- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Lender/Servicer
 - **Name**: [[BANK OF AMERICA, N.A.]] (BoA)

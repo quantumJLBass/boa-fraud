@@ -67,7 +67,7 @@ G9O G9O
 
 
 2 months ago
-These people are thieves. They are happy to engage in shady collection practices for east coast clients not bothering to check and see if the statute of limitations has been met, if people have been served with a chance to respond, or if there are circumstances requiring the common courtesy of a phone call or letter. Happy to levy bank accounts and clear out your funds with NO warning whatsoever and then “give you the opportunity to dispute”.  They are credits to their profession. Which ain’t saying a lot.
+These people are thieves. They are happy to engage in shady collection practices for east coast clients not bothering to check and see if the statute of limitations has been met, if people have been served with a chance to respond, or if there are circumstances requiring the common courtesy of a phone call or letter. Happy to levy bank accounts and clear out your funds with NO warning whatsoever and then "give you the opportunity to dispute".  They are credits to their profession. Which ain't saying a lot.
 
 
 Like
@@ -85,7 +85,7 @@ Tinisha Paschal
 
 
 4 years ago
-My husband and I paid for services for Smith Law Firm on a real estate escrow account. Our information was shared with another client they represented for a debt collection. I have also worked in the legal field for years with some of the state's top firms and lawyers and I have 4 years of law school behind me. I know the privacy of keeping clients information confidential. My husband was also a running candidate in Montana. To share our personal information to represent a client to collect a debt on us is unethical. When we called to speak about the issue, we were told (rudely) that we never paid for services (which I have receipt) that they never shared our bank information, but didn’t deny that they are representing the client against us, in fact ask how we can settle the debt. I will be filing a complaint with ODC and up and will continue until disciplinary act is met.
+My husband and I paid for services for Smith Law Firm on a real estate escrow account. Our information was shared with another client they represented for a debt collection. I have also worked in the legal field for years with some of the state's top firms and lawyers and I have 4 years of law school behind me. I know the privacy of keeping clients information confidential. My husband was also a running candidate in Montana. To share our personal information to represent a client to collect a debt on us is unethical. When we called to speak about the issue, we were told (rudely) that we never paid for services (which I have receipt) that they never shared our bank information, but didn't deny that they are representing the client against us, in fact ask how we can settle the debt. I will be filing a complaint with ODC and up and will continue until disciplinary act is met.
 
 
 3
@@ -123,7 +123,7 @@ Jennifer R
 
 
 4 years ago
-Met with attorney for 30 mins to have some simple paperwork drawn up and was told he would email me a draft. Nothing came. Followed up with phone call and my call wasn’t returned. I have no idea what happened.
+Met with attorney for 30 mins to have some simple paperwork drawn up and was told he would email me a draft. Nothing came. Followed up with phone call and my call wasn't returned. I have no idea what happened.
 
 
 1
@@ -353,7 +353,7 @@ Like
 Share
 
 
-wickertoo “Wick”
+wickertoo "Wick"
 37 reviews · 28 photos
 
 

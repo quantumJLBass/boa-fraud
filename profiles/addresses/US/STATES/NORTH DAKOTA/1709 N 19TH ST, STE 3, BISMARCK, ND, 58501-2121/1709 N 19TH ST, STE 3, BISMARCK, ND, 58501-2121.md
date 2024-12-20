@@ -267,7 +267,7 @@ Ab H
 3 months ago
 WARNING !!!! Stay a way from them.
 
-I selected as my agent online Dec,2023. Paid my $40 Dollars 2-27-2024  plus $5 (don’t know transaction fee) Today I called them to make sure my payment was received and they told me everything was good and in 2 minutes they came up with this “. You know what “ you have to pay us $40 +$40 2times because you selected us with out our awareness until we were informed by STATE SECRETARY that you have selected us!!!!
+I selected as my agent online Dec,2023. Paid my $40 Dollars 2-27-2024  plus $5 (don't know transaction fee) Today I called them to make sure my payment was received and they told me everything was good and in 2 minutes they came up with this ". You know what " you have to pay us $40 +$40 2times because you selected us with out our awareness until we were informed by STATE SECRETARY that you have selected us!!!!
 They thought I was dumb!  STAY AWAY.
 
 
@@ -408,7 +408,7 @@ Website: www.NDRAServices.com
 Hours
 We are open Monday – Thursday from 9 a.m. – 4 p.m. and Friday from 9 a.m. – Noon except for the following dates:
 
-Important note: All state offices are closed for the state holidays listed below except “Black Friday” which our office will be closed to give our employees an extended thanksgiving weekend.    In addition, with our small staff it may require that our office is closed temporarily throughout the day for staff to assist clients outside of the office and also for lunch and breaks.  During this time an appropriate note will be placed on the exterior door with the appropriate contact information.   It is our hopes that we can have staff in the office Monday – Friday from 9 a.m. – 11 a.m. so that we can make sure we are available during these core hours for Process Servers, with the understanding we should be available during our normal work hours with exceptions as noted.
+Important note: All state offices are closed for the state holidays listed below except "Black Friday" which our office will be closed to give our employees an extended thanksgiving weekend.    In addition, with our small staff it may require that our office is closed temporarily throughout the day for staff to assist clients outside of the office and also for lunch and breaks.  During this time an appropriate note will be placed on the exterior door with the appropriate contact information.   It is our hopes that we can have staff in the office Monday – Friday from 9 a.m. – 11 a.m. so that we can make sure we are available during these core hours for Process Servers, with the understanding we should be available during our normal work hours with exceptions as noted.
 
 
 

@@ -337,7 +337,7 @@ Salt Lake City Office
 
 Get directions Get directions to 376 E 400 S, 300, Salt Lake City, Utah 84111, US
 Overview
-Halliday, Watkins & Mann, P.C. (“HWM”) is a multi-state law firm providing superior service for the states of Alabama, Alaska, Utah, Colorado, Idaho, Wyoming, Minnesota, Mississippi, Montana, Nebraska, North Dakota and South Dakota. HWM is a leading provider of legal services to the mortgage banking industry and exclusively handles foreclosures, bankruptcy, replevin, evictions, collections and REO closings.
+Halliday, Watkins & Mann, P.C. ("HWM") is a multi-state law firm providing superior service for the states of Alabama, Alaska, Utah, Colorado, Idaho, Wyoming, Minnesota, Mississippi, Montana, Nebraska, North Dakota and South Dakota. HWM is a leading provider of legal services to the mortgage banking industry and exclusively handles foreclosures, bankruptcy, replevin, evictions, collections and REO closings.
 
 Website
 http://www.hwmlawfirm.com
@@ -345,7 +345,7 @@ Industry
 Legal Services
 Company size
 51-200 employees
-63 associated members LinkedIn members who’ve listed Halliday, Watkins & Mann P.C. as their current workplace on their profile.
+63 associated members LinkedIn members who've listed Halliday, Watkins & Mann P.C. as their current workplace on their profile.
 Headquarters
 Salt Lake City, Utah
 Founded

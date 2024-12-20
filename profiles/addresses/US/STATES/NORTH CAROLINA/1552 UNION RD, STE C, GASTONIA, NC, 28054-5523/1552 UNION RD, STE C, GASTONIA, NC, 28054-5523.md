@@ -121,7 +121,7 @@ Like
 
 Share
 Response from the owner 2 years ago
-Thanks for your positive feedback of Nancy Poteat, Kimberly! We make it a priority to ensure that every borrower feels that they have a partner in the home financing process, and we’re happy to hear you had a great experience with Nancy and Linda. We wish you the best of luck in your new journey!
+Thanks for your positive feedback of Nancy Poteat, Kimberly! We make it a priority to ensure that every borrower feels that they have a partner in the home financing process, and we're happy to hear you had a great experience with Nancy and Linda. We wish you the best of luck in your new journey!
 
 
 Sarah Saunders
@@ -181,7 +181,7 @@ Like
 
 Share
 Response from the owner 3 years ago
-Jamie, thanks for your positive feedback! We’re so glad you had a great experience with Nancy. We’re thrilled that you chose C&F Mortgage to assist you in financing your home. We will be sure to pass your kind words along to Nancy!
+Jamie, thanks for your positive feedback! We're so glad you had a great experience with Nancy. We're thrilled that you chose C&F Mortgage to assist you in financing your home. We will be sure to pass your kind words along to Nancy!
 
 
 Elizabeth Nix
@@ -251,7 +251,7 @@ Like
 
 Share
 Response from the owner 3 years ago
-Lori, thank you so much for your positive review and we're happy to hear that you had a great experience working with Nancy! We’re thrilled that you chose C&F Mortgage to assist you in financing your home. We will be sure to pass your kind words along to Nancy.
+Lori, thank you so much for your positive review and we're happy to hear that you had a great experience working with Nancy! We're thrilled that you chose C&F Mortgage to assist you in financing your home. We will be sure to pass your kind words along to Nancy.
 
 
 Melvin Morgan
@@ -272,7 +272,7 @@ Like
 
 Share
 Response from the owner 3 weeks ago
-Melvin, thanks for trusting C&F Mortgage to handle your home financing needs. We’re thrilled you had a great experience with us!
+Melvin, thanks for trusting C&F Mortgage to handle your home financing needs. We're thrilled you had a great experience with us!
 
 
 h h
@@ -324,7 +324,7 @@ Laura Xu
 
 
 6 months ago
-This process couldn’t have been any easier thanks to great communication and efficient work on the part of Nancy and her team.
+This process couldn't have been any easier thanks to great communication and efficient work on the part of Nancy and her team.
 
 
 Like
@@ -364,7 +364,7 @@ Amanda McMurry
 
 
 7 months ago
-Everything was easy.  Everyone was helpful.  Couldn’t ask for anything more!  Highly recommend!
+Everything was easy.  Everyone was helpful.  Couldn't ask for anything more!  Highly recommend!
 
 
 Like
@@ -372,7 +372,7 @@ Like
 
 Share
 Response from the owner 6 months ago
-Amanda, thanks for trusting C&F Mortgage to handle your home financing needs. We’re thrilled you had a great experience with us!
+Amanda, thanks for trusting C&F Mortgage to handle your home financing needs. We're thrilled you had a great experience with us!
 
 
 Jessica Duncan
@@ -392,7 +392,7 @@ Like
 
 Share
 Response from the owner 3 years ago
-Jessica, thanks for your positive feedback! We’re so glad you had a great experience with us. We’re thrilled that you chose C&F Mortgage to assist you in financing your home.
+Jessica, thanks for your positive feedback! We're so glad you had a great experience with us. We're thrilled that you chose C&F Mortgage to assist you in financing your home.
 
 
 Matt Davis
@@ -404,7 +404,7 @@ Matt Davis
 
 2 years ago
 Response from the owner 2 years ago
-Thanks for your positive feedback, Matt. We’re focused on providing a comfortable home financing process for all our borrowers and are so happy to hear you had a great experience.
+Thanks for your positive feedback, Matt. We're focused on providing a comfortable home financing process for all our borrowers and are so happy to hear you had a great experience.
 
 
 Lisa Borders
@@ -507,7 +507,7 @@ Jules B
 
 2 years ago
 Response from the owner 2 years ago
-Thanks for the positive feedback, Jules! We are focused on exceeding expectations like yours, and we’re glad to hear we hit the mark for you.
+Thanks for the positive feedback, Jules! We are focused on exceeding expectations like yours, and we're glad to hear we hit the mark for you.
 
 
 Patty Blackwell
@@ -520,7 +520,7 @@ Patty Blackwell
 
 2 years ago
 Response from the owner 2 years ago
-Thanks for the positive review, Patty! We are focused on exceeding expectations like yours, and we’re glad to hear we hit the mark for you.
+Thanks for the positive review, Patty! We are focused on exceeding expectations like yours, and we're glad to hear we hit the mark for you.
 
 
 Jessica Norton
@@ -533,7 +533,7 @@ Jessica Norton
 
 2 years ago
 Response from the owner 2 years ago
-Jessica, thanks for your positive feedback! We’re so glad you had a great experience with us. We’re thrilled that you chose C&F Mortgage to assist you in financing your home.
+Jessica, thanks for your positive feedback! We're so glad you had a great experience with us. We're thrilled that you chose C&F Mortgage to assist you in financing your home.
 
 
 Scott Carter
@@ -546,7 +546,7 @@ Scott Carter
 
 2 years ago
 Response from the owner 2 years ago
-Thanks for the positive review, Scott! We are focused on exceeding expectations like yours, and we’re glad to hear we hit the mark for you.
+Thanks for the positive review, Scott! We are focused on exceeding expectations like yours, and we're glad to hear we hit the mark for you.
 
 
 Glenn Davis
@@ -559,7 +559,7 @@ Glenn Davis
 
 3 years ago
 Response from the owner 3 years ago
-Glenn, thanks for your positive feedback! We’re so glad you had a great experience with us. We’re thrilled that you chose C&F Mortgage to assist you in financing your home!
+Glenn, thanks for your positive feedback! We're so glad you had a great experience with us. We're thrilled that you chose C&F Mortgage to assist you in financing your home!
 
 
 Terry Green
@@ -572,7 +572,7 @@ Terry Green
 
 3 years ago
 Response from the owner 3 years ago
-Terry, thanks for your positive feedback! We’re so glad you had a great experience with us!
+Terry, thanks for your positive feedback! We're so glad you had a great experience with us!
 
 
 jon miles
@@ -585,7 +585,7 @@ jon miles
 
 3 years ago
 Response from the owner 3 years ago
-Jon, thanks for your positive feedback! We’re so glad you had a great experience with us. We’re thrilled that you chose C&F Mortgage to assist you in financing your home.
+Jon, thanks for your positive feedback! We're so glad you had a great experience with us. We're thrilled that you chose C&F Mortgage to assist you in financing your home.
 
 
 eliud ruiz
@@ -610,7 +610,7 @@ Sara Sosebee
 
 3 years ago
 Response from the owner 3 years ago
-Sara, thanks for your positive feedback! We’re so glad you had a great experience with C&F Mortgage. Thanks again!
+Sara, thanks for your positive feedback! We're so glad you had a great experience with C&F Mortgage. Thanks again!
 
 
 justin72036

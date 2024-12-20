@@ -125,7 +125,7 @@ Leeonnas Richardson has truly displayed the definition of what excellent Custome
 
 I then reached out to him again in November to assist with another client I was working with. And again, he conveyed top-notch professionalism!!  He assisted my client by ensuring she obtained her dream home and was available to answer any questions we had, no matter the time of day!!
 
-I would highly recommend Mr. Richardson to anyone who is in the market to buy a house!  You won’t be disappointed!!
+I would highly recommend Mr. Richardson to anyone who is in the market to buy a house!  You won't be disappointed!!
 
 
 1
@@ -161,7 +161,7 @@ Nicholas Washington
 
 
 2 months ago
-Leeonnas is probably one of the best lender I have ever worked with. He went above and beyond to  get this deal done for my family. Thanks for everything and if you’re in need of a lender please use him!
+Leeonnas is probably one of the best lender I have ever worked with. He went above and beyond to  get this deal done for my family. Thanks for everything and if you're in need of a lender please use him!
 
 
 1
@@ -179,7 +179,7 @@ NaturallyEngineered
 
 
 a year ago
-Earlier this year my husband and I took on the task of building a custom home. As interest rates increased, so did our anxiety with worries of affordability.  Leeonnas put our minds at ease when he was able to lock in an affordable interest rate despite market volatility.  His knowledge, expertise and professionalism is unmatched.  Can’t thank him enough for how he seamlessly walked us through the buying process.  He really helped make our family’s dream a reality!  We love our new home!
+Earlier this year my husband and I took on the task of building a custom home. As interest rates increased, so did our anxiety with worries of affordability.  Leeonnas put our minds at ease when he was able to lock in an affordable interest rate despite market volatility.  His knowledge, expertise and professionalism is unmatched.  Can't thank him enough for how he seamlessly walked us through the buying process.  He really helped make our family's dream a reality!  We love our new home!
 
 
 
@@ -270,7 +270,7 @@ shonda seuga
 
 
 a year ago
-Mr. Richardson was a carefully placed piece of a missing part of this puzzle called “home ownership.” He provided all the borders, filled in the empty spaces so I could see a clear picture. His service is provided basically 24/7. Anytime I text or called the response was immediate. He is about his business and his priority is his clients. He makes it happen!!  There were some documents I had not submitted prior to closing on my house. He was very helpful and walked me through the process of submitting said documents to get me to closing!! He calms your fears and makes you feel comfortable in your decision. I appreciate everything he has done and will continue to do for me and my family!!   I’m tired of this third party stuff!! You are amazing!! I appreciate you beyond imagination!! Thank you!!
+Mr. Richardson was a carefully placed piece of a missing part of this puzzle called "home ownership." He provided all the borders, filled in the empty spaces so I could see a clear picture. His service is provided basically 24/7. Anytime I text or called the response was immediate. He is about his business and his priority is his clients. He makes it happen!!  There were some documents I had not submitted prior to closing on my house. He was very helpful and walked me through the process of submitting said documents to get me to closing!! He calms your fears and makes you feel comfortable in your decision. I appreciate everything he has done and will continue to do for me and my family!!   I'm tired of this third party stuff!! You are amazing!! I appreciate you beyond imagination!! Thank you!!
 
 
 
@@ -343,7 +343,7 @@ Vushunda Clark
 
 
 2 years ago
-I had the most wonderful experience with Mr. Leeonnas Richardson and Cross Country Equity. My home buying experience can be described using one word.. “FAVOR”. Leeonnas is the GOAT!! Y’all, from  start to finish he was professional, prompt, courteous, diligent, patient and absolute  excelled in communicating every detail regarding the process. I can’t thank him enough for his expertise execution.
+I had the most wonderful experience with Mr. Leeonnas Richardson and Cross Country Equity. My home buying experience can be described using one word.. "FAVOR". Leeonnas is the GOAT!! Y'all, from  start to finish he was professional, prompt, courteous, diligent, patient and absolute  excelled in communicating every detail regarding the process. I can't thank him enough for his expertise execution.
 
 
 
@@ -380,7 +380,7 @@ Carolyn Gay
 
 
 a year ago
-We had the absolute best experience purchasing our home through Cross Country Equity, LLC. Our personal Loan Officer was Mr. Leeonnas Richardson.  He was very professional, respectful, and the young man is one of the smartest financial officers we have ever dealt with during any financial transactions we have made throughout our lives.  Leeonnas understands that the home loan process is stressful and requires a lot of paperwork that can sometimes be difficult to understand.  So , not only would he send us an email explaining every document he would send to us, but, he called us prior to sending the emailed documents to explain to us exactly what each document contained and how we were to proceed in completing them as well. Every time we called Leeonnas with questions (which was a lot), he responded immediately.  In addition to the wonderful things we have already said about Leeonnas, the best and most important attributes he possesses are his honesty, his ability to keep his word, and to always follow through on everything that he said he would do for us.  The qualities that Leeonnas possesses are very rare in the world today, especially in the financial industry.  Overall, we have absolutely no complaints about our experiences with Leeonnas and Cross Country Equity.  In fact, we highly recommend them to anyone interested in purchasing a home in this stressful homebuyer’s market.
+We had the absolute best experience purchasing our home through Cross Country Equity, LLC. Our personal Loan Officer was Mr. Leeonnas Richardson.  He was very professional, respectful, and the young man is one of the smartest financial officers we have ever dealt with during any financial transactions we have made throughout our lives.  Leeonnas understands that the home loan process is stressful and requires a lot of paperwork that can sometimes be difficult to understand.  So , not only would he send us an email explaining every document he would send to us, but, he called us prior to sending the emailed documents to explain to us exactly what each document contained and how we were to proceed in completing them as well. Every time we called Leeonnas with questions (which was a lot), he responded immediately.  In addition to the wonderful things we have already said about Leeonnas, the best and most important attributes he possesses are his honesty, his ability to keep his word, and to always follow through on everything that he said he would do for us.  The qualities that Leeonnas possesses are very rare in the world today, especially in the financial industry.  Overall, we have absolutely no complaints about our experiences with Leeonnas and Cross Country Equity.  In fact, we highly recommend them to anyone interested in purchasing a home in this stressful homebuyer's market.
 
 Thank you Leeonnas and Cross Country Equity, LLC.  It was a pleasure doing business with you.
 
@@ -514,7 +514,7 @@ Keshia Hines
 
 
 2 years ago
-My lending officer, Leeonnas Richardson was truly amazing and such a blessing. Even before I actually applied for my home loan, he was very responsive and helpful with any concerns or questions I had. Once I applied and was approved for my loan he was there to answer any questions and encouraging every step of the way while I was searching for a home in a competitive market. He truly worked overtime to get everything approved and processed in a timely manner. The most important attribute Mr. Richardson possesses is that he genuinely cares about the customer’s individual needs and concerns. I truly believe he’s very passionate about each and every customer.  I highly recommend. And I look forward to working with Mr. Richardson in the future.
+My lending officer, Leeonnas Richardson was truly amazing and such a blessing. Even before I actually applied for my home loan, he was very responsive and helpful with any concerns or questions I had. Once I applied and was approved for my loan he was there to answer any questions and encouraging every step of the way while I was searching for a home in a competitive market. He truly worked overtime to get everything approved and processed in a timely manner. The most important attribute Mr. Richardson possesses is that he genuinely cares about the customer's individual needs and concerns. I truly believe he's very passionate about each and every customer.  I highly recommend. And I look forward to working with Mr. Richardson in the future.
 Positive
 Responsiveness, Quality, Professionalism, Value
 
@@ -590,7 +590,7 @@ Tiffany Davis
 
 
 2 years ago
-We had the pleasure of working with Leeonnas Richardson with the purchase of our new home. We attempted to go through another lender but they would have taken to long so we found Mr. Richardson. Not only was he able to get our loan processed weeks sooner than the other lender, he found us a better rate. He is quick to respond to any issues or concerns we had. He also gave us plenty of resources to assist with the process along the way. We couldn’t have been happier to work with him with the purchase of our new home and will absolutely use him in the future!
+We had the pleasure of working with Leeonnas Richardson with the purchase of our new home. We attempted to go through another lender but they would have taken to long so we found Mr. Richardson. Not only was he able to get our loan processed weeks sooner than the other lender, he found us a better rate. He is quick to respond to any issues or concerns we had. He also gave us plenty of resources to assist with the process along the way. We couldn't have been happier to work with him with the purchase of our new home and will absolutely use him in the future!
 
 
 2
@@ -723,7 +723,7 @@ Queirra Jones
 
 
 4 years ago
-Mr Leeonnas was great from start to finish in helping with our home buyers process! He is completely down to earth and let me know that if I ever had any questions about the process to never hesitate to call him, he was there to put my mind at ease and let me know that he was working hard to put me and my family into our home! I’m forever thankful for all his hard work!! If you need a lender he is Definitely the man for the job! Looking forward to working with him again in the near future!
+Mr Leeonnas was great from start to finish in helping with our home buyers process! He is completely down to earth and let me know that if I ever had any questions about the process to never hesitate to call him, he was there to put my mind at ease and let me know that he was working hard to put me and my family into our home! I'm forever thankful for all his hard work!! If you need a lender he is Definitely the man for the job! Looking forward to working with him again in the near future!
 
 
 1
@@ -759,7 +759,7 @@ Sunset Kayla
 
 
 5 years ago
-Leeonnas Richardson made my experience buying an house easier. He was there to answer every question i had. He always called me back & was very knowledgeable about everything. He wanted me to be comfortable with my loan & he made sure i understood everything! He told me exactly what to do to be able to be a homeowner and i did exactly what he said & now I’m a homeowner! After having bad experiences in the past with lenders he was the best! And i would recommend him to anyone buying a home! Thanks Cross Country Equity!
+Leeonnas Richardson made my experience buying an house easier. He was there to answer every question i had. He always called me back & was very knowledgeable about everything. He wanted me to be comfortable with my loan & he made sure i understood everything! He told me exactly what to do to be able to be a homeowner and i did exactly what he said & now I'm a homeowner! After having bad experiences in the past with lenders he was the best! And i would recommend him to anyone buying a home! Thanks Cross Country Equity!
 
 
 Like
@@ -817,7 +817,7 @@ Ebony
 
 
 4 years ago
-Mr. Richardson truly made the impossible happen! He was very thorough, patient, professional and knowledgeable about the process. He kept in constant contact with me from beginning to end. I am beyond grateful and thankful for being referred to Mr. Richardson! This has been an amazing experience! I called expected to be told no, but was able to go from contract to close in 20 days thanks to Mr. Richardson! I have the house I want with a great fixed rate! I couldn’t be happier!
+Mr. Richardson truly made the impossible happen! He was very thorough, patient, professional and knowledgeable about the process. He kept in constant contact with me from beginning to end. I am beyond grateful and thankful for being referred to Mr. Richardson! This has been an amazing experience! I called expected to be told no, but was able to go from contract to close in 20 days thanks to Mr. Richardson! I have the house I want with a great fixed rate! I couldn't be happier!
 
 
 1
@@ -1411,7 +1411,7 @@ Carlos George
 
 
 2 years ago
-Leeonas and his team was a pleasure to work with. They took the fear out of buying a home. I’ve started this process a few times over the years and never crossed the finish line due to the process seeming so long, difficult and scary. Well after 20 years thanks to Leeonas and his team I am now a home owner! Leeonas went above and beyond to help and to answer questions and to clarify when needed to help streamline this process and get me closed quickly. If you’re looking for someone that really takes pride in what they do and that will put you first then contact Leeonas and his team today.
+Leeonas and his team was a pleasure to work with. They took the fear out of buying a home. I've started this process a few times over the years and never crossed the finish line due to the process seeming so long, difficult and scary. Well after 20 years thanks to Leeonas and his team I am now a home owner! Leeonas went above and beyond to help and to answer questions and to clarify when needed to help streamline this process and get me closed quickly. If you're looking for someone that really takes pride in what they do and that will put you first then contact Leeonas and his team today.
 
 
 1
@@ -1486,7 +1486,7 @@ Shakira Merrells
 
 
 4 years ago
-From the time I applied for my loan and until closing Mr. Richardson ensured I was squared away. He was very thorough explaining every detail of the process. My home buying  experience was smooth and stress free. I highly recommend Mr. Richardson to anyone looking to buy a home. You won’t be disappointed!!!!
+From the time I applied for my loan and until closing Mr. Richardson ensured I was squared away. He was very thorough explaining every detail of the process. My home buying  experience was smooth and stress free. I highly recommend Mr. Richardson to anyone looking to buy a home. You won't be disappointed!!!!
 
 
 1
@@ -1504,7 +1504,7 @@ K
 
 
 3 years ago
-Leeonnas is AMAZING! My husband and I had such a swift easy breezy experience during this entire process! I remember him from being at a vast majority of our Realtors open houses and being just as personable and accommodating then as he was during our home buying process! I remember on our closing day how genuinely happy he was for us and I quote he said “Congratulations #TeamMcNear you guys have a beautiful first home and a heck of a first home at that!  He is truly dedicated to providing the best experience and taking the stress, worry, and fear away. When we first began our journey we were so nervous and didn’t know what to expect however, working with Leeonnas honestly felt like a walk in the park. He was very detailed oriented, responsive, timely, accurate, and prompt. He made sure we knew everything we needed to know before we agreed to anything. He explained what we were signing and why and mentioned on numerous occasions that if we didn’t understand something call him and he would explain and ease our fears. He was a pleasure to communicate with and did I mention personable ?! Even after the home buying process he is still available to answer any questions we have. I will recommend him and our realtor to anyone trying to buy a home, property, or anywhere his services can be rendered! Very professional! Oh and did I mention he blessed us with a heck of a housewarming gift!  Thank you so much Leeonnas! We typically don’t say this to people we do business with but you have become family! We love you man! We wish many blessings to you and yours!
+Leeonnas is AMAZING! My husband and I had such a swift easy breezy experience during this entire process! I remember him from being at a vast majority of our Realtors open houses and being just as personable and accommodating then as he was during our home buying process! I remember on our closing day how genuinely happy he was for us and I quote he said "Congratulations #TeamMcNear you guys have a beautiful first home and a heck of a first home at that!  He is truly dedicated to providing the best experience and taking the stress, worry, and fear away. When we first began our journey we were so nervous and didn't know what to expect however, working with Leeonnas honestly felt like a walk in the park. He was very detailed oriented, responsive, timely, accurate, and prompt. He made sure we knew everything we needed to know before we agreed to anything. He explained what we were signing and why and mentioned on numerous occasions that if we didn't understand something call him and he would explain and ease our fears. He was a pleasure to communicate with and did I mention personable ?! Even after the home buying process he is still available to answer any questions we have. I will recommend him and our realtor to anyone trying to buy a home, property, or anywhere his services can be rendered! Very professional! Oh and did I mention he blessed us with a heck of a housewarming gift!  Thank you so much Leeonnas! We typically don't say this to people we do business with but you have become family! We love you man! We wish many blessings to you and yours!
 Positive
 Responsiveness, Quality, Professionalism, Value
 
@@ -1566,7 +1566,7 @@ Ambria A.
 
 
 4 years ago
-Buying a home can be a very stressful time when common terms and stages, of the process, are not understood by the buyer. However, I’m honored to say that wasn’t my experience! Leeonnas was such a pleasure to work with and made the process as smooth and stress free as possible. He went above and beyond to ensure that I was aware of everything going on prior to closing and I couldn’t think of a better representative. Even after closing, he assisted me with additional questions and clarification needed. And the beat part is that he always assisted with the personable demeanor that only he has! Thank you again Leeonnas! 😊
+Buying a home can be a very stressful time when common terms and stages, of the process, are not understood by the buyer. However, I'm honored to say that wasn't my experience! Leeonnas was such a pleasure to work with and made the process as smooth and stress free as possible. He went above and beyond to ensure that I was aware of everything going on prior to closing and I couldn't think of a better representative. Even after closing, he assisted me with additional questions and clarification needed. And the beat part is that he always assisted with the personable demeanor that only he has! Thank you again Leeonnas! 😊
 
 
 1
@@ -1621,7 +1621,7 @@ Debra L. Bowman
 
 
 4 years ago
-Grateful for Mr. L.  Richardson of Cross Country Equity in Shreveport La!  Mr. L. Richardson’s knowledge and professionalism is unmatched. Upon making the decision to purchase a home, I immediately contacted him knowing that  he would get the job done.  I truly recommend Cross Country Equity to anyone seeking the knowledge and expertise needed to close on your new home loan. Your dream can come true too!!!
+Grateful for Mr. L.  Richardson of Cross Country Equity in Shreveport La!  Mr. L. Richardson's knowledge and professionalism is unmatched. Upon making the decision to purchase a home, I immediately contacted him knowing that  he would get the job done.  I truly recommend Cross Country Equity to anyone seeking the knowledge and expertise needed to close on your new home loan. Your dream can come true too!!!
 Positive
 Responsiveness, Quality, Professionalism, Value
 
@@ -1677,7 +1677,7 @@ Marquita Norton
 
 
 5 years ago
-I’ve never seen purchasing a home so easy until we came across Cross Country Equity! The buying process was stress free and Leeonnas Richardson was nothing less of AMAZING! We purchased our first home in 2010 and our SECOND in 2018, both with Cross Country Equity and Leeonnas Richardson walking us through the process! Thanks for making home buying easy!
+I've never seen purchasing a home so easy until we came across Cross Country Equity! The buying process was stress free and Leeonnas Richardson was nothing less of AMAZING! We purchased our first home in 2010 and our SECOND in 2018, both with Cross Country Equity and Leeonnas Richardson walking us through the process! Thanks for making home buying easy!
 
 
 Like
@@ -1695,7 +1695,7 @@ Lakesha Mosley, LPC
 
 
 2 years ago
-Leeonas Richardson got us to the closing table in under a week. He helped us pre-prepare and he worked early and late days to make it happen. The process was confidential, professional, seamless, detailed, easy and with very clear process. Follow his directions and all your home buying dreams will come true. 3rd time working with him and he has our business for the 4th. If your don’t want to feel like a number at a bank call him. You get his direct number and he respond to text messages and emails promptly even on weekends. No question seemed to simple or troublesome to him.  My husband are moving in this weekend!
+Leeonas Richardson got us to the closing table in under a week. He helped us pre-prepare and he worked early and late days to make it happen. The process was confidential, professional, seamless, detailed, easy and with very clear process. Follow his directions and all your home buying dreams will come true. 3rd time working with him and he has our business for the 4th. If your don't want to feel like a number at a bank call him. You get his direct number and he respond to text messages and emails promptly even on weekends. No question seemed to simple or troublesome to him.  My husband are moving in this weekend!
 Positive
 Responsiveness, Professionalism, Value
 
@@ -1715,7 +1715,7 @@ NaQuita Webb
 
 
 2 years ago
-My husband and I are forever grateful to Leeonnas and his team! As we began this process, I prayed to God to send us help (Psalm 20:2)  and he honored this prayer by sending Leeonnas across our path (literally riding his bike down Pines Rd). I told my husband this was “a sign“. Just shortly after seeing him, he called my husband and jokingly we told him we‘d be talking to him soon.  That was the beginning of an awesome journey that brought us to our closing date orchestrated by God! Leeonnas is GREAT at what he does and he’ll tell you “this is what I do!” He is truly a Godsend to us, walking us through this process step by step and answering ALL of my questions and concerns! We can’t thank him enough for all he has done for our family. We are forever GRATEFUL!
+My husband and I are forever grateful to Leeonnas and his team! As we began this process, I prayed to God to send us help (Psalm 20:2)  and he honored this prayer by sending Leeonnas across our path (literally riding his bike down Pines Rd). I told my husband this was "a sign". Just shortly after seeing him, he called my husband and jokingly we told him we'd be talking to him soon.  That was the beginning of an awesome journey that brought us to our closing date orchestrated by God! Leeonnas is GREAT at what he does and he'll tell you "this is what I do!" He is truly a Godsend to us, walking us through this process step by step and answering ALL of my questions and concerns! We can't thank him enough for all he has done for our family. We are forever GRATEFUL!
 
 
 1
@@ -1769,7 +1769,7 @@ Demetria Fredrick
 
 
 4 years ago
-Mr. Richardson’s is professional and knowledgeable. The communication and customer service was impeccable. He was able to keep me at ease throughout the entire process. I’d definitely recommend him for your home buying needs.
+Mr. Richardson's is professional and knowledgeable. The communication and customer service was impeccable. He was able to keep me at ease throughout the entire process. I'd definitely recommend him for your home buying needs.
 
 
 1
@@ -1787,7 +1787,7 @@ romedro davis
 
 
 2 years ago
-If your looking for someone who will be there for you and available morning , noon and night to make sure your Clear to Close , Leeonnas Richardson at Countrywide Mortgage is the perfect person . He wants what’s best for you and your family. He makes sure the best deal is made along with the lowest interest rate . Me and my wife made it to the closing table in 5 days yes ! Five days .. Thank you Mr. Richardson
+If your looking for someone who will be there for you and available morning , noon and night to make sure your Clear to Close , Leeonnas Richardson at Countrywide Mortgage is the perfect person . He wants what's best for you and your family. He makes sure the best deal is made along with the lowest interest rate . Me and my wife made it to the closing table in 5 days yes ! Five days .. Thank you Mr. Richardson
 
 
 1
@@ -1843,7 +1843,7 @@ Keshia Carhee
 
 
 4 years ago
-Mr. Richardson’s communication and customer service was impeccable. He was very professional and knowledgeable about the home buying and lending process. I definitely recommend him for your home buying needs and I plan to use him again.
+Mr. Richardson's communication and customer service was impeccable. He was very professional and knowledgeable about the home buying and lending process. I definitely recommend him for your home buying needs and I plan to use him again.
 
 
 1
@@ -1881,7 +1881,7 @@ Brianna Smith
 
 
 5 years ago
-I am realtor in Baton Rouge, La and I’ve had the pleasure of working with Leeonnas Richardson at Cross Country Equity. I have closed 3 houses with  Mr.Richardson and there were no problems. I still use Mr.Richardson as my primary lender to this day. I would strongly recommend Cross Country Equity and their services!
+I am realtor in Baton Rouge, La and I've had the pleasure of working with Leeonnas Richardson at Cross Country Equity. I have closed 3 houses with  Mr.Richardson and there were no problems. I still use Mr.Richardson as my primary lender to this day. I would strongly recommend Cross Country Equity and their services!
 
 
 Like
@@ -2013,7 +2013,7 @@ Local Guide · 35 reviews
 
 
 2 years ago
-It was a great pleasure working with Mr. Richardson. It wasn’t a easy process, but he never gave up and he continued to fight this entire time. The level of professionalism and communication was awesome. I would definitely recommend and refer.
+It was a great pleasure working with Mr. Richardson. It wasn't a easy process, but he never gave up and he continued to fight this entire time. The level of professionalism and communication was awesome. I would definitely recommend and refer.
 
 
 1
@@ -2105,7 +2105,7 @@ Michael Price
 
 
 3 years ago
-Leonnas Richardson was the best ever!!! He made the process easy and he is very informative. I wouldn’t have had it any other way for my first house buying experience. Thank you sooo much!!!!
+Leonnas Richardson was the best ever!!! He made the process easy and he is very informative. I wouldn't have had it any other way for my first house buying experience. Thank you sooo much!!!!
 
 
 1
@@ -2299,7 +2299,7 @@ Justina Bates
 
 
 3 years ago
-We are very happy what Mr. Richardson have done for us. He will fight for you to make sure everything goes smooth. If you are ready to purchase a home he’s your guy. Thanks so much The Bates
+We are very happy what Mr. Richardson have done for us. He will fight for you to make sure everything goes smooth. If you are ready to purchase a home he's your guy. Thanks so much The Bates
 Positive
 Quality
 
@@ -2337,7 +2337,7 @@ Patrick Igbokwe
 
 
 3 years ago
-I’m a first time homeowner, so this experience has been brand new for me. I was recommended to use Mr. Gary Moore at Cross Country Equity as my mortgage broker, and I’m so happy I did. Being a former doctoral student, a graduated with a … More
+I'm a first time homeowner, so this experience has been brand new for me. I was recommended to use Mr. Gary Moore at Cross Country Equity as my mortgage broker, and I'm so happy I did. Being a former doctoral student, a graduated with a … More
 
 
 1
@@ -2486,8 +2486,8 @@ Jacquelyn Denby
 
 
 2 years ago
-There probably isn’t enough room to share my thoughts regarding Mr. Gary Moore and Cross Country Equity. I was connected to him through my Realtor with a simple introduction “Call him, He will help you get pre-qualified.” From the first time I met him until “closing” on our new home Mr. Moore went from “Lender” to “Family.” Professional, Courteous,
-Knowledgeable, Committed, and most of all Caring, are just a few words I can use to honestly describe Mr. Moore which I believe are also reflective of the Company and his work ethic. Our home buying experience was nothing short of a MIRACLE and the hard work, long hours, “crossing t’s and dotting i’s was certainly a very large part of it. We are eternally grateful that we met and were connected to Mr. Moore and Cross Country Equity for the purchase of our new home and recommend them to anyone who is looking for a quality home buying experience!
+There probably isn't enough room to share my thoughts regarding Mr. Gary Moore and Cross Country Equity. I was connected to him through my Realtor with a simple introduction "Call him, He will help you get pre-qualified." From the first time I met him until "closing" on our new home Mr. Moore went from "Lender" to "Family." Professional, Courteous,
+Knowledgeable, Committed, and most of all Caring, are just a few words I can use to honestly describe Mr. Moore which I believe are also reflective of the Company and his work ethic. Our home buying experience was nothing short of a MIRACLE and the hard work, long hours, "crossing t's and dotting i's was certainly a very large part of it. We are eternally grateful that we met and were connected to Mr. Moore and Cross Country Equity for the purchase of our new home and recommend them to anyone who is looking for a quality home buying experience!
 Positive
 Responsiveness, Quality, Professionalism
 
@@ -2525,7 +2525,7 @@ matedrial barrett
 
 
 2 years ago
-Mr. Richardson was great! He’s very knowledgeable, patient, & understanding. He takes his time to break down everything & was always there to answer any questions I’ve had.
+Mr. Richardson was great! He's very knowledgeable, patient, & understanding. He takes his time to break down everything & was always there to answer any questions I've had.
 Positive
 Professionalism
 
@@ -2545,7 +2545,7 @@ Joanelle Bradley
 
 
 2 years ago
-Leeonas was so helpful! He is very knowledgeable, patient and thorough! Every question was answered timely and efficiently. Anything I needed, he was always available. I highly recommend this company and Leeonas! I’m very satisfied with the services I received.
+Leeonas was so helpful! He is very knowledgeable, patient and thorough! Every question was answered timely and efficiently. Anything I needed, he was always available. I highly recommend this company and Leeonas! I'm very satisfied with the services I received.
 Positive
 Responsiveness, Quality, Professionalism, Value
 
@@ -2565,7 +2565,7 @@ Krystel Hurd
 
 
 5 years ago
-Leeonnas was amazing to work with! He stayed in touch with me throughout the entire process and reassured me that I’d get my house. 5 stars aren’t enough! I’d give 10 stars!
+Leeonnas was amazing to work with! He stayed in touch with me throughout the entire process and reassured me that I'd get my house. 5 stars aren't enough! I'd give 10 stars!
 
 
 Like

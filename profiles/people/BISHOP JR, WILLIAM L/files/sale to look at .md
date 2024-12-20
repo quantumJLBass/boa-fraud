@@ -1,5 +1,5 @@
 TRUSTEE'S SALE
-NOTICE OF TRUSTEE’S
+NOTICE OF TRUSTEE'S
 SALE NOTICE: WE MAY BE
 ACTING AS A DEBT COLLECTOR.
 THIS COMMUNICATION
@@ -41,7 +41,7 @@ for purposes of compliance
 with Section 60-113 Idaho
 Code, the Trustee has been
 informed that according to
-the Benewah County Assessor’s
+the Benewah County Assessor's
 office, the address of 10
 Third Street, Fernwood, ID
 83830, is sometimes associated
@@ -138,14 +138,14 @@ in breach of the terms and
 conditions of the obligation
 secured by the deed of trust.
 The nature of the breach
-is Grantor’s failure to pay
+is Grantor's failure to pay
 when due the monthly payments
 of principal, interest
 applicable escrow account
 payments from June 1, 2023,
 together with all subsequent
 payments, costs, advances,
-attorney’s and trustee’s
+attorney's and trustee's
 fees and costs accruing until
 the date of sale, full satisfaction,
 or reinstatement of
@@ -160,8 +160,8 @@ amounts are now
 due, together with accruing
 late charges and interest,
 unpaid and accruing taxes,
-assessments, trustee’s fees,
-attorney’s fees, and any
+assessments, trustee's fees,
+attorney's fees, and any
 amounts advanced to protect
 the security associated
 with this foreclosure. DATED:
@@ -190,13 +190,13 @@ BUCKET TRUCK AVAILABLE
 FOR ALL OVERHEAD NEEDS
 (208) 245-3890
 Big or small, we do them all!
-“Where others have their branches,
-we have our roots.”
+"Where others have their branches,
+we have our roots."
 129 S. 9th Street, St. Maries
 (208) 245-4231
 www.stjoevalleycu.com
 Your savings insured to $250,000 per account.
-By members’ choice, this institution is not federally insured.
+By members' choice, this institution is not federally insured.
 Locally Owned and Operated
 JOEL & NANCY MALENSKY
 (208) 245-3471

@@ -33,7 +33,7 @@ disableCollapseIcon: true
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID 83501]]
+- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Loan Servicer
 - **Name**: [[CARRINGTON MORTGAGE SERVICES, LLC]] (CMS)
@@ -57,7 +57,7 @@ To provide short-term relief by suspending monthly mortgage payments for borrowe
 
 ## Forbearance Plan Highlights
 1. **Payment Suspension**: Regular monthly mortgage payments are suspended for three months.
-2. **Eligibility**: Based on the borrower’s affirmation of financial impact due to the COVID-19 pandemic (e.g., loss of income, reduction of income, illness).
+2. **Eligibility**: Based on the borrower's affirmation of financial impact due to the COVID-19 pandemic (e.g., loss of income, reduction of income, illness).
 3. **Non-Forgiveness**: Payments suspended during the forbearance period are not forgiven and must be repaid.
 4. **Extension**: Option to extend the forbearance for an additional three months upon continued financial hardship affirmation.
 5. **Credit Reporting**:

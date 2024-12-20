@@ -44,7 +44,7 @@ Bby Panther
 
 
 7 months ago
-Said we qualify but they because it was a landlord issue denied us. Even with the landlord doing very illegal things. Never go here for landlord issues, you’ll just be turned away.
+Said we qualify but they because it was a landlord issue denied us. Even with the landlord doing very illegal things. Never go here for landlord issues, you'll just be turned away.
 
 
 Like

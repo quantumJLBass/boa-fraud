@@ -115,7 +115,7 @@ James Perry
 
 
 3 years ago
-I was referred to Lisa by another client but my experience was not as expected. The initial call went great but after we sent all of our tax info and she confirmed receipt, 4 weeks of silence went by. I followed up on April 9th and she stated my taxes would be done this weekend. 2 1/2 weeks later I decided to follow up again to learn that she hasn’t started on my taxes. I believe she may be great at tax preparation but lack of follow up for a new client was disappointing. My wife and I decided to go with another preparer.
+I was referred to Lisa by another client but my experience was not as expected. The initial call went great but after we sent all of our tax info and she confirmed receipt, 4 weeks of silence went by. I followed up on April 9th and she stated my taxes would be done this weekend. 2 1/2 weeks later I decided to follow up again to learn that she hasn't started on my taxes. I believe she may be great at tax preparation but lack of follow up for a new client was disappointing. My wife and I decided to go with another preparer.
 Negative
 Responsiveness
 
@@ -137,7 +137,7 @@ Wil Thomas
 5 years ago
 Lisa is always so meticulous, professional and beyond pleasant to work with! I always have the utmost confidence that my tax return is being prepared accurately and with an attention to detail.
 
-At my first appointment with Rowland Alexander, Lisa found an error that a previous “national brand” tax preparer had made on my return and it resulted in a sizable refund.
+At my first appointment with Rowland Alexander, Lisa found an error that a previous "national brand" tax preparer had made on my return and it resulted in a sizable refund.
 
 Thank you!
 
@@ -177,7 +177,7 @@ Jeffrey Robertson
 
 
 5 years ago
-After moving my family and business from Prescott to the Old Pueblo I needed a top notch accounting firm to handle my Video Production business, rental properties and Airbnb. I discovered Rowland Alexander and I’m pretty sure I lucked into the best that Tucson has to offer. Lisa and Manu quickly respond to my emails or calls, their advice is thorough and detailed and they both understand my need for a sense of humor and patience. My tax returns are clean, finished quickly and meticulously prepared, and I feel confident that I would be well represented in an audit. When the bill arrives I am always pleasantly surprised and feel I got much more value than I paid for.
+After moving my family and business from Prescott to the Old Pueblo I needed a top notch accounting firm to handle my Video Production business, rental properties and Airbnb. I discovered Rowland Alexander and I'm pretty sure I lucked into the best that Tucson has to offer. Lisa and Manu quickly respond to my emails or calls, their advice is thorough and detailed and they both understand my need for a sense of humor and patience. My tax returns are clean, finished quickly and meticulously prepared, and I feel confident that I would be well represented in an audit. When the bill arrives I am always pleasantly surprised and feel I got much more value than I paid for.
 If you are looking for a talented, personal and professional firm, I believe you will be very happy with Rowland Alexander.
 Jeff Robertson
 
@@ -272,7 +272,7 @@ Erik Endert
 
 
 4 years ago
-I worked with Ms. Alexander regarding tax implications for a first time home purchase. All correspondence, was quick and thorough. I will certainly be using Rowland Alexander in the future. I’ve sought help at big box style tax service companies, and there is no way they can match Rowland Alexander’s service.
+I worked with Ms. Alexander regarding tax implications for a first time home purchase. All correspondence, was quick and thorough. I will certainly be using Rowland Alexander in the future. I've sought help at big box style tax service companies, and there is no way they can match Rowland Alexander's service.
 
 
 Like

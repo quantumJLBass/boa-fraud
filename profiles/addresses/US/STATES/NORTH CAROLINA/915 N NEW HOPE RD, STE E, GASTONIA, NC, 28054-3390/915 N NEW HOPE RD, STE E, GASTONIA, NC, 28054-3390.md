@@ -226,7 +226,7 @@ Dani Wheeler
 
 2 months ago
 Jog, run, SPRINT and GO SOMEWHERE ELSE!!!!!
-If you are of any minority or LGBTQ don’t even waist your time with this company. The moment my wife said “my partner”, everything changed.  They are extremely discriminating and will not accept you even if you provide ALL required information and more. We even offered above asking rental price and to put more money down on the deposit. Tammy was extremely unprofessional when speaking to us. We were told none of our documents provided would be accepted because we are household staff and don’t have “real jobs”. She even hung up on us and avoided our calls. This entire office is unprofessional, hateful, and discriminatory.
+If you are of any minority or LGBTQ don't even waist your time with this company. The moment my wife said "my partner", everything changed.  They are extremely discriminating and will not accept you even if you provide ALL required information and more. We even offered above asking rental price and to put more money down on the deposit. Tammy was extremely unprofessional when speaking to us. We were told none of our documents provided would be accepted because we are household staff and don't have "real jobs". She even hung up on us and avoided our calls. This entire office is unprofessional, hateful, and discriminatory.
 
 
 1
@@ -280,7 +280,7 @@ Local Guide · 36 reviews · 3 photos
 
 
 7 months ago
-Great company to use for managing your rentals! They make everything hassle free and for a reasonable monthly fee. We’re working with Leighton specifically and he has always been responsive and patient
+Great company to use for managing your rentals! They make everything hassle free and for a reasonable monthly fee. We're working with Leighton specifically and he has always been responsive and patient
 
 
 Like
@@ -298,7 +298,7 @@ Dani
 
 
 2 months ago
-DISCRIMINATION AT IT’S FINEST
+DISCRIMINATION AT IT'S FINEST
 This company will not rent to minorities or any of the LGBTQ community even if you provide all required documentation.
 
 
@@ -397,9 +397,9 @@ Chase Perry
 
 
 a year ago
-Was approved with another company for a 1200 townhome but I turned it down cause I just knew I’d be approved for providence managements townhome on Avalon in Lowell. Which were only 1195 a month.
-Nope denied even though I’m currently paying 1695 a month where I’m at.
-And when you get denied they tell you to come up to the office as they can’t tell you over the phone only to get to the office and they hand you a paper and say call them they will explain why. THEN CALL THE company to call only to be told they will have too mail you out a paper explaining why!!!!! Soooooooooo soooo ridiculous I do NOT recommend. Horrible experience $300 down the drain in application fees because I passed up the home I was actually approved for for these because I had just been approved with another company. Sad.
+Was approved with another company for a 1200 townhome but I turned it down cause I just knew I'd be approved for providence managements townhome on Avalon in Lowell. Which were only 1195 a month.
+Nope denied even though I'm currently paying 1695 a month where I'm at.
+And when you get denied they tell you to come up to the office as they can't tell you over the phone only to get to the office and they hand you a paper and say call them they will explain why. THEN CALL THE company to call only to be told they will have too mail you out a paper explaining why!!!!! Soooooooooo soooo ridiculous I do NOT recommend. Horrible experience $300 down the drain in application fees because I passed up the home I was actually approved for for these because I had just been approved with another company. Sad.
 
 
 6
@@ -443,7 +443,7 @@ YumeSubie
 
 
 3 years ago
-Me and my girlfriend put in an application for an apartment with them which is a 50$ fee each. We were the first applicants and they told us to wait on the deposit because there were no other applicants and that they would call us if approved. Got a call this morning about signing the lease tmr. I call again later at 4:30pm and they say that someone came by this morning and put an application in and a deposit and they get the house instantly. There’s no way a background check was ran that fast, and it was very unprofessional to call and let us know we got approved just to disappoint us later on in the day.  100$ completely scammed from us. I have 5x the rent and deposit I was willing to put down. Don’t work with these people. They tell you one thing and then another.
+Me and my girlfriend put in an application for an apartment with them which is a 50$ fee each. We were the first applicants and they told us to wait on the deposit because there were no other applicants and that they would call us if approved. Got a call this morning about signing the lease tmr. I call again later at 4:30pm and they say that someone came by this morning and put an application in and a deposit and they get the house instantly. There's no way a background check was ran that fast, and it was very unprofessional to call and let us know we got approved just to disappoint us later on in the day.  100$ completely scammed from us. I have 5x the rent and deposit I was willing to put down. Don't work with these people. They tell you one thing and then another.
 Negative
 Responsiveness, Professionalism
 
@@ -463,7 +463,7 @@ Fae A-P
 
 
 2 years ago
-DO NOT RENT FROM THIS COMPANY! They are so slow to fix anything and quick to add a late fee or increase in already overpriced rental agreements for dilapidated and outdated  houses that they just slapped fresh paint on. IT IS NOT WORTH THE HIGH BLOOD PRESSURE OR HEADACHE. And then if you wanna file a grievance, save your breath. The woman who answers the phone will tell you that they don’t have a corporate office and the person you file a grievance with, is the main person causing the grievance! Not to mention they’ll take their time and create any excuse and exploit any loophole to not return your deposit.
+DO NOT RENT FROM THIS COMPANY! They are so slow to fix anything and quick to add a late fee or increase in already overpriced rental agreements for dilapidated and outdated  houses that they just slapped fresh paint on. IT IS NOT WORTH THE HIGH BLOOD PRESSURE OR HEADACHE. And then if you wanna file a grievance, save your breath. The woman who answers the phone will tell you that they don't have a corporate office and the person you file a grievance with, is the main person causing the grievance! Not to mention they'll take their time and create any excuse and exploit any loophole to not return your deposit.
 Negative
 Quality
 
@@ -586,7 +586,7 @@ Moriah Shae
 
 5 years ago
 This leasing company is HORRIBLE!!! The lady at the office with the black Dora the explore looking haircut is SOOOOO RUDE! Me and my husband did a walk through BY OURSELVES (which should never happen) now I know to always make sure the owner is present... well anyway we did a walk through and wrote down everything wrong with the house.. the walls were the main thing we wrote down because they were never painted prior to us moving moving in. My son was never able to take baths because there was no stopper for the tub. We got charged
-For that too.. how can you charge someone when you have it on paper from your walk through? This company will rip you off. It’s a reason why they’re 3 stars.
+For that too.. how can you charge someone when you have it on paper from your walk through? This company will rip you off. It's a reason why they're 3 stars.
 
 
 7
@@ -733,7 +733,7 @@ Macey Perry
 
 a year ago
 They literally make it sooooo hard to qualify for basic townhomes etc.
-we have good credit and income. And still weren’t approved. It just wasn’t meant to be I guess. Oh well.
+we have good credit and income. And still weren't approved. It just wasn't meant to be I guess. Oh well.
 
 
 4

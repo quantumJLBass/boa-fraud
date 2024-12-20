@@ -4,7 +4,7 @@
 
 May 5, 2023
 
-The [chain of title](https://www.investopedia.com/terms/c/chain-of-title.asp) is a list of every property owner, from the first to the present, as well as all of the transactions that have ever been made. You can check there to learn who has owned the property and how it has been transferred. If there are any [liens](https://www.investopedia.com/terms/l/lien.asp) or claims against the title of your property, this is where you should start looking first because it will give you a spot to start investigating and fixing the problem. 
+The [chain of title](https://www.investopedia.com/terms/c/chain-of-title.asp) is a list of every property owner, from the first to the present, as well as all of the transactions that have ever been made. You can check there to learn who has owned the property and how it has been transferred. If there are any [liens](https://www.investopedia.com/terms/l/lien.asp) or claims against the title of your property, this is where you should start looking first because it will give you a spot to start investigating and fixing the problem. 
 
 The legal records that affect a property's ownership, use, and value are all included in the chain of title. These documents consist of:
 
@@ -32,7 +32,7 @@ You should thoroughly examine the chain of title before purchasing or selling a 
 
 A [title](https://indylegal.com/how-title-companies-help-realtors-succeed/) may become unclear in any of these scenarios. As a result of their reluctance to assume this risk, title insurance firms can decide not to cover you or charge you more. Don't freak out if you discover a break in your chain of title. You can fix it by taking certain actions.
 
-#1 To assist you spot any gaps or inconsistencies, start by gathering all the property-related documents that are currently available. After that, use a title business to run a title search to find any gaps or contradictions. 
+#1 To assist you spot any gaps or inconsistencies, start by gathering all the property-related documents that are currently available. After that, use a title business to run a title search to find any gaps or contradictions. 
 
 #2 Check the chain of title for the property to make sure it is correct and identify the place where the break happened.
 
@@ -43,9 +43,9 @@ A [title](https://indylegal.com/how-title-companies-help-realtors-succeed/) may 
 -   You'll need a correction deed if there was a mistake or omission in the earlier deed.
 -   You must bring a quiet title action if there is a break in the chain of title that cannot be repaired in any other way.
 
-#4 To guarantee that the chain of title is complete and that there are no lingering disagreements, record the documents after the mistakes have been fixed with the county recorder's office. 
+#4 To guarantee that the chain of title is complete and that there are no lingering disagreements, record the documents after the mistakes have been fixed with the county recorder's office. 
 
-Having an accurate chain of title is one of the ways you can protect your property, so it is important to make sure there are no breaks. If you’re
+Having an accurate chain of title is one of the ways you can protect your property, so it is important to make sure there are no breaks. If you're
 
 
 

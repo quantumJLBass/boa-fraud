@@ -11,7 +11,7 @@ possibles
 
 
 
-Closed ⋅ Opens 9 AM
+Closed ⋅ Opens 9 AM
 
 See more hours
 
@@ -46,13 +46,13 @@ coldwellbankerhomes.com
 [Abraham.Gleeson@cbburnet.com](mailto:Abraham.Gleeson@cbburnet.com)
 
 - **Phone**
-    - [(651) 329-1990](tel:+1-651-329-1990) _mobile_ 
+    - [(651) 329-1990](tel:+1-651-329-1990) _mobile_ 
 
-    - [(651) 227-9144](tel:+1-651-227-9144) _office_ 
+    - [(651) 227-9144](tel:+1-651-227-9144) _office_ 
 
-    - [(651) 329-1990](tel:+1-651-329-1990) _direct_ 
+    - [(651) 329-1990](tel:+1-651-329-1990) _direct_ 
 
-    - [(651) 329-1990](tel:+1-651-329-1990) _home_ 
+    - [(651) 329-1990](tel:+1-651-329-1990) _home_ 
 
 - - **Market**[Crocus Hill](https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/)**Office**821 Grand Ave, Saint Paul, MN 55105-3311
 
@@ -62,11 +62,11 @@ coldwellbankerhomes.com
 
 - Sales Associate
 - Coldwell Banker Realty
-- License #: 95546
+- License #: 95546
 
     ---
 
-License #: 40429299
+License #: 40429299
 
 - - (651) 227-9144
 
@@ -136,7 +136,7 @@ Saint Paul Real Estate Agents
 
 ](https://www.coldwellbanker.com/city/mn/saint-paul/agents)
 
-##### About Abe
+##### About Abe
 
 Business Philosophy Our business philosophy is simple: We strive to deliver a positive experience for every customer. This is accomplished through the collaborative efforts of our team who are dedicated to the success of your housing transaction. For over 40 years, we've been getting high marks from our home buying and selling customers in Minnesota and western Wisconsin. It is our plan to continue this tradition and we look forward to serving you. Education Being up to date on market trends and the latest industry practices is an important part of our quality customer service delivery. That's why we have a comprehensive education and coaching program with classes taught by experienced real estate industry professionals. Our program runs the gamut from our Foundation Builder program for new sales associates, to our Master's Series courses for our experienced agents. Awards And Designations Coldwell Banker Burnet believes that outstanding sales associate achievement should be recognized. Office-based and company-wide recognition programs call attention to those whose efforts to provide their clients with the highest levels of quality service result in significant sales achievements. These award winners are recognized with membership in various recognition groups, whose names are displayed proudly in their marketing. Areas of Expertise Coldwell Banker Burnet sales associates deliver a true one-stop-shopping experience for home buyers and sellers. These services include the professional coordination of the home search, property marketing, negotiation of purchase or sale, and coordination of closing details. We also offer home financing through Guaranteed Rate Affinity, title insurance and closing through Burnet Title, rental services, and the services of NRT Insurance, and Burnet Relocation. Customers can also access Concierge services through the Home Resource Center. Community Involvement At Coldwell Banker Burnet, we believe in giving back to the communities we serve. This starts with the activities of every individual in our organization. Whether it is coaching youth sports, delivering meals, or supporting the local food shelf, it enhances the quality of life for those in need. We also have formalized community outreach through the Coldwell Banker Burnet Foundation where our mission is to Support housing-related needs of people, at all stages of life, in the communities we serve. Personal Background Every sales associate brings a set of skills that encompasses their unique personal experiences and their educational achievements. This individual background is combined with specialized Coldwell Banker University real estate training to produce highly-competent, well-rounded real estate professionals that are respected in the industry and by their customers. Communities I Serve Coldwell Banker Burnet sales associates serve the entire 13 county twin cities metropolitan area from offices conveniently located throughout the metro. Our metro area coverage includes an office in Hudson, Wisconsin, and we serve a significant portion of western Wisconsin from that office. We also serve the greater Rochester and St. Cloud, Minnesota areas from our offices located in those towns. We are licensed in both Minnesota and Wisconsin and can transact real estate business anywhere in those two states.
 
@@ -393,7 +393,7 @@ Share
 
 
 
-Closed ⋅ Opens 9 AM
+Closed ⋅ Opens 9 AM
 
 [
 
@@ -428,7 +428,7 @@ WVR8+35 St Paul, Minnesota
 
 - Broker
 - Coldwell Banker Realty
-- License #: 40875072
+- License #: 40875072
 
 - - (651) 329-3619
 
@@ -482,7 +482,7 @@ Saint Paul Real Estate Agents
 
 ](https://www.coldwellbanker.com/city/mn/saint-paul/agents)
 
-##### About Mya
+##### About Mya
 
 About Me First licensed in 2002, I have experience assisting clients in the exciting field of residential real estate. Whether you are buying or selling, understanding your housing goals and bringing them to reality is the best part of my job. Just like us, our houses have different characteristics and subtle nuances that define them. Real estate is really all about finding perfect match for your current needs and future goals. Are you buying? The search is obviously more than a bedroom and bathroom count. I take the time to get to know you and your unique taste and style. Are you craving a Craftsman? Would you like to spread your wings with an open floor plan? Does Mid-Century call to you or do you have modern on your mind? Nothing beats seeing the smile of a buyer when they walk into their dream house. Let's connect and discuss what will fit from function to wishlist. Selling? If Something that once served you no longer does, it's time to move on. As your circumstances change, so do your housing needs. Let me help you put your property in the best light to maximize the positive features. Listing a house is more than just putting it on the MLS and hoping for the best. It's a recipe, and you need all of the components to bring in the best offers. • Marketing • Networking • Photography • Staging Let me put my experience and professional resources to work for you. From the first day, I will create the biggest impact and buzz to energize and motivate potential buyers. Many of my clients are starting to think about real estate investment. Whether it's the latest home improvement show that has caught your eye-or you spend your coffee break perusing the MLS or design websites-I can show you how that interest and passion can lead to income generating investments. There are a couple of approaches to investment properties, and I can teach you about two that can impact your bottom line. Ready to be a landlord? I own several rental properties in the Twin Cities which are divided between long term leases and short term offerings. Learn from my experience. I can help you understand some crucial rental property considerations including: Cash Flow Rental Pricing Negotiating Leases www.airbnb.com Managing relationships with tax advisors and contractors The second area that can prove to be very fulfilling is investing in property for restoration or resale. There are some unique properties on the market and you might join me in seeing the beauty and potential in houses that simply scare others away. I have a strong network of contractors and have experienced the highs (and admittedly lows) of updating and restoring houses. My most recent adventure, a kitchen remodel in our century old home recently caught attention at national level. It is pretty fun to see your own house while watching HGTV or perusing Houzz. The passion and energy that I have for real estate is unmatched. I have a multifaceted experiences and I will put all of this to work for you. Please contact me today. Together we can achieve your goals!
 
@@ -591,7 +591,7 @@ English
 
 ###### Coldwell Banker Realty
 
-Saint Paul, MN
+Saint Paul, MN
 
 (651) 227-9144
 
@@ -603,7 +603,7 @@ Saint Paul, MN
 
 821 Grand Ave
 
-Saint Paul, MN 55105
+Saint Paul, MN 55105
 
 (651) 227-9144
 

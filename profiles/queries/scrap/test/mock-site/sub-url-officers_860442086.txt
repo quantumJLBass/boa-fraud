@@ -76,7 +76,7 @@ Changes to our website — to find out why access to some data now requires a lo
 <div class='oc-header-search'>
 <form accept-charset="UTF-8" action="/search" class="oc-header-search__form js-oc-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
 <div class='oc-header-search__field'>
-<input autofocus class='oc-header-search__input js-oc-search-input' name='q' placeholder='Officer’s name'>
+<input autofocus class='oc-header-search__input js-oc-search-input' name='q' placeholder='Officer's name'>
 <button class='oc-header-search__button'>Search</button>
 </div>
 <div class='oc-header-search__options'>

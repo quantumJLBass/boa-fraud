@@ -81,7 +81,7 @@ Like
 
 Share
 Response from the owner 5 months ago
-Thank you for choosing Bank of America for your financial needs. We’re glad to hear the process went smoothly. Thanks for taking the time to let us know. ^jasmine
+Thank you for choosing Bank of America for your financial needs. We're glad to hear the process went smoothly. Thanks for taking the time to let us know. ^jasmine
 
 
 Nelle Williams
@@ -103,7 +103,7 @@ Like
 
 Share
 Response from the owner 6 months ago
-Hi Nelle. We’re sorry that we did not meet your expectations. Your feedback is very important to us and we would like the opportunity to speak with you to help with any account related concerns. Please connect with our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^marty
+Hi Nelle. We're sorry that we did not meet your expectations. Your feedback is very important to us and we would like the opportunity to speak with you to help with any account related concerns. Please connect with our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^marty
 
 
 Starr Robinson
@@ -115,7 +115,7 @@ Local Guide · 21 reviews · 3 photos
 
 
 a year ago
-I highly recommend banking with any other bank or credit union out there. I was denied access to my own bank statements, told I couldn’t dispute a charge I did not authorize until it posted to my account and overdrafted me. Since they couldn’t dispute it in time, I figure the least they can do is waive the overdraft fee because I did not authorize that charge and I did everything in my power to prevent that from happening but they said “we can’t guarantee anything, we’ll make a note, however we can offer you a $500 personal loan to prevent an overdraft”. ARE YOU KIDDING ME?!?!! Absolutely unreal, I’m closing all accounts with bank of America and will be sure to advise everyone I know to do the same thing.
+I highly recommend banking with any other bank or credit union out there. I was denied access to my own bank statements, told I couldn't dispute a charge I did not authorize until it posted to my account and overdrafted me. Since they couldn't dispute it in time, I figure the least they can do is waive the overdraft fee because I did not authorize that charge and I did everything in my power to prevent that from happening but they said "we can't guarantee anything, we'll make a note, however we can offer you a $500 personal loan to prevent an overdraft". ARE YOU KIDDING ME?!?!! Absolutely unreal, I'm closing all accounts with bank of America and will be sure to advise everyone I know to do the same thing.
 
 
 1
@@ -123,7 +123,7 @@ I highly recommend banking with any other bank or credit union out there. I was 
 
 Share
 Response from the owner a year ago
-Hello Starr. We value your business and are sorry that you were disappointed. We’d like to keep you as a client. Please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^mark
+Hello Starr. We value your business and are sorry that you were disappointed. We'd like to keep you as a client. Please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^mark
 
 
 Nick Russo
@@ -153,7 +153,7 @@ Samantha Tomasch
 
 
 2 years ago
-I never leave reviews but felt like I definitely had to after my experience at this branch. They helped me last minute despite being short staffed and not having an appointment. Not only that, but they were the friendliest! Specifically Lisa and Nina. I’m so grateful they took the time to help me. I actually have other Bank of America branches closer to my home but I am more than happy to go out of my way to go to this branch from here on out. So thankful for these ladies!
+I never leave reviews but felt like I definitely had to after my experience at this branch. They helped me last minute despite being short staffed and not having an appointment. Not only that, but they were the friendliest! Specifically Lisa and Nina. I'm so grateful they took the time to help me. I actually have other Bank of America branches closer to my home but I am more than happy to go out of my way to go to this branch from here on out. So thankful for these ladies!
 
 
 Like
@@ -173,8 +173,8 @@ Linda Box
 
 
 2 years ago
-This is the worst bank I have ever been in. I went in there to take care of some of my mothers accounts as she passed away. First you can never get an appointment. Today one of their “trainees “Marcella, got in my face for some reason. She claimed I was “looking “ at her. Looking at her!?! I was already under enough stress having to deal with my moms passing, then I had to put up with this women’s extreme rudeness. She needs to take a course in people skills.
-I hope I don’t ever have to go in this establishment again
+This is the worst bank I have ever been in. I went in there to take care of some of my mothers accounts as she passed away. First you can never get an appointment. Today one of their "trainees "Marcella, got in my face for some reason. She claimed I was "looking " at her. Looking at her!?! I was already under enough stress having to deal with my moms passing, then I had to put up with this women's extreme rudeness. She needs to take a course in people skills.
+I hope I don't ever have to go in this establishment again
 
 
 4
@@ -202,7 +202,7 @@ Like
 
 Share
 Response from the owner 2 years ago
-Hi Jason. We are disappointed to hear this and we’d like to keep you as a client. We would like to connect with you one-on-one to learn more. Please reach out to our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. Thank you. ^susan
+Hi Jason. We are disappointed to hear this and we'd like to keep you as a client. We would like to connect with you one-on-one to learn more. Please reach out to our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. Thank you. ^susan
 
 
 David French
@@ -234,7 +234,7 @@ Angela Fernandez
 
 
 2 years ago
-There always seems to be an issue every time I come here. Today, I’ve been waiting for over an hour for a notary. Upon arrival, they told me the wait was ten minutes. They just came out and said it would be another half hour.
+There always seems to be an issue every time I come here. Today, I've been waiting for over an hour for a notary. Upon arrival, they told me the wait was ten minutes. They just came out and said it would be another half hour.
 
 Apparently they only have one notary, and she just so happens to be the same person who hides out in the vault all day. 🤦🏾‍♀️
 
@@ -244,7 +244,7 @@ Like
 
 Share
 Response from the owner 2 years ago
-Hi Angela. We are disappointed to hear this, we’ll certainly be sharing your feedback with our leadership team. We'd like to connect with you to learn more about what happened. Please reach out to our Social Media Client Care team https://twitter.com/BofA_Help on Twitter or click the Send Message button on our Facebook page https://www.facebook.com/BankofAmerica. Thank you. ^susan
+Hi Angela. We are disappointed to hear this, we'll certainly be sharing your feedback with our leadership team. We'd like to connect with you to learn more about what happened. Please reach out to our Social Media Client Care team https://twitter.com/BofA_Help on Twitter or click the Send Message button on our Facebook page https://www.facebook.com/BankofAmerica. Thank you. ^susan
 
 
 C C
@@ -285,7 +285,7 @@ Please get you act together As a ML client I have written to the CEO about this.
 
 Share
 Response from the owner 3 years ago
-Hi John. We are doing our best to remain open to serve our clients while implementing changes within our financial centers to follow CDC and government guidelines. As such, some locations may be either temporarily closed or operating at adjusted hours. If you’d like to visit an alternative financial center, please click the following link for the most up-to-date info on our centers http://go.bofa.com/Locator. Also, when new information is available regarding openings and hours, the website will be updated. ^rosie
+Hi John. We are doing our best to remain open to serve our clients while implementing changes within our financial centers to follow CDC and government guidelines. As such, some locations may be either temporarily closed or operating at adjusted hours. If you'd like to visit an alternative financial center, please click the following link for the most up-to-date info on our centers http://go.bofa.com/Locator. Also, when new information is available regarding openings and hours, the website will be updated. ^rosie
 
 
 Chris Bardzik
@@ -329,7 +329,7 @@ Linda Chaney
 
 Share
 Response from the owner 3 years ago
-Hello Linda. We value your business and are sorry that you were disappointed. We’ll certainly be sharing your feedback with our leadership team. If you need further assistance, please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^mark
+Hello Linda. We value your business and are sorry that you were disappointed. We'll certainly be sharing your feedback with our leadership team. If you need further assistance, please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^mark
 
 
 Jill Colleen
@@ -385,7 +385,7 @@ Like
 
 Share
 Response from the owner a year ago
-Hi, William. It's disappointing to hear that your experience wasn't at the level you expected, and we’ll certainly be sharing your feedback with our ATM team. We sincerely apologize for your experience at the ATM. Here is a link that can help you quickly find alternate locations: https://locators.bankofamerica.com/. If further assistance is needed please connect with our Social Media Client Care team https://twitter.com/BofA_Help on Twitter or click the Send Message button on our Facebook page https://www.facebook.com/BankofAmerica. ^Joseph
+Hi, William. It's disappointing to hear that your experience wasn't at the level you expected, and we'll certainly be sharing your feedback with our ATM team. We sincerely apologize for your experience at the ATM. Here is a link that can help you quickly find alternate locations: https://locators.bankofamerica.com/. If further assistance is needed please connect with our Social Media Client Care team https://twitter.com/BofA_Help on Twitter or click the Send Message button on our Facebook page https://www.facebook.com/BankofAmerica. ^Joseph
 
 
 Harriet Meaders
@@ -472,7 +472,7 @@ Miss Daisy
 
 4 years ago
 Attended hwy 19 and shamrock dr.
-Lisa was a big help. Best Bank of America I’ve been in. Thank you Lisa for making my transaction so seamless. Barb from Canada
+Lisa was a big help. Best Bank of America I've been in. Thank you Lisa for making my transaction so seamless. Barb from Canada
 
 
 Like
@@ -614,7 +614,7 @@ Like
 
 Share
 Response from the owner 2 years ago
-Hi Chris. We value your business and are sorry that you were disappointed. We’ll certainly be sharing your feedback with our leadership team and would like to know more. If you need further assistance, please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^susan
+Hi Chris. We value your business and are sorry that you were disappointed. We'll certainly be sharing your feedback with our leadership team and would like to know more. If you need further assistance, please reach out to a member of our Social Media Client Care team on Twitter at https://twitter.com/BofA_Help or Facebook https://www.facebook.com/BankofAmerica. ^susan
 
 
 Kristofer Goetz

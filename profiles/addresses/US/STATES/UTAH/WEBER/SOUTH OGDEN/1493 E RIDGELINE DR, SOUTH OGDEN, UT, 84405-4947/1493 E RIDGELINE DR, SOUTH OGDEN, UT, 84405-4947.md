@@ -131,7 +131,7 @@ Chaunsey Hildebrandt
 
 
 3 months ago
-Integrated Tax is always up-to-date on the changing tax laws, forms and requirements. I’ve trusted Jake and his team with my personal/business tax needs for nearly 10 years. Always friendly, professional, knowledgeable and so helpful. They get the job done & get it done right! Highly recommend Integrated Tax!
+Integrated Tax is always up-to-date on the changing tax laws, forms and requirements. I've trusted Jake and his team with my personal/business tax needs for nearly 10 years. Always friendly, professional, knowledgeable and so helpful. They get the job done & get it done right! Highly recommend Integrated Tax!
 
 
 Like
@@ -151,7 +151,7 @@ Local Guide · 48 reviews · 81 photos
 
 
 3 months ago
-I’ve always had a great experience here! They really get to know you and your taxes. They’ll get back as much as they can for you! I will continue to do my taxes with them. Feels so comfortable to have them done by the professionals. Don’t trust turbo tax. Trust someone you can have a one on one with!
+I've always had a great experience here! They really get to know you and your taxes. They'll get back as much as they can for you! I will continue to do my taxes with them. Feels so comfortable to have them done by the professionals. Don't trust turbo tax. Trust someone you can have a one on one with!
 
 
 1
@@ -233,7 +233,7 @@ GNC Jensen Nutrition
 
 
 2 months ago
-We’ve worked with Integrated Tax for 7+ years. Jake is incredible and his staff is amazing! They make our business run smoother and with MUCH less stress.
+We've worked with Integrated Tax for 7+ years. Jake is incredible and his staff is amazing! They make our business run smoother and with MUCH less stress.
 
 
 Like
@@ -253,7 +253,7 @@ Alexandrea Anderson
 
 
 3 months ago
-Integrated Tax has provided stellar service with our taxes! Very quick turnaround and was instrumental in reclaiming funds from previous years’ filings. We can’t recommend them highly enough!
+Integrated Tax has provided stellar service with our taxes! Very quick turnaround and was instrumental in reclaiming funds from previous years' filings. We can't recommend them highly enough!
 
 
 Like
@@ -293,7 +293,7 @@ Hugh Trout
 
 
 2 months ago
-Integrated Tax has been a trusted part of our personal and professional financial planning for more than a decade.  Jake and the team are both thorough and professional.  We’ll continue to use them!
+Integrated Tax has been a trusted part of our personal and professional financial planning for more than a decade.  Jake and the team are both thorough and professional.  We'll continue to use them!
 
 
 Like
@@ -551,7 +551,7 @@ Ken Murphy
 
 
 4 months ago
-Another great year with Integrated Tax! They are always very friendly and professional. I wouldn’t go anywhere else!
+Another great year with Integrated Tax! They are always very friendly and professional. I wouldn't go anywhere else!
 
 
 Like
@@ -651,7 +651,7 @@ Shawn Jorgensen
 
 
 a year ago
-Unbelievably bad experience. We have 9 different business and needed to file an extension. Our taxes were turned over to one of the associates there. Every time we called to talk to her, the receptionist told us she would return our call. She never did. When the extension due date came, we received an email confirmation that our extensions had been filed and also talked to the receptionist who told us they had to all be sent in separately and it was a painstaking process but that the extensions were all filed. We called a week later to talk to the accountant and we were again told she would call us back but I insisted on waiting. Thirty minutes later she got on the phone and acted like she didn’t even know who we were and informed us the extensions had NEVER been filed and really acted like she could care less. I don’t know of a time where I’ve received this bad of service from anyone. Left a message and an email for Jake to call and he never did. Absolutely unbelievable and unacceptable service and care for their customers. Wouldn’t trust these people to tie my shoe.
+Unbelievably bad experience. We have 9 different business and needed to file an extension. Our taxes were turned over to one of the associates there. Every time we called to talk to her, the receptionist told us she would return our call. She never did. When the extension due date came, we received an email confirmation that our extensions had been filed and also talked to the receptionist who told us they had to all be sent in separately and it was a painstaking process but that the extensions were all filed. We called a week later to talk to the accountant and we were again told she would call us back but I insisted on waiting. Thirty minutes later she got on the phone and acted like she didn't even know who we were and informed us the extensions had NEVER been filed and really acted like she could care less. I don't know of a time where I've received this bad of service from anyone. Left a message and an email for Jake to call and he never did. Absolutely unbelievable and unacceptable service and care for their customers. Wouldn't trust these people to tie my shoe.
 
 
 2
@@ -691,7 +691,7 @@ Marguerite Slavik
 
 
 3 years ago
-Jakes leads a professional team who doesn’t simply process your tax return but assists you throughout the process (including helpful reminders throughout the year) while keeping your best interest in mind. They are highly qualified, caring, and patient but efficient. Having experienced trustworthy customer service since 2014, I can highly recommended Integrated Tax.
+Jakes leads a professional team who doesn't simply process your tax return but assists you throughout the process (including helpful reminders throughout the year) while keeping your best interest in mind. They are highly qualified, caring, and patient but efficient. Having experienced trustworthy customer service since 2014, I can highly recommended Integrated Tax.
 Positive
 Responsiveness, Quality, Professionalism, Value
 
@@ -749,7 +749,7 @@ Scott Wiscombe
 
 
 4 years ago
-Integrated Tax was quick, thorough and a reasonable price. We appreciated how they communicated with us throughout the process, and especially the time they take to sit down and get to know you in order to educate you for future needs! Tax season can be stressful, but it doesn’t have to be if you know where to go.
+Integrated Tax was quick, thorough and a reasonable price. We appreciated how they communicated with us throughout the process, and especially the time they take to sit down and get to know you in order to educate you for future needs! Tax season can be stressful, but it doesn't have to be if you know where to go.
 
 
 Like
@@ -769,7 +769,7 @@ Marc Garcia
 
 
 2 years ago
-Not only was it tax season coming down to the end, I was stricken with a grievous life change. Integrated Tax welcomed me with professionalism and a deep care of my plight. They answered my questions and didn’t down talk to me, even though I was seriously out of my league when it came to taxes. Thank you, Integrated Tax. I will definitely recommend you to all.
+Not only was it tax season coming down to the end, I was stricken with a grievous life change. Integrated Tax welcomed me with professionalism and a deep care of my plight. They answered my questions and didn't down talk to me, even though I was seriously out of my league when it came to taxes. Thank you, Integrated Tax. I will definitely recommend you to all.
 
 
 Like
@@ -1044,7 +1044,7 @@ Andrew
 
 4 years ago
 Jake and his team are accounting and tax professionals.
-As my business has grown my tax and accounting needs have become more complex. Integrated Tax has made what’s complicated (tax) easy. I highly recommend them!
+As my business has grown my tax and accounting needs have become more complex. Integrated Tax has made what's complicated (tax) easy. I highly recommend them!
 
 
 Like
@@ -1158,7 +1158,7 @@ Mariah Braun Wilt
 
 
 2 years ago
-Once I found Jake and his amazing team (2013) I felt a huge weight lifted. He explains things. He isn’t just your tax guy, he’s our financial and business go-to.
+Once I found Jake and his amazing team (2013) I felt a huge weight lifted. He explains things. He isn't just your tax guy, he's our financial and business go-to.
 
 
 Like
@@ -1176,7 +1176,7 @@ Brad Talbot
 
 
 4 years ago
-Jake and his team are always good to work with. They are very prompt and knowledgeable about everything that I have needed. I don’t know of any better place to get help with your taxes!
+Jake and his team are always good to work with. They are very prompt and knowledgeable about everything that I have needed. I don't know of any better place to get help with your taxes!
 
 
 Like
@@ -1466,7 +1466,7 @@ Toby Wilson
 
 
 4 years ago
-I’ve been with Integrated for many years.  They have always taken care of me and helped me with both of my businesses. Highly recommend
+I've been with Integrated for many years.  They have always taken care of me and helped me with both of my businesses. Highly recommend
 
 
 Like
@@ -1646,7 +1646,7 @@ Linda Kuker
 
 
 3 months ago
-Wow, two days to get my taxes back! Thank you I have been with you for a few years and you have been there for me! You’re the best and I would recommend you to anyone. Again thank you!
+Wow, two days to get my taxes back! Thank you I have been with you for a few years and you have been there for me! You're the best and I would recommend you to anyone. Again thank you!
 
 
 Like
@@ -1936,7 +1936,7 @@ Scott Crandall
 
 
 4 years ago
-I couldn’t ask for better service—sharp, timely, responsive, and cost-effective. Highly recommended!
+I couldn't ask for better service—sharp, timely, responsive, and cost-effective. Highly recommended!
 
 
 Like
@@ -2521,7 +2521,7 @@ Jake Johnstun, EA has been in the tax preparation industry since 1994. An Enroll
 
 Jake is the president and founder of Integrated Tax, founded in 2002 located in Ogden, Utah. He is a Partner and owner of Elite 1031 Exchange, a Qualified Intermediary. He is an Alumnus of Weber State University with a Bachelor of Science degree in Accounting. He is an NTPI Fellow and a graduate of the SSLA Leadership Academy.
 
-Jake was voted onto the National Association of Enrolled Agent’s Board of Directors in December 2017. He is the current Chair of the NAEA PAC representing tax professionals before the United States Congress. He is also the current Chair of the GOAL Foundation.
+Jake was voted onto the National Association of Enrolled Agent's Board of Directors in December 2017. He is the current Chair of the NAEA PAC representing tax professionals before the United States Congress. He is also the current Chair of the GOAL Foundation.
 
 Leslie Johnstun
 Office Manager

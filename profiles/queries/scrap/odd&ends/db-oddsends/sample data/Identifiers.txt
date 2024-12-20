@@ -18,7 +18,7 @@ tj_tin	Tajikistan TIN	Tajikistan Taxpayer Identification Number (Идентиф�
 us_tx_tin	US Texas TIN	US Texas Taxpayer Identification Number	https://fmx.cpa.texas.gov/fmx/pubs/tins/tinsguide/ch2/index.php	Texas Comptroller of Public Accounts	http://comptroller.texas.gov/	Tax
 vn_tin	Vietnam TIN	Vietnam Enterprise Code Number		Viet Nam General Department of Taxation (Tổng cục thuế)	http://gdt.gov.vn/	Tax,Business
 eu_vat	EU Vat Number	EU VAT System	http://ec.europa.eu/taxation_customs/vies/			Tax
-us_cage	US Federal CAGE number	US Federal ‘Commercial And Government Entity’ Register	http://www.dlis.dla.mil/cage_welcome.asp	US Defense Logistics Agency	http://www.dlis.dla.mil/	Procurement
+us_cage	US Federal CAGE number	US Federal 'Commercial And Government Entity' Register	http://www.dlis.dla.mil/cage_welcome.asp	US Defense Logistics Agency	http://www.dlis.dla.mil/	Procurement
 us_sec_cik	SEC CIK number	US Securities And Exchange Commission CIK number	http://www.sec.gov/edgar/searchedgar/cik.htm	US Securities & Exchange Commission	http://www.sec.gov/	
 uk_ew_cc	England & Wales Charity Number	Charity Register for England & Wales		Charity Commission for England & Wales	http://www.charitycommission.gov.uk/	Charity
 uk_ni_cc	Northern Ireland Charity Number	The Charity Register for Northern Ireland		The Charity Commission for Northern Ireland	http://www.charitycommissionni.org.uk/	Charity

@@ -120,7 +120,7 @@ keith mcmahon
 
 
 3 years ago
-I’ve been using BHHS for more than 5 years to take care of my rental in Waterside St. Pete, Joe Nix has been my agent since inception. He and his team are always on hand to help out and they make life so easy for us. Very professional outfit. I would have no problem recommending them.
+I've been using BHHS for more than 5 years to take care of my rental in Waterside St. Pete, Joe Nix has been my agent since inception. He and his team are always on hand to help out and they make life so easy for us. Very professional outfit. I would have no problem recommending them.
 
 
 Like
@@ -290,7 +290,7 @@ L Rollick
 7 years ago
 1/5/17
 My wife and I are retired. We travel and explore this beautiful country of ours in our motor coach. I thought I could manage our rental property in FL while traveling. WRONG..after two flacky renters and a year  of inconsistent  rents I contacted Berkshire Hathaway Florida Properties and was put in touch with
-Lori Hermansen. Lori is a very professional and knowledgeable property manager. She is always available when ever I call or email and if tied up returns my call by end of the day. Lori always has our best interests in mind as well as the return on our investment property and that gives us peace of mind. Following Lori’s advice of how to clean up our property an make it rent ready, she had us rented in three weeks and at a 40% increase in the rent.
+Lori Hermansen. Lori is a very professional and knowledgeable property manager. She is always available when ever I call or email and if tied up returns my call by end of the day. Lori always has our best interests in mind as well as the return on our investment property and that gives us peace of mind. Following Lori's advice of how to clean up our property an make it rent ready, she had us rented in three weeks and at a 40% increase in the rent.
 We Highly Recommend Lori to anyone who needs property management or real estate advise. Thank you Lori.
 
 
@@ -390,7 +390,7 @@ Mrs R
 
 
 2 years ago
-Sue was incredibly delightful to work with! She’s most definitely a pro! She was tentative, caring, knowledgeable and friendly!! She made our process go as smoothly as possible! We’re so happy we found her!!
+Sue was incredibly delightful to work with! She's most definitely a pro! She was tentative, caring, knowledgeable and friendly!! She made our process go as smoothly as possible! We're so happy we found her!!
 
 
 Like
@@ -600,7 +600,7 @@ essence shaw
 
 
 5 years ago
-I would give no STARS. I’ve emailed the company customer care no response, emailed a realtor of a property no response. It’s unprofessional, you rent houses. You should check and make sure your realtors who cover properties are actually doing there JOB because they’re causing you renters. Save your time, app fee and rent to an agency who takes the time to respond back.
+I would give no STARS. I've emailed the company customer care no response, emailed a realtor of a property no response. It's unprofessional, you rent houses. You should check and make sure your realtors who cover properties are actually doing there JOB because they're causing you renters. Save your time, app fee and rent to an agency who takes the time to respond back.
 
 
 2

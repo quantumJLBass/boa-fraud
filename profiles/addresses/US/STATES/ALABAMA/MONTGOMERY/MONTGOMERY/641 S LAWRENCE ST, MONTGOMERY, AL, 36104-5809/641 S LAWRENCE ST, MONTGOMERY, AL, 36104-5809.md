@@ -114,7 +114,7 @@ Michelle Bone
 
 
 3 months ago
-I’d leave negative stars if possible. Doesn’t even deserve 1 star but Google says I have to. Their “attorneys” never answer the phone but want quick communication back from you. What a joke.
+I'd leave negative stars if possible. Doesn't even deserve 1 star but Google says I have to. Their "attorneys" never answer the phone but want quick communication back from you. What a joke.
 
 
 1
@@ -171,7 +171,7 @@ oys dispatcher
 
 
 2 years ago
-Won’t return my phone calls.  My credit card company sent them docs to collect in November, they filed in January, I received it in April (a week before my hearing, although that last part is the fault of my county court).  Called and called and no returned calls.  I actually paid my debt through the credit card company too
+Won't return my phone calls.  My credit card company sent them docs to collect in November, they filed in January, I received it in April (a week before my hearing, although that last part is the fault of my county court).  Called and called and no returned calls.  I actually paid my debt through the credit card company too
 
 
 Like
@@ -207,11 +207,11 @@ T Berri
 
 
 3 years ago
-Starting to think this law firm uses the tactics of purposely not returning calls since they file frivolous lawsuits that we may or may NOT know anything about. By the time we do, they’ll file a garnishment with your employer. Parnell & Parnell is still guaranteed money this way....even if you can’t make contact with them. I saw reviews on BBB where the responder boasts about the firm being in business for over 40 years. How can you run a successful LAW FIRM, but take WEEKS to return 1 call?!
+Starting to think this law firm uses the tactics of purposely not returning calls since they file frivolous lawsuits that we may or may NOT know anything about. By the time we do, they'll file a garnishment with your employer. Parnell & Parnell is still guaranteed money this way....even if you can't make contact with them. I saw reviews on BBB where the responder boasts about the firm being in business for over 40 years. How can you run a successful LAW FIRM, but take WEEKS to return 1 call?!
 
-I’ve been calling AND emailing for WEEKS, almost daily, and I have only had 1 person return my calls...although she needs me to talk to someone else (who has YET to call me back). I’m simply trying to pay this debt, but due to a lack of responses, my checks will be garnished. Can’t even pay with the original debt owners b/c they refer me BACK to them.
+I've been calling AND emailing for WEEKS, almost daily, and I have only had 1 person return my calls...although she needs me to talk to someone else (who has YET to call me back). I'm simply trying to pay this debt, but due to a lack of responses, my checks will be garnished. Can't even pay with the original debt owners b/c they refer me BACK to them.
 
-Seems to me the only time you’re acknowledged is if they get spooked when you hire your own attorney, or, they aren’t able to collect on a garnishment.
+Seems to me the only time you're acknowledged is if they get spooked when you hire your own attorney, or, they aren't able to collect on a garnishment.
 
 I will be looking more into reporting them for this because people who know the law should be held accountable...just like the consumers they sue. Nothing good can come from practices like this.
 
@@ -267,7 +267,7 @@ Davis Amos
 
 
 9 months ago
-Let’s do a class action suit against this company if this many people are having the same issues and I really believe they use unethical tactics for frivolous lawsuits something has to be done
+Let's do a class action suit against this company if this many people are having the same issues and I really believe they use unethical tactics for frivolous lawsuits something has to be done
 
 
 5
@@ -303,7 +303,7 @@ Local Guide · 23 reviews
 
 
 4 years ago
-This supposed law firm must never keep people employed because when you call their office no one answers - ever. They don’t return your calls either. Pathetic service or lack thereof.
+This supposed law firm must never keep people employed because when you call their office no one answers - ever. They don't return your calls either. Pathetic service or lack thereof.
 
 
 5
@@ -357,7 +357,7 @@ michael warrington
 
 
 2 years ago
-Very nice staff, got my collection taken care of with no problems , I understand a lot of the reviews no one wants to pay their bills especially if it’s a lot of money but hey it’s their job sooo I’m as satisfied as I can be with everything that has taken place
+Very nice staff, got my collection taken care of with no problems , I understand a lot of the reviews no one wants to pay their bills especially if it's a lot of money but hey it's their job sooo I'm as satisfied as I can be with everything that has taken place
 
 
 1
@@ -375,7 +375,7 @@ Leah Mabry
 
 
 3 years ago
-They don’t answer or return phone calls. Ever. I left atleast 10 voice mails and go a response a month later
+They don't answer or return phone calls. Ever. I left atleast 10 voice mails and go a response a month later
 Negative
 Responsiveness, Quality, Professionalism, Value
 

@@ -190,7 +190,7 @@
 💱 :currency_exchange:                                       🍛 :curry:                                                   🍛 :curry_rice:                                              
 🍮 :custard:                                                 🛃 :customs:                                                 🥩 :cut_of_meat:                                             
 🌀 :cyclone:                                                 🇨🇾 :cyprus:                                                 🇨🇿 :czechia:                                                
-🇨🇮 :côte_d’ivoire:                                          🗡 :dagger:                                                  🗡 :dagger_knife:                                            
+🇨🇮 :côte_d'ivoire:                                          🗡 :dagger:                                                  🗡 :dagger_knife:                                            
 💃 :dancer:                                                  👯 :dancers:                                                 🍡 :dango:                                                   
 🏿 :dark_skin_tone:                                          🕶 :dark_sunglasses:                                         🎯 :dart:                                                    
 💨 :dash:                                                    💨 :dashing_away:                                            📅 :date:                                                    
@@ -224,10 +224,10 @@
 🌏 :earth_asia:                                              🇪🇨 :ecuador:                                                🍳 :egg:                                                     
 🍆 :eggplant:                                                🇪🇬 :egypt:                                                  8️⃣ :eight:                                                 
 ✴ :eight-pointed_star:                                      ✳ :eight-spoked_asterisk:                                   🕣 :eight-thirty:                                            
-🕗 :eight_o’clock:                                           ✴ :eight_pointed_black_star:                                ✳ :eight_spoked_asterisk:                                   
+🕗 :eight_o'clock:                                           ✴ :eight_pointed_black_star:                                ✳ :eight_spoked_asterisk:                                   
 ⏏ :eject_button:                                            ⏏ :eject_symbol:                                            🇸🇻 :el_salvador:                                            
 🔌 :electric_plug:                                           🐘 :elephant:                                                🕦 :eleven-thirty:                                           
-🕚 :eleven_o’clock:                                          🧝 :elf:                                                     🧝🏿 :elf_dark_skin_tone:                                     
+🕚 :eleven_o'clock:                                          🧝 :elf:                                                     🧝🏿 :elf_dark_skin_tone:                                     
 🧝🏻 :elf_light_skin_tone:                                    🧝🏾 :elf_medium-dark_skin_tone:                              🧝🏼 :elf_medium-light_skin_tone:                             
 🧝🏽 :elf_medium_skin_tone:                                   ✉ :email:                                                   🏻 :emoji_modifier_fitzpatrick_type__1__2:                   
 🏼 :emoji_modifier_fitzpatrick_type__3:                      🏽 :emoji_modifier_fitzpatrick_type__4:                      🏾 :emoji_modifier_fitzpatrick_type__5:                      
@@ -271,7 +271,7 @@
 🌛 :first_quarter_moon_with_face:                            🐟 :fish:                                                    🍥 :fish_cake:                                               
 🍥 :fish_cake_with_swirl:                                    🎣 :fishing_pole:                                            🎣 :fishing_pole_and_fish:                                   
 ✊ :fist:                                                    5️⃣ :five:                                                  🕠 :five-thirty:                                             
-🕔 :five_o’clock:                                            🇦🇫 :flag_for_afghanistan:                                   🇦🇱 :flag_for_albania:                                       
+🕔 :five_o'clock:                                            🇦🇫 :flag_for_afghanistan:                                   🇦🇱 :flag_for_albania:                                       
 🇩🇿 :flag_for_algeria:                                       🇦🇸 :flag_for_american_samoa:                                🇦🇩 :flag_for_andorra:                                       
 🇦🇴 :flag_for_angola:                                        🇦🇮 :flag_for_anguilla:                                      🇦🇶 :flag_for_antarctica:                                    
 🇦🇬 :flag_for_antigua_&_barbuda:                             🇦🇷 :flag_for_argentina:                                     🇦🇲 :flag_for_armenia:                                       
@@ -292,7 +292,7 @@
 🇰🇲 :flag_for_comoros:                                       🇨🇬 :flag_for_congo____brazzaville:                          🇨🇩 :flag_for_congo____kinshasa:                             
 🇨🇰 :flag_for_cook_islands:                                  🇨🇷 :flag_for_costa_rica:                                    🇭🇷 :flag_for_croatia:                                       
 🇨🇺 :flag_for_cuba:                                          🇨🇼 :flag_for_curaçao:                                       🇨🇾 :flag_for_cyprus:                                        
-🇨🇿 :flag_for_czech_republic:                                🇨🇮 :flag_for_côte_d’ivoire:                                 🇩🇰 :flag_for_denmark:                                       
+🇨🇿 :flag_for_czech_republic:                                🇨🇮 :flag_for_côte_d'ivoire:                                 🇩🇰 :flag_for_denmark:                                       
 🇩🇬 :flag_for_diego_garcia:                                  🇩🇯 :flag_for_djibouti:                                      🇩🇲 :flag_for_dominica:                                      
 🇩🇴 :flag_for_dominican_republic:                            🇪🇨 :flag_for_ecuador:                                       🇪🇬 :flag_for_egypt:                                         
 🇸🇻 :flag_for_el_salvador:                                   🇬🇶 :flag_for_equatorial_guinea:                             🇪🇷 :flag_for_eritrea:                                       
@@ -370,7 +370,7 @@
 👣 :footprints:                                              🍴 :fork_and_knife:                                          🍽 :fork_and_knife_with_plate:                               
 🥠 :fortune_cookie:                                          ⛲ :fountain:                                                🖋 :fountain_pen:                                            
 4️⃣ :four:                                                  🕟 :four-thirty:                                             🍀 :four_leaf_clover:                                        
-🕓 :four_o’clock:                                            🦊 :fox_face:                                                🖼 :frame_with_picture:                                      
+🕓 :four_o'clock:                                            🦊 :fox_face:                                                🖼 :frame_with_picture:                                      
 🖼 :framed_picture:                                          🇫🇷 :france:                                                 🆓 :free:                                                    
 🆓 :free_button:                                             🍟 :french_fries:                                            🇬🇫 :french_guiana:                                          
 🇵🇫 :french_polynesia:                                       🇹🇫 :french_southern_territories:                            🍤 :fried_shrimp:                                            
@@ -638,7 +638,7 @@
 👲🏾 :man_with_chinese_cap_medium-dark_skin_tone:             👲🏼 :man_with_chinese_cap_medium-light_skin_tone:            👲🏽 :man_with_chinese_cap_medium_skin_tone:                  
 👲 :man_with_gua_pi_mao:                                     👨‍🦯 :man_with_probing_cane:                                 👳 :man_with_turban:                                         
 🧟‍♂️ :man_zombie:                                           🥭 :mango:                                                   👞 :mans_shoe:                                               
-🕰 :mantelpiece_clock:                                       🦽 :manual_wheelchair:                                       👞 :man’s_shoe:                                              
+🕰 :mantelpiece_clock:                                       🦽 :manual_wheelchair:                                       👞 :man's_shoe:                                              
 🗾 :map_of_japan:                                            🍁 :maple_leaf:                                              🇲🇭 :marshall_islands:                                       
 🥋 :martial_arts_uniform:                                    🇲🇶 :martinique:                                             😷 :mask:                                                    
 💆 :massage:                                                 🧉 :mate:                                                    🇲🇷 :mauritania:                                             
@@ -648,7 +648,7 @@
 📣 :mega:                                                    📣 :megaphone:                                               🍈 :melon:                                                   
 📝 :memo:                                                    👯‍♂️ :men_with_bunny_ears:                                  🤼‍♂️ :men_wrestling:                                        
 🕎 :menorah:                                                 🕎 :menorah_with_nine_branches:                              🚹 :mens:                                                    
-🚹 :men’s_room:                                              🧜‍♀️ :mermaid:                                              🧜🏿‍♀️ :mermaid_dark_skin_tone:                              
+🚹 :men's_room:                                              🧜‍♀️ :mermaid:                                              🧜🏿‍♀️ :mermaid_dark_skin_tone:                              
 🧜🏻‍♀️ :mermaid_light_skin_tone:                             🧜🏾‍♀️ :mermaid_medium-dark_skin_tone:                       🧜🏼‍♀️ :mermaid_medium-light_skin_tone:                      
 🧜🏽‍♀️ :mermaid_medium_skin_tone:                            🧜‍♂️ :merman:                                               🧜🏿‍♂️ :merman_dark_skin_tone:                               
 🧜🏻‍♂️ :merman_light_skin_tone:                              🧜🏾‍♂️ :merman_medium-dark_skin_tone:                        🧜🏼‍♂️ :merman_medium-light_skin_tone:                       
@@ -690,7 +690,7 @@
 📰 :newspaper:                                               ⏭ :next_track_button:                                       🆖 :ng:                                                      
 🆖 :ng_button:                                               🇳🇮 :nicaragua:                                              🇳🇪 :niger:                                                  
 🇳🇬 :nigeria:                                                🌃 :night_with_stars:                                        9️⃣ :nine:                                                  
-🕤 :nine-thirty:                                             🕘 :nine_o’clock:                                            🇳🇺 :niue:                                                   
+🕤 :nine-thirty:                                             🕘 :nine_o'clock:                                            🇳🇺 :niue:                                                   
 🔕 :no_bell:                                                 🚳 :no_bicycles:                                             ⛔ :no_entry:                                                
 🚫 :no_entry_sign:                                           🙅 :no_good:                                                 🚯 :no_littering:                                            
 📵 :no_mobile_phones:                                        😶 :no_mouth:                                                🔞 :no_one_under_eighteen:                                   
@@ -719,7 +719,7 @@
 👊🏿 :oncoming_fist_dark_skin_tone:                           👊🏻 :oncoming_fist_light_skin_tone:                          👊🏾 :oncoming_fist_medium-dark_skin_tone:                    
 👊🏼 :oncoming_fist_medium-light_skin_tone:                   👊🏽 :oncoming_fist_medium_skin_tone:                         🚔 :oncoming_police_car:                                     
 🚖 :oncoming_taxi:                                           1️⃣ :one:                                                   🩱 :one-piece_swimsuit:                                      
-🕜 :one-thirty:                                              🕐 :one_o’clock:                                             🧅 :onion:                                                   
+🕜 :one-thirty:                                              🕐 :one_o'clock:                                             🧅 :onion:                                                   
 📖 :open_book:                                               📂 :open_file_folder:                                        👐 :open_hands:                                              
 👐🏿 :open_hands_dark_skin_tone:                              👐🏻 :open_hands_light_skin_tone:                             👐🏾 :open_hands_medium-dark_skin_tone:                       
 👐🏼 :open_hands_medium-light_skin_tone:                      👐🏽 :open_hands_medium_skin_tone:                            📭 :open_mailbox_with_lowered_flag:                          
@@ -880,7 +880,7 @@
 🇾 :regional_indicator_y:                                    🇿 :regional_indicator_z:                                    ® :registered:                                              
 ☺ :relaxed:                                                 😌 :relieved:                                                😌 :relieved_face:                                           
 🎗 :reminder_ribbon:                                         🔁 :repeat:                                                  🔁 :repeat_button:                                           
-🔂 :repeat_one:                                              🔂 :repeat_single_button:                                    ⛑ :rescue_worker’s_helmet:                                  
+🔂 :repeat_one:                                              🔂 :repeat_single_button:                                    ⛑ :rescue_worker's_helmet:                                  
 🚻 :restroom:                                                ◀ :reverse_button:                                          🖕 :reversed_hand_with_middle_finger_extended:               
 💞 :revolving_hearts:                                        ⏪ :rewind:                                                  🦏 :rhinoceros:                                              
 🎀 :ribbon:                                                  🍚 :rice:                                                    🍙 :rice_ball:                                               
@@ -915,7 +915,7 @@
 🤳 :selfie:                                                  🤳🏿 :selfie_dark_skin_tone:                                  🤳🏻 :selfie_light_skin_tone:                                 
 🤳🏾 :selfie_medium-dark_skin_tone:                           🤳🏼 :selfie_medium-light_skin_tone:                          🤳🏽 :selfie_medium_skin_tone:                                
 🇸🇳 :senegal:                                                🇷🇸 :serbia:                                                 🐕‍🦺 :service_dog:                                           
-7️⃣ :seven:                                                 🕢 :seven-thirty:                                            🕖 :seven_o’clock:                                           
+7️⃣ :seven:                                                 🕢 :seven-thirty:                                            🕖 :seven_o'clock:                                           
 🇸🇨 :seychelles:                                             🥘 :shallow_pan_of_food:                                     ☘ :shamrock:                                                
 🦈 :shark:                                                   🍧 :shaved_ice:                                              🌾 :sheaf_of_rice:                                           
 🐑 :sheep:                                                   🐚 :shell:                                                   🛡 :shield:                                                  
@@ -927,7 +927,7 @@
 🤘 :sign_of_the_horns:                                       🤘🏿 :sign_of_the_horns_dark_skin_tone:                       🤘🏻 :sign_of_the_horns_light_skin_tone:                      
 🤘🏾 :sign_of_the_horns_medium-dark_skin_tone:                🤘🏼 :sign_of_the_horns_medium-light_skin_tone:               🤘🏽 :sign_of_the_horns_medium_skin_tone:                     
 📶 :signal_strength:                                         🇸🇬 :singapore:                                              🇸🇽 :sint_maarten:                                           
-6️⃣ :six:                                                   🕡 :six-thirty:                                              🕕 :six_o’clock:                                             
+6️⃣ :six:                                                   🕡 :six-thirty:                                              🕕 :six_o'clock:                                             
 🔯 :six_pointed_star:                                        🛹 :skateboard:                                              🎿 :ski:                                                     
 ⛷ :skier:                                                   🎿 :skis:                                                    💀 :skull:                                                   
 ☠ :skull_and_crossbones:                                    🦨 :skunk:                                                   🛷 :sled:                                                    
@@ -993,11 +993,11 @@
 🚕 :taxi:                                                    🍵 :tea:                                                     🍵 :teacup_without_handle:                                   
 📆 :tear-off_calendar:                                       🧸 :teddy_bear:                                              ☎ :telephone:                                               
 📞 :telephone_receiver:                                      🔭 :telescope:                                               📺 :television:                                              
-🔟 :ten:                                                     🕥 :ten-thirty:                                              🕙 :ten_o’clock:                                             
+🔟 :ten:                                                     🕥 :ten-thirty:                                              🕙 :ten_o'clock:                                             
 🎾 :tennis:                                                  ⛺ :tent:                                                    🧪 :test_tube:                                               
 🇹🇭 :thailand:                                               🌡 :thermometer:                                             🤔 :thinking_face:                                           
 💭 :thought_balloon:                                         🧵 :thread:                                                  3️⃣ :three:                                                 
-🕞 :three-thirty:                                            🖱 :three_button_mouse:                                      🕒 :three_o’clock:                                           
+🕞 :three-thirty:                                            🖱 :three_button_mouse:                                      🕒 :three_o'clock:                                           
 👎 :thumbs_down:                                             👎🏿 :thumbs_down_dark_skin_tone:                             👎🏻 :thumbs_down_light_skin_tone:                            
 👎🏾 :thumbs_down_medium-dark_skin_tone:                      👎🏼 :thumbs_down_medium-light_skin_tone:                     👎🏽 :thumbs_down_medium_skin_tone:                           
 👍 :thumbs_up:                                               👍🏿 :thumbs_up_dark_skin_tone:                               👍🏻 :thumbs_up_light_skin_tone:                              
@@ -1021,9 +1021,9 @@
 🌷 :tulip:                                                   🥃 :tumbler_glass:                                           🇹🇳 :tunisia:                                                
 🦃 :turkey:                                                  🇹🇲 :turkmenistan:                                           🇹🇨 :turks_&_caicos_islands:                                 
 🐢 :turtle:                                                  🇹🇻 :tuvalu:                                                 📺 :tv:                                                      
-🕧 :twelve-thirty:                                           🕛 :twelve_o’clock:                                          🔀 :twisted_rightwards_arrows:                               
+🕧 :twelve-thirty:                                           🕛 :twelve_o'clock:                                          🔀 :twisted_rightwards_arrows:                               
 2️⃣ :two:                                                   🐫 :two-hump_camel:                                          🕝 :two-thirty:                                              
-💕 :two_hearts:                                              👬 :two_men_holding_hands:                                   🕑 :two_o’clock:                                             
+💕 :two_hearts:                                              👬 :two_men_holding_hands:                                   🕑 :two_o'clock:                                             
 👭 :two_women_holding_hands:                                 🇺🇲 :u.s._outlying_islands:                                  🇻🇮 :u.s._virgin_islands:                                    
 🈹 :u5272:                                                   🈴 :u5408:                                                   🈺 :u55b6:                                                   
 🈯 :u6307:                                                   🈷 :u6708:                                                   🈶 :u6709:                                                   
@@ -1186,9 +1186,9 @@
 🧕 :woman_with_headscarf:                                    🧕🏿 :woman_with_headscarf_dark_skin_tone:                    🧕🏻 :woman_with_headscarf_light_skin_tone:                   
 🧕🏾 :woman_with_headscarf_medium-dark_skin_tone:             🧕🏼 :woman_with_headscarf_medium-light_skin_tone:            🧕🏽 :woman_with_headscarf_medium_skin_tone:                  
 👩‍🦯 :woman_with_probing_cane:                               🧟‍♀️ :woman_zombie:                                         👚 :womans_clothes:                                          
-👒 :womans_hat:                                              👢 :woman’s_boot:                                            👚 :woman’s_clothes:                                         
-👒 :woman’s_hat:                                             👡 :woman’s_sandal:                                          👯‍♀️ :women_with_bunny_ears:                                
-🤼‍♀️ :women_wrestling:                                      🚺 :womens:                                                  🚺 :women’s_room:                                            
+👒 :womans_hat:                                              👢 :woman's_boot:                                            👚 :woman's_clothes:                                         
+👒 :woman's_hat:                                             👡 :woman's_sandal:                                          👯‍♀️ :women_with_bunny_ears:                                
+🤼‍♀️ :women_wrestling:                                      🚺 :womens:                                                  🚺 :women's_room:                                            
 🥴 :woozy_face:                                              🗺 :world_map:                                               😟 :worried:                                                 
 😟 :worried_face:                                            🎁 :wrapped_gift:                                            🔧 :wrench:                                                  
 ✍ :writing_hand:                                            ✍🏿 :writing_hand_dark_skin_tone:                            ✍🏻 :writing_hand_light_skin_tone:                           

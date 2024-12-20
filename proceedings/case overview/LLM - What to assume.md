@@ -1,8 +1,8 @@
-All evidence said to be included was included even if not seen at this time. Mr. Bass was told not to leave and move out of the house by the PA office until a case crossed their desk, as stated in one of the sources. Mr. Bass has tried to get a legal console of any kind, calling over 100 firms in ID, WA, and OR but being told there was a conflict of interest, so he is Perforce Pro Se. The frauds of the original loans are well documented, and it's not even under contention over the letter of full reconveyance, which should have gone to Mr. Bass. The memorandum supporting reconsideration centers on the material facts that substantiate Defendant Jeremy Bass’s claim that the trustee’s sale of 1515 21st Avenue, Lewiston, Idaho, was invalid. These facts include procedural and substantive defects, collusion, and violations of Idaho foreclosure law. From the provided text, the following can be reasonably assumed based on the material facts presented:
+All evidence said to be included was included even if not seen at this time. Mr. Bass was told not to leave and move out of the house by the PA office until a case crossed their desk, as stated in one of the sources. Mr. Bass has tried to get a legal console of any kind, calling over 100 firms in ID, WA, and OR but being told there was a conflict of interest, so he is Perforce Pro Se. The frauds of the original loans are well documented, and it's not even under contention over the letter of full reconveyance, which should have gone to Mr. Bass. The memorandum supporting reconsideration centers on the material facts that substantiate Defendant Jeremy Bass's claim that the trustee's sale of 1515 21st Avenue, Lewiston, Idaho, was invalid. These facts include procedural and substantive defects, collusion, and violations of Idaho foreclosure law. From the provided text, the following can be reasonably assumed based on the material facts presented:
 
 1.  **Non-Compliance with Foreclosure Statutes**:
 
--   The trustee’s sale did not strictly adhere to the statutory requirements of Idaho Code §§ 45-1505 and 45-1506.
+-   The trustee's sale did not strictly adhere to the statutory requirements of Idaho Code §§ 45-1505 and 45-1506.
 -   Bass claims no valid default existed at the time of the sale, a fundamental requirement for initiating foreclosure.
 
 1.  **Pre-Auction Collusion**:
@@ -23,27 +23,27 @@ All evidence said to be included was included even if not seen at this time. Mr.
 
 1.  **Inadequate Sale Value**:
 
--   The property was sold for less than fair market value, raising concerns about the integrity of the bidding process and the trustee’s obligations.
+-   The property was sold for less than fair market value, raising concerns about the integrity of the bidding process and the trustee's obligations.
 -   Under Idaho law, such undervaluation, particularly when coupled with collusion, taints the sale.
 
 1.  **Void Nature of the Sale**:
 
 -   Bass argues the sale is void ab initio (invalid from inception) due to the absence of a valid default and statutory non-compliance.
--   Void sales confer no valid title to purchasers, making the Plaintiffs’ claims as bona fide purchasers legally untenable.
+-   Void sales confer no valid title to purchasers, making the Plaintiffs' claims as bona fide purchasers legally untenable.
 
 1.  **Good Faith Purchaser Limitations**:
 
 -   Plaintiffs rely on Idaho Code § 45-1508 for protection as good faith purchasers. However, substantive defects, such as lack of default and collusion, void the sale and negate any protections under this statute.
 -   Case law, including _Taylor v. Just_ and _Baker v. Nationstar_, confirms that good faith purchaser protections apply only to procedural defects, not substantive issues.
 
-1.  **Case Law Reinforcing Defendant’s Position**:
+1.  **Case Law Reinforcing Defendant's Position**:
 
 -   _Spencer v. Jameson_ establishes that material irregularities alone justify setting aside foreclosure sales without requiring harm to be proven.
 -   _Taylor v. Just_ and _Baker v. Nationstar_ further clarify that statutory non-compliance and lack of default render sales void.
 
 1.  **Burden of Proof Shift**:
 
--   The plaintiffs’ reliance on pre-auction coordination and bid manipulation shifts the burden to them to justify the validity of the sale.
+-   The plaintiffs' reliance on pre-auction coordination and bid manipulation shifts the burden to them to justify the validity of the sale.
 -   These irregularities place doubt on the legality of the foreclosure and call for judicial scrutiny.
 
 1.  **Potential Violations of the Sherman Act**:
@@ -55,4 +55,4 @@ All evidence said to be included was included even if not seen at this time. Mr.
 
 ### **Conclusions on Material Facts**:
 
-The material facts strongly suggest that the trustee’s sale was invalid due to statutory violations, procedural irregularities, and substantive defects. The Plaintiffs’ claims of being bona fide purchasers fail under Idaho law, as good faith protections do not extend to void sales. The presence of collusion further solidifies Bass’s argument that the sale was irreparably compromised. Accordingly, the sale must be set aside, and Plaintiffs’ motion for summary judgment denied.
+The material facts strongly suggest that the trustee's sale was invalid due to statutory violations, procedural irregularities, and substantive defects. The Plaintiffs' claims of being bona fide purchasers fail under Idaho law, as good faith protections do not extend to void sales. The presence of collusion further solidifies Bass's argument that the sale was irreparably compromised. Accordingly, the sale must be set aside, and Plaintiffs' motion for summary judgment denied.

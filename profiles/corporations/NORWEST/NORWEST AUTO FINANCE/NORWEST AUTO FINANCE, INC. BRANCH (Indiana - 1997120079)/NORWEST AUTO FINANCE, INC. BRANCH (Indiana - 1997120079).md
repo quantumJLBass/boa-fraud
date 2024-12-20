@@ -66,7 +66,7 @@ entry-collaborators:
 ## Directors / Officers
 | Name                 | Role            | Status     | Type        | Link |
 |----------------------|-----------------|------------|-------------|------|
-| [[CORPORATION SERVICE COMPANY]] | agent 
+| [[CORPORATION SERVICE COMPANY]] | agent 
 24 Nov 1997- | inactive   | Corporation | [Link](https://opencorporates.com/officers/223810017) |
 | [[RICAHRD T. SCHLIESMANN]] | president       | inactive   | Corporation | [Link](https://opencorporates.com/officers/223810018) |
 | [[FONS, JEROME W, III\|JEROME W FONS III]] | secretary       | inactive   | Person      | [Link](https://opencorporates.com/officers/223810019) |

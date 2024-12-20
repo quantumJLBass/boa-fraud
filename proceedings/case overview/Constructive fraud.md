@@ -26,7 +26,7 @@ Mr. Bass is having $144000 in equity stolen through these happenings and would l
 
 -------------------------------------------------------------
 
-**Constructive fraud** occurs when a breach of a legal or equitable duty results in an advantage to one party at the expense of another, even without intent to deceive. In the context of Mr. Bass’s case, constructive fraud could apply to the foreclosure process and related transactions if procedural defects, misrepresentation, or a failure to disclose material information created a situation that unjustly disadvantaged him while benefiting the Plaintiffs, trustees, or servicers.
+**Constructive fraud** occurs when a breach of a legal or equitable duty results in an advantage to one party at the expense of another, even without intent to deceive. In the context of Mr. Bass's case, constructive fraud could apply to the foreclosure process and related transactions if procedural defects, misrepresentation, or a failure to disclose material information created a situation that unjustly disadvantaged him while benefiting the Plaintiffs, trustees, or servicers.
 
 ### Key Elements of Constructive Fraud in This Context:
 
@@ -69,7 +69,7 @@ Mr. Bass is having $144000 in equity stolen through these happenings and would l
 
 ### Legal Implications:
 
-Constructive fraud undermines the validity of the foreclosure sale, auction results, and subsequent title transfers. Demonstrating it may void the sale and force the court to scrutinize the trustee’s actions, auction integrity, and Plaintiffs’ claims of bona fide purchaser status.
+Constructive fraud undermines the validity of the foreclosure sale, auction results, and subsequent title transfers. Demonstrating it may void the sale and force the court to scrutinize the trustee's actions, auction integrity, and Plaintiffs' claims of bona fide purchaser status.
 
 ### Strategy:
 
@@ -95,7 +95,7 @@ Here is a comprehensive analysis of how the foreclosure auction could be proven 
 ### 2. **Collusion and Auction Rigging**
 
 - **Evidence**:
-- Plaintiffs’ admissions in the Second Declaration of DPW Enterprises LLC confirm pre-auction communication with the trustee, violating Idaho’s Trust Deeds Act​(DEFENDANT'S RESPONSE TO…)​(Declaration of DPW Ente…).
+- Plaintiffs' admissions in the Second Declaration of DPW Enterprises LLC confirm pre-auction communication with the trustee, violating Idaho's Trust Deeds Act​(DEFENDANT'S RESPONSE TO…)​(Declaration of DPW Ente…).
 - Video evidence and chat logs show collusive behavior, including prearranged bids and pre-printed checks matching exact amounts​(AFFIDAVIT OF JEREMY L. …)​(Response to MSJ).
 - Emails sent by Defendant Bass warned the trustee of ongoing violations before the auction​(DEFENDANT'S RESPONSE TO…)​(AFFIDAVIT OF JEREMY L. …).
 - **Legal Basis**:
@@ -139,13 +139,13 @@ Here is a comprehensive analysis of how the foreclosure auction could be proven 
 - **Evidence**:
 - Protecting Tenants at Foreclosure Act (PTFA) requires a minimum 90-day notice for tenants like Pike. No valid notices were served​(AFFIDAVIT OF JEREMY L. …)​(Response to MSJ).
 - **Legal Basis**:
-- PTFA violations void the eviction process and question the legitimacy of the trustee sale’s post-sale proceedings​(DEFENDANT'S RESPONSE TO…).
+- PTFA violations void the eviction process and question the legitimacy of the trustee sale's post-sale proceedings​(DEFENDANT'S RESPONSE TO…).
 
 ### Supporting Logic for Void Status
 
 - **Void vs. Voidable**:
 - A void sale has no legal effect from the outset, as it violates foundational statutory or contractual requirements.
-- A voidable sale remains valid until challenged but can be upheld under certain conditions. Defendant Bass’s evidence suggests void conditions.
+- A voidable sale remains valid until challenged but can be upheld under certain conditions. Defendant Bass's evidence suggests void conditions.
 
 ### Summary
 
@@ -159,4 +159,4 @@ The auction appears void from the start based on:
 6. Prearranged terms violating public auction requirements.
 7. Breach of tenant rights.
 
-These points, supported by specific evidence and legal standards, demonstrate substantial grounds to invalidate the auction as void ab initio. Let me know if you’d like a structured legal memorandum for further clarity.
+These points, supported by specific evidence and legal standards, demonstrate substantial grounds to invalidate the auction as void ab initio. Let me know if you'd like a structured legal memorandum for further clarity.

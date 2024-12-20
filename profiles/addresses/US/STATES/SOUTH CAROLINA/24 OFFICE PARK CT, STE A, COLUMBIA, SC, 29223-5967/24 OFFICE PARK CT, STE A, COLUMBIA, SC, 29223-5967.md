@@ -604,7 +604,7 @@ Noel Burney
 
 4 months ago
 
-Real Property Management Midlands, particularly They consistently demonstrated professionalism and efficiency in managing my property. Ben’s proactive communication and dedication to addressing concerns promptly have made the overall experience positive. I highly recommend their services for reliable property management.
+Real Property Management Midlands, particularly They consistently demonstrated professionalism and efficiency in managing my property. Ben's proactive communication and dedication to addressing concerns promptly have made the overall experience positive. I highly recommend their services for reliable property management.
 
 Like
 
@@ -668,7 +668,7 @@ India Jones
 
 4 months ago
 
-She’s great she gets the job done and goes the extra mile for her clients.
+She's great she gets the job done and goes the extra mile for her clients.
 
 Like
 
@@ -722,7 +722,7 @@ Ariel Jones
 
 5 months ago
 
-my lease is up in november and I cannot wait to move. the company wants to charge for maintenance done to the home, even if it was done from previous tenants. I wouldn’t be surprised if they try charging me for outlandish things when I move out. I do not recommend renting from them at all. 0/10. Also they will lie on the portal about invoices. they wanted to charge me $110 for someone coming to plunge the toilet but the invoice from the company said $100. not tripping over $10 but seriously and if you do want to rent from them and renew the lease, the lease renewal is like $125 or something like that. MONEY HUNGRY. update: I’m finally moved out and this company is still trash. they charged an outrageous amount of things to be taken out of the deposit. also they have two homes in a horrible/dangerous neighborhood. DO NOT RECOMMEND!
+my lease is up in november and I cannot wait to move. the company wants to charge for maintenance done to the home, even if it was done from previous tenants. I wouldn't be surprised if they try charging me for outlandish things when I move out. I do not recommend renting from them at all. 0/10. Also they will lie on the portal about invoices. they wanted to charge me $110 for someone coming to plunge the toilet but the invoice from the company said $100. not tripping over $10 but seriously and if you do want to rent from them and renew the lease, the lease renewal is like $125 or something like that. MONEY HUNGRY. update: I'm finally moved out and this company is still trash. they charged an outrageous amount of things to be taken out of the deposit. also they have two homes in a horrible/dangerous neighborhood. DO NOT RECOMMEND!
 
 Like3
 
@@ -802,7 +802,7 @@ Taylor Cottrell
 
 5 months ago
 
-Ben is great to work with! He’s very professional with a great go-getter attitude.
+Ben is great to work with! He's very professional with a great go-getter attitude.
 
 Like
 
@@ -902,7 +902,7 @@ Jaisha Conner
 
 5 months ago
 
-This is one the worst places I’ve ever rented from. I have gotten several charges on my account for no reason at all due to them wanting to just get money this month alone I’ve had 320.00 worth of charges on my account for no reason at all. They said that my grass was too high and I had a car in my yard that was inoperable but that wasn’t true at all. They have came and did inspections in my house several times to the point where it feel like harassment all because they want to try to find a reason to tack on more fees. I have mold in my bathroom because there is no ventilation in there and I was told that if they send someone out to check it then I was responsible for having to pay the maintenance. By law in SC mold is to be address by the lessor. I will be calling the bbb and cdc if the issue is not handled correctly. I have children and mold makes them sick. My light bill has always been high since moving here because of poor ventilation in the house. I moved here to Columbia in June of 2023 and I will say that this has been the worst experience with a landlord I could possibly have. The house is in a bad neighborhood there is always some shooting happening here and they act as if I’m in a luxury home. It’s really saddening that I moved to start a new life in another city and my experience has been the worst I am so ready to move and leave this place behind. I cannot even be comfortable in the home I pay rent in because they want to come and harass me every couple of weeks. My heart goes out to the future tenants of this company because they are going to try to take every dollar they can from you while renting from them!
+This is one the worst places I've ever rented from. I have gotten several charges on my account for no reason at all due to them wanting to just get money this month alone I've had 320.00 worth of charges on my account for no reason at all. They said that my grass was too high and I had a car in my yard that was inoperable but that wasn't true at all. They have came and did inspections in my house several times to the point where it feel like harassment all because they want to try to find a reason to tack on more fees. I have mold in my bathroom because there is no ventilation in there and I was told that if they send someone out to check it then I was responsible for having to pay the maintenance. By law in SC mold is to be address by the lessor. I will be calling the bbb and cdc if the issue is not handled correctly. I have children and mold makes them sick. My light bill has always been high since moving here because of poor ventilation in the house. I moved here to Columbia in June of 2023 and I will say that this has been the worst experience with a landlord I could possibly have. The house is in a bad neighborhood there is always some shooting happening here and they act as if I'm in a luxury home. It's really saddening that I moved to start a new life in another city and my experience has been the worst I am so ready to move and leave this place behind. I cannot even be comfortable in the home I pay rent in because they want to come and harass me every couple of weeks. My heart goes out to the future tenants of this company because they are going to try to take every dollar they can from you while renting from them!
 
 Like2
 
@@ -962,7 +962,7 @@ Gerald webber
 
 7 months ago
 
-Try finding another company before choosing this “Property Management Company” and below are the reasons why. 1. Communication doesn’t exist with this company! The associates at this company don’t communicate with each other! 2. You call the office, no answer! You leave a message no one will return your call! 3. If you do get someone to answer the phone. They don’t stick to their word! (Darrell) 4. They will tell you one thing but do something totally different! 5. They’ll send you a text saying that they need something from you but don’t give you a deadline! 6. I was told which water company I needed to use but they gave me the wrong info! 7. I got the keys to the house on a Friday night. I received a text on the following Monday from their office stating that I need to turn in the “INVENTORY AND CONDITION FORM” but was told when it needed to be turned in. On Wednesday I received another text from their office stating that if I didn’t turn the form by Thursday that it wouldn’t be accepted! Information like this should have been passed to me when I got the keys, didn’t happen (Jasmine)! 8. Over all my initial experience with this company is TRASH!!!!!!!!!!
+Try finding another company before choosing this "Property Management Company" and below are the reasons why. 1. Communication doesn't exist with this company! The associates at this company don't communicate with each other! 2. You call the office, no answer! You leave a message no one will return your call! 3. If you do get someone to answer the phone. They don't stick to their word! (Darrell) 4. They will tell you one thing but do something totally different! 5. They'll send you a text saying that they need something from you but don't give you a deadline! 6. I was told which water company I needed to use but they gave me the wrong info! 7. I got the keys to the house on a Friday night. I received a text on the following Monday from their office stating that I need to turn in the "INVENTORY AND CONDITION FORM" but was told when it needed to be turned in. On Wednesday I received another text from their office stating that if I didn't turn the form by Thursday that it wouldn't be accepted! Information like this should have been passed to me when I got the keys, didn't happen (Jasmine)! 8. Over all my initial experience with this company is TRASH!!!!!!!!!!
 
 Like
 
@@ -1050,7 +1050,7 @@ Capri Delvaux
 
 8 months ago
 
-Communication was great until I had tenants in my property. Now it takes days to get a response from the team. I’m not updated on the status of work orders or the condition of my property. The services they provide are expensive compared to other services but the customer service isn’t great unless the manager gets involved.
+Communication was great until I had tenants in my property. Now it takes days to get a response from the team. I'm not updated on the status of work orders or the condition of my property. The services they provide are expensive compared to other services but the customer service isn't great unless the manager gets involved.
 
 Like2
 
@@ -1066,7 +1066,7 @@ Ebby Eng
 
 8 months ago
 
-Jasmine is who I dealt with from the beginning of our process and she was absolutely wonderful and professional! Later we then spoke to Marilou and Daryl, very kind and professional and they all help guide us through our process and were very prompt getting back with us when needed. Updating my review to 2 stars because I asked if we could enter the home to clean b4 the move in & we were told by Jasmine at lease signing that our home would be cleaned and maintenance would do any necessary repairs as well as them doing a last walk through to check before we moved in. She assured us that everything would be cleaned by their vendor. I’m disgusted to say that every bug, dust, dirt, stained carpet and spiderweb that we seen when we viewed the home was there on move in day. When asked she told us it’s because we picked our key up before 12 but THEY (Daryl) are the ones who told us to pick the keys up and it was after 10am. Also the maintenance issues that we noticed were still untouched on move in. They told us they needed at least 5 days to clean and repair. I’m not sure what they even did but play us. Maintenance manager Joy told us we signed a “As Is” lease but the lease mention request what we want and they would take in consideration but it was already told to us that they always clean before leasing. The lease mentions that they want PAID professionals to clean at move out but we received it dirty. Interesting….
+Jasmine is who I dealt with from the beginning of our process and she was absolutely wonderful and professional! Later we then spoke to Marilou and Daryl, very kind and professional and they all help guide us through our process and were very prompt getting back with us when needed. Updating my review to 2 stars because I asked if we could enter the home to clean b4 the move in & we were told by Jasmine at lease signing that our home would be cleaned and maintenance would do any necessary repairs as well as them doing a last walk through to check before we moved in. She assured us that everything would be cleaned by their vendor. I'm disgusted to say that every bug, dust, dirt, stained carpet and spiderweb that we seen when we viewed the home was there on move in day. When asked she told us it's because we picked our key up before 12 but THEY (Daryl) are the ones who told us to pick the keys up and it was after 10am. Also the maintenance issues that we noticed were still untouched on move in. They told us they needed at least 5 days to clean and repair. I'm not sure what they even did but play us. Maintenance manager Joy told us we signed a "As Is" lease but the lease mention request what we want and they would take in consideration but it was already told to us that they always clean before leasing. The lease mentions that they want PAID professionals to clean at move out but we received it dirty. Interesting….
 
 Like3
 
@@ -1146,7 +1146,7 @@ Catherine V. Schneider
 
 10 months ago
 
-Don’t not rent from this company!!, they have so many hidden fees and will drag their feet and try to screw you on your deposit refund and wait to the last week day of the month to send over the deposition to review even though it was done the day after you moved out and try to charge you for absurd things like almost $400 to trim front bushes and $50 for a water filter in the fridge and lie about other things!! Awful company! They Have been terrible from the start and we paid ALL 9months rent upfront
+Don't not rent from this company!!, they have so many hidden fees and will drag their feet and try to screw you on your deposit refund and wait to the last week day of the month to send over the deposition to review even though it was done the day after you moved out and try to charge you for absurd things like almost $400 to trim front bushes and $50 for a water filter in the fridge and lie about other things!! Awful company! They Have been terrible from the start and we paid ALL 9months rent upfront
 
 Like1
 
@@ -1240,7 +1240,7 @@ Janel Bess
 
 a year ago
 
-Jasmine is by far the most sweetest leasing agent I’ve ever met! Very professional and accommodating. She was prompt, courteous, patient and kind. I am very happy with my choice with Real Property Management.
+Jasmine is by far the most sweetest leasing agent I've ever met! Very professional and accommodating. She was prompt, courteous, patient and kind. I am very happy with my choice with Real Property Management.
 
 Like1
 
@@ -1396,7 +1396,7 @@ Local Guide · 49 reviews · 19 photos
 
 a year ago
 
-Only place I know that’ll kick you out and post your apartment for rent while you’re still moving your stuff out
+Only place I know that'll kick you out and post your apartment for rent while you're still moving your stuff out
 
 Like1
 
@@ -1480,7 +1480,7 @@ Ivory Shuman
 
 a year ago
 
-this company is horrible. all they want is the money. i put in a maintenance requests for issues we’re with the washing machine. the first time a technician came out he said that the tub in the washer is just sitting in there and he’s surprised it can even spin. he said he’d let them know that he recommends replacement. here we are two months later, the washer doesn’t spin at all. i made another maintenance request. they had whoever tell me we’re causing the problem by overloading the washing machine.. i’m washing days worth of kids clothes at a time, there’s no way. what do they do? cancel the request. i’m not going to keep asking for the issue to be fixed. i will be filing a complaint with the BBB. i should not be going to a laundromat when i’m renting a home with a washer/dryer connection. if they don’t want to replace the junk washer then they can move it out and i can use my own! i also put in a maintenance request for the toilet that has been running non stop. City of Columbia has called me twice to let me know the water meter is registering constant use. request is marked received as of 10/17. no technician assigned, no update. don’t be scammed by the photos you see, the properties are not what they make them out to be! money talks. i won’t be surprised if this review disappears from public view.
+this company is horrible. all they want is the money. i put in a maintenance requests for issues we're with the washing machine. the first time a technician came out he said that the tub in the washer is just sitting in there and he's surprised it can even spin. he said he'd let them know that he recommends replacement. here we are two months later, the washer doesn't spin at all. i made another maintenance request. they had whoever tell me we're causing the problem by overloading the washing machine.. i'm washing days worth of kids clothes at a time, there's no way. what do they do? cancel the request. i'm not going to keep asking for the issue to be fixed. i will be filing a complaint with the BBB. i should not be going to a laundromat when i'm renting a home with a washer/dryer connection. if they don't want to replace the junk washer then they can move it out and i can use my own! i also put in a maintenance request for the toilet that has been running non stop. City of Columbia has called me twice to let me know the water meter is registering constant use. request is marked received as of 10/17. no technician assigned, no update. don't be scammed by the photos you see, the properties are not what they make them out to be! money talks. i won't be surprised if this review disappears from public view.
 
 Like6
 
@@ -1548,7 +1548,7 @@ Local Guide · 41 reviews · 6 photos
 
 a year ago
 
-Very professional however there is a woman who answers the phone and rushes you off the phone I think that’s very rude I would still be talking and she hangs up
+Very professional however there is a woman who answers the phone and rushes you off the phone I think that's very rude I would still be talking and she hangs up
 
 Like
 
@@ -1576,7 +1576,7 @@ Tamiko James
 
 a year ago
 
-I liked that this company’s process is completely paperless. I’m happy with my new home and I love the portal. The office staff is professional and was always available to answer my questions.
+I liked that this company's process is completely paperless. I'm happy with my new home and I love the portal. The office staff is professional and was always available to answer my questions.
 
 Like1
 
@@ -1616,7 +1616,7 @@ Local Guide · 23 reviews · 7 photos
 
 a year ago
 
-Scheduled a showing received email and text confirmations for the showing from jasmine. I arrive to the showing with no one to meet and no lockbox code. I couldn’t reach any of the numbers provided via email or text. I left work early and drove an hour for no reason. Most unprofessional experience ever.
+Scheduled a showing received email and text confirmations for the showing from jasmine. I arrive to the showing with no one to meet and no lockbox code. I couldn't reach any of the numbers provided via email or text. I left work early and drove an hour for no reason. Most unprofessional experience ever.
 
 Like2
 
@@ -1688,7 +1688,7 @@ Jeffrey Aldridge
 
 2 years ago
 
-Very helpful and I’m super happy with my new place 🙂 …
+Very helpful and I'm super happy with my new place 🙂 …
 
 Like
 
@@ -2024,7 +2024,7 @@ Stephen Blomgren
 
 3 years ago
 
-As on out of town owner, Daryl and his team have provided very honest service. Definitely the best management company I’ve used in the area for the last 10 years.
+As on out of town owner, Daryl and his team have provided very honest service. Definitely the best management company I've used in the area for the last 10 years.
 
 Like
 
@@ -2172,7 +2172,7 @@ Response from the owner 3 years ago
 
 ![](https://lh3.googleusercontent.com/a-/ALV-UjUBm6hDb8pP33wibUjJf4RPUEGvKI6K8bYJIVtO1JrBJLNhfHgkUw=w36-h36-p-rp-mo-br100)
 
-HERMANNO “BLESSING” GODSON
+HERMANNO "BLESSING" GODSON
 
 2 reviews · 3 photos
 
@@ -2222,7 +2222,7 @@ c.l g
 
 3 years ago
 
-I don’t recommend this company for several reasons, you can’t talk to anyone because they rarely if ever answer the phones, you cannot see anyone because they are rarely there. I have a problem with a snake getting in the garage, it took a month before they sent someone out then they didn’t repair the problem... maybe that’s on the owner but my point is I have never had property managers that were this difficult to see or talk to. And no I don’t recommend this company! It is as if it’s a bother to deal with you in person!
+I don't recommend this company for several reasons, you can't talk to anyone because they rarely if ever answer the phones, you cannot see anyone because they are rarely there. I have a problem with a snake getting in the garage, it took a month before they sent someone out then they didn't repair the problem... maybe that's on the owner but my point is I have never had property managers that were this difficult to see or talk to. And no I don't recommend this company! It is as if it's a bother to deal with you in person!
 
 Negative
 
@@ -2408,7 +2408,7 @@ Brianna Rietvelt
 
 4 years ago
 
-IF I COULD GIVE NEGATIVE STARS I WOULD From the start everything seemed OK. I scheduled a viewing and saw the property. The agent didn’t seem to knowledgeable but regardless it was what we were looking for so we applied. Within a couple days we got approved! After the weekend passed by I contacted them to schedule my appointment to pay deposit and go through the formality aspect. Well a week went by I heard nothing. I had the agents personal phone number and had called and texted not only her but the office. I left multiple voicemails and texts. Nothing. Finally 2 weeks from the date we got approved I called and got ahold of her. Only to be told that the owners have decided to remove their house. Now I understand this isn’t the property managements fault but where is the decency in the fact that I have let two weeks go thinking we have a house and now me and my family will most likely be stuck without something if we don’t get lucky. NEVER rent from these people if you want things done professionally
+IF I COULD GIVE NEGATIVE STARS I WOULD From the start everything seemed OK. I scheduled a viewing and saw the property. The agent didn't seem to knowledgeable but regardless it was what we were looking for so we applied. Within a couple days we got approved! After the weekend passed by I contacted them to schedule my appointment to pay deposit and go through the formality aspect. Well a week went by I heard nothing. I had the agents personal phone number and had called and texted not only her but the office. I left multiple voicemails and texts. Nothing. Finally 2 weeks from the date we got approved I called and got ahold of her. Only to be told that the owners have decided to remove their house. Now I understand this isn't the property managements fault but where is the decency in the fact that I have let two weeks go thinking we have a house and now me and my family will most likely be stuck without something if we don't get lucky. NEVER rent from these people if you want things done professionally
 
 Like3
 
@@ -2446,7 +2446,7 @@ Bryant Fludd
 
 Response from the owner 4 years ago
 
-Thanks for the positive feedback! It’s been a pleasure serving you all these years.
+Thanks for the positive feedback! It's been a pleasure serving you all these years.
 
 ![](https://lh3.googleusercontent.com/a/ACg8ocKPem7JaHZDdc8hBOveghMYxmntNhd_MIh27qZhZW-0EXi80A=w36-h36-p-rp-mo-br100)
 
@@ -2498,7 +2498,7 @@ Ami Darby
 
 4 years ago
 
-We have been renting with RPM for about 4/5 years. It has been a pleasure. A couple of years ago we had a rough year. Daryl worked with us through this situation and he was extremely patient and understanding. I am thankful for this because he didn’t have to be. They also worked with us to keep the same rate over all these years. I think that says a lot. Jeff is always super friendly and upbeat when I call and need anything. He’s such a darling. I would continue to rent with them.
+We have been renting with RPM for about 4/5 years. It has been a pleasure. A couple of years ago we had a rough year. Daryl worked with us through this situation and he was extremely patient and understanding. I am thankful for this because he didn't have to be. They also worked with us to keep the same rate over all these years. I think that says a lot. Jeff is always super friendly and upbeat when I call and need anything. He's such a darling. I would continue to rent with them.
 
 Like1
 
@@ -2626,7 +2626,7 @@ Nelly Boo
 
 4 years ago
 
-These people are horrible, I have moved from being under them April 1st, 2019 due to the owner of the home putting the home up for sale. I gave my 30 day notice and they still charged me for May rent, saying as long as I held the key they can charge rent. However, the 30 day notice given to them was from April 5th to May 5th and the key to the property was turned in May 2nd(before the 30 day notice was up).Now, I receive a letter saying I have a balance for May rent and if not paid they are reporting the balance to the credit bureau even though I was gone since April 1st, 2019. They claim I never gave a 30 day notice even though I did and thank goodness I was smart enough to record when I went to drop it off and when turning the key in at a reasonable amount of time. Now, I’m at a stage if they don’t fix it then I’m taking it to the next level. STAY AWAY!!!
+These people are horrible, I have moved from being under them April 1st, 2019 due to the owner of the home putting the home up for sale. I gave my 30 day notice and they still charged me for May rent, saying as long as I held the key they can charge rent. However, the 30 day notice given to them was from April 5th to May 5th and the key to the property was turned in May 2nd(before the 30 day notice was up).Now, I receive a letter saying I have a balance for May rent and if not paid they are reporting the balance to the credit bureau even though I was gone since April 1st, 2019. They claim I never gave a 30 day notice even though I did and thank goodness I was smart enough to record when I went to drop it off and when turning the key in at a reasonable amount of time. Now, I'm at a stage if they don't fix it then I'm taking it to the next level. STAY AWAY!!!
 
 Like2
 
@@ -2764,7 +2764,7 @@ Niah Plays Roblox
 
 5 years ago
 
-RPM has made my 3 year rental experience here in Columbia a great one. No matter when you call or email you will get a response, the ladies in the office are extremely helpful. The maintenance/vendors are very professional and management is awesome. I’d say stop here where they make you feel right at home.
+RPM has made my 3 year rental experience here in Columbia a great one. No matter when you call or email you will get a response, the ladies in the office are extremely helpful. The maintenance/vendors are very professional and management is awesome. I'd say stop here where they make you feel right at home.
 
 Like
 
@@ -2792,7 +2792,7 @@ Absolutely horrible. Poor management. Poor customer service. DO NOT USE THIS COM
 
 Response from the owner 5 years ago
 
-We regret you haven’t had a good experience with us. We’d like the opportunity improve our relationship.
+We regret you haven't had a good experience with us. We'd like the opportunity improve our relationship.
 
 ![](https://lh3.googleusercontent.com/a/ACg8ocJotNSNQlqFsR_tCsLeeGh57znLlCtKkLkCquT7VgrvXAB5-A=w36-h36-p-rp-mo-br100)
 
@@ -2920,7 +2920,7 @@ Markeem Hammond
 
 5 years ago
 
-This is my family’s second year with the company and is by far the best landlord we’ve had. Mrs. Hallman is always professional when I've called or visted the office. I would highly recommend this company when in search of a rental property.
+This is my family's second year with the company and is by far the best landlord we've had. Mrs. Hallman is always professional when I've called or visted the office. I would highly recommend this company when in search of a rental property.
 
 Like1
 
@@ -3040,7 +3040,7 @@ Ally Jaye
 
 5 years ago
 
-Before applying to a home listed on their site I called and asked if anyone had paid a security deposit for it and also made sure there weren’t any pending applications. I was assured that my family and I were the first to apply so I applied and waited..and waited...and waited..for a phone call or email for the decision. After the second week, I called Friday and before even getting out my question to the receptionist I was abruptly told to hang on while she transferred me to Tierra’s voicemail. I left my voicemail a little before 3p and expected to receive a phone call back since they didn’t close til 5p but I never did. Monday morning my fiancé physically drove there around 1p to find out the status since no one ever called back. We were informed that we were approved but that another family’s “rental references” were received before ours so they got the house. My fiancé asked if I was told or if anyone called to let us know that they needed that from our current property management company bc if they did we would have made sure they got it that day. He was told no that no one reached out and they apologized for never calling us back. DO NOT APPLY THROUGH THIS COMPANY. I am pretty sure they just collect application fees for properties that aren’t ready for “move in” or they hold properties for whomever they feel like it. EITHER WAY ITS A SCAM.
+Before applying to a home listed on their site I called and asked if anyone had paid a security deposit for it and also made sure there weren't any pending applications. I was assured that my family and I were the first to apply so I applied and waited..and waited...and waited..for a phone call or email for the decision. After the second week, I called Friday and before even getting out my question to the receptionist I was abruptly told to hang on while she transferred me to Tierra's voicemail. I left my voicemail a little before 3p and expected to receive a phone call back since they didn't close til 5p but I never did. Monday morning my fiancé physically drove there around 1p to find out the status since no one ever called back. We were informed that we were approved but that another family's "rental references" were received before ours so they got the house. My fiancé asked if I was told or if anyone called to let us know that they needed that from our current property management company bc if they did we would have made sure they got it that day. He was told no that no one reached out and they apologized for never calling us back. DO NOT APPLY THROUGH THIS COMPANY. I am pretty sure they just collect application fees for properties that aren't ready for "move in" or they hold properties for whomever they feel like it. EITHER WAY ITS A SCAM.
 
 Like6
 
@@ -3160,7 +3160,7 @@ Melodie Stevenson
 
 5 years ago
 
-I’m a retired US Army Veteran I’ve used Real Property Management and I’ve had Absolutely no problem with their service at all. Active duty and retired military are very detailed about any decisions we make especially when it comes to being Professional and taking care of our business. I truly think that some of the negative views posted about Real Property was due to lack of communication, asking questions and doing research on concerning this company all this falls on the customer responsibilities. As a former Soldier in order for me to Trust any company with my time money and my business I take my time and do my own research about any company I hire before I give them my business because I never want to experience the unprofessional service of a business after I’ve paid them my monies for their services. In my research I found someone who’s been with Real Property Management for well over 8or 9 years and this person is active duty Senior Noncommissioned Officer in the US Army and they’re extremely happy with the service of Real Property Management. I was also neighbors with this client of Real Property Management so after so much research about Real Property Management and finding them to be a credible Professional company I decided to hire Real Property Management and it has been the Very Best Research and Decision I’ve ever made again all the negative post concerning Real Property Management is due to some customers don’t communicate in a timely professional manner to resolve the issues or some just don’t realize that Real Property Management works for the owners of these rental homes and if the owner of the home state they want their tenants out it’s never personal it’s business as a former Soldier and not retired Veteran I would recommend Real Property Management to any and everyone because they do remind me of Squared Away True Professionals Soldiers Special thanks to Daryl words cannot explain how much I appreciate you for knowing and doing your job Also special thanks to the entire Real Property Management team you guys are Outstanding Professionals stay encouraged and keep maintaining your Professionalism regardless of your views God has this company covered Thanks again and God bless you all keep up the Outstanding job Sincerely Melodie Retired, US Army
+I'm a retired US Army Veteran I've used Real Property Management and I've had Absolutely no problem with their service at all. Active duty and retired military are very detailed about any decisions we make especially when it comes to being Professional and taking care of our business. I truly think that some of the negative views posted about Real Property was due to lack of communication, asking questions and doing research on concerning this company all this falls on the customer responsibilities. As a former Soldier in order for me to Trust any company with my time money and my business I take my time and do my own research about any company I hire before I give them my business because I never want to experience the unprofessional service of a business after I've paid them my monies for their services. In my research I found someone who's been with Real Property Management for well over 8or 9 years and this person is active duty Senior Noncommissioned Officer in the US Army and they're extremely happy with the service of Real Property Management. I was also neighbors with this client of Real Property Management so after so much research about Real Property Management and finding them to be a credible Professional company I decided to hire Real Property Management and it has been the Very Best Research and Decision I've ever made again all the negative post concerning Real Property Management is due to some customers don't communicate in a timely professional manner to resolve the issues or some just don't realize that Real Property Management works for the owners of these rental homes and if the owner of the home state they want their tenants out it's never personal it's business as a former Soldier and not retired Veteran I would recommend Real Property Management to any and everyone because they do remind me of Squared Away True Professionals Soldiers Special thanks to Daryl words cannot explain how much I appreciate you for knowing and doing your job Also special thanks to the entire Real Property Management team you guys are Outstanding Professionals stay encouraged and keep maintaining your Professionalism regardless of your views God has this company covered Thanks again and God bless you all keep up the Outstanding job Sincerely Melodie Retired, US Army
 
 Like
 
@@ -3180,7 +3180,7 @@ Bianca Moss
 
 5 years ago
 
-I just moved into a home that they are in charge of renting and OMG where do I begin!? We just moved in Friday! First of all we couldn’t get our key til 12 noon so by the time we started moving in good, it was after business hours. Upon the move in we noticed that the property HAD NOT BEEN cleaned at all. Not even a little bit. Urine around the base of the toilet and on the walls beside them. Also the paint on the walls in the hall upstairs and in the bathroom have fingerprints all over them. Blinds caked up with dust. Food spatter on the blinds in the kitchen. Dirty children’s underwear found in the laundry room and the grass is literally almost knee high. They could’ve at least cut it for our move in. The lock box is still on the doorknob as if the house is still vacant. These people have collected almost 4,000 from my family and I to move in this house and my experience hasn’t been welcoming at all. I almost want to punch myself in the gut for not doing my research on this horrible company. I sent several emails out because that’s my only way to contact anyone after hours and nobody has reached out to apologize or to tell me that they would fix the problem. Nobody has been sensitive to the fact that my family has moved into a new home and had to clean bodily fluids from previous tenants with our personal supplies. It’s not fair! Upon our move in, that house should’ve been in PRESTINE condition for the money we’re paying but instead they took our money, and gave us the keys to a big, dirty, filthy, raunchy house. I am so upset and on the brink of tears! I will NEVER recommend this company and I definitely won’t be signing another lease with them. To say they are slumlords would be an understatement!
+I just moved into a home that they are in charge of renting and OMG where do I begin!? We just moved in Friday! First of all we couldn't get our key til 12 noon so by the time we started moving in good, it was after business hours. Upon the move in we noticed that the property HAD NOT BEEN cleaned at all. Not even a little bit. Urine around the base of the toilet and on the walls beside them. Also the paint on the walls in the hall upstairs and in the bathroom have fingerprints all over them. Blinds caked up with dust. Food spatter on the blinds in the kitchen. Dirty children's underwear found in the laundry room and the grass is literally almost knee high. They could've at least cut it for our move in. The lock box is still on the doorknob as if the house is still vacant. These people have collected almost 4,000 from my family and I to move in this house and my experience hasn't been welcoming at all. I almost want to punch myself in the gut for not doing my research on this horrible company. I sent several emails out because that's my only way to contact anyone after hours and nobody has reached out to apologize or to tell me that they would fix the problem. Nobody has been sensitive to the fact that my family has moved into a new home and had to clean bodily fluids from previous tenants with our personal supplies. It's not fair! Upon our move in, that house should've been in PRESTINE condition for the money we're paying but instead they took our money, and gave us the keys to a big, dirty, filthy, raunchy house. I am so upset and on the brink of tears! I will NEVER recommend this company and I definitely won't be signing another lease with them. To say they are slumlords would be an understatement!
 
 Like4
 
@@ -3342,7 +3342,7 @@ They have fees for everything. To make a payment online will cost you $29 plus t
 
 Response from the owner 6 years ago
 
-I’d be happy to speak with regarding all concerns. Thank you for your patience.
+I'd be happy to speak with regarding all concerns. Thank you for your patience.
 
 ![](https://lh3.googleusercontent.com/a/ACg8ocLCSo7sdo-zCY-22o-IZEaVsM-02Fq1dFgKL3o1xjH48m1J6EhI=w36-h36-p-rp-mo-br100)
 

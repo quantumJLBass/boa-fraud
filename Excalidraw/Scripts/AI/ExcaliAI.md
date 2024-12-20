@@ -115,9 +115,9 @@ const setImageModelAndSizes = () => {
     ? "dall-e-2"
     : ea.plugin.settings.openAIDefaultImageGenerationModel;
   validSizes = imageModel === "dall-e-2"
-    ? [`256x256`, `512x512`, `1024x1024`]
+    ? [`256x256`, `512x512`, `1024x1024`]
     : (imageModel === "dall-e-3"
-      ? [`1024x1024`, `1792x1024`, `1024x1792`]
+      ? [`1024x1024`, `1792x1024`, `1024x1792`]
       : [`1024x1024`])
   if(!validSizes.includes(imageSize)) {
     imageSize = "1024x1024";

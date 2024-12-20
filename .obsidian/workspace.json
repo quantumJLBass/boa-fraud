@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "f2f03dbd7e3ee820",
+    "id": "f0b021a5575bef41",
     "type": "split",
     "children": [
       {
-        "id": "b084219eaeb78835",
+        "id": "d3562dd74e60a7e5",
         "type": "tabs",
         "children": [
           {
-            "id": "0eba88b0e022d637",
+            "id": "b49b3ba2bf4f3d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proceedings/case-evidence - Copy/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE.md",
-                "mode": "source",
+                "file": "profiles/addresses/US/STATES/SOUTH CAROLINA/YORK/YORK.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE"
+              "title": "YORK"
             }
           }
         ]
@@ -292,9 +292,19 @@
               "icon": "languages",
               "title": "DuplicateAliasesView"
             }
+          },
+          {
+            "id": "0f63a5a820762f36",
+            "type": "leaf",
+            "state": {
+              "type": "bc-matrix-view",
+              "state": {},
+              "icon": "blinds",
+              "title": "Matrix view"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       },
       {
         "id": "bf617ce085f72a94",
@@ -398,61 +408,43 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "0eba88b0e022d637",
+  "active": "b49b3ba2bf4f3d9a",
   "lastOpenFiles": [
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE/EX-XX-2022-08-31-REC-INST-904189-AFF-OF-SERVICE.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE/EX-XX-2022-08-23-REC-INST-904188-AFF-OF-COMPLIANCE.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE/EX-XX-2022-08-19-REC-INST-904187-AFF-OF-COMPLIANCE.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB/EX-XX-2022-08-17-REC-INST-904190-AFF-OF-PUB.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA/EX-XX-2022-08-17-REC-INST-904186-AFF-OF-CERT-MLA.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-902262-NOD/EX-XX-2022-08-17-REC-INST-902262-NOD.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-17-REC-INST-902262-NOD/EX-XX-2022-08-17-REC-INST-902262-NOD.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-08-02-REC-INST-902078-APPT-SUC-TRST/EX-XX-2022-08-02-REC-INST-902078-APPT-SUC-TRST.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-06-18-CMS-PROVIDED-NOI-TO-FCL/EX-XX-2022-06-18-CMS-PROVIDED-NOI-TO-FCL.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-06-18-CMS-COVID-19-FRBC-LET-CONCLUSION-NB/EX-XX-2022-06-18-CMS-COVID-19-FRBC-LET-CONCLUSION-NB.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING/EX-XX-2022-04-26-NTC-CMS-FRBC-NB-OF-EXPAIRING.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS.md",
-    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS/EX-XX-2022-03-16-NTC-CMS-LOAN-MOD-FORCED-THEIR-TERMS.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2022-03-16-CMS-COVID-19-FRBC-FORCED-LOAN-MOD/EX-XX-2022-03-16-CMS-COVID-19-FRBC-FORCED-LOAN-MOD.md",
-    "proceedings/case-evidence - Copy/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE.md",
-    "proceedings/case-evidence - Copy/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE/EX-XX-2021-11-16-NTC--EMAIL-LOFR-PROOF-OF-KNOWLEDGE.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2020-07-01-CMS-COVID-19-FRBC-LET/EX-XX-2020-07-01-CMS-COVID-19-FRBC-LET.md",
-    "proceedings/case-evidence - Copy/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR.md",
-    "proceedings/case-evidence - Copy/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR/EX-XX-2017-07-11-NTC-CMS-TRANS-HELLO-LTR.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-SUBOR-NT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-SUBOR-NT-UNREC.md",
-    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-LOAN-MOD-AGREEMENT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-LOAN-MOD-AGREEMENT-UNREC.md",
-    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC.md",
-    "proceedings/case-evidence - Copy/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC/EX-XX-2012-09-01-CMS-PROVIDED-DOT-UNREC.md.edtz",
-    "proceedings/case-evidence - Copy/EX-XX-2012-03-20-REC-INST-799540-ASSIGNMENT-OF-DOT/EX-XX-2012-03-20-REC-INST-799540-ASSIGNMENT-OF-DOT.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-12-01-NTC-BAC-TRANS-NB-_REDACTED/EX-XX-2009-12-01-NTC-BAC-TRANS-NB-_REDACTED.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-11-02-REC-INST-775252-FULL-RECONVEYANCE/EX-XX-2009-11-02-REC-INST-775252-FULL-RECONVEYANCE.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-11-02-REC-INST-775251-SUB-TRST/EX-XX-2009-11-02-REC-INST-775251-SUB-TRST.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-10-16-REC-INST-774964-DOT/EX-XX-2009-10-16-REC-INST-774964-DOT.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-10-16-CMS-PROVIDED-FALSE-NOTE-TO-BOA-UNREC-NOT-NOTER/EX-XX-2009-10-16-CMS-PROVIDED-FALSE-NOTE-TO-BOA-UNREC-NOT-NOTER.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-10-03-NTC-BOA-TO-BAC-TRANS-NB-_REDACTED/EX-XX-2009-10-03-NTC-BOA-TO-BAC-TRANS-NB-_REDACTED.md",
-    "proceedings/case-evidence - Copy/EX-XX-2009-10-01-NTC-BOA-TRANS-NB-_REDACTED/EX-XX-2009-10-01-NTC-BOA-TRANS-NB-_REDACTED.md",
-    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015115.png",
-    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015126.png",
-    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015104.png",
-    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 015040.png",
-    "proceedings/case-evidence/to-process/The rigged auction/Screenshot 2024-05-20 014504.png",
-    "proceedings/case-evidence/to-process/The rigged auction/20240229_110007.jpg",
-    "proceedings/case-evidence/to-process/The rigged auction/20240229_110006.jpg",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/961337107cecf640de219308c0368c32_MD5.jpg",
-    "profiles/queries/scrap - Copy/odd&ends/db-oddsends/schema/as-of-2024-08-25.png",
-    "profiles/addresses/US/STATES/ARIZONA/PIMA/TUCSON/2195 E RIVER RD, TUCSON, AZ, 85718-6586/files/Screenshot 2024-06-25 035729.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "MUELLER, NATHAN.canvas",
-    "MPH3 LLC BRANCH (North Carolina).canvas",
-    "MPH3, LLC (Utah).canvas",
-    "CROSS COUNTRY EQUITY LLC BRANCH (North Dakota).canvas",
-    "Untitled.canvas",
-    "proceedings/parties/plaintiff/evidence/issue-rigging of auction/Untitled.canvas"
+    "profiles/addresses/US/STATES/TEXAS/HIDALGO/HIDALGO.md",
+    "profiles/addresses/US/STATES/OHIO/FAIRFIELD/FAIRFIELD.md",
+    "profiles/addresses/US/STATES/OHIO/FAYETTE/FAYETTE.md",
+    "profiles/addresses/US/STATES/OHIO/FRANKLIN/FRANKLIN.md",
+    "profiles/addresses/US/STATES/OHIO/FULTON/FULTON.md",
+    "profiles/addresses/US/STATES/OHIO/GALLIA/GALLIA.md",
+    "profiles/addresses/US/STATES/OHIO/GEAUGA/GEAUGA.md",
+    "profiles/addresses/US/STATES/OHIO/GREENE/GREENE.md",
+    "profiles/addresses/US/STATES/OHIO/GUERNSEY/GUERNSEY.md",
+    "profiles/addresses/US/STATES/OHIO/HAMILTON/HAMILTON.md",
+    "profiles/addresses/US/STATES/OHIO/HANCOCK/HANCOCK.md",
+    "profiles/addresses/US/STATES/OHIO/HARDIN/HARDIN.md",
+    "profiles/addresses/US/STATES/OHIO/HARRISON/HARRISON.md",
+    "profiles/addresses/US/STATES/OHIO/HENRY/HENRY.md",
+    "profiles/addresses/US/STATES/OHIO/HIGHLAND/HIGHLAND.md",
+    "profiles/addresses/US/STATES/OHIO/HOCKING/HOCKING.md",
+    "profiles/addresses/US/STATES/OHIO/HOLMES/HOLMES.md",
+    "profiles/addresses/US/STATES/OHIO/HURON/HURON.md",
+    "profiles/addresses/US/STATES/OHIO/JACKSON/JACKSON.md",
+    "profiles/addresses/US/STATES/OHIO/JEFFERSON/JEFFERSON.md",
+    "profiles/addresses/US/STATES/OHIO/KNOX/KNOX.md",
+    "profiles/addresses/US/STATES/OHIO/LAKE/LAKE.md",
+    "profiles/addresses/US/STATES/OHIO/LAWRENCE/LAWRENCE.md",
+    "profiles/addresses/US/STATES/OHIO/LICKING/LICKING.md",
+    "profiles/addresses/US/STATES/OHIO/LOGAN/LOGAN.md",
+    "profiles/addresses/US/STATES/OHIO/LORAIN/LORAIN.md",
+    "profiles/addresses/US/STATES/TENNESSEE/SUMNER/SUMNER.md.edtz",
+    "proceedings/case-evidence/EX-XX-2022-08-17-REC-INST-902262-NOD/EX-XX-2022-08-17-REC-INST-902262-NOD.pdf",
+    "profiles/addresses/US/STATES/WISCONSIN/GREEN LAKE/GREEN LAKE.md.edtz",
+    "profiles/addresses/US/STATES/WISCONSIN/ONEIDA/ONEIDA.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/CLAY/CLAY.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/DODDRIDGE/DODDRIDGE.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/MCDOWELL/MCDOWELL.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/MERCER/MERCER.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/WETZEL/WETZEL.md.edtz",
+    "profiles/addresses/US/STATES/WEST VIRGINIA/MORGAN/MORGAN.md.edtz"
   ]
 }

@@ -14,7 +14,7 @@ Subject: Follow up on contact. Immediate Action Required: Report on Foreclosure 
 
 To Whom It May Concern,
 
-I am writing to follow up on my previous letter dated March 1, 2024, regarding the wrongful foreclosure auction of my property by Bank of America (BoA), Carrington Mortgage Services (CMS), ReconTrust Company N.A., and their collaborators. It’s not just about the foreclosure as there is mass fraud that was uncovered and touches everything from rampant securities fraud to RICO with rings at local levels of many cities where BoA does business. Despite the gravity of my allegations and the urgent plea for investigative and legal intervention, I am disheartened to report that I have yet to receive a response or acknowledgment from your office or any of the authorities and organizations previously contacted.
+I am writing to follow up on my previous letter dated March 1, 2024, regarding the wrongful foreclosure auction of my property by Bank of America (BoA), Carrington Mortgage Services (CMS), ReconTrust Company N.A., and their collaborators. It's not just about the foreclosure as there is mass fraud that was uncovered and touches everything from rampant securities fraud to RICO with rings at local levels of many cities where BoA does business. Despite the gravity of my allegations and the urgent plea for investigative and legal intervention, I am disheartened to report that I have yet to receive a response or acknowledgment from your office or any of the authorities and organizations previously contacted.
 
 **Unaddressed Allegations and New Information**
 

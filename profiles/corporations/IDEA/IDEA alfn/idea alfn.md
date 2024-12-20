@@ -30,24 +30,24 @@ Our Leaders
 
 Jennifer Rogers
 Managing Attorney
-Ms. Rogers has seventeen years of experience primarily focused on representing mortgage lenders and services in real estate law, title curative matters, routine and complex civil litigation, bankruptcy, creditor’s rights, residential and commercial foreclosures and evictions. Additionally, Ms. Rogers has managed attorneys and staff in a law firm providing comprehensive default services to the mortgage default industry. Ms. Rogers has been a frequent speaker at mortgage default conferences addressing issues related to litigation, foreclosure, evictions, and creditor’s rights. Ms. Rogers is a founding member of the Colorado Creditor’s Bar Association. She is licensed to practice law in Colorado.
+Ms. Rogers has seventeen years of experience primarily focused on representing mortgage lenders and services in real estate law, title curative matters, routine and complex civil litigation, bankruptcy, creditor's rights, residential and commercial foreclosures and evictions. Additionally, Ms. Rogers has managed attorneys and staff in a law firm providing comprehensive default services to the mortgage default industry. Ms. Rogers has been a frequent speaker at mortgage default conferences addressing issues related to litigation, foreclosure, evictions, and creditor's rights. Ms. Rogers is a founding member of the Colorado Creditor's Bar Association. She is licensed to practice law in Colorado.
 
 danette_
 Danette Baldacci
 Managing Attorney
-For the past twenty-three years, Ms. Baldacci’s practice has focused on Creditor’s Rights and Issues, comprehensive Default Services, Business, and Real Estate. During her career, Ms. Baldacci has represented Banks and Servicers in residential and commercial real estate, default, collection, loss mitigation, structured settlement transfers, and litigation matters in Wyoming and South Dakota.  Additionally, she established and managed operations for Law Firms’ consolidated business units (centralized default services) for openings, foreclosure process, bankruptcy, evictions, and billing, in and for New Mexico, Nevada, Arizona, Utah, North Dakota, South Dakota, Montana, Wyoming, and Panama City, Panama. She is licensed to practice law in Wyoming and South Dakota.
+For the past twenty-three years, Ms. Baldacci's practice has focused on Creditor's Rights and Issues, comprehensive Default Services, Business, and Real Estate. During her career, Ms. Baldacci has represented Banks and Servicers in residential and commercial real estate, default, collection, loss mitigation, structured settlement transfers, and litigation matters in Wyoming and South Dakota.  Additionally, she established and managed operations for Law Firms' consolidated business units (centralized default services) for openings, foreclosure process, bankruptcy, evictions, and billing, in and for New Mexico, Nevada, Arizona, Utah, North Dakota, South Dakota, Montana, Wyoming, and Panama City, Panama. She is licensed to practice law in Wyoming and South Dakota.
 
 Caren Castle
 Caren Castle
 Director of Marketing and Compliance and Lead Attorney
-Caren Jacobs Castle is a Senior Mortgage Servicing Attorney at IDEA Law Group. Ms. Castle has over 30 years of experience in the mortgage servicing industry and many honors. She is a past president of USFN and was the organization’s first female president. She also served as the first Chairperson of the Board of The Legal League 100. Ms. Castle was recognized by Housing Wire in 2011, 2015, 2016, 2017, 2018 and 2019 as an influential woman in the housing industry, was honored by FiveStar in 2011 for outstanding leadership and service to the housing industry, and received the USFN member of the year award in 2012. She has participated on numerous high level committees including the US Department of the Treasury and the Mortgage Bankers Association of America.
+Caren Jacobs Castle is a Senior Mortgage Servicing Attorney at IDEA Law Group. Ms. Castle has over 30 years of experience in the mortgage servicing industry and many honors. She is a past president of USFN and was the organization's first female president. She also served as the first Chairperson of the Board of The Legal League 100. Ms. Castle was recognized by Housing Wire in 2011, 2015, 2016, 2017, 2018 and 2019 as an influential woman in the housing industry, was honored by FiveStar in 2011 for outstanding leadership and service to the housing industry, and received the USFN member of the year award in 2012. She has participated on numerous high level committees including the US Department of the Treasury and the Mortgage Bankers Association of America.
 
-While practicing in Colorado, Ms. Castle served on the legislative committees of both the Colorado Women’s Chamber of Commerce and the Colorado Mortgage Lenders Association. Ms. Castle has also been recognized as a Colorado Super Lawyer in real estate. Ms. Castle speaks extensively throughout the country on mortgage servicing related issues and has been a featured speaker at numerous national MBA Servicing Conferences, ALFN, CMBA, USFN and Legal League 100 events.
+While practicing in Colorado, Ms. Castle served on the legislative committees of both the Colorado Women's Chamber of Commerce and the Colorado Mortgage Lenders Association. Ms. Castle has also been recognized as a Colorado Super Lawyer in real estate. Ms. Castle speaks extensively throughout the country on mortgage servicing related issues and has been a featured speaker at numerous national MBA Servicing Conferences, ALFN, CMBA, USFN and Legal League 100 events.
 
 Yvette Ylagan, IDEA Law Group
 Yvette Ylagan
 Director of Operations (not authorized to practice law)
-Ms. Ylagan is responsible for oversight of the firm’s end-to-end operation and business relations. Ms. Ylagan has more than 20 years of management experience in operations for the default servicing industry and foreclosure disposition programs. She has been involved with risk management, procedural development, and process optimization for bankruptcy, foreclosure and eviction matters on a regional footprint. Her most recent venture developing and expanding a third-party sales program providing auction disposition services that market and sell defaulted properties at foreclosure sales. Her well-rounded industrial insight and expertise have been and will continue to be invaluable in ensuring exceptional service for every client.
+Ms. Ylagan is responsible for oversight of the firm's end-to-end operation and business relations. Ms. Ylagan has more than 20 years of management experience in operations for the default servicing industry and foreclosure disposition programs. She has been involved with risk management, procedural development, and process optimization for bankruptcy, foreclosure and eviction matters on a regional footprint. Her most recent venture developing and expanding a third-party sales program providing auction disposition services that market and sell defaulted properties at foreclosure sales. Her well-rounded industrial insight and expertise have been and will continue to be invaluable in ensuring exceptional service for every client.
 
 Staff Attorneys
 Jennifer Isom
@@ -58,17 +58,17 @@ Jennifer Isom has eight years of experience primarily focused on real estate law
 Idea Law Group LLC Attorney
 Lucketta McMahon
 Attorney
-Lucketta McMahon has 18 years’ experience as a licensed attorney in Wyoming for IDEA Law Group. Ms. McMahon representants creditor rights in areas of mortgage default, excitons, title resolution, litigation and bankruptcy matters in Wyoming for the firm, and also licensed in Arkansas, and Wisconsin. Ms. McMahon works closely with our clients to review and research all documents and actions relevant to statues and regulations.
+Lucketta McMahon has 18 years' experience as a licensed attorney in Wyoming for IDEA Law Group. Ms. McMahon representants creditor rights in areas of mortgage default, excitons, title resolution, litigation and bankruptcy matters in Wyoming for the firm, and also licensed in Arkansas, and Wisconsin. Ms. McMahon works closely with our clients to review and research all documents and actions relevant to statues and regulations.
 
 Jacqueline Serrao, IDEA Law Group LLC
 Jacqueline Sorrao
 Attorney
-Jacqueline Serrao has 14 years of experience as an attorney licensed in California.  At IDEA Law Group, Ms. Serrao’s focus is on real estate litigation, post-foreclosure eviction, and creditors’ rights. She has an extensive background representing debtors and creditors in bankruptcy court. Ms. Serrao’s experience on both debtor and creditor sides gives her a broad perspective in evaluating and achieving her clients’ goals.
+Jacqueline Serrao has 14 years of experience as an attorney licensed in California.  At IDEA Law Group, Ms. Serrao's focus is on real estate litigation, post-foreclosure eviction, and creditors' rights. She has an extensive background representing debtors and creditors in bankruptcy court. Ms. Serrao's experience on both debtor and creditor sides gives her a broad perspective in evaluating and achieving her clients' goals.
 
 Andrew Yarrington
 Andrew Yarrington
 Attorney
-Andrew Yarrington graduated from the University of New Mexico, School of Law and was admitted to the New Mexico Bar in 2002. Prior to attending Law School, Mr. Yarrington received his Bachelor’s degree in History with a Minor in Business Administration from the University of New Mexico in 1998.
+Andrew Yarrington graduated from the University of New Mexico, School of Law and was admitted to the New Mexico Bar in 2002. Prior to attending Law School, Mr. Yarrington received his Bachelor's degree in History with a Minor in Business Administration from the University of New Mexico in 1998.
 
 Mr. Yarrington is a Senior Litigation Attorney with IDEA Law Group, whose focus is on creditor bankruptcy, real estate, foreclosure litigation, and Fair Debt Collection Practices Act issues. He has been instrumental in defining New Mexico law on foreclosure matters, namely, standing to enforce a note in both bankruptcy court and state court, through his arguments and briefings.
 
@@ -233,7 +233,7 @@ ALFN's 2nd Annual IDEA Summit
 
 Join us for the 2nd Annual ALFN IDEA Summit, a dynamic event dedicated to fostering Inclusion, Diversity, Equity and Awareness. This summit, hosted by the ALFN's IDEA committee, will take place on May 1-2, 2024, at the Thompson Dallas.
 
-At the ALFN IDEA Summit, we will bring together thought leaders, industry experts, and advocates to engage in critical discussions and explore innovative solutions surrounding Inclusion, Diversity, Equity and Awareness “IDEA” issues. Our agenda includes guest speakers, panel discussions, and interactive roundtables that will inspire, educate, and empower attendees.
+At the ALFN IDEA Summit, we will bring together thought leaders, industry experts, and advocates to engage in critical discussions and explore innovative solutions surrounding Inclusion, Diversity, Equity and Awareness "IDEA" issues. Our agenda includes guest speakers, panel discussions, and interactive roundtables that will inspire, educate, and empower attendees.
 
 KEY HIGHLIGHTS OF THE SUMMIT:
 
@@ -288,18 +288,18 @@ Check-in at the ALFN Registration & Information Desk in the Ballroom Foyer to re
 
 8:00-6:00 PM – ALFN Registration & Information Desk – National Ballroom Foyer
 
-4:00-5:00 PM – Presentation by Charity Partner – Genesis Women’s Shelter & Support – National Ballroom
+4:00-5:00 PM – Presentation by Charity Partner – Genesis Women's Shelter & Support – National Ballroom
 
-Genesis’ core mission is to empower women and children by offering safety, shelter, and support.  In that same regard, we strive to create a workplace as diverse as the communities we serve and where everyone feels empowered to be their full, authentic selves. With these guiding principles, we commit to inclusion across race, gender, age, religion, sexual orientation, identity and experience so we may listen, learn, work together and succeed as a team.
+Genesis' core mission is to empower women and children by offering safety, shelter, and support.  In that same regard, we strive to create a workplace as diverse as the communities we serve and where everyone feels empowered to be their full, authentic selves. With these guiding principles, we commit to inclusion across race, gender, age, religion, sexual orientation, identity and experience so we may listen, learn, work together and succeed as a team.
 Moderator
 January Taylor, Esq., Managing Partner, McMichael Taylor Gray, LLC - WILL Attorney Member Chair
  
 Panelists
 Amy Norton, Chief Development Officer, Genesis 
 Erika Alonso, Chief Legal Services Officer, Genesis 
-5:00-6:00 PM – Networking Reception & Auction, co-hosted by ALFN’s WILL, IDEA & JPEG Committees – National Ballroom
+5:00-6:00 PM – Networking Reception & Auction, co-hosted by ALFN's WILL, IDEA & JPEG Committees – National Ballroom
 
-6:00-7:00 PM – Dinner & Auction, co-hosted by ALFN’s WILL, IDEA & JPEG Committees – National Ballroom
+6:00-7:00 PM – Dinner & Auction, co-hosted by ALFN's WILL, IDEA & JPEG Committees – National Ballroom
  
 7:00 PM – Dinner & Auction Concludes
 
@@ -411,20 +411,20 @@ https://www.alfn.org/eventpolicies
 
 About Us
 About the ALFN
-Founded in November 2001 (with our industry launch in June 2002), the American Legal & Financial Network “ALFN” is mutual benefit nonprofit corporation, incorporated under the Missouri Nonprofit Corporation Act, RSMo. Chapter 355, and formed as a business league (trade association) pursuant to Section 501(c)6 of the Internal Revenue Code.  ALFN remains the largest legal services-based association in the mortgage servicing industry.
+Founded in November 2001 (with our industry launch in June 2002), the American Legal & Financial Network "ALFN" is mutual benefit nonprofit corporation, incorporated under the Missouri Nonprofit Corporation Act, RSMo. Chapter 355, and formed as a business league (trade association) pursuant to Section 501(c)6 of the Internal Revenue Code.  ALFN remains the largest legal services-based association in the mortgage servicing industry.
 
 The ALFN is comprised of Attorney-Trustee Members (law firms or foreclosure trustees that provide foreclosure, bankruptcy, eviction, collections, loss mitigation, litigation or other default related legal services to creditors) and Associate Members (service providers that provide ancillary services to other ALFN members and/or creditors).  ALFN has additional opportunities for mortgage servicers, lenders, banks, credit unions, GSE's, rating agencies, chapter 13 bankruptcy trustees, mortgage servicing investors and others. 
 
-Our members’ primary business is representing the interests and needs of the legal services and mortgage servicing industries, and providing best-of-class services to their clients.  Our Attorney-Trustee membership segment includes law firms of all sizes from smaller boutique firms to larger multi-state and multi-practice firms, who collectively provide legal services in all 50 states and some U.S. territories.  With a special emphasis on creditors’ rights legal issues, the majority of our Attorney-Trustee members represent mortgage servicers, banks, lenders, credit unions, investors, Fannie Mae, Freddie Mac, HUD, VA, Ginnie Mae and others.  Some of our law firm members do have other legal practice areas that are unrelated to creditors’ rights.  Our Associate members include title companies, software companies, process servers, consultants, asset management companies and others who provide ancillary services to the mortgage servicing industry. 
+Our members' primary business is representing the interests and needs of the legal services and mortgage servicing industries, and providing best-of-class services to their clients.  Our Attorney-Trustee membership segment includes law firms of all sizes from smaller boutique firms to larger multi-state and multi-practice firms, who collectively provide legal services in all 50 states and some U.S. territories.  With a special emphasis on creditors' rights legal issues, the majority of our Attorney-Trustee members represent mortgage servicers, banks, lenders, credit unions, investors, Fannie Mae, Freddie Mac, HUD, VA, Ginnie Mae and others.  Some of our law firm members do have other legal practice areas that are unrelated to creditors' rights.  Our Associate members include title companies, software companies, process servers, consultants, asset management companies and others who provide ancillary services to the mortgage servicing industry. 
  
 The ALFN has created a network of highly experienced attorneys and service providers who are committed to educating those within the mortgage servicing industry on current practices and procedures, with an emphasis on creditors rights legal issues. We assume a leadership role in creating a forum where industry representatives can develop and coordinate ideas on current topics. The ALFN has created a network infrastructure in which members and other industry participants can unite to share ideas and take advantage of valuable educational resources.
 
 
 Our Vision
-ALFN will be recognized as the forum of choice for the articulation of concerns and issues within the creditors’ rights segment of the mortgage servicing industry.
+ALFN will be recognized as the forum of choice for the articulation of concerns and issues within the creditors' rights segment of the mortgage servicing industry.
 
 Our Mission
-ALFN is dedicated to advancing creditors’ rights and the legal profession through leadership, education, advocacy, professional development, and networking opportunities. Our extensive member network of industry leading creditors’ rights law firms, foreclosure trustees, service providers, and mortgage servicing professionals is committed to supporting and promoting best practices within the mortgage servicing industry.
+ALFN is dedicated to advancing creditors' rights and the legal profession through leadership, education, advocacy, professional development, and networking opportunities. Our extensive member network of industry leading creditors' rights law firms, foreclosure trustees, service providers, and mortgage servicing professionals is committed to supporting and promoting best practices within the mortgage servicing industry.
 
 Our Core Values
 Integrity – We pursue our mission with enthusiasm, respect, honesty and fairness for our members.  We uphold the values of the ALFN in every action and decision we make.  We are committed to act in good faith, to comply with the rule of law and in accordance with our policies and standards.  We will pursue strategies and thinking long term for the best interests of this association.
@@ -436,7 +436,7 @@ Our History
 The ALFN was chartered in November 2001 by Garry McCubbin, Esq., and Wes Kozeny, Esq., with its industry launch in June 2002.  These two industry leaders saw an opportunity to create a legal services trade association within the mortgage servicing industry, that focused on providing opportunities for all industry stakeholders to get involved, without limits to the number of members allowed per state.
 
 Client Involvement & Opportunities
-Not only does ALFN provide benefits and opportunities for our members, but we also cater to the needs of some of our members’ clients, and other stakeholders in the mortgage servicing industry.  These clients include any organization that uses law firms &/or foreclosure trustees for their legal services needs as it relates to creditors’ rights, or who has oversight and influence over the creditors’ rights legal services providers that may be used.  Clients include banks, lenders, credit unions, mortgage servicers, mortgage servicing investors, GSE’s (Fannie Mae & Freddie Mac), HUD (including FHA & Ginnie Mae), USDA, VA and regulatory entities (including FHFA, CFPB).  Clients attend ALFN events to remain up-to-date on default servicing trends and regulatory compliance and creditors’ rights legal issues, both on a jurisdictional and national level.  We provide clients with networking opportunities at ALFN events, including opportunities to network with law firms, foreclosure trustees, chapter 13 trustees, rating agencies, GSE’s, regulatory entities and others.  Clients receive discounted or complimentary attendance to ALFN events, and may receive additional financial assistance with their travel expenses through our scholarship program.  We also provide clients with complimentary access to ALFN webinar presentations, an on-demand video archive of recorded presentations, speaking opportunities at ALFN events, and opportunities for ALFN committee participation.  Clients also receive full access to all of the publications, e-updates, and other educational resources that the ALFN provides.
+Not only does ALFN provide benefits and opportunities for our members, but we also cater to the needs of some of our members' clients, and other stakeholders in the mortgage servicing industry.  These clients include any organization that uses law firms &/or foreclosure trustees for their legal services needs as it relates to creditors' rights, or who has oversight and influence over the creditors' rights legal services providers that may be used.  Clients include banks, lenders, credit unions, mortgage servicers, mortgage servicing investors, GSE's (Fannie Mae & Freddie Mac), HUD (including FHA & Ginnie Mae), USDA, VA and regulatory entities (including FHFA, CFPB).  Clients attend ALFN events to remain up-to-date on default servicing trends and regulatory compliance and creditors' rights legal issues, both on a jurisdictional and national level.  We provide clients with networking opportunities at ALFN events, including opportunities to network with law firms, foreclosure trustees, chapter 13 trustees, rating agencies, GSE's, regulatory entities and others.  Clients receive discounted or complimentary attendance to ALFN events, and may receive additional financial assistance with their travel expenses through our scholarship program.  We also provide clients with complimentary access to ALFN webinar presentations, an on-demand video archive of recorded presentations, speaking opportunities at ALFN events, and opportunities for ALFN committee participation.  Clients also receive full access to all of the publications, e-updates, and other educational resources that the ALFN provides.
  
 
 IDEA Law Group, LLC

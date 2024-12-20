@@ -55,7 +55,7 @@ image: http://ap.rdcpix.com/540ece79b7508c1d22b257cec1701c54a-w640923061s.jpg
 
 Coldwell Banker Realty
 
-101 Sycamore Valley Rd West, Danville, CA, 94526
+101 Sycamore Valley Rd West, Danville, CA, 94526
 
 ![brokerage logo](https://ap.rdcpix.com/231eb5a29f502174b938f4bd140e19c6o-w1342287974s.jpg)
 

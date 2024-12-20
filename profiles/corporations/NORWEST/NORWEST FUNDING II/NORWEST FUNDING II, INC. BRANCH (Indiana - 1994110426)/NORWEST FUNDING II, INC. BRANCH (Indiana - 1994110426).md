@@ -77,7 +77,7 @@ entry-collaborators:
 | Name                 | Role            | Status     | Type        | Link |
 |----------------------|-----------------|------------|-------------|------|
 | [[CORPORATION SERVICE COMPANY\|Corporation Service Company]] | agent           | inactive   | Corporation | [Link](https://opencorporates.com/officers/223544194) |
-| [[SHEEHY, PATRICK\|PATRICK SHEEHY]] | president 
+| [[SHEEHY, PATRICK\|PATRICK SHEEHY]] | president 
  9 Nov 1994- | inactive   | Person      | [Link](https://opencorporates.com/officers/223544195) |
 | [[STROTHER, JAMES\|James M. Strother]] | secretary       | inactive   | Person      | [Link](https://opencorporates.com/officers/223544196) |
 

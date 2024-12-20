@@ -415,7 +415,7 @@ Changes to our website — to find out why access to some data now requires a lo
 Companies
 </label>
 <label class="oc-header-search__option">
-<input class="oc-header-search__radio js-oc-search-radio" data-placeholder="Officer’s name" name="type" type="radio" value="officers">
+<input class="oc-header-search__radio js-oc-search-radio" data-placeholder="Officer's name" name="type" type="radio" value="officers">
 Officers
 </label>
 </div>

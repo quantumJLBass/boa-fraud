@@ -51,7 +51,7 @@ broker at The Frontline Group
     The Frontline Group
     
 
-Ogden, Utah, United States  [Contact info](https://www.linkedin.com/in/nate-mueller-83293511/overlay/contact-info/)
+Ogden, Utah, United States  [Contact info](https://www.linkedin.com/in/nate-mueller-83293511/overlay/contact-info/)
 
 ```cardlink
 url: https://www.linkedin.com/company/the-frontline-group/
@@ -78,7 +78,7 @@ Oil and Gas
 
 2-10 employees
 
-[32 associated members](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2247741%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH) LinkedIn members who’ve listed The Frontline Group - TFG as their current workplace on their profile.
+[32 associated members](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2247741%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH) LinkedIn members who've listed The Frontline Group - TFG as their current workplace on their profile.
 
 ### Headquarters
 
@@ -100,7 +100,7 @@ Management Consulting, Oil & Gas, Well Planning, Database Management, Risk Manag
 #### NOT These Nates
 
 [Nathan D. Mueller](https://scholar.google.com/citations?user=Y9FApJ4AAAAJ&hl=en)
-_Nathan_ D. _Mueller_. Other names _Nathaniel_ D. _Mueller_. Associate Professor, Colorado State University. Verified email at colostate.edu
+_Nathan_ D. _Mueller_. Other names _Nathaniel_ D. _Mueller_. Associate Professor, Colorado State University. Verified email at colostate.edu
 [People - ASCI Lab - Colorado State University](https://ascilab.colostate.edu/index.php/people/)
 
 ```cardlink
@@ -109,14 +109,14 @@ title: "x.com"
 host: x.com
 ```
 -- or -- 
-![[profiles/people/MUELLER, NATHAN W/6450941d6fa71f6d8aa8ee74adc9fa0b_MD5.jpg]]**Area:** Saline, Jefferson and Gage Counties
+![[profiles/people/MUELLER, NATHAN W/6450941d6fa71f6d8aa8ee74adc9fa0b_MD5.jpg]]**Area:** Saline, Jefferson and Gage Counties
 
 **Degrees and Certifications  
 **B.S. Agronomy, University of Nebraska-Lincoln, 2005  
 M.S. Agronomy, University of Nebraska-Lincoln, 2007  
 Ph.D. Agronomy, Kansas State University, 2012  
 Certified Crop Adviser - NE #106079  
-**Areas of Focus:** Precision ag data management, on-farm research, soil fertility and plant nutrition, eastern Nebraska cropping systems
+**Areas of Focus:** Precision ag data management, on-farm research, soil fertility and plant nutrition, eastern Nebraska cropping systems
 
 
 -- or -- 
@@ -150,7 +150,7 @@ Prior to BlackBird Finance, Nathan was a retirement advisor at Transamerica. Dur
 
 Before Transamerica Nathan worked his way up to a senior investment specialist at Janus Henderson. Helping folks understand various Janus Henderson investments and suitability in their portfolio.
 
-As a Ramsey Solutions Master Financial Coach he has helped clients work on modifying money behaviors and understanding the fundamentals of personal finance. His coaching experience doesn’t stop there, as he is a trained life coach by the Co-Active Training Institute, an ICF accredited coaching school.
+As a Ramsey Solutions Master Financial Coach he has helped clients work on modifying money behaviors and understanding the fundamentals of personal finance. His coaching experience doesn't stop there, as he is a trained life coach by the Co-Active Training Institute, an ICF accredited coaching school.
 
 He graduated with a Masters in Business Administration with distinction from Keller Graduate School of Management and received his Bachelors of Arts in business administration from Western State University of Colorado.
 
@@ -217,7 +217,7 @@ MTM, Inc.MTM, Inc.
 ```cardlink
 url: https://www.linkedin.com/in/nathanrmueller/
 title: "Nathan Mueller - Brightspeed | LinkedIn"
-description: "Experienced Lead Sales Executive, Lead Sales Engineer, Sr Network Engineer, Sr Planning… · Experience: Brightspeed · Education: University of Central Florida · Location: Longwood · 500+ connections on LinkedIn. View Nathan Mueller’s profile on LinkedIn, a professional community of 1 billion members."
+description: "Experienced Lead Sales Executive, Lead Sales Engineer, Sr Network Engineer, Sr Planning… · Experience: Brightspeed · Education: University of Central Florida · Location: Longwood · 500+ connections on LinkedIn. View Nathan Mueller's profile on LinkedIn, a professional community of 1 billion members."
 host: www.linkedin.com
 favicon: https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca
 image: https://media.licdn.com/dms/image/v2/D4E03AQHW-Ku1_4vEyA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1681157347157?e=2147483647&v=beta&t=XWw96Yo9IeD6x4Z0spCRXs_yr7pmPeSBpiFAnY3G0Y8
@@ -228,7 +228,7 @@ Nathan R. Mueller -- Longwood, Florida,
 ```cardlink
 url: https://www.linkedin.com/in/nathan-mueller-m-b-a-149b55145/
 title: "Nathan Mueller, M.B.A. - Principal Category Manager - Mayo Clinic | LinkedIn"
-description: "Principal Category Manager at Mayo Clinic · Experience: Mayo Clinic · Education: Augsburg University · Location: Rochester · 278 connections on LinkedIn. View Nathan Mueller, M.B.A.’s profile on LinkedIn, a professional community of 1 billion members."
+description: "Principal Category Manager at Mayo Clinic · Experience: Mayo Clinic · Education: Augsburg University · Location: Rochester · 278 connections on LinkedIn. View Nathan Mueller, M.B.A.'s profile on LinkedIn, a professional community of 1 billion members."
 host: www.linkedin.com
 favicon: https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca
 image: https://media.licdn.com/dms/image/v2/D5603AQG7oiodMyFqLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675279984420?e=2147483647&v=beta&t=auQpJPufXXTcK3Wo7g8FJGe-NeJbOigtFDhyYCKOY88
@@ -268,7 +268,7 @@ Admissions, College and University Strategy, Data and Analytics, Enrollment Stra
 ```cardlink
 url: https://idahobusinessreview.com/2022/04/01/nathan-mueller-startup-community-power-list/
 title: "Nathan Mueller – Startup Community – Power List"
-description: "If you ask Nathan Mueller what he’s passionate about, chances are, you will hear him say that building something meaningful for his clients at Zennify is what drives him. The company, which he co-founded nine years ago, has been helping clients untangle complex technical messes, ensuring they run smoothly and in sync. Together with his"
+description: "If you ask Nathan Mueller what he's passionate about, chances are, you will hear him say that building something meaningful for his clients at Zennify is what drives him. The company, which he co-founded nine years ago, has been helping clients untangle complex technical messes, ensuring they run smoothly and in sync. Together with his"
 host: idahobusinessreview.com
 favicon: https://idahobusinessreview.com/files/2023/04/IBR_favicon_32x32.png
 image: https://idahobusinessreview.com/files/2022/03/Nathan-Mueller.jpg
@@ -278,7 +278,7 @@ Nathan Mueller – Zennify
 ```cardlink
 url: https://www.linkedin.com/in/nathanjmueller/
 title: "Nathaniel Mueller - Zennify | LinkedIn"
-description: "I get asked all the time what we do. I&#39;ve always had a hard time with an easy answer but… · Experience: Zennify · Education: College of Western Idaho · Location: Boise · 500+ connections on LinkedIn. View Nathaniel Mueller’s profile on LinkedIn, a professional community of 1 billion members."
+description: "I get asked all the time what we do. I&#39;ve always had a hard time with an easy answer but… · Experience: Zennify · Education: College of Western Idaho · Location: Boise · 500+ connections on LinkedIn. View Nathaniel Mueller's profile on LinkedIn, a professional community of 1 billion members."
 host: www.linkedin.com
 favicon: https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca
 image: https://media.licdn.com/dms/image/v2/C5603AQHOl0HpjOHlpg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1551464367047?e=2147483647&v=beta&t=mQDA78pBxwm4cWGRMbfX93EBeZJ2sxEnsDrrKTEVQ7Y
@@ -295,7 +295,7 @@ host: www.realtor.com
 favicon: https://assets-far.rdc.moveaws.com/static/assets/images/favicon.ico
 image: https://www.realtor.com/realtor-com.png
 ```
-[Realogics Sotheby's International Realty website](http://www.realogicssothebysrealty.com/)
+[Realogics Sotheby's International Realty website](http://www.realogicssothebysrealty.com/)
 ![[profiles/people/MUELLER, NATHAN W/465a5397fd71c4200d127d43804ca07c_MD5.jpg]]
 Nathan Mueller
 [509.953.4319](tel:5099534319)
@@ -313,14 +313,14 @@ favicon: https://assets-far.rdc.moveaws.com/static/assets/images/favicon.ico
 image: https://www.realtor.com/realtor-com.png
 ```
 
-7400 CENTER ST, MENTOR, OH, 44060
+7400 CENTER ST, MENTOR, OH, 44060
 
 -- or --
 # Nathan Mueller
 
 Graduate Student
 
-Nathan Mueller a native of Edmonton, Alberta, Canada, is a fourth year student in the Doctoral Program in Philosophy. He received a BA in Philosophy from Creighton University in 2011 (magna cum laude) and an MA in Philosophy of Religion and Ethics from Biola University in 2015 (magna cum laude). While his research interests include philosophy of religion and philosophy of education, Nathan’s primary areas of research focus on issues in epistemology and metaphysics, and, in particular, social epistemology. When he is not doing philosophy you can find Nathan running the trails in Cameron Park, road cycling, or drinking strong coffee.
+Nathan Mueller a native of Edmonton, Alberta, Canada, is a fourth year student in the Doctoral Program in Philosophy. He received a BA in Philosophy from Creighton University in 2011 (magna cum laude) and an MA in Philosophy of Religion and Ethics from Biola University in 2015 (magna cum laude). While his research interests include philosophy of religion and philosophy of education, Nathan's primary areas of research focus on issues in epistemology and metaphysics, and, in particular, social epistemology. When he is not doing philosophy you can find Nathan running the trails in Cameron Park, road cycling, or drinking strong coffee.
 
 ![[profiles/people/MUELLER, NATHAN W/5b17b64f88e7d7a4a36c2a41e825727a_MD5.jpg]]
 
@@ -356,7 +356,7 @@ Assistant Director of Planning, Development & Sustainability at Johnson County, 
 ```cardlink
 url: https://www.journalofaccountancy.com/issues/2014/aug/fraud-20149862.html
 title: "Lessons from an $8 million fraud"
-description: "Nathan J. Mueller’s fleecing of his employer, a financial services giant, is noteworthy because of the amount of money stolen, the many years the embezzlement lasted, and the internal control weaknesses that made the scheme possible. This article examines how the crime was committed and what organizations can do to protect themselves from similar losses."
+description: "Nathan J. Mueller's fleecing of his employer, a financial services giant, is noteworthy because of the amount of money stolen, the many years the embezzlement lasted, and the internal control weaknesses that made the scheme possible. This article examines how the crime was committed and what organizations can do to protect themselves from similar losses."
 host: www.journalofaccountancy.com
 favicon: https://www.journalofaccountancy.com/content/dam/jofa/favicons/favicon-196x196.png
 image: https://www.journalofaccountancy.com/content/dam/jofa/info/jofa-default-image.jpg
@@ -365,25 +365,25 @@ Federal Prison Camp in Duluth, Minn
 $8.5 million from ING
 **EXECUTIVE SUMMARY**
 Nathan holds a B.A. in Accounting from Gustavus Adolphus College and was a licensed CPA from 2002-2010. He has over 13 years of public accounting experience and 15 years of corporate accounting experience with a focus on financial reporting, cash processing, tax, and accounting controls.
-**A corporate mistake opened the door for Nathan J. Mueller’s fraud.** Two years after the error was made, he discovered he was authorized to request and approve checks of up to $250,000. A co-worker also was accidentally granted the same privileges, while a subordinate was authorized to request checks. 
+**A corporate mistake opened the door for Nathan J. Mueller's fraud.** Two years after the error was made, he discovered he was authorized to request and approve checks of up to $250,000. A co-worker also was accidentally granted the same privileges, while a subordinate was authorized to request checks. 
 
-**Mueller, his subordinate, and the co-worker often logged on as one another to get work done.** This allowed Mueller to request checks under one identity and then approve them under his own account.
+**Mueller, his subordinate, and the co-worker often logged on as one another to get work done.** This allowed Mueller to request checks under one identity and then approve them under his own account.
 
-**Mueller and his subordinate were allowed to physically pick up checks.** This allowed Mueller to take physical checks to the bank to be deposited into the account of a fake vendor he set up.
+**Mueller and his subordinate were allowed to physically pick up checks.** This allowed Mueller to take physical checks to the bank to be deposited into the account of a fake vendor he set up.
 
-**Mueller hid his debits in ledger accounts that he controlled.** Better separation of duties could have helped to prevent the scheme.
+**Mueller hid his debits in ledger accounts that he controlled.** Better separation of duties could have helped to prevent the scheme.
 
-**The fraud netted nearly $8.5 million in four years.** The money was used to buy expensive cars, watches, and nighttime entertainment as well as to pay for numerous trips from Minnesota to Las Vegas. Living beyond one’s means is a classic red flag of possible fraud.
+**The fraud netted nearly $8.5 million in four years.** The money was used to buy expensive cars, watches, and nighttime entertainment as well as to pay for numerous trips from Minnesota to Las Vegas. Living beyond one's means is a classic red flag of possible fraud.
 
-**Mueller told his wife his extra money was from gambling winnings.** After a while, she began to doubt that explanation, and they divorced.
+**Mueller told his wife his extra money was from gambling winnings.** After a while, she began to doubt that explanation, and they divorced.
 
   
 
-**The fraud was uncovered when Mueller’s ex-wife expressed her doubts about his income to his co-worker.** The co-worker spotted questionable transactions in the company records and brought them to management’s attention. The scheme unraveled quickly after that.
+**The fraud was uncovered when Mueller's ex-wife expressed her doubts about his income to his co-worker.** The co-worker spotted questionable transactions in the company records and brought them to management's attention. The scheme unraveled quickly after that.
 
-**Mueller was sentenced to 97 months in federal prison after pleading guilty to fraud.** He is due to be released in September after 5½ years in prison.
+**Mueller was sentenced to 97 months in federal prison after pleading guilty to fraud.** He is due to be released in September after 5½ years in prison.
 
-_**Mark J. Nigrini** (_ [_mark_nigrini@msn.com_](mailto:mark_nigrini@msn.com) _) is an assistant professor at West Virginia University in Morgantown, W.Va. **Nathan J. Mueller** is an inmate at the Federal Prison Camp in Duluth, Minn. He can be reached starting in September at_ [_nmueller@outlook.com_](mailto:nmueller@outlook.com) _._
+_**Mark J. Nigrini** (_ [_mark_nigrini@msn.com_](mailto:mark_nigrini@msn.com) _) is an assistant professor at West Virginia University in Morgantown, W.Va. **Nathan J. Mueller** is an inmate at the Federal Prison Camp in Duluth, Minn. He can be reached starting in September at_ [_nmueller@outlook.com_](mailto:nmueller@outlook.com) _._
 
-_To comment on this article or to suggest an idea for another article, contact Jeff Drew, senior editor, at_ [_jdrew@aicpa.org_](mailto:jdrew@aicpa.org) _or 919-402-4056._
+_To comment on this article or to suggest an idea for another article, contact Jeff Drew, senior editor, at_ [_jdrew@aicpa.org_](mailto:jdrew@aicpa.org) _or 919-402-4056._
 

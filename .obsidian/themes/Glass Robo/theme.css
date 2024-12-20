@@ -1393,7 +1393,7 @@ body:not(.is-mobile) .workspace-sidedock-vault-profile::before {
   z-index: -1;
   /* Place it behind other content */
   pointer-events: none;
-  /* Ensure it doesn’t interfere with interactions */
+  /* Ensure it doesn't interfere with interactions */
 }
 body:not(.is-mobile) .nav-files-container {
   padding-bottom: 50px;

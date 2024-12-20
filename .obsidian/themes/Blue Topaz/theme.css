@@ -3471,8 +3471,8 @@ settings:
     id: icons-style-folder-1
     title: Intro to basic image position
     title.zh: 基本图片位置简介
-    description: You can add 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (the “centre” one is for the “Obsidian Default Image Position above only, because Topaz's default image position is in the centre) into a image format to adjust the image position, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)
-    description.zh: 在图片格式里添加 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (这个选项只在开启 “Obsidian默认图片位置” 后生效，因为Topaz默认图片位置就是居中) 来改变图片位置, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)
+    description: You can add 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (the “centre" one is for the “Obsidian Default Image Position above only, because Topaz's default image position is in the centre) into a image format to adjust the image position, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)
+    description.zh: 在图片格式里添加 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (这个选项只在开启 “Obsidian默认图片位置" 后生效，因为Topaz默认图片位置就是居中) 来改变图片位置, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)
     type: heading
     level: 4
     collapsed: true
@@ -4008,7 +4008,7 @@ settings:
   -
     id: zoom-multiplier
     title: Canvas card size for "Zoom to selection"
-    title.zh: “聚焦”时卡片大小
+    title.zh: “聚焦"时卡片大小
     type: variable-number-slider
     default: 1
     min: 0.5
@@ -4582,7 +4582,7 @@ settings:
     allowEmpty: false
     default: dialogue-style-default
     description.zh: Wechat样式适合titleMode：all ，chat样式适合 titleMode：first
-    description: Wechat options is for ’titleMode：all‘ ，chat options is for  ‘titleMode：first’
+    description: Wechat options is for 'titleMode：all' ，chat options is for  'titleMode：first'
     options:
       -
         label: Default
@@ -7679,7 +7679,7 @@ body.color-scheme-options-flamingo.theme-light #calendar-container tr {
   border: 2px solid var(--background-secondary-alt);
 }
 
-/*“Today”*/
+/*“Today"*/
 body.color-scheme-options-flamingo.theme-light #calendar-container .reset-button {
   font-size: 14px !important;
   margin: 0;
@@ -16695,7 +16695,7 @@ body.toggle-calendar-shadow #calendar-container .today {
   font-weight: bolder;
 }
 
-/*“Today”*/
+/*“Today"*/
 #calendar-container .reset-button {
   font-size: 14px !important;
   margin: 0;
