@@ -1,4 +1,4 @@
-﻿# Welcome to the Crowd-Sourced Legal Action Project
+# Welcome to the Crowd-Sourced Legal Action Project
 
 This is not just a project but a social experiment aimed at creating access to legal help when there are no other choices. We are attempting to crowd-source legal action for the good of the country.
 

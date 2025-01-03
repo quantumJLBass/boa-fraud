@@ -21,6 +21,10 @@ showFolderNotes: true
 disableCollapseIcon: true
 ```
 
+
+![[EX-XX-2009-10-01-NTC-BOA-TRANS-NB-_REDACTED.pdf]]
+
+
 # Detailed Breakdown and Indexing of Document
 
 ## Document Title

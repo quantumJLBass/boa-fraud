@@ -100,5 +100,8 @@
   "alias-management",
   "markdown-timeline",
   "virtual-linker",
-  "chronos"
+  "chronos",
+  "color-folders-files",
+  "foldercanvas",
+  "live-variables"
 ]
