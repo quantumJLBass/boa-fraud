@@ -23,7 +23,7 @@ depth: 4
 includeTypes:
   - folder
   - markdown
-style: list
+style: explorer
 disableFileTag: true
 sortBy: name
 sortByAsc: true

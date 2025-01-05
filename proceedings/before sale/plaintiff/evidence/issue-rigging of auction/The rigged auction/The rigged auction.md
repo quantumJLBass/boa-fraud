@@ -17,7 +17,7 @@ showTitle: true
 depth: 4
 includeTypes:
   - all
-style: list
+style: explorer
 disableFileTag: false
 sortBy: name
 sortByAsc: true
