@@ -46,7 +46,7 @@ disableCollapseIcon: true
 
 3. **Recipient Information**:
    - **Name**: [[JEREMY L. BASS]]
-   - **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+   - **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
    - **Service Date**: August 31, 2022
    - **Time**: 1:45 PM
 

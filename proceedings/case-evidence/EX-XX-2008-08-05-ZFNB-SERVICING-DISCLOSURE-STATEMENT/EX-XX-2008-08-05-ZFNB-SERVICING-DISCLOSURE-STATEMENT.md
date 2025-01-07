@@ -26,7 +26,7 @@ disableCollapseIcon: true
 **Servicing Disclosure Statement**
 
 ## Jurisdiction Details
-- **Lender Location**: [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
+- **Lender Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
 - **Lender Address**: [[ZIONS FIRST NATIONAL BANK, N.A.]] [[3506 12TH STREET, LEWISTON, ID 83501]]
 - **Disclosure Date**: January 12, 2008
 

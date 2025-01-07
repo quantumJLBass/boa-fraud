@@ -26,7 +26,7 @@ disableCollapseIcon: true
 **Final Loan Modification Agreement and Related Documents**
 
 ## Jurisdiction Details
-- **Property Location**: [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
+- **Property Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
 - **Recording Entity**: [[NEZ PERCE COUNTY]] Recorder's Office
 - **Jurisdiction Code**: US-ID-NPC
 - **Acknowledgment Jurisdiction**: State of Idaho
@@ -35,7 +35,7 @@ disableCollapseIcon: true
 ### Property Owner
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]] (JLB)
 - **Ownership Type**: Married man dealing with his separate property.
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Original Lender
 - **Name**: [[BANK OF AMERICA, N.A.]] (BoA)
@@ -65,7 +65,7 @@ To address COVID-19-related forbearance adjustments and ensure compliance with u
 - **Agreement Execution Date**: March 15, 2022
 
 ## Property Details
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Legal Description**: The East 25 feet of Lot 9 and all of Lot 10, Block 10, Maplewood Addition to the City of Lewiston, Nez Perce County, Idaho, according to the recorded plat thereof.
 - **Tax Parcel Number**: [[RPL0880010010A]]
 

@@ -26,7 +26,7 @@ disableCollapseIcon: true
 **Notice of Assignment, Sale, or Transfer of Servicing Rights** 
 
 ## Jurisdiction Details
-- **Lender Location**:  [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]] 
+- **Lender Location**:  [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]] 
 - **Lender Address**: [[COUNTRYWIDE BANK, FSB]] [[PO BOX 650070, DALLAS, TX 75265-0070]] 
 - **Disclosure Date**: October 1, 2008 
 

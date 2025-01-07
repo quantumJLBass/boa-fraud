@@ -34,7 +34,7 @@ disableCollapseIcon: true
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Account Number**: [Redacted for Privacy]
 
 ### New Servicer Details

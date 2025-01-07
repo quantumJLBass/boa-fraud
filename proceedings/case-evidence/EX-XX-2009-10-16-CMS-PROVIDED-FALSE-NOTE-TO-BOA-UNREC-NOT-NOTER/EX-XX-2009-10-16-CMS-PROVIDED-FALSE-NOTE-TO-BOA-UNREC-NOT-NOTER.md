@@ -26,7 +26,7 @@ disableCollapseIcon: true
 **Multistate NOTE**
 
 ## Jurisdiction Details
-- **Lender Location**: [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]] 
+- **Lender Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]] 
 - **Lender Address**: [[BANK OF AMERICA, N.A.]] 
 - **Disclosure Date**: October 16, 2009 
 

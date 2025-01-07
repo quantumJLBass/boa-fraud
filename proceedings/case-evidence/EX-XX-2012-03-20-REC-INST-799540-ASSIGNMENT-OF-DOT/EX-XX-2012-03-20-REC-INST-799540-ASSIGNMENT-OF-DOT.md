@@ -68,7 +68,7 @@ disableCollapseIcon: true
 - Notary commission expiration: January 7, 2013.
 
 ### Property Description
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Parcel ID**: [[RPL08800010010AA]]
 
 ## Summary of Actions and Changes

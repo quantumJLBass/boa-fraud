@@ -69,7 +69,7 @@ disableCollapseIcon: true
    - Scheduled for December 30, 2022, at 11:00 AM.
 
 ### Property Description
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Legal Description**: The East 25 feet of Lot 9 and all of Lot 10, Block 10, MAPLEWOOD ADDITION to the City of Lewiston, Nez Perce County, Idaho.
 
 ### Notarization Details

@@ -27,13 +27,13 @@ disableCollapseIcon: true
 **Deed of Trust**
 
 ## Jurisdiction Details
-- **Property Location**: [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
+- **Property Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
 - **Recording Entity**: Not recorded (unrecorded document).
 
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Lender
 - **Name**: [[SECRETARY OF HOUSING AND URBAN DEVELOPMENT]] (HUD)
@@ -61,7 +61,7 @@ To secure the repayment of the principal sum of **$7,392.91**, evidenced by a no
 - **Maturity Date**: September 1, 2042
 
 ## Property Details
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Legal Description**: Referenced in Exhibit A (not included in this document).
 
 ## Signing and Authentication
@@ -108,7 +108,7 @@ This summary provides an outline of all parties, terms, and significant elements
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Lender
 - **Name**: [[SECRETARY OF HOUSING AND URBAN DEVELOPMENT]]
@@ -125,7 +125,7 @@ This summary provides an outline of all parties, terms, and significant elements
 - **Maturity Date**: September 1, 2042
 
 ### Property Description
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Legal Description**: See Exhibit A for the legal description if applicable.
 
 ### Secured Obligations

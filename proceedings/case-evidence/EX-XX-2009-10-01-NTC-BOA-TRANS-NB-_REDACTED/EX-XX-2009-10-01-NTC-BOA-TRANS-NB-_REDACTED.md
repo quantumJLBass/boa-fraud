@@ -31,7 +31,7 @@ disableCollapseIcon: true
 **Important account updates and new opportunities** 
 
 ## Jurisdiction Details
-- **Lender Location**: [[LEWISTON]], [[IDAHO]] 
+- **Lender Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[IDAHO]] 
 - **Lender Address**: [[BANK OF AMERICA HOME LOANS]]
 - **Disclosure Date**: October 1, 2009 
 

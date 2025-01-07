@@ -29,7 +29,7 @@ disableCollapseIcon: true
 ## Key Details
 - **Notification Date**: April 26, 2022
 - **Borrower Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Property Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Property Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Loan Number**: [[4000401948]]
 - **Servicer**: [[CARRINGTON MORTGAGE SERVICES, LLC]]
 

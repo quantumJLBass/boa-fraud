@@ -67,7 +67,7 @@ disableCollapseIcon: true
 
 ### Return Instructions
 - **Recipient**: [[JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ## Summary of Actions and Changes
 1. **Substitution of Trustee**: Appoints [[RECONTRUST COMPANY, N.A.]] as the new trustee under the Deed of Trust.

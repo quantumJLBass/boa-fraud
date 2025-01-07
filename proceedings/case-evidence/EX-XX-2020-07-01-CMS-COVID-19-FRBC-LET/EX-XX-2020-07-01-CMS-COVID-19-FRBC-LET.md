@@ -27,13 +27,13 @@ disableCollapseIcon: true
 **COVID-19 Pandemic Forbearance Plan**
 
 ## Jurisdiction Details
-- **Property Location**: [[LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
+- **Property Location**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/LEWISTON]], [[NEZ PERCE COUNTY]], [[IDAHO]]
 - **Servicer Location**: [[ANAHEIM]], [[CALIFORNIA]]
 
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Loan Servicer
 - **Name**: [[CARRINGTON MORTGAGE SERVICES, LLC]] (CMS)

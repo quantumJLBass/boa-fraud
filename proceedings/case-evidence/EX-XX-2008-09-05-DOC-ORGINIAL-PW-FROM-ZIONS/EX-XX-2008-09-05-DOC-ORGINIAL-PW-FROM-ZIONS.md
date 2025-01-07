@@ -34,7 +34,7 @@ disableCollapseIcon: true
 ## Key Parties Involved
 ### Borrower
 - **Name**: [[BASS, JEREMY L|JEREMY L. BASS]]
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 
 ### Seller
 - **Names**: [[TUTTY, ROGER H|ROGER H. TUTTY]] and [[TUTTY, PATRICIA A|PATRICIA A. TUTTY]]
@@ -60,7 +60,7 @@ disableCollapseIcon: true
 - **Cash Due from Borrower**: $5,316.05
 
 ### Property Location
-- **Address**: [[1515 21ST AVE, LEWISTON, ID, 83501-3926]]
+- **Address**: [[../../../profiles/addresses/US/STATES/IDAHO/NEZ PERCE/LEWISTON/1515 21ST AVE, LEWISTON, ID, 83501-3926/1515 21ST AVE, LEWISTON, ID, 83501-3926]]
 - **Legal Description**: The East 25 feet of Lot 9 and all of Lot 10, Block 10, MAPLEWOOD ADDITION to the City of Lewiston, Nez Perce County, State of Idaho.
 
 ### Settlement Costs

@@ -1,6 +1,6 @@
 ---
 tags:
-- MOCs
+  - MOCs
 entry-taxonomic-rank: family
 ---
 ```folder-overview
