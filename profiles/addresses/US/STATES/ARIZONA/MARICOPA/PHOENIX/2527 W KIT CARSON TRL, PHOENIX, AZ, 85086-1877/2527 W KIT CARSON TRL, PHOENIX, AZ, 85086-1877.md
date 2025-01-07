@@ -7,10 +7,10 @@ entry-taxonomic-rank: family
 ```folder-overview
 id: {ID}
 folderPath: ""
-title: "{folderName} overview"
+title: "{{folderName}} overview"
 showTitle: true
 depth: 4
-style: list
+style: explorer
 includeTypes:
 - folder
 - all

@@ -1,29 +1,27 @@
-
-        ---
-        tags:
-        - MOCs
-        entry-taxonomic-rank: family
-        ---
-        ```folder-overview
-        id: {ID}
-        folderPath: ""
-        title: "{folderName} overview"
-        showTitle: true
-        depth: 4
-        style: list
-        includeTypes:
-        - folder
-        - all
-        disableFileTag: true
-        sortBy: name
-        sortByAsc: true
-        showEmptyFolders: false
-        onlyIncludeSubfolders: false
-        storeFolderCondition: true
-        showFolderNotes: true
-        disableCollapseIcon: true
-        ```
-            
+---
+tags:
+- MOCs
+entry-taxonomic-rank: family
+---
+```folder-overview
+id: {ID}
+folderPath: ""
+title: "{{folderName}} overview"
+showTitle: true
+depth: 4
+style: explorer
+includeTypes:
+- folder
+- all
+disableFileTag: true
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: true
+disableCollapseIcon: true
+```
 4199 GATEWAY BLVD STE 2000
 
 NEWBURGH IN 47630-8940

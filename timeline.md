@@ -59,7 +59,7 @@
 |     |                | **2023-02-17** |                | **CV35-22-1875**  | COURT ORDER                      |            | CMS, [[IDEA]], [[MJN]], JMTM, NPC, JLB, POW                                               |         |
 |     |                | **2023-03-09** |                | **CV35-22-1875**  | COURT ORDER                      |            | CMS, [[IDEA]], [[MJN]], JMTM, NPC, JLB, POW                                               |         |
 |     | **2024-01-29** |                |                | **912340**        | AFFIDAVIT                        |            | CMS, [[IDEA]], JLB                                                                    |         |
-|     |                |                | **2023-02-28** |                   | LEASE ENTERED                    |            | DP, JLB                                                                           | XX      |
+|     |                |                | **2024-02-28** |                   | LEASE ENTERED                    |            | DP, JLB                                                                           | XX      |
 
 
 ## Events from the the point the sale was ATTEMPTED
@@ -237,7 +237,7 @@
 | ANI BHAVSAR                                   | AB        |
 | SWARUPA SLEE VP                               | SSVP      |
 | SHANNON STEEG                                 | SS        |
-| LOS ANGELES COUNTY                            | LAC       |
+| [[LOS ANGELES]] COUNTY                            | LAC       |
 | CORELOGIC SOLUTIONS LLC                       | CLS       |
 | MATT SKOGLUND SVP                             | MSSVP     |
 | BRANDY MANGALINDAN                            | BM        |

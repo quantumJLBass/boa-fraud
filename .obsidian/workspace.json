@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Note.md",
+                "file": "profiles/addresses/US/STATES/MISSOURI/WRIGHT/WRIGHT.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Central Note"
+              "title": "WRIGHT"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5019836425781
+    "width": 605.5119018554688
   },
   "right": {
     "id": "086d646853fe6f07",
@@ -189,8 +189,8 @@
             "state": {
               "type": "file-view",
               "state": {},
-              "icon": "chevron-right-square",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -199,8 +199,8 @@
             "state": {
               "type": "canvas-view",
               "state": {},
-              "icon": "chevron-left-square",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -299,12 +299,22 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d9d8480309786e91",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-links",
+              "state": {},
+              "icon": "align-center-horizontal",
+              "title": "Canvas Links"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       },
       {
         "id": "bf617ce085f72a94",
@@ -381,7 +391,6 @@
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "graph:Open graph view": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "msg-handler:MSG Handler": false,
       "obsidian-rich-links:Rich Links": false,
       "templates:Insert template": false,
@@ -404,49 +413,50 @@
       "cursor-bridge:Open in Cursor": false,
       "moc-link-helper:Open MOC Link Helper View": false,
       "obsidian42-brat:BRAT": false,
+      "foldercanvas:Folder Canvas": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false,
       "map-of-content:Update Map of Content": false,
-      "tags-routes:Open tags routes": false,
-      "foldercanvas:Folder Canvas": false
+      "tags-routes:Open tags routes": false
     }
   },
   "active": "146f4de206e6a4c4",
   "lastOpenFiles": [
-    "Financial Institution Crimes & Fines Database Bankers & Traders  Office of the Special Inspector General for the Troubled Asset Relief Program.md",
-    "Welcome.md",
-    "Timeline of Events - Copy.md",
-    "Timeline of Events.md",
-    "timeline.md",
-    "README.md.edtz",
-    "README.md",
-    "outline.md",
-    "Dashboard.md",
-    "banking.md",
-    "proceedings/to-process/to-process.md",
-    "proceedings/laws-statutes/idaho/idaho.md",
-    "proceedings/laws-statutes/New folder.md",
-    "proceedings/case overview/Void Ab Initio (From the Start).md",
-    "proceedings/case overview/Points to account for.md",
-    "proceedings/case overview/importance of what a public auction means.md",
-    "proceedings/case overview/LLM - What to assume.md",
-    "proceedings/case overview/Comprehensive Summary of Material Facts.md",
-    "proceedings/case overview/Constructive fraud.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/Case Law/CASE-LAW-FOR-SUMS.pdf",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/moving to federal.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/chats/applealing 2024-11-04 chat.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/961337107cecf640de219308c0368c32_MD5.jpg",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/appeal - reconsideration.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/case law.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/Chain Of Title.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/citing-in-idaho.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/filing-court-progresstion.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/filing-court-progresstion.md.edtz",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/indigobook.github.io-Indigo Book 20.pdf",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/LLM NOTES - Details of the case.md",
-    "proceedings/after sale/defendant/2024-09-23/brief notes/LLM NOTES - Details of the case.pdf",
-    "proceedings/after sale/defendant/appeal/Backup of AFFIDAVIT OF JEREMY L. BASS IN SUPPORT OF MOTION TO STAY.wbk",
-    "proceedings/after sale/defendant/appeal/~WRD3735.tmp",
-    "proceedings/after sale/defendant/appeal/~$FIDAVIT OF JEREMY L. BASS IN SUPPORT OF MOTION TO STAY.docx",
-    "proceedings/after sale/defendant/appeal/Backup of MEMORANDUM IN SUPPORT OF MOTION TO WAIVE SUPERSEDEAS BOND.wbk",
-    "proceedings/after sale/defendant/appeal/~WRD0136.tmp"
+    "profiles/addresses/US/STATES/NEBRASKA/KIMBALL/KIMBALL.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/MADISON/MADISON.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/MCPHERSON/MCPHERSON.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/MERRICK/MERRICK.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/MORRILL/MORRILL.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/NANCE/NANCE.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/NEMAHA/NEMAHA.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/NUCKOLLS/NUCKOLLS.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/OTOE/OTOE.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/PAWNEE/PAWNEE.md.edtz",
+    "profiles/addresses/US/STATES/NEBRASKA/PERKINS/PERKINS.md.edtz",
+    "profiles/addresses/US/STATES/MISSOURI/COOPER/COOPER.md",
+    "profiles/addresses/US/STATES/MISSOURI/COLE/COLE.md",
+    "profiles/addresses/US/STATES/MISSOURI/CLINTON/CLINTON.md",
+    "profiles/addresses/US/STATES/MISSOURI/CLAY/CLAY.md",
+    "profiles/addresses/US/STATES/MISSOURI/CLARK/CLARK.md",
+    "profiles/addresses/US/STATES/MISSOURI/CHRISTIAN/CHRISTIAN.md",
+    "profiles/addresses/US/STATES/MISSOURI/CHARITON/CHARITON.md",
+    "profiles/addresses/US/STATES/MISSOURI/CEDAR/CEDAR.md",
+    "profiles/addresses/US/STATES/MISSOURI/CASS/CASS.md",
+    "profiles/addresses/US/STATES/MISSOURI/CARTER/CARTER.md",
+    "profiles/addresses/US/STATES/MISSOURI/CARROLL/CARROLL.md",
+    "profiles/addresses/US/STATES/MISSOURI/CAPE GIRARDEAU/CAPE GIRARDEAU.md",
+    "profiles/addresses/US/STATES/MISSOURI/CAMDEN/CAMDEN.md",
+    "profiles/addresses/US/STATES/MISSOURI/CALLAWAY/CALLAWAY.md",
+    "profiles/addresses/US/STATES/MISSOURI/CALDWELL/CALDWELL.md",
+    "profiles/addresses/US/STATES/MISSOURI/BUTLER/BUTLER.md",
+    "profiles/addresses/US/STATES/MISSOURI/BUCHANAN/BUCHANAN.md",
+    "profiles/addresses/US/STATES/MISSOURI/BOONE/BOONE.md",
+    "profiles/addresses/US/STATES/MISSOURI/BOLLINGER/BOLLINGER.md",
+    "profiles/addresses/US/STATES/MISSOURI/BENTON/BENTON.md",
+    "profiles/addresses/US/STATES/MISSOURI/BATES/BATES.md",
+    "profiles/addresses/US/STATES/MISSOURI/BARTON/BARTON.md",
+    "profiles/addresses/US/STATES/MISSOURI/BARRY/BARRY.md",
+    "profiles/addresses/US/STATES/MISSOURI/AUDRAIN/AUDRAIN.md",
+    "profiles/addresses/US/STATES/MISSOURI/ATCHISON/ATCHISON.md",
+    "proceedings/after sale/defendant/2024-09-23/brief notes/961337107cecf640de219308c0368c32_MD5.jpg"
   ]
 }

@@ -8,7 +8,7 @@ folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
 depth: 4
-style: list
+style: explorer
 includeTypes:
   - folder
   - all

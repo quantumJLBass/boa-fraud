@@ -1,7 +1,5 @@
 *.db
-*.mp3
 *.mp4
-*.wma
 *.wav
 *.edtz
 **/node_modules/
@@ -35,3 +33,4 @@ Chats/
 proceedings/before sale/plaintiff/evidence/screen-shots/signature-review.pdf
 *.wkb
 *.wbk
+proceedings/before sale/plaintiff/evidence/audio/op-bak-2024-04-24-big/*

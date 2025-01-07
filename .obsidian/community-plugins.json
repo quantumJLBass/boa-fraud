@@ -103,5 +103,7 @@
   "chronos",
   "color-folders-files",
   "foldercanvas",
-  "live-variables"
+  "live-variables",
+  "smart-link-alias",
+  "node-flow"
 ]
