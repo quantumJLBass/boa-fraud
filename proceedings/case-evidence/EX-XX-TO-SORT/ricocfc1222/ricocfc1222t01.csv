@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,,,,
+Filename: ricocfc1222t01.csv,,,,,,,,,,,,,,,,,,,,,,,
+"Table 1. Persons prosecuted, adjudicated, and sentenced with a RICO violation as the most serious offense, FY 2018–2022",,,,,,,,,,,,,,,,,,,,,,,
+"Report title: Racketeer Influenced and Corrupt Organizations (RICO) Cases in Federal Courts, 2012–2022  NCJ 308952",,,,,,,,,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, based on data from the Executive Office for U.S. Attorneys, National Legal Information Office Network System (LIONS) database and the Administrative Office of the U.S. Courts, Criminal Master File, fiscal years 2018–2022",,,,,,,,,,,,,,,,,,,,,,,
+"Authors: Suzanne M. Strong, PhD, and Mark Motivans, PhD, BJS Statisticians",,,,,,,,,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,,,,,,,,,,,
+Date of version: 9/5/24,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+"Table 1. Persons prosecuted, adjudicated, and sentenced with a RICO violation as the most serious offense, FY 2018–2022",,,,,,,,,,,,,,,,,,,,,,,
+,,Persons investigated by U.S. attorneys offices/a,,,,,,,Persons adjudicated/b,,,,,,,Persons sentenced/c,,,,,,,
+,,Total persons investigated,,,Persons prosecuted,,,,Total persons adjudicated,,,Persons convicted,,,,Total persons convicted,,,Persons sentenced to prison,,,Length of prison term/d,
+Fiscal year,,Number,Percent,,Number,Percent,,,Number,Percent,,Number,Percent,,,Number,Percent,,Number,Percent,,Median,
+,Total (2018–2022),"1,740",100,%,"1,214",69.8,%,,"1,392",100,%,"1,357",97.5,%,,"1,357",100,%,"1,224",90.2,%,87,mos.
+2018,,384,100,%,316,82.3,,,370,100,%,363,98.1,,,363,100,%,335,92.3,,57,mos.
+2019,,416,100,%,227,54.6,,,340,100,%,328,96.5,,,328,100,%,301,91.8,,84,mos.
+2020,,297,100,%,228,76.8,,,229,100,%,218,95.2,,,218,100,%,202,92.7,,97,mos.
+2021,,348,100,%,294,84.5,,,201,100,%,199,99,,,199,100,%,175,87.9,,90,mos.
+2022,,295,100,%,149,50.5,,,252,100,%,249,98.8,,,249,100,%,211,84.7,,120,mos.
+"Percent change, 2018–2022",,~,-23.2,%,~,-52.8,%,,~,-31.9,%,~,-31.4,%,,~,-31.4,%,~,-37,%,~,
+Note: RICO denotes Racketeer Influenced and Corrupt Organizations Act.,,,,,,,,,,,,,,,,,,,,,,,
+~Not applicable.,,,,,,,,,,,,,,,,,,,,,,,
+a/Persons in investigations concluded by U.S. attorneys. Persons investigated in more than one investigation are counted separately. Lead charge is Title 18 U.S.C. §§ 1961–1968. Lead charge is the substantive statute that is the primary basis for the referral.,,,,,,,,,,,,,,,,,,,,,,,
+"b/Includes persons in cases adjudicated with a felony or Class A misdemeanor offense in U.S. district court. An adjudication is the disposition decision reached by the court. Persons in more than one terminated case are counted separately. Most serious offense at case termination is Title 18 U.S.C. §§ 1961–1968. Most serious offense is determined based on the charge with the greatest maximum statutory penalty (when there is more than one charge). Total includes persons in cases adjudicated by guilty plea, bench or jury trial, acquittal, or dismissal.",,,,,,,,,,,,,,,,,,,,,,,
+"c/Includes persons sentenced to prison only, probation only, a split sentence, fine only, and a suspended sentence.",,,,,,,,,,,,,,,,,,,,,,,
+d/Includes persons sentenced to life in prison.,,,,,,,,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, based on data from the Executive Office for U.S. Attorneys, National Legal Information Office Network System (LIONS) database and the Administrative Office of the U.S. Courts, Criminal Master File, fiscal years 2018–2022.",,,,,,,,,,,,,,,,,,,,,,,

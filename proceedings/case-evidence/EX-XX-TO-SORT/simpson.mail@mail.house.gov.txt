@@ -1,0 +1,43 @@
+simpson.mail@mail.house.gov
+finance@finance.idaho.gov
+crapo_services@crapo.senate.gov
+
+Rep. Mike Simpson <simpson.mail@mail.house.gov>;  finance@finance.idaho.gov <finance@finance.idaho.gov>; Senator Mike Crapo <crapo_services@crapo.senate.gov>
+
+
+Treasury.Direct@fiscal.treasury.gov
+TIGTACommunications@tigta.treas.gov
+BankNet@occ.treas.gov
+CARESITForms@treasury.gov
+inquiries@usmint.treas.gov  
+licensing@usmint.treas.gov
+SBLFInstitutions@treasury.gov
+SSBCIquestions@treasury.gov
+SIGPR-public-affairs@sigpr.gov
+hotline@sigpr.gov
+SIGPR-FOIA-Request@sigpr.gov
+contact@gao.gov
+youngc1@gao.gov
+CongRel@gao.gov
+spel@gao.gov
+apqa@gao.gov
+sigtarp.feedback@treasury.gov
+
+GetHelp@occ.treas.gov
+
+
+
+| [Name](https://home.treasury.gov/data/troubled-assets-relief-program/reports/warrant-disposition-reports?name=&items_per_page=10&order=name&sort=asc "sort by Name") | [Date Sort ascending](https://home.treasury.gov/data/troubled-assets-relief-program/reports/warrant-disposition-reports?name=&items_per_page=10&order=created&sort=asc "sort by Date") |
+| --- | --- |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/December%202012%20Warrant%20Disposition%20Report.pdf) | 03/13/2013 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/Final%20Warrant%20Report%20June%202012.pdf) | 09/27/2012 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/TARP_Warrant_Dispostion_Report_2-22-2012.pdf) | 02/22/2012 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/TARP%20Warrants%20Report%20Aug2011.pdf) | 08/25/2011 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/TARP%20Warrant%20Disposition%20Report%2012.31.2010%20Update.pdf) | 12/31/2010 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/TARP_WRRTDISP_80310.pdf) | 08/04/2010 |
+| [Warrant Disposition Report](https://home.treasury.gov/sites/default/files/initiatives/financial-stability/reports/Documents/TARP%20Warrant%20Disposition%20Report%20v4.pdf) | 01/20/2010 |
+
+
+Chair Gary Gensler <Chair@sec.gov>; Commissioner Hester M. Peirce <CommissionerPeirce@sec.gov>; Commissioner Caroline A. Crenshaw <CommissionerCrenshaw@sec.gov>; Commissioner Mark T. Uyeda <CommissionerUyeda@sec.gov>; Commissioner Jaime Lizárraga <CommissionerLizarraga@sec.gov>; Rep. Mike Simpson <simpson.mail@mail.house.gov>; Acu@dopl.idaho.gov <Acu@dopl.idaho.gov>; finance@finance.idaho.gov <finance@finance.idaho.gov>; Senator Mike Crapo <crapo_services@crapo.senate.gov>; help@sec.gov <help@sec.gov>; jkuzik@cityoflewiston.org <jkuzik@cityoflewiston.org>; jklone@cityoflewiston.org <jklone@cityoflewiston.org>; ghill@cityoflewiston.org <ghill@cityoflewiston.org>; MayorJohnson@cityoflewiston.org <MayorJohnson@cityoflewiston.org>; invinfo@isp.idaho.gov <invinfo@isp.idaho.gov>; Richard.Adamson@isp.idaho.gov <Richard.Adamson@isp.idaho.gov>; regs@fdic.gov <regs@fdic.gov>; asbpolicy@fdic.gov <asbpolicy@fdic.gov>; ombudsman@fdic.gov <ombudsman@fdic.gov>; oighotline@fdicoig.gov <OIGHotline@fdicoig.gov>; supervision@fdic.gov <supervision@fdic.gov>; OIGWhistleblowerRetaliation@fdicoig.gov <OIGWhistleblowerRetaliation@fdicoig.gov>; ContactUs@fdicoig.gov <ContactUs@fdicoig.gov>; info@osc.gov <info@osc.gov>; governor@gov.idaho.gov <governor@gov.idaho.gov>; Acu@dopl.idaho.gov <Acu@dopl.idaho.gov>; Kim.rau@adm.idaho.gov <Kim.rau@adm.idaho.gov>; Hrc.inquiry@labor.idaho.gov <Hrc.inquiry@labor.idaho.gov>; Idleginfo@lso.idaho.gov <Idleginfo@lso.idaho.gov>; daniel.estes@ag.idaho.gov <daniel.estes@ag.idaho.gov>; policedept@ci.lewiston.id.us <policedept@ci.lewiston.id.us>; Brad.Little@lgo.idaho.gov <Brad.Little@lgo.idaho.gov>
+
+

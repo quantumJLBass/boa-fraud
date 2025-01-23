@@ -1,0 +1,103 @@
+Bank of America Disowns It's Own Attorneys
+COUNTRYWIDE
+- KEMP V.
+To quell doubts about its mortgage unit's handling of documents, Bank of America Corp.
+is distancing itselffrom ... itself.
+B of A now says that a senior litigation manager — who had 10 years' experience
+working at Countrywide Home Loans Servicing LP — was out of her depth when she
+testified in a New Jersey courtroom about the unit's document practices. The Charlotte
+company also says the local lawyer that represented it essentially fumbled the routine
+personal bankruptcy case.
+There is no doubt that Kemp vs. Countrywide Home Loans was a spectacularly bungled
+defense — and its implications have caused an uproar in the world of mortgage
+securitizations.
+In a series of unforced admissions, the B of A manager, Linda DeMartini, and Harold
+Kaplan, the company's outside attorney, described how Countryvvide had failed to
+adhere to the most rudimentary of securitization procedures, such as transferring the
+original promissory note to the trusts that had purchased the loans, as required under
+the pooling and servicing agreement.
+Both DeMartini and Kaplan said it was standard practice for Countrywide to hold onto
+the original mortgage notes, which were stored in Simi Valley, Calif., despite
+securitization contracts that require the notes be physically transferred to sponsors,
+trustees or custodians.
+"I mean, there's no way I'm going to argue that there was a physical transfer," Kaplan
+told Chief Judge Judith Wizmur of the U.S. Bankruptcy Court in New Jersey, in an
+August 2009 hearing. "They had the documents."
+
+Wizmur rejected claim that it had standing to foreclose on the borrower,
+John T. Kemp, and in a Nov. 17 ruling excoriated Bank of America for its handling of the
+case.
+At the heart of B of A's bungled courtroom performance is a critical issue plaguing
+mortgage servicers and bond investors: whether Countrywide may still be holding onto a
+massive trove of untransferred mortgages and if so, what that means for the trusts that
+never received them.
+For virtually everyone in the mortgage securitization business, the admissions in court
+(including DeMartini's sworn testimony) have opened the door to further litigation by
+borrowers questioning every trust's legal standing to foreclose.
+"I don't think anyone wants the trusts to be in essence incapable of performing their
+needed functions," said Talcott Franklin, a Dallas attorney who represents a consortium
+of investors in mortgage-backed securities. "That's not good for anyone."
+Jerry Dubrowski, a B of A spokesman, said it was Countrywide's "policy and practice" to
+comply with its contracts, including forwarding any necessary documents to trustees. (B
+of A acquired Countrywide, the largest servicer of home mortgages, in 2008.)
+But, he added, in the New Jersey case "I don't think we can say these notes were
+delivered at this point. We're not sure because we don't know all of the facts of the case."
+Dubrowski later said he believed the loan documents were delivered to the trustee but at
+some point they were lost or misplaced.
+B of A was still evaluating whether to appeal even though the deadline to do so was
+Tuesday.
+Larry Platt, a partner at the law firm K&L Gates in Washington and an external counsel
+for B of A, has disowned the DeMartini testimony and Kaplan's courtroom statements.
+Neither of them had personal knowledge of how documents were handled, Platt said.
+DeMartini, he said, "talked about things outside her job responsibilities."
+
+"The employee's job had nothing to do with executing loan documents," Platt said. "Her
+testimony as to whether it was the common practice not to deliver the documents was
+not accurate."
+Platt said no one should "try to extrapolate how trillions of dollars of loans are being
+handled based on one badly defended bankruptcy case.
+"What we keep telling people, and it's a hard statement to make and a harder one to
+hear, is that if the company had it to do over again, we would have defended it
+differently," Platt said of the case. "The company was not well served by its own lawyer
+and employee. "
+Attempts to reach DeMartini for comment were unsuccessful. Kaplan, B of A's lavsyer in
+the case, did not return calls.
+He said in court that he was unable to track down an original signed pooling and
+servicing agreement (to the consternation of the judge), and had no certificate from the
+trustee, Bank of New York Mellon, about any transfers of loan documents. Kevin Heine,
+a BNY spokesman, said the company fulfilled its contractual obligations as the trustee
+"including returning the file to the servicer, as we did upon request."
+Bruce Levitt, the plaintiffs attorney with Levitt & Slafkes P.C. in South Orange, N.J.,
+said the case had "a multitude of problems," besides the testimony of B of A's own
+employee.
+"It's hard for B of A to back-pedal because she was their witness," Levitt said. "This case
+was refreshing because the vvitness wasn't told how to spin things and actually told the
+truth. They can't dispute the fact that the note was never transferred because she was
+testifying proudly that Countrywide always retained the note and would never let it out
+of their sight. It was unscripted. That's why you won't find other testimony like this; this
+one slipped through."
+There is little doubt that Countrywide was supposed to provide the physical note for
+Kemp's loan to the trust that purchased it, known as CWABS-2006-8.
+In the Securities and Exchange Commission filing for that specific securitization,
+Countrywide and Bank of New York Mellon both attested that at the time of the trust's
+formation in 2006, "the Trustee has received ... the original Mortgage Note ... or, if the
+original Mortgage Note has been lost or destroyed and not replaced, an original lost note
+affidavit."
+According to the testimony in the Kemp case, Countrywide never transferred the note
+and instead recreated documents weeks before the date of the hearing in an effort to
+prove its standing in the case.
+Judge Wizmur noted in an exchange with Kaplan that the bank could salvage its
+position by demonstrating that the transfer of the documents was not legally necessary.
+"I'm raising the possibility that the Pooling and Servicing Agreement might contain
+provisions that would serve to offer Countrywide an out," Wizmur said, suggesting that
+B of A should comb the 270-page agreement for language suggesting that it was entitled
+to retain the notes as the trustee's proxy or that transfer at the time of sale was
+immaterial.
+Lawyers argue that trustees do not have to take physical possession of the notes if there
+are contracts and other documents showing proof of transfer.
+"As a matter of law, the note doesn't have to be delivered to the trust, it can be delivered
+to an agent," said Platt, who nevertheless acknowledged that the pooling and service
+agreement in this case did not allow for such delivery.
+
+
+

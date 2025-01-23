@@ -1,0 +1,361 @@
+Received: from CH4PR04MB9284.namprd04.prod.outlook.com (2603:10b6:610:22b::6)
+ by MW4PR04MB7442.namprd04.prod.outlook.com with HTTPS; Mon, 13 Jan 2025
+ 17:29:22 +0000
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=Cw7CpH6eckfY8Dmo1dA+pyv4Xa74rkPLwXfa/ybpELxLeubkMiQC7+c67fca9DojK6vGdSwpAEO9Xf3ZLKjPwVkprtCOFu7HJHKu/sYoiiySOzlfzr0ky+Rf9FEpyHa3MzcsWQByVp7kwhfiXpdu1FKPyUdmRwHgJGp6btIH5N/GMU0BRdR3jFtJqre3Tw4eL0FSo2P2sSjkqgYL5TaUmBKD9GITraVB+mnuF83TMz52Bce4lIXD93KMussX02qEXCqrOowwpLwvhs1AanZT14dBOTYeqJdwWGMhy0EjRL7v48dk81CFuDLM1/e7XLXOM9lcAJrsgRbaMqJMZ0funA==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=VjjqsJMcFbSuChMccSg3dJ0b1Ws/aVgdEM3BuCS5tZk=;
+ b=UahJUqpRPup53xSk7Y6vLZwMTSHomyFRxZam1y4IyngoYYJ7BGvRCK+1QToA2S1MLre/pMhEareZeinwcm/sWeQuy0HFNmOAOfLzygBvux+JFTzeMzagJY/UbB9VXiyDfappdQDo9TwJhx7ds4OMdHZ2EUQscdVOGi294TtJOBk5HCEg7FGt2qpRFVNnPuTEfiE2PvD8B+mK1P+mGPPOBv4iOw7sqY0e7yn425zs8iQnW356HEehpzqSjMsMgHPNin66GpNdCS46z+9gHJMxZUhad0GpHoKcicWKlZxu8KfXFoSddOTFziupkjW5ncyKYc//yQY3H5rGkK+n+2Z2Pw==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 40.107.212.132) smtp.rcpttodomain=rawdeal.io smtp.mailfrom=eff.org;
+ dmarc=pass (p=none sp=none pct=100) action=none header.from=eff.org;
+ dkim=pass (signature was verified) header.d=eff.org; arc=pass (0 oda=1 ltdi=1
+ spf=[1,1,smtp.mailfrom=eff.org] dkim=[1,1,header.d=eff.org]
+ dmarc=[1,1,header.from=eff.org])
+Received: from SJ0PR13CA0172.namprd13.prod.outlook.com (2603:10b6:a03:2c7::27)
+ by CH4PR04MB9284.namprd04.prod.outlook.com (2603:10b6:610:22b::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8335.18; Mon, 13 Jan
+ 2025 17:29:18 +0000
+Received: from CO1PEPF000042AA.namprd03.prod.outlook.com
+ (2603:10b6:a03:2c7:cafe::42) by SJ0PR13CA0172.outlook.office365.com
+ (2603:10b6:a03:2c7::27) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8356.10 via Frontend Transport; Mon,
+ 13 Jan 2025 17:29:18 +0000
+Authentication-Results: spf=pass (sender IP is 40.107.212.132)
+ smtp.mailfrom=eff.org; dkim=pass (signature was verified)
+ header.d=eff.org;dmarc=pass action=none header.from=eff.org;compauth=pass
+ reason=100
+Received-SPF: Pass (protection.outlook.com: domain of eff.org designates
+ 40.107.212.132 as permitted sender) receiver=protection.outlook.com;
+ client-ip=40.107.212.132; helo=NAM02-BN1-obe.outbound.protection.outlook.com;
+ pr=C
+Received: from NAM02-BN1-obe.outbound.protection.outlook.com (40.107.212.132)
+ by CO1PEPF000042AA.mail.protection.outlook.com (10.167.243.39) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8356.11 via Frontend Transport; Mon, 13 Jan 2025 17:29:17 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=MAG5t1rX0D0GqEnIdTstAY6AmGLBx0JEHICid7DpubtrY7/sIlyMPHPCrncIWNQPr/ia59kL7NhnEKlYbxacb8jp47YYUIcqvNchzRUAJh55ObwbpDOr0EJpbW+wqAIAYIZY4BzjmKrQzVZ6lnkIvyG7BZwZhVREvyaLmliw5ryN0yNvkfCkyr2m5xuk3BTEUjajVpEOiYX5a6JAlRzUtweolhwU4Vq00kBmYsSPdYWYIVsUdzPxLtcgx+ASjy86+VWT3/gbdeT6JEgZlpwiOIMawPSNn0CCS6nulAMRwmfo2ou72s7n4D8IlNFN8vTGxro3q2PEGDosUcIg5pXmIg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=VjjqsJMcFbSuChMccSg3dJ0b1Ws/aVgdEM3BuCS5tZk=;
+ b=hi8WCAvnm8CmuW3JUB8ePqb3o2kN9avSDafxDQE0FGV57OEtE2UuGrol04vOe2uwdQg9K3vvlu9ogXttYw9MOnVDKLQs9eIIpbrKyuF3PVTEWrp6BkrsphKGOsW1DFDAN5hgfqhcjAe4q/flWLe0GO6kxsoibMyj4W1mdK191FnK8S1g9U6lqntihlIgzZFefSvMnV6djtESAX5ZneoiYARM3FcUjbBXdIEY62OTpQf1xg9fR6duyYRsGXLFDWYFdGWCKWwKF7BX4M+QVOZNMX08zZziQM2lFQG6f16XUGjZEMNSso4JshRAdQy/ikodAfDxe/scADBJMGvOZxdRPQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=eff.org; dmarc=pass action=none header.from=eff.org; dkim=pass
+ header.d=eff.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=eff.org; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=VjjqsJMcFbSuChMccSg3dJ0b1Ws/aVgdEM3BuCS5tZk=;
+ b=WoGI1i1cQrNvBi0Xf5CWZaKUVykgDbkpo7egCmk93VSfZUNGcVaQHLPzN5dB/lEi+SPQcudmLE2S98Ew2eIucuV57aIeXHYl9025cMcBJp0K3qOp2+YjR2nvRNvZanHYhPSrTdR1ylBc/slcnj577MmarGY2p6xy1Nqz3iX2Me6fKtb1puLxR2xtK/dl3ih0rdW6RlB3qHnLU095DYVfLHCYvkxyJcRxH0NDHkNpo3RFic/ZV7u+LHxCKr9ozOgFhwyE52Gi5rHcprHztXZ7hR0gegGj5C2UjY6sufFta7yiEeODS2rTjZOlxpqd0gvdoRRZQDGXmlATfcsUHE821Q==
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=eff.org;
+Received: from SN7PR20MB5409.namprd20.prod.outlook.com (2603:10b6:806:2a4::13)
+ by PH7PR20MB5234.namprd20.prod.outlook.com (2603:10b6:510:1b4::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8356.10; Mon, 13 Jan
+ 2025 17:29:15 +0000
+Received: from SN7PR20MB5409.namprd20.prod.outlook.com
+ ([fe80::1dae:2718:1638:425b]) by SN7PR20MB5409.namprd20.prod.outlook.com
+ ([fe80::1dae:2718:1638:425b%6]) with mapi id 15.20.8356.009; Mon, 13 Jan 2025
+ 17:29:15 +0000
+Message-ID: <4f38f8a5fee6da23fde8d5f6dec261b2@cerb.eff.org>
+Date: Mon, 13 Jan 2025 09:29:12 -0800
+Subject: Re: [#TJ-M1144] Amicus Curiae Brief Opportunity: Supporting Pro Se
+ Litigants and Protecting Homeowners
+From: Haley Pedersen <info@eff.org>
+To: Quantum <quantum.j.l.bass@RAWdeal.io>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Cerb 10.3.8 (Build 2023041201)
+References: <MW4PR04MB7442F08F958E6C3C0A72A344F6172@MW4PR04MB7442.namprd04.prod.outlook.com>
+In-Reply-To: <MW4PR04MB7442F08F958E6C3C0A72A344F6172@MW4PR04MB7442.namprd04.prod.outlook.com>
+X-ClientProxiedBy: BY3PR05CA0060.namprd05.prod.outlook.com
+ (2603:10b6:a03:39b::35) To SN7PR20MB5409.namprd20.prod.outlook.com
+ (2603:10b6:806:2a4::13)
+Return-Path: info@eff.org
+X-MS-Exchange-MessageSentRepresentingType: 1
+X-MS-TrafficTypeDiagnostic: SN7PR20MB5409:EE_|PH7PR20MB5234:EE_|CO1PEPF000042AA:EE_|CH4PR04MB9284:EE_|MW4PR04MB7442:EE_
+X-MS-Office365-Filtering-Correlation-Id: 302920e5-634f-4f4d-48a8-08dd33f7ceed
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|1800799024|52116014|376014|7053199007|38350700014;
+X-Microsoft-Antispam-Message-Info-Original: =?utf-8?B?aGhpUEtlbjFuaGtjcmF1bkNJR0plRWw4NWJsRVdpVGtYdWo2YVpibUNEbzdY?=
+ =?utf-8?B?YVpsTmszTEk3VWtaaTRFWlZrZ3BNRlhMQ3hQTUZsZGtHYzNLeEwyZ2R6c1c3?=
+ =?utf-8?B?U0VKSU9PMmwwVENBbDluanpiQ2FpZE9tMXB4c1lPeGhWNXJvV0tIV3JISm9n?=
+ =?utf-8?B?bVZsUlFCMWpiV0JNcXlHdmZnTGpjc1BYWGFCcjN3Skp5OGpWVTBGY3lGWVN5?=
+ =?utf-8?B?VmFmNXNqODJWbnRMdXE3bC9yeENUV0FWUE5RLzN1NWpaT2s1VkdxZ2RHd0Ir?=
+ =?utf-8?B?cXlHSk9TQktmbHY1N0RteXZWNVNMd0RxTUxrRW9wcEVneU9CdnBzZHVEMEtM?=
+ =?utf-8?B?ZHdQNElCYnlnUWJZMzkxRExKazZkUzlDWjZjNmlSakI1ZElDSHp2Z2JjZEFn?=
+ =?utf-8?B?b0ZNUVpaekREdldSS2t6UE1rNTY3NTJIRjYreFdCSi9ZNElCMERxb3FBVkF1?=
+ =?utf-8?B?M1JtZmZ2cGk1aEttMWhMY2h4WVIzNVJMbVNnWE02OW9zZ25PK1FwbENXanRh?=
+ =?utf-8?B?Q216SmY3VFBOYnFlRm8vdU1HNllKamg1NHQzblh2c3VCQ1k3ZjY1Z3JmL2V3?=
+ =?utf-8?B?YVcrR0FwZVV6UkZ4V1BzKzZ6SktoRlJiRm5EZ1ZGS1IxVFVEMW5MN0V3K0Zp?=
+ =?utf-8?B?UjZKTG5KaERhZi9XVURoY2pMMmh1VjBKQXN3Q1QxKzRvaUpkbzJtY0s4cVZi?=
+ =?utf-8?B?M2RFWERCR000dkRrWVIyRVVlZm44ZHpzVStBcm5GQkZpU1psdEtjZjJ1Y3Bz?=
+ =?utf-8?B?SmRpVk5UTzFxV0ZNd2pYcEpVdlJtZVVDaHpBdVEySW9ibk5rdzgyNFZISG91?=
+ =?utf-8?B?NnlJcm5aMXZMTUpVTU5iZE9vN2NXalBCa0pzb3NtZ21Wd01VcUJhdmp6THh2?=
+ =?utf-8?B?TFZlYS8vczVWbG1VVkpJZXNNOGFuaXRnWVdSOUtDOTBtQzVxMzNHdXZwY1Zw?=
+ =?utf-8?B?TDRJblVwVkVqcUFlV0pGUG4yMUJHajdjZ0R5RkdtSDJqY2txZkJ3bmRIdmZx?=
+ =?utf-8?B?bHhSUFNYUVp5STFHbm0xMCtBc3JmdldTQ1VDYk9yQUxQVXJMQ3ZYd3ZjSVF0?=
+ =?utf-8?B?MlU0ZDRLMmxDQzZKdWRraS95M2cxdFdOWXRGWGpTRVl3N0NYZTh2dVRwTjNi?=
+ =?utf-8?B?S3lFZmdhaDFibWdqQkFzVmdONmw3Y3FQSnhWbno4c0JWbnZPKys5aHdMTmp1?=
+ =?utf-8?B?Z3RqdE9tYkIrajUxVE5CZGgwWGovR0JFeXQ5Nk11dnUyOGsxTGRjQ3Q1dysx?=
+ =?utf-8?B?dzdQWHRLb1BXTE1LSUR4ZTlhQXBZRmRzMGNrMlRobEs4czlpaFlHbjRqM2hz?=
+ =?utf-8?B?OXBPNWZjb2pTVW5WTnhlN1FDY0l0SVpacFNMT2FUUDhVZlRxditTSjNsZW1M?=
+ =?utf-8?B?MlZNbzR1YnV1SHBObGF1QW5JTHpCekVCSUVxRXgyQ2MweUNZQ2dKOWsvY09p?=
+ =?utf-8?B?UXhCaHBGRENXVHZZeXY1c2Z3K05ubWFGYk84ZTRaWVV6WWtqU3lLUnBMQTJa?=
+ =?utf-8?B?cjlVNS9XRmNTTEhGWDNqaEJqalQ5di9aSFdXblhRUVh6WTg5UmNFWkloOW9x?=
+ =?utf-8?B?ZVRpZnBwV0ZCL25FemYyd3ZrZlFnYXBtUjFFSUtRNGoydUthKzRrYzlEd1Qr?=
+ =?utf-8?B?aW54YVhocGJlRVpyaGJWU3BHK2M2cjRxaWFDWGV5MkM5UlgzaVFBS040dEFy?=
+ =?utf-8?B?SkZMU1ZrVXErOUJ1MGZFY3VuSkVYemE3MUc5Wmd3RnNJTkVyRnNaSEdEVWVj?=
+ =?utf-8?B?N0dSNk9jUlZlekZQcnJaSkVYb21ldHA0QWdHQTVWYmt0NStLTENhUG0wR1l2?=
+ =?utf-8?B?d0VmQ1ZROFdFV0QrbHFuU1AyOVdvTFI2eEtjaXJIS3BQZDJVZ1lFVXg0djFU?=
+ =?utf-8?B?VkFlQS9HY0kvT0d2RGV6VG9yL2kvZ0lKWUgvL3FRUEZvVUhrVVNBN3J2UEdz?=
+ =?utf-8?Q?QIXLoMjwuXV4wd2TDZZfIzjbUhehAF8f?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SN7PR20MB5409.namprd20.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(1800799024)(52116014)(376014)(7053199007)(38350700014);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-Original-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-Original-0: =?utf-8?B?N20zRncxcldCWCtmbkthN0NOTnhybzlMV0JON1NQZ1BpVVdqZU80a2lmSlV1?=
+ =?utf-8?B?enJYVmk3QStTSDNzMEU5b3djVjNNNjFtSjAxTS9PMzdXWG5IOEZEZ1ZISlZ0?=
+ =?utf-8?B?UHM2MHRLYUF4emNUa0F5RkZkNEx5dnhlOHVuUE84d1VFcUNVQlVxOWtjcm5a?=
+ =?utf-8?B?NEpxWXM3cDZjTWVTZ2g2aHc3d0ZERHJjc3ExVXNZTDRJQzZoeWR3Ym1CbUZk?=
+ =?utf-8?B?SXlvbFY2V2FUbkxuQVh3OGZGZm1UUmNSWGlnVDl2K0lpTDZFd05LR1J1V3VL?=
+ =?utf-8?B?VGYzSDdNc2o5N2R0aGV0M0ZSN3l1UkZYVnRoWi9lYmMxVFN5U09lTlVxQzNY?=
+ =?utf-8?B?VDZIeTV3bHhNZ1FFUGRFamxsZ01lMkdjZ0wrN0FvR0VFUmxuYzdtU3FQWXFL?=
+ =?utf-8?B?QkJzeGYzMjhzUjlSdklKeWZSVlZuZXlacHNuWmduVmkzZVFXYkhEenJOY2Yw?=
+ =?utf-8?B?WjFjU2J5cVVHWTlORE5jcnFLNVpkaWF1ZnRrNDZQNkJPRkM2VzR2WldsSlRv?=
+ =?utf-8?B?UnBGbG85Nm5yMUZpcFlxRkx3eUwzYlQzN0hMZjRuRk12SHFsdzZVcHU0cHpX?=
+ =?utf-8?B?MTR5aWxLNTY0YXJNUk04amJ1Ym9mV1dLVGRac0VreDE1QUFVWWM5K3NEcWNm?=
+ =?utf-8?B?SlFZbnVOQWJJU3dOU09ueGhna2s5MHQ4cDF3bGs1MHNJMWZFZ0k2bW5pVzRj?=
+ =?utf-8?B?bnFjTFZJK3Uxck0wVHplOUg2L2ZwQUg3VmtWb0szVDdOWXVrUW14NkxHRTN4?=
+ =?utf-8?B?NXV1Ly91TytxVjVtNTlDNXdjakkybG5iZFVNN3JjQmUwTzdvbm5wT3ZpWlE2?=
+ =?utf-8?B?YjF1cVcyZTJJLzlTaGMzT3h3dmVscGdtNzBjSlNsMks5YmtLMEExVW1QSTIz?=
+ =?utf-8?B?cjBrRnJBWHJmQXNEWjZ3VnJzQnozNGdwSkFPb2V3SU12aHpjRXZxRDNWTDli?=
+ =?utf-8?B?SU5kRzgxcytMTS8wTXkwU21POUtTS0E4WEZuL1FxYVE2Zi9RSkp4VExCWHBk?=
+ =?utf-8?B?SWVWZ1FxcVBYVUtyYVR3KzZ6TThrSEpqWnZua01BSG1OK2pUTnZjWG1yRkRW?=
+ =?utf-8?B?VTA4azdUNnJIbHJaOG1FQ1ZWckdSSC9ESjlpOWtzaWgvV1VISGYxMnJxREgv?=
+ =?utf-8?B?V1QrN0FsR09kS09NSUo5RnczTmM3S1RzTk45ZC92eVVLOEpsMUxvWXF6eDdN?=
+ =?utf-8?B?RWpjeGJKV1BmWEJZNUxWUEwwVGhLd3E5QThwTGQ3ZjFkNWt6bFdlb0ZYR0Ew?=
+ =?utf-8?B?UGV0UnM1V2lhejh1RmRKQTFHWXNGRlZCZTJMTG9kRDJVOXYwTFlMclAva1NG?=
+ =?utf-8?B?bjJsN1VkMkJMYnJwSVR1eis0OHdGTHpYUy9qTWZTT0RSanNFbTZ0YkY1QlBJ?=
+ =?utf-8?B?T2lzWDJmVkV1Tk5lalVyR1l0dkRQQ29WcjdqOHo0Q3QyZ1dSMWVvajdndlhs?=
+ =?utf-8?B?ZEN5d3NxZWlGTG1JSXpIa0JNaTFxSHgvazcvZEpiM3pUbUE0OFV2SUdkdng0?=
+ =?utf-8?B?bS9yYUVXSUpFVHE1cElGUmFuU0ZwNHVWd3hDY0VENHdqRDV0UEJJS0o0Yzk5?=
+ =?utf-8?B?ODBjZndGMUh1Vk8rZ05GTG5LcEFRK0RYM2hEQS9oMDEwbXBuTzlpc0xZZWlv?=
+ =?utf-8?B?MWhwNWtEMGdqdnNmNjU4MVNtMnFSb2ZnM0NQTTUvdmlhVE8zSkd4OUhyb0g4?=
+ =?utf-8?B?NkhXMzl0eDVUSHlsdkJUUm1nVVBJVHlSQzdNeURxMzNUd2xKdmU4VEJiVEF3?=
+ =?utf-8?B?V041TEJSazNFekhzdmVXejFrUENtMDh1dnJmQ3ZPYWdZWmdZWDJVdWRzRU5y?=
+ =?utf-8?B?emhWZnNwWWltb3lJcWVIRTNXbEE5VmJhOG0xdnpwV280aTZsRmF1Sk5BQ24w?=
+ =?utf-8?B?dm5RU3ZGTUkrUWxwS05HNnQ0WExydi9oQkV4ZDNMcXQ2c0dlUndRb2RlTHJ1?=
+ =?utf-8?B?aDFPU2JHTFhzTnloMTBmVEVjMldYakNCc2d6UnFGZnNVcmZEMngzemcyaVJy?=
+ =?utf-8?B?dTcwSi9UMDNYbDNrMEJWdW9jTjZVLy82RFpocWVmTDBMUi9qak1HTm5CaThz?=
+ =?utf-8?Q?7xrk1H?=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH7PR20MB5234
+X-MS-Exchange-Organization-ExpirationStartTime: 13 Jan 2025 17:29:17.8074
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 302920e5-634f-4f4d-48a8-08dd33f7ceed
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 675f71e1-a579-4e07-94db-22366ced4dd1:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: CO1PEPF000042AA.namprd03.prod.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: CO1PEPF000042AA.namprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: CO1PEPF000042AA.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id-Prvs: d533f2c2-7ce4-436d-1daa-08dd33f7cd45
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|12012899012|35042699022|7053199007;
+X-Forefront-Antispam-Report: CIP:40.107.212.132;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:NAM02-BN1-obe.outbound.protection.outlook.com;PTR:mail-bn1nam02on2132.outbound.protection.outlook.com;CAT:NONE;SFS:(13230040)(12012899012)(35042699022)(7053199007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Jan 2025 17:29:17.4793
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 302920e5-634f-4f4d-48a8-08dd33f7ceed
+X-MS-Exchange-CrossTenant-Id: 675f71e1-a579-4e07-94db-22366ced4dd1
+X-MS-Exchange-CrossTenant-AuthSource: CO1PEPF000042AA.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CH4PR04MB9284
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.9972840
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8335.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1310096);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?UTVzOG10TVpsWG42RStGbXJveWlzdVk0dkozY2tFdklXMlc2Tm5tUFk0bnhM?=
+ =?utf-8?B?dCtiOW4rYWU1SjVMbDdscTZXb3kwbnpwSnJxMnhTTk4rQytabCtGcVJmYkJE?=
+ =?utf-8?B?UjNEbE9pdC9BYytZYVQyS2duaCtGS3RjcDhSYVl1OUwrcnZYa3lvMXZES2Q0?=
+ =?utf-8?B?UXV5UkY0MDI0b3JZVDhnK2UrUnFTcFJDRStYSEliVmhvZDBCSnhQUVR0SFVx?=
+ =?utf-8?B?ODl0Q016MVFyZENUanFSb25yM29oUWs3azhYT3MraVN4K1pDVXVKODRwNmxT?=
+ =?utf-8?B?dks5SlN3UVVXRWlkOWF2Vit3RmlVUzVvd3BVZkl5VkxBa0d2cEZZMFlBaDdV?=
+ =?utf-8?B?RVVxU3I0aUR6SUJjNXQ1MU5TVGRQZjgrZVVJNTNwdVAwL0c2bGgvdFhlM0lM?=
+ =?utf-8?B?M1ZWaW5pckliaUI1WXk5Z2hmT1dqN2NFaWMxU3EyUE5jZHNWb3ZUSjNURENI?=
+ =?utf-8?B?c0RscWVOd2FheHl4RVliVDIvaEpJN2UwMWdrVzFjUTJXK3lFclVpVUJlcURm?=
+ =?utf-8?B?Tnh1ZENsK0s3ZzdmODFYQ1BUblJYY2tlNnlIWkpRazBwUzVRa3pLTTdtTDQ2?=
+ =?utf-8?B?UVhGT3JGT2lBN0FsdTZRYW10TE5xYXNqeStaNEdwNTgzbW8rNEx6Mk5wTm1Y?=
+ =?utf-8?B?ZUdHZHJGNmQvUE5lWVZzVU9zN1VyTU5UQ0Z1cGIwdzlqbHRvaXN1d1UyajZO?=
+ =?utf-8?B?OUR1MWx3UTQ4a255d3MwclhtK25ML1RGM20wZ2NHWUsyUGZtRmJ0RDZOUDBU?=
+ =?utf-8?B?aUF0bjVLS0RUQmtmbUZOM3BqV3A1WEVudmFHL0JESUt1cDh1QnQ4bkNMZjdt?=
+ =?utf-8?B?U2xSeDI3NWtiRUwzYXo1QnFaSlpmcUQ3SjNDMFcwWTdXN2dSSHhmamxGT0Uy?=
+ =?utf-8?B?TVlOL2JaUkZwMSt5NU5HK3AyRTZ3ZUZPRk5UU0JpWEp6aUI5L1hJcGpSYXJB?=
+ =?utf-8?B?TjJJaDhVcXJwSy82bVRaTUlkVVBqSjJXY1RSNnNaYUZmcy9OOEhBTS9pMW05?=
+ =?utf-8?B?SzlmVVN6UVFnR2s3RjZiUnlpQjVjRFNMYlpnK1RrTm15L242ZlJncWdqN3Jn?=
+ =?utf-8?B?Y2F2eTFYckhZWjhYL3pjVnQwbGdMWHhNN0RNdjhBL3oxd2VwRlVrTHBXcE1T?=
+ =?utf-8?B?c2tmdVFwRmNYS1NyRkNTNENMalFLbExmNGIzR3lXc1pBdmd0NVJDSlVXYXZx?=
+ =?utf-8?B?b00vbnJrVmVmTDRka0Y1Z0NBMlBMdWJDcURSQVJKUXlJYnlrVVJHaFhlYXRo?=
+ =?utf-8?B?bERYWmtkam8vOTJIUzVPNDFNc2dIYWd6RGZJQit0OU1rVjFndFk1dEdpOUpk?=
+ =?utf-8?B?OGJRdTdKMVlMTkEzeUY1RnpVeDMyaFA2SkpSWEZhZnNBcXcxelp3UTg5MURn?=
+ =?utf-8?B?aHpBSTRsMFlvTUtzdEdqbjk2cWZlRUpEa3pkYUJKb2ZybWlMSXZQazk4S3V0?=
+ =?utf-8?B?TlM0R1Q2WTd1S1lxTkxuR2NlU25kcUhRU0Zjb2t6NjJkdnYrZUNFTEU0eTFG?=
+ =?utf-8?B?a3BpTTIyU2tjb1p6M2MzdXBsN1IvTWNSWmtYejNVN0JOb1RpMUFwVENVcERv?=
+ =?utf-8?B?OTNpYXFsNnNTZ2VuMXVVOFcvcFdTSitiK0RacGQvZlM3UkxKSmlQeGFreGFI?=
+ =?utf-8?B?MG9QMTFla0hmSEVWZE5ZdGJ5Y25KRkNWaFdkOW1Vb0htUE5oY0M5T2dxOG9P?=
+ =?utf-8?B?a1RGZEF1YUNuS1FXZ09FaXY4RFQ2cTQrZzJsamJCS3UxckRNcmV2U0VqNE14?=
+ =?utf-8?B?bTErb0dKamx1dW13dlNYbUNVM1hsdHZ0U09iYmNRTDBjRkVCTEZ2R0pvVVdl?=
+ =?utf-8?B?djVPTjRzblFnSWNuY1J5dnFnRWJkQURkalF0TEUxbXcvc0FRc2FVZy9QQjEz?=
+ =?utf-8?B?MTdKdGluRFE2UXlLakl2SjFVOVBnSzEwaUF3d0JWUjdXdWpNbjJWK0wvVEV4?=
+ =?utf-8?B?YVJJclVRUFlRN0lVRHVaaGxPUVgxTnJxOHRFWjZqb2dnTEhYVTRZQXl5eFp4?=
+ =?utf-8?B?NUpUZ0I4dVpHQXZLdVUyMkdPYmZzeHpsT1lyaVFVMW1YM1NLemJhUGJVN0Vl?=
+ =?utf-8?B?cW82RlJJamk4a1JSUFAxUUp6cnBVK3JPV0lBRFRTdVRudEp6dktMUWVaUXVO?=
+ =?utf-8?B?cG9UTE1rekxGSFBlV0EwZkpyd2lJZU1GTTl1V2o3WWtCYlFWOWhGUUhuK3Y0?=
+ =?utf-8?B?ZCtEKzhEZDRnaGg1WUlzTUh5dEo0QWxXQm1hUWhSRVBrd0RPWWVLdkhMbTZI?=
+ =?utf-8?B?NEx2RDFGNjZLcTltYXZUbE9iRnlDOGJ3ZGNaRC9lYUhlQVRTeHZ1WVEvaFRU?=
+ =?utf-8?B?cXZ2OXNpbWRUdFZnNGswbElvOURuVTQ1cTBNRStLajhjTFVMN2Q0K3hyNWpW?=
+ =?utf-8?B?eVUxRFZvdUhNdXBvdnZjUFRhSDNzZHVnalU2T29VWW1MQ0tTc2FoZkVhRk1O?=
+ =?utf-8?B?WWVXSWpycW1UbzQ3c01PK2FLOG9VMHVSd2tyVEJ6b0ZwblJwSmlJeFhJREFy?=
+ =?utf-8?B?VEhJaXV2NlZUYXlDYWVCTHFRdmhrVkdIbUJwM1BUc0IyWnRUbU5NczZIYVcv?=
+ =?utf-8?B?dnlSUjR3bjU5b2tHOEs2ZXpmWUtFdVZRZHhoM3RBTXdjY2E4Y1ZPdlpORnpT?=
+ =?utf-8?B?UTdLenZSSkxnSGtjVDBiaitCeURzM29DbnRzOXBrNzE2Y3pEdzE1aXlFY3cv?=
+ =?utf-8?B?SXhsejVrS1RzUTZDc3VESmVSb0lEYlNYNlE9PQ==?=
+MIME-Version: 1.0
+
+Dear Jeremy,
+
+Thank you for reaching out to the Electronic Frontier Foundation (EFF). We =
+are very sorry to hear about your situation.
+
+Regrettably, the situation you describe falls outside of EFF's area of focu=
+s, and we are not able to represent you. As a small, grassroots legal advoc=
+acy non-profit, EFF is dedicated to defending civil liberties and constitut=
+ional rights in the digital world. We focus our limited resources on impact=
+ litigation at the federal level, typically addressing novel legal question=
+s or concepts that have not been addressed by the courts. Consequently, our=
+ mission is narrowly defined, and we are not equipped to handle all issues =
+beyond this scope.=20
+
+We recommend that you seek legal assistance in your area. Here are a few re=
+sources for finding local legal help:=20
+
+American Bar Association
+https://www.americanbar.org/groups/legal_services/flh-home
+(800) 285-2221
+
+Legal Services Corporation (or Legal Aid Offices)
+https://www.lsc.gov/find-legal-aid
+
+We're sorry we cannot offer direct assistance in this matter and wish you t=
+he best of luck in resolving your situation.=20
+
+Best regards,
+
+Haley
+
+Legal Intake Coordinator
+(415) 436-9333, Ext. 159
+info@eff.org
+Become a Member! https://www.eff.org/support
+
+On Tue, 07 Jan 2025, quantum.j.l.bass@rawdeal.io wrote:
+> To whom it may concern,
+> I hope this message finds you well. My name is Jeremy Bass, and I am
+> reaching out as a Perforce Pro Se regarding a pivotal legal case that
+> could catalyze meaningful changes in the justice system, particularly for
+> pro se litigants like myself, while addressing critical issues in the
+> housing market and contributing to solutions for the broader housing
+> crisis. I am currently involved in an appeal concerning a foreclosure cas=
+e
+> that stems from a massive fraud I uncovered--an issue that was overlooked
+> during the 2008 financial crash. This case presents a unique opportunity
+> to push for impactful systemic reforms, as it highlights the significant
+> barriers faced by pro se litigants, including lack of access to counsel
+> and procedural challenges that disproportionately harm those unable to
+> afford legal representation. I am working on getting my appeal together
+> and am going to try and get a few certification of questions to the Idaho
+> Supreme Court. This case touches on several substantial issues of fairnes=
+s
+> and due process with broader implications for justice and equity:
+>
+>   *
+> Key Issue: Despite diligent efforts, I have been unable to find legal
+> representation due to systemic conflicts of interest, leaving me to
+> navigate complex legal proceedings alone. This experience underscores a
+> critical gap in our justice system--one that leaves countless individuals
+> vulnerable to procedural dismissals and unfair judgments, even when their
+> cases have merit.
+>   *
+> Fraud Validation Question: The case also raises an alarming question: "Is
+> there any circumstance where an evidenced demonstrable fraud can be
+> validated or legitimized through the courts in any manner?" This question
+> strikes at the heart of public trust in the judiciary and the courts' rol=
+e
+> in ensuring fairness and integrity.
+>   *
+> Opportunity for Reform: This case offers a unique vehicle to advocate for
+> systemic reforms, such as the appointment of counsel--or at least
+> mandatory document review--for pro se litigants in circumstances where
+> representation is unattainable. Such reforms would not only help level th=
+e
+> playing field but also reduce procedural inefficiencies that burden the
+> courts.
+>   *
+> Broad Implications: By filing an amicus curiae brief, your organization
+> could help advocate for the certification of critical questions that
+> challenge systemic inequities, such as:
+>      *   Should courts be required to provide limited counsel or document
+> review services when a pro se litigant cannot secure representation?
+>      *   Does denying pro se litigants access to fair procedural
+> safeguards violate constitutional guarantees of due process and equal
+> protection?
+>      *   Can demonstrable fraud ever be lawfully validated by a court, an=
+d
+> under what circumstances, if any?
+>
+> (note: those are paraphrasing not actual)
+>
+> There are additional questions I intend to present to the courts, all
+> aimed at promoting equal access to justice and systemic fairness. I
+> believe this case aligns closely with the values of advancing fairness,
+> equity, and accountability in our legal system. I would greatly appreciat=
+e
+> the opportunity to discuss it further and explore the possibility of your
+> support through an amicus brief or other involvement. Please feel free to
+> contact me at Quantum.J.L.Bass@RAWdeal.io or 208-549-9584 at your earlies=
+t
+> convenience. I am confident that this case provides a unique opportunity
+> to make a lasting impact on our justice system. Even if you believe that
+> your organization wouldn't be able to help, if you would be able to pass
+> it along to anyone you know that could, or even post on it and share it, =
+I
+> think it would be a great opportunity. Thank you for your time and
+> consideration. I look forward to the possibility of working together to
+> drive meaningful change. Sincerely, Jeremy Bass
+>
+> Jeremy L. Bass
+>
+> SR. [ DevOps | Full Stack Engr | PM ] && CEO / Founder
+>
+> Quantum.J.L.Bass@RAWdeal.io<mailto:Quantum.J.L.Bass@RAWdeal.io>
+> cell: (208) 549-9584
+> LinkedIn:linkedin.com/RAWdeal<https://linkedin.com/company/rawdeal>
+> github:github.com/RAWdeal<https://github.com/RAWdeal>
+> twiter:twitter.com/_RAWdeal<https://twitter.com/_RAWdeal>
+> tiktok:tiktok.com/@quantumjlbass<mailto:tiktok.com/@quantumjlbass>
+>
+> READ:An email to authorities: Microsoft tried to murder me after they
+> caused the SolarWinds
+> breach!<https://quantum-bass.medium.com/microsoft-tried-to-murder-me-4ba0=
+1
+> d614977>
+

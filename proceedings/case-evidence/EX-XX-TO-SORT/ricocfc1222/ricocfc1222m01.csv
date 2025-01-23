@@ -1,0 +1,67 @@
+Bureau of Justice Statistics,
+Filename: ricocfc1222m01.csv,
+"Map 1. Rate of RICO defendants convicted per 1,000 total defendants convicted, by state or territory, FY 2018–2022",
+"Report title: Racketeer Influenced and Corrupt Organizations (RICO) Cases in Federal Courts, 2012–2022  NCJ 308952",
+"Data source: Bureau of Justice Statistics, based on data from the Executive Office for U.S. Attorneys, National Legal Information Office Network System (LIONS) database, fiscal years 2012–2022",
+"Authors: Suzanne M. Strong, PhD, and Mark Motivans, PhD, BJS Statisticians",
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,
+Date of version: 9/5/24,
+,
+"Map 1. Rate of RICO defendants convicted per 1,000 total defendants convicted, by state or territory, FY 2018–2022",
+State,"Rate per 1,000"
+Alabama,0
+Alaska,0
+Arizona,0.2
+Arkansas,0.5
+California,5
+Colorado,0
+Connecticut,10.5
+Delaware,0
+District of Columbia,1.4
+Florida,0.5
+Georgia,7.3
+Guam,0
+Hawaii,0
+Idaho,2.4
+Illinois,8.2
+Indiana,16.5
+Iowa,0.5
+Kansas,0
+Kentucky,3.4
+Louisiana,1.7
+Maine,0
+Maryland,44.9
+Massachusetts,43.5
+Michigan,11.9
+Minnesota,0
+Mississippi,1.6
+Missouri,0.9
+Montana,0
+Nebraska,0.4
+Nevada,9.6
+New Hampshire,0
+New Jersey,0.9
+New Mexico,0.7
+New York,19.6
+North Carolina,6.8
+North Dakota,0
+Ohio,3.5
+Oklahoma,0.2
+Oregon,2.8
+Pennsylvania,1.9
+Puerto Rico,14.8
+Rhode Island,5.7
+South Carolina,6.8
+South Dakota,0
+Tennessee,2.7
+Texas,1
+U.S. Virgin Islands,0
+Utah,0
+Vermont,0
+Virginia,3.7
+Washington,0
+West Virginia,0.4
+Wisconsin,1.9
+Wyoming,0
+"Note: The rate is computed as the number of persons convicted in U.S. district court with Title 18 U.S.C. §§ 1961–1968 as the most serious offense at conviction divided by the total number of persons convicted in U.S. district court by state and multiplied by 1,000. See appendix table 2 for counts. RICO denotes Racketeer Influenced and Corrupt Organizations Act.",
+"Source: Bureau of Justice Statistics, based on data from the Administrative Office of the U.S. Courts, Criminal Master File, fiscal years 2018–2022.",

@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: ricocfc1222t02.csv,,,,,,,,,,,,,
+"Table 2. Investigations concluded by U.S. attorneys with multiple persons investigated, by type of offense, FY 2018–2022",,,,,,,,,,,,,
+"Report title: Racketeer Influenced and Corrupt Organizations (RICO) Cases in Federal Courts, 2012–2022  NCJ 308952",,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, based on data from the Executive Office for U.S. Attorneys, National Legal Information Office Network System (LIONS) database, fiscal years 2018–2022",,,,,,,,,,,,,
+"Authors: Suzanne M. Strong, PhD, and Mark Motivans, PhD, BJS Statisticians",,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,,,
+Date of version: 9/5/24,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Table 2. Investigations concluded by U.S. attorneys with multiple persons investigated, by type of offense, FY 2018–2022",,,,,,,,,,,,,
+,,,,,,,Persons per investigation concluded ,,,,,,
+,,Persons in investigations concluded,,Total investigations concluded,,,One person,,,Multiple persons,,,
+Lead charge,,Number,,Number,Percent,,Number,Percent,,Number,Percent,,Average number of persons investigated
+,Total,"740,843",,"623,278",100,%,"570,972",91.6,%,"52,306",8.4,%,1.2
+RICO,,"1,740",,519,100,%,325,62.6,,194,37.4,,3.4
+Violent,,"23,254",,"20,855",100,%,"19,375",92.9,,"1,480",7.1,,1.1
+Property,,"85,780",,"62,725",100,%,"51,287",81.8,,"11,438",18.2,,1.4
+Drug,,"151,269",,"89,403",100,%,"67,341",75.3,,"22,062",24.7,,1.7
+Public order,,"85,302",,"71,646",100,%,"64,698",90.3,,"6,948",9.7,,1.2
+Weapons,,"71,199",,"63,815",100,%,"59,393",93.1,,"4,422",6.9,,1.1
+Immigration,,"322,161",,"314,190",100,%,"308,440",98.2,,"5,750",1.8,,1
+"Note: Includes persons in investigations who were charged under Title 18 U.S.C. §§ 1961–1968. The lead charge is the primary basis for referring the matter to a U.S. attorney and is usually, but not always, the charge with the greatest possible sentence. There were 138 persons in investigations concluded missing lead charge. There were 125 investigations concluded missing lead charge. RICO denotes Racketeer Influenced and Corrupt Organizations Act.",,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, based on data from the Executive Office for U.S. Attorneys, National Legal Information Office Network System (LIONS) database, fiscal years 2018–2022.",,,,,,,,,,,,,

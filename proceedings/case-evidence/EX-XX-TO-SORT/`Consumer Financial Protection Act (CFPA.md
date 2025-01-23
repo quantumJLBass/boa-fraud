@@ -1,0 +1,28 @@
+`Consumer Financial Protection Act (CFPA) Violations (12 U.S.C. §§ 5481-5603)[Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Sherman Antitrust Act Violations (15 U.S.C. §§ 1-7) Unlawful Coercion, Collusion and Intimidation  [Criminal/Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Breach of Fiduciary Duty  (15 U.S.C. §§ 78a-78pp) [Criminal]:` - incorrect, corrected as `Breach of Fiduciary Duty  (15 U.S.C. §§ 78a-78pp) [Civil/Criminal]` since penalties can include civil and criminal sanctions depending on the context. [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Violation of the Truth in Lending Act (TILA) (15 U.S.C. §§ 1601-1667f)[Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Violations of the Fair Debt Collection Practices Act (FDCPA) (15 U.S.C. §§ 1692-1692p) [Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Violation of the Electronic Fund Transfer Act (EFTA) (15 U.S.C. §§ 1693-1693r)[Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Unauthorized Disclosure of Consumer Information (Gramm-Leach-Bliley Act) (15 U.S.C. § 6801 et seq)[Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Violations of the Sarbanes-Oxley Act (SOX) (15 U.S.C. §§ 7201-7266) [Civil/Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Securities Fraud (17 C.F.R. § 240.10b-5) [Criminal/Civil]:` - correct, though it's important to note the specific reference to Code of Federal Regulations (CFR) for regulations under SEC, not U.S.C. [LINK to code](https://www.govinfo.gov/app/collection/cfr)
+`Bankruptcy Fraud (18 U.S.C. § 157) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Forgery and Fraudulent Practices (18 U.S.C. § 471) [Criminal]:` - correct, though this section is more commonly associated with counterfeiting currency. For document forgery, sections like 18 U.S.C. § 513 might be more applicable. [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Embezzlement (18 U.S.C. § 656) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Mortgage Fraud (18 U.S.C § 1014) [Criminal/Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Mail Fraud (18 U.S.C. § 1341) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Wire Fraud (18 U.S.C. § 1343) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Bank Fraud (18 U.S.C § 1344) [Criminal/Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Obstruction of Justice (18 U.S.C. §§ 1501-1521)[Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Perjury in Past Court Cases (18 U.S.C. § 1621) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Money Laundering (18 U.S.C. § 1956 and § 1957) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`RICO Act Violations (18 U.S.C. § 1961) [Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Tax Evasion and Fraud (26 U.S.C. § 7201)[Criminal/Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`False Claims Act Violations (31 U.S.C. §§ 3729-3733) [Civil/Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Bank Secrecy Act (BSA) Violations (31 U.S.C. §§ 5311-5314 and §§ 5316-5332)[Civil/Criminal]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Fair Lending Violations (Equal Credit Opportunity Act(15 U.S.C. § 1691 et seq) and Fair Housing Act(42 U.S.C. § 3601 et seq)) [Civil]:` - correct [LINK to code](https://www.govinfo.gov/app/collection/uscode)
+`Trustee's Sale Violations (Idaho Code § 45-1502 et seq.) [Civil]:` - correct, noting that this link refers to federal codes; for state codes, refer to the Idaho State Legislature's website or legal resources specific to Idaho law.
+`Idaho Consumer Protection Act Violations (Idaho Code §§ 48-601 et seq.) [Criminal/Civil]:` - correct, with the same note as above for state-specific statutes.
+`Idaho Unfair Trade Practices Act (Idaho Code § 48-603) [Civil]:` - correct, with the same note as above for state-specific statutes.
+`Idaho Fraudulent Conveyance Act (Idaho Code §§ 55-913 et seq.) [Civil/Criminal]:` - correct, with the same note as above for state-specific statutes.

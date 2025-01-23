@@ -1,3 +1,16 @@
+## Entry of Judgments, Stays of Judgments
+
+### HN11  Appellate Jurisdiction, Final Judgment Rule
+An order of ejectment is an appealable order. Idaho Code § 13-201.
+
+### on the same token...
+Whether a stay results automatically from the mere perfection of appeal or whether a supersedeas bond is required depends upon the nature of the judgment from which the appeal is taken. I.C. § 13-211 provides:
+
+HN7 "In cases not provided for in sections 13-204 [money judgment], 13-205 [judgment in replevin], 13-206 [judgment in specific performance] and 13-207 [judgment in ejectment], the perfecting [***16]  of an appeal by giving the undertaking, or making the deposit mentioned in section 13-203, stays proceedings in the court below upon the judgment or the order appealed from * * *."
+
+
+
+
 ## for rescinded trustee's sale due to foreclosure on the wrong instrument
 In the case of Kempton-Baughman v. Wells Fargo Bank, N.A. , the trustee's sale was rescinded due to the foreclosure being conducted using the wrong instrument. Specifically, the foreclosure sale was conducted in error because UBS Investment Bank, the entity to which the property was sold, was a nonentity. The trustee recorded a "Notice of Rescission of Trustee's Deed Upon Sale," stating that the sale was conducted in error due to a failure to communicate timely notice of conditions that would have warranted a cancellation of the foreclosure [Kempton-Baughman v. Wells Fargo Bank, N.A., 162 Idaho 174](https://plus.lexis.com/document?pddocfullpath=%2fshared%2fdocument%2fcases%2furn%3acontentItem%3a5NMR-MDG1-F04G-1022-00000-00&pdmfid=1530671&pdcontentcomponentid=6649&pdproductcontenttypeid=urn:pct:30&pdisdoclinkaccess=true&pdischatbotdoc=true).  
   

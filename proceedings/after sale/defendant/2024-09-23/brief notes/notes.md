@@ -1,3 +1,7 @@
+## "FALSUM IN UNO, FALSUM IN OMNIBUS"
+### false in one thing, false in everything
+
+
 ### **1. Challenge Plaintiffs' Bona Fide Purchaser Status**
 
 The core of the Plaintiffs' case is their claim to be **bona fide purchasers** under **Idaho Code § 45-1508**. If we successfully dismantle this claim, their **ownership** and **right to possession** collapse, which is the foundation of their case for evicting both Mr. Bass and Mr. Pike. Here's the revised strategy.
